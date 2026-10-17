@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T02:51:12Z",
+ "updated": "2026-10-17T13:38:36Z",
  "sources": [
   "9to5Google",
   "9to5Mac",
@@ -20,8 +20,578 @@
   "Tom's Hardware",
   "XDA Developers"
  ],
- "count": 375,
+ "count": 432,
  "items": [
+  {
+   "id": "aa64f3679edd",
+   "title": "Microsoft really doesn't want you to buy Office — here's a great free alternative",
+   "url": "https://www.engadget.com/2283984/microsoft-doesnt-want-you-to-buy-office-free-alternative/",
+   "source": "Engadget",
+   "published": "2026-10-17T13:30:00Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "5bfa6f32c076",
+   "title": "AI lab offers free plumbing and HVAC repairs across three cities to train AI robots",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning",
+   "source": "Tom's Hardware",
+   "published": "2026-10-17T13:21:20Z",
+   "categories": [
+    "ai"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "88e74690a415",
+   "title": "Bose’s new wired earbuds are simple in the best way",
+   "url": "https://www.theverge.com/tech/1013320/bose-noise-cancelling-wired-earbuds-review",
+   "source": "The Verge",
+   "published": "2026-10-17T13:11:08Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "41ac5fbf8eb5",
+   "title": "Here are the best electric bikes you can buy at every price level in October 2026",
+   "url": "https://electrek.co/2026/10/17/here-are-the-best-electric-bikes-you-can-buy-at-every-price-level/",
+   "source": "Electrek",
+   "published": "2026-10-17T13:08:00Z",
+   "categories": [
+    "evs"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "16d0f6d01c6c",
+   "title": "This one Windows 11 update made my PC faster and consume less RAM, and I didn't change a single setting",
+   "url": "https://www.xda-developers.com/this-one-windows-11-update-made-my-pc-faster-and-consume-less-ram-and-i-didnt-change-a-single-setting/",
+   "source": "XDA Developers",
+   "published": "2026-10-17T13:00:20Z",
+   "categories": [
+    "chips"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "1d091934b7af",
+   "title": "I finally set up ExplorerPatcher on Windows, and I should have sooner",
+   "url": "https://www.xda-developers.com/finally-set-up-explorerpatcher-windows-should-have-sooner/",
+   "source": "XDA Developers",
+   "published": "2026-10-17T13:00:20Z",
+   "categories": [
+    "chips"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "d999e860ffc4",
+   "title": "Top Stories: Apple HomeView, New Apple TV and HomePod mini, and Sold-Out iPhone Duo",
+   "url": "https://www.macrumors.com/2026/10/17/top-stories-apple-homeview-intro/",
+   "source": "MacRumors",
+   "published": "2026-10-17T13:00:11Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "6f40ec454ba1",
+   "title": "How to create iPhone Shortcuts with Apple Intelligence (and why you should)",
+   "url": "https://www.engadget.com/2283983/how-to-create-iphone-shortcuts-with-apple-intelligence-and-why-you-should/",
+   "source": "Engadget",
+   "published": "2026-10-17T13:00:00Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "a772aed9eebc",
+   "title": "Apple @ Work: How I’m preparing my fleet for Rosetta’s removal in macOS 27",
+   "url": "https://9to5mac.com/2026/10/17/how-im-preparing-my-fleet-for-rosettas-removal-in-macos-27/",
+   "source": "9to5Mac",
+   "published": "2026-10-17T13:00:00Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "6d0a61b4dacf",
+   "title": "This week on Tom's Hardware Premium: October 17, 2026",
+   "url": "https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-october-17-2026-packaging-roadmaps-chinese-dgx-spark-rival-emerges-and-digging-into-asmls-earnings",
+   "source": "Tom's Hardware",
+   "published": "2026-10-17T13:00:00Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "a35a75ad81df",
+   "title": "A Rivian R2 Owner Shares The Good And Bad After 2 Months",
+   "url": "https://insideevs.com/news/812257/rivian-r2-ownership-review-video/",
+   "source": "InsideEVs",
+   "published": "2026-10-17T13:00:00Z",
+   "categories": [
+    "evs"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "a340b3965ac1",
+   "title": "Major One UI update expected in 2027",
+   "url": "https://www.sammobile.com/news/major-one-ui-10-update-expected-2027/",
+   "source": "SamMobile",
+   "published": "2026-10-17T12:53:05Z",
+   "categories": [
+    "android",
+    "samsung"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "c9e9c6adf7d6",
+   "title": "3 Pixel Launcher alternatives that fix its distractions, gestures, and organization",
+   "url": "https://www.androidpolice.com/3-pixel-launcher-alternatives-that-fix-gestures-and-organization/",
+   "source": "Android Police",
+   "published": "2026-10-17T12:45:13Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "4ddca8dcec30",
+   "title": "These common charging habits could be degrading your EV battery",
+   "url": "https://www.engadget.com/2283982/common-changing-habits-degrading-ev-battery/",
+   "source": "Engadget",
+   "published": "2026-10-17T12:45:00Z",
+   "categories": [
+    "evs"
+   ],
+   "rumor": true
+  },
+  {
+   "id": "552be3f84ef1",
+   "title": "Insider reveals Samsung's plans to completely overhaul One UI 10",
+   "url": "https://www.gsmarena.com/insider_reveals_samsungs_plans_to_completely_overhaul_one_ui_10-news-75097.php",
+   "source": "GSMArena",
+   "published": "2026-10-17T12:43:02Z",
+   "categories": [
+    "android",
+    "samsung"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "85693a78b717",
+   "title": "Leap seconds being retired next year to avoid wreaking havoc on computer systems",
+   "url": "https://www.tomshardware.com/tech-industry/international-measurement-organization-to-retire-leap-seconds-next-year-to-avoid-wreaking-havoc-on-computer-systems-group-makes-move-to-simplify-atomic-time-tracking",
+   "source": "Tom's Hardware",
+   "published": "2026-10-17T12:40:00Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "1e355b0aa90f",
+   "title": "Apple updates App Store rules to ensure it doesn't offer AI nudify apps",
+   "url": "https://www.engadget.com/2289567/apple-updates-app-store-rules-ai-nudify-apps/",
+   "source": "Engadget",
+   "published": "2026-10-17T12:35:56Z",
+   "categories": [
+    "ai",
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "9ad13dffd780",
+   "title": "I ignored these useful Plex features for years, and now I can’t live without them",
+   "url": "https://www.xda-developers.com/i-ignored-these-useful-plex-features-for-years-and-now-i-cant-live-without-them/",
+   "source": "XDA Developers",
+   "published": "2026-10-17T12:30:19Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "7e680c4307fa",
+   "title": "Is the Google Fitbit Air waterproof?",
+   "url": "https://www.engadget.com/2283981/how-long-google-fitbit-air-be-in-water-waterproof/",
+   "source": "Engadget",
+   "published": "2026-10-17T12:30:00Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "a0b08808ed19",
+   "title": "Taiwan targets illicit AI server exports to China with five-year prison terms",
+   "url": "https://www.tomshardware.com/tech-industry/semiconductors/taiwan-targets-illicit-ai-server-exports-to-china-with-five-year-prison-terms-strict-new-controls-follow-us-tariff-deal-and-super-micro-raid",
+   "source": "Tom's Hardware",
+   "published": "2026-10-17T12:20:00Z",
+   "categories": [
+    "ai"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "75a8d6eeec5f",
+   "title": "Apple weekend deals: HomeView, new Apple TV 4K, AirPods, MacBook, mini, more",
+   "url": "https://9to5mac.com/2026/10/17/apple-weekend-deals-homeview-new-apple-tv-airpods/",
+   "source": "9to5Mac",
+   "published": "2026-10-17T12:18:24Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "dfcdde5099fc",
+   "title": "How to check your Ethernet cable's speed",
+   "url": "https://www.engadget.com/2283972/how-to-check-ethernet-cable-speed/",
+   "source": "Engadget",
+   "published": "2026-10-17T12:15:00Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "8e0da88f7e45",
+   "title": "More than Just Storage: 8 Ways To Repurpose Your Old USB Flash Drive",
+   "url": "https://www.engadget.com/2285456/ways-to-repurpose-old-usb-flash-drive/",
+   "source": "Engadget",
+   "published": "2026-10-17T12:15:00Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "2fe5275e5fff",
+   "title": "Developer cancels public demo of its upcoming horror drinking game, fearing it will be instantly cloned by AI vibe coders: 'We sincerely apologise for the short notice'",
+   "url": "https://www.pcgamer.com/gaming-industry/game-development/developer-cancels-public-demo-of-its-upcoming-horror-drinking-game-fearing-it-will-be-instantly-cloned-by-ai-vibe-coders-we-sincerely-apologise-for-the-short-notice/",
+   "source": "PC Gamer",
+   "published": "2026-10-17T12:04:00Z",
+   "categories": [
+    "ai",
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "13dd31cbe15e",
+   "title": "Honor Win2 runs AnTuTu too, its cooling fan helps it achieve a top score",
+   "url": "https://www.gsmarena.com/honor_win2_runs_antutu_too_its_cooling_fan_helps_it_achieve_a_top_score-news-75095.php",
+   "source": "GSMArena",
+   "published": "2026-10-17T12:02:02Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "1dd5df15a7c0",
+   "title": "Amazon just did what Google couldn’t do in 15 years: Make a great everyday Android tablet",
+   "url": "https://www.androidauthority.com/amazon-android-tablet-google-tablet-strategy-3722924/",
+   "source": "Android Authority",
+   "published": "2026-10-17T12:00:28Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "1b425095a0c1",
+   "title": "4 free Windows tools I use to find what’s slowing down my PC",
+   "url": "https://www.xda-developers.com/free-windows-tools-i-use-to-find-whats-slowing-down-my-pc/",
+   "source": "XDA Developers",
+   "published": "2026-10-17T12:00:19Z",
+   "categories": [
+    "chips"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "28d515999e50",
+   "title": "I would ditch my Galaxy Buds for the Galaxy Studio headphones in a minute if they had these features",
+   "url": "https://www.androidpolice.com/galaxy-studio-headphones-what-i-want/",
+   "source": "Android Police",
+   "published": "2026-10-17T12:00:13Z",
+   "categories": [
+    "android",
+    "samsung"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "2255ef608f28",
+   "title": "Crafty OpenAI agent willingly stole crypto from an account it didn't own to complete a task during test",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-agent-took-eth-from-another-account-without-authorization-justified-stealing-in-its-chain-of-thought",
+   "source": "Tom's Hardware",
+   "published": "2026-10-17T12:00:00Z",
+   "categories": [
+    "ai"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "bf39f42336eb",
+   "title": "I stopped paying for 3 cloud subscriptions after deploying Immich, Vaultwarden, and Nextcloud on a mini PC",
+   "url": "https://www.xda-developers.com/stopped-paying-cloud-subscriptions-deploying-immich-vaultwarden-mini-pc/",
+   "source": "XDA Developers",
+   "published": "2026-10-17T11:30:19Z",
+   "categories": [
+    "chips"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "ff922ea4846f",
+   "title": "Double Fine's first post-Xbox title, first-person Soulslikes and other new indie games worth checking out",
+   "url": "https://www.engadget.com/2289293/double-fine-first-post-xbox-title-first-person-soulslikes-and-other-new-indie-games/",
+   "source": "Engadget",
+   "published": "2026-10-17T11:30:00Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "9f87c7b56c7d",
+   "title": "Game decompilation hub freezes leaderboard after AI turns progress into a hollow numbers game amid explosion of 'AI slop'",
+   "url": "https://www.tomshardware.com/video-games/retro-gaming/game-decompilation-tracker-decomp-dev-shuts-its-public-leaderboard-saying-ai-has-broken-the-community-its-creator-blames-forks-that-use-ai-to-finish-other-teams-projects-and-races-to-ship-rough-pc-ports",
+   "source": "Tom's Hardware",
+   "published": "2026-10-17T11:30:00Z",
+   "categories": [
+    "ai",
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "acbf29a736c2",
+   "title": "Science says your boss should talk less in meetings",
+   "url": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
+   "source": "Ars Technica",
+   "published": "2026-10-17T11:15:11Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "edc729a87d26",
+   "title": "The one missing feature that stopped me from buying a Fitbit Edge",
+   "url": "https://www.androidauthority.com/fitbit-edge-missing-feature-3722753/",
+   "source": "Android Authority",
+   "published": "2026-10-17T11:00:46Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "8bef9ae3cc55",
+   "title": "Why BioWare's Neverwinter Nights still has thousands of active players",
+   "url": "https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/",
+   "source": "Ars Technica",
+   "published": "2026-10-17T11:00:21Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "422921ac6d9e",
+   "title": "5 server pulls I'd put in my desktop before buying a single new part in 2026",
+   "url": "https://www.xda-developers.com/server-pulls-id-put-in-my-desktop-before-buying-a-single-new-part/",
+   "source": "XDA Developers",
+   "published": "2026-10-17T11:00:19Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "4468d141a308",
+   "title": "I uninstalled these popular Android apps because the ads finally crossed the line",
+   "url": "https://www.androidpolice.com/uninstalled-popular-android-apps/",
+   "source": "Android Police",
+   "published": "2026-10-17T11:00:13Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "d94cefaf77ca",
+   "title": "Modder finishes nine-year Xbox 360 voltage glitch mod with a $4 microcontroller, cracks the console open",
+   "url": "https://www.tomshardware.com/video-games/retro-gaming/modder-finishes-nine-year-xbox-360-voltage-glitch-mod-with-a-usd4-microcontroller-cracks-the-console-open-tiny-microcontroller-dumps-nand-and-flashes-timing-files-to-bypass-cpu-cryptography",
+   "source": "Tom's Hardware",
+   "published": "2026-10-17T11:00:00Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "f8db81dd163c",
+   "title": "Funcom is laying off yet more developers as it pivots to supporting Dune: Awakening and Conan Exiles",
+   "url": "https://www.pcgamer.com/gaming-industry/funcom-is-laying-off-yet-more-developers-as-it-pivots-to-supporting-dune-awakening-and-conan-exiles/",
+   "source": "PC Gamer",
+   "published": "2026-10-17T10:32:05Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "2e50b2f664e0",
+   "title": "Don’t buy a budget Android phone in 2026 — 4 reasons to get an old flagship instead",
+   "url": "https://www.androidauthority.com/dont-buy-budget-android-phone-2026-old-flagship-better-why-3718130/",
+   "source": "Android Authority",
+   "published": "2026-10-17T10:30:16Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "4174c3089b13",
+   "title": "Amazon's new tablets have a 'Kindle Mode.' Here's how to get it on your Galaxy Tablet",
+   "url": "https://www.androidpolice.com/amazons-new-tablets-have-a-kindle-mode-heres-how-to-get-it-on-your-galaxy-tablet/",
+   "source": "Android Police",
+   "published": "2026-10-17T10:30:13Z",
+   "categories": [
+    "android",
+    "samsung"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "2daa8acda021",
+   "title": "US Army to use 3D-printed rocket motors for low-cost cruise missiles",
+   "url": "https://www.tomshardware.com/3d-printing/us-army-to-use-3d-printed-rocket-motors-for-low-cost-cruise-missiles-additive-manufacturing-company-secures-deal-to-build-rocket-engines-for-the-arsenal-of-freedom",
+   "source": "Tom's Hardware",
+   "published": "2026-10-17T10:30:00Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "f2251295f0b5",
+   "title": "5 reasons why I’ll always buy Google Pixel phones instead of Samsung Galaxy",
+   "url": "https://www.androidauthority.com/google-pixel-vs-samsung-galaxy-comparison-3721606/",
+   "source": "Android Authority",
+   "published": "2026-10-17T10:00:53Z",
+   "categories": [
+    "android",
+    "samsung"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "f1bcf38317b5",
+   "title": "I replaced Samsung's app drawer with a custom launcher, and my Galaxy is finally usable",
+   "url": "https://www.xda-developers.com/replaced-samsung-app-drawer-custom-launcher-galaxy-finally-usable/",
+   "source": "XDA Developers",
+   "published": "2026-10-17T10:00:19Z",
+   "categories": [
+    "android",
+    "samsung"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "c8d9ed116887",
+   "title": "Get Pixel's Quick Tap on any Android phone with this open source app",
+   "url": "https://www.androidpolice.com/pixel-quick-tap-feature-but-found-an-even-better-version-for-my-phone/",
+   "source": "Android Police",
+   "published": "2026-10-17T10:00:13Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "a8c3f9c874e2",
+   "title": "ASML's employee-only High-NA EUV Lego kit gets an open 810-piece fan replica",
+   "url": "https://www.tomshardware.com/tech-industry/employee-exclusive-asml-lego-set-now-available-on-rebrickable-custom-creation-modifies-original-version-to-add-more-details-now-requires-810-parts",
+   "source": "Tom's Hardware",
+   "published": "2026-10-17T10:00:00Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "6f4a236671c9",
+   "title": "I never thought I’d ditch Samsung Notes, but this Google Keep feature changed my mind",
+   "url": "https://www.androidauthority.com/google-keep-gemini-how-to-use-3720665/",
+   "source": "Android Authority",
+   "published": "2026-10-17T09:30:00Z",
+   "categories": [
+    "android",
+    "samsung"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "3ad60e444f50",
+   "title": "Deals: iPhone Duo pre-orders begin as Galaxy Z Fold8 gets a price cut",
+   "url": "https://www.gsmarena.com/deals_iphone_duo_preorders_begin_as_galaxy_z_fold8_gets_a_price_cut-news-75096.php",
+   "source": "GSMArena",
+   "published": "2026-10-17T09:01:02Z",
+   "categories": [
+    "android",
+    "apple",
+    "samsung"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "60bd8b7b8e01",
+   "title": "I’ve been using an AI agent for a month, and I’m both impressed and terrified",
+   "url": "https://www.androidauthority.com/using-ai-agent-instinct-one-month-later-impressions-3720825/",
+   "source": "Android Authority",
+   "published": "2026-10-17T09:00:53Z",
+   "categories": [
+    "ai",
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "be0d3831e928",
+   "title": "Tesla’s 'flying' Roadster might be radical, but in all the wrong ways to move EVs forwards",
+   "url": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/sci-fi-stunts-to-deflect-from-the-fact-that-its-ev-business-is-stagnating-teslas-flying-roadster-might-be-radical-but-in-all-the-wrong-ways-to-move-electric-vehicles-forwards",
+   "source": "TechRadar",
+   "published": "2026-10-17T09:00:00Z",
+   "categories": [
+    "evs"
+   ],
+   "rumor": true
+  },
+  {
+   "id": "2114845d2793",
+   "title": "vivo V80 goes global",
+   "url": "https://www.gsmarena.com/vivo_v80_goes_global-news-75090.php",
+   "source": "GSMArena",
+   "published": "2026-10-17T06:01:02Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "74f99a2e443f",
+   "title": "You're not alone: even the former CEO of Microsoft's advertising can't put the Windows 11 taskbar on the left yet",
+   "url": "https://www.xda-developers.com/youre-not-alone-even-the-former-ceo-of-microsofts-advertising-laments-that-you-cant-put-the-taskbar-on-the-left/",
+   "source": "XDA Developers",
+   "published": "2026-10-17T03:59:44Z",
+   "categories": [
+    "chips"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "333629c62a82",
+   "title": "iQOO 16R / Z12 Turbo's chipset leaks along with its screen size",
+   "url": "https://www.gsmarena.com/iqoo_16r_z12_turbos_chipset_leaks_along_with_its_screen_size-news-75094.php",
+   "source": "GSMArena",
+   "published": "2026-10-17T03:01:01Z",
+   "categories": [],
+   "rumor": true
+  },
   {
    "id": "f2b8ab9e0b45",
    "title": "The Tesla Roadster should go into production in 2028, but don't get your hopes up",
@@ -43,6 +613,15 @@
    "categories": [
     "apple"
    ],
+   "rumor": false
+  },
+  {
+   "id": "7aa7ab3f9af0",
+   "title": "It’s a dream week for tech docs",
+   "url": "https://www.theverge.com/tech/1013367/best-tech-documentaries-musk-holmes-installer",
+   "source": "The Verge",
+   "published": "2026-10-17T00:39:31Z",
+   "categories": [],
    "rumor": false
   },
   {
@@ -109,6 +688,18 @@
    "published": "2026-10-16T23:36:26Z",
    "categories": [
     "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "a6fb3123cc49",
+   "title": "HP Googlebook 14 Review: Great laptop, shame about the OS",
+   "url": "https://9to5google.com/2026/10/16/hp-googlebook-14-review/",
+   "source": "9to5Google",
+   "published": "2026-10-16T23:30:00Z",
+   "categories": [
+    "android",
+    "chips"
    ],
    "rumor": false
   },
@@ -196,6 +787,17 @@
    "published": "2026-10-16T22:45:00Z",
    "categories": [
     "chips"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "79619743255e",
+   "title": "Websites are closing their doors to AI agents",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+   "source": "The Verge",
+   "published": "2026-10-16T22:31:39Z",
+   "categories": [
+    "ai"
    ],
    "rumor": false
   },
@@ -1206,6 +1808,17 @@
    "published": "2026-10-16T16:20:41Z",
    "categories": [
     "ai"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "6e5bf6774929",
+   "title": "Apple’s HomeView is just the latest threat to online recipe writers",
+   "url": "https://www.theverge.com/tech/1012820/apple-homeview-recipe-formatting",
+   "source": "The Verge",
+   "published": "2026-10-16T16:15:47Z",
+   "categories": [
+    "apple"
    ],
    "rumor": false
   },

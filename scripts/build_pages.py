@@ -58,6 +58,10 @@ def meter(rating):
     return '<span class="meter" aria-hidden="true">' + "".join(f'<i class="{"on" if n < lvl else ""}"></i>' for n in range(4)) + "</span>"
 
 
+# Cloudflare Web Analytics (public beacon token, cookie-free). Emitted in every generated page's <head>.
+CF_BEACON = """<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "bad03e7185d34e139bba3a8d645b244e"}'></script>"""
+
+
 def rating_chip(rating):
     return f'<span class="chip r-{rating.lower()}" title="{e(SCALE.get(rating, ""))}">{meter(rating)} {e(rating)}</span>'
 
@@ -106,6 +110,7 @@ def head(title, desc, path, extra="", og="og-image.png", noindex=False):
 <link rel="stylesheet" href="/style.css">
 <link rel="stylesheet" href="/themes.css">
 {extra}
+{CF_BEACON}
 </head>
 """
 
@@ -395,7 +400,7 @@ def build_privacy():
 <h2>What we collect</h2>
 <ul><li><strong>Nothing you type</strong> unless you use the email signup (when it is switched on) or email us.</li>
 <li><strong>Your display preference.</strong> If you toggle light/dark mode, your browser stores that choice locally (localStorage). It never leaves your device.</li>
-<li><strong>Basic traffic stats.</strong> When enabled, we use Cloudflare Web Analytics, which does not use cookies or track you across sites. Our host (Cloudflare) also keeps standard server logs, such as IP address and page requested, for security and reliability.</li></ul>
+<li><strong>Basic traffic stats.</strong> We use Cloudflare Web Analytics, which does not use cookies or track you across sites. Our host (Cloudflare) also keeps standard server logs, such as IP address and page requested, for security and reliability.</li></ul>
 <h2>Email signup</h2><p>If we offer a newsletter, your address is stored by our email provider and used only to send the digest. Every email has an unsubscribe link.</p>
 <h2>Ads and affiliate links</h2><p>We may show ads or use affiliate links in the future. Ad networks and retailers can set their own cookies under their own policies, and if we add them we will update this page and show a consent choice where the law requires it. See the <a href="/disclosure">disclosure page</a>.</p>
 <h2>Links to other sites</h2><p>We link to news publishers and company sites. They have their own privacy practices.</p>

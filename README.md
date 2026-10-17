@@ -27,7 +27,7 @@ Tech launches, rumors and news, rated. A static site (plain HTML/CSS/JS, no fram
 | Where | What | Default |
 |---|---|---|
 | `scripts/build_pages.py` | `SITE_URL`, `CONTACT_EMAIL`, `SOCIAL` | `https://leakdeck.com` (planned, not yet registered) |
-| `app.js` | `CF_ANALYTICS_TOKEN` (Cloudflare Web Analytics) | empty = no analytics |
+| `scripts/build_pages.py` | `CF_BEACON` (Cloudflare Web Analytics, token already set; emitted in every page `<head>`) | keep `CF_ANALYTICS_TOKEN` in `app.js` empty to avoid double counting |
 | `app.js` | `EMAIL_SIGNUP_URL` (email provider form action) | empty = signup box hidden |
 | `sponsors.json` | `[{"name":"...","url":"...","blurb":"..."}]` | `[]` = no sponsor shown |
 

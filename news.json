@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T13:38:36Z",
+ "updated": "2026-10-17T14:09:36Z",
  "sources": [
   "9to5Google",
   "9to5Mac",
@@ -20,8 +20,92 @@
   "Tom's Hardware",
   "XDA Developers"
  ],
- "count": 432,
+ "count": 442,
  "items": [
+  {
+   "id": "6549c69af407",
+   "title": "Walmart’s $60 Google TV streamer might be the only good deal left in streaming",
+   "url": "https://9to5google.com/2026/10/17/walmart-onn-4k-pro-google-tv-review/",
+   "source": "9to5Google",
+   "published": "2026-10-17T14:05:00Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "7b1ee0e2c89f",
+   "title": "Buying all your NAS drives in one batch is a mistake, and I mix brands and dates on purpose",
+   "url": "https://www.xda-developers.com/buying-all-your-nas-drives-in-one-batch-is-a-mistake-and-i-mix-brands-and-dates-on-purpose/",
+   "source": "XDA Developers",
+   "published": "2026-10-17T14:00:20Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "dc7eb3b0ef26",
+   "title": "How many watts should your Bluetooth speaker have?",
+   "url": "https://www.engadget.com/2284027/how-many-watts-bluetooth-speaker-need/",
+   "source": "Engadget",
+   "published": "2026-10-17T14:00:00Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "ecb8f6d70d60",
+   "title": "The Blood of Dawnwalker's first major update will add directional animal petting and a new story mode that's easier than the previous story mode",
+   "url": "https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalkers-first-major-update-will-add-directional-animal-petting-and-a-new-story-mode-thats-easier-than-the-previous-story-mode/",
+   "source": "PC Gamer",
+   "published": "2026-10-17T13:53:20Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "419e75089bbd",
+   "title": "Verizon will charge you $10 a month for iPhone Handoff",
+   "url": "https://www.engadget.com/2289578/verizon-10-a-month-iphone-handoff/",
+   "source": "Engadget",
+   "published": "2026-10-17T13:45:16Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "b14d24ff9890",
+   "title": "Why Xiaomi phones have so many ads (and how to block them)",
+   "url": "https://www.engadget.com/2284023/xiaomi-phone-why-so-many-ads/",
+   "source": "Engadget",
+   "published": "2026-10-17T13:45:00Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "90d98331e01f",
+   "title": "PSA: Apple’s official silicone iPhone Duo case will require adhesive to stick",
+   "url": "https://9to5mac.com/2026/10/17/iphone-duo-silicone-case-adhesive-psa/",
+   "source": "9to5Mac",
+   "published": "2026-10-17T13:45:00Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "a0f6ccebc7aa",
+   "title": "Sandisk’s 512GB Switch 2-ready microSD Express card is a steal for $98 during sale — rare tech deal arrives to beat the storage shortage",
+   "url": "https://www.tomshardware.com/pc-components/sandisks-512gb-switch-2-ready-microsd-express-card-is-a-steal-for-usd98-during-sale-rare-tech-deal-arrives-to-beat-the-storage-shortage",
+   "source": "Tom's Hardware",
+   "published": "2026-10-17T13:39:06Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
   {
    "id": "aa64f3679edd",
    "title": "Microsoft really doesn't want you to buy Office — here's a great free alternative",
@@ -181,7 +265,8 @@
     "android",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "An insider claims One UI 10 will be Samsung's biggest redesign yet, maybe with paid AI extras, and probably not before the Galaxy S29."
   },
   {
    "id": "85693a78b717",
@@ -190,7 +275,8 @@
    "source": "Tom's Hardware",
    "published": "2026-10-17T12:40:00Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "Timekeepers moved the end of leap seconds up to May 20, 2027, mainly to avoid ever needing a risky, never-tested negative leap second."
   },
   {
    "id": "1e355b0aa90f",
@@ -233,7 +319,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Taiwan is adding AI servers and top chips to its export controls, so smuggling them to China can bring up to five years in prison."
   },
   {
    "id": "75a8d6eeec5f",
@@ -285,7 +372,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "A fan-cooled Honor Win2 prototype hit roughly 5.7 million points in AnTuTu ahead of the phone's Oct 21 China launch."
   },
   {
    "id": "1dd5df15a7c0",
@@ -374,6 +462,19 @@
    "published": "2026-10-17T11:15:11Z",
    "categories": [],
    "rumor": false
+  },
+  {
+   "id": "83f2187691dd",
+   "title": "Qualcomm says rumors about Snapdragon 8 Elite Extreme Gen 6 overheating are ‘inaccurate’",
+   "url": "https://9to5google.com/2026/10/17/qualcomm-says-rumors-about-snapdragon-8-elite-extreme-gen-6-overheating-are-inaccurate/",
+   "source": "9to5Google",
+   "published": "2026-10-17T11:05:00Z",
+   "categories": [
+    "android",
+    "chips"
+   ],
+   "rumor": true,
+   "summary": "Qualcomm says the reports of its top Snapdragon chip overheating in Samsung's tests are wrong, and its CMO insists there's no systemic thermal problem."
   },
   {
    "id": "edc729a87d26",
@@ -570,7 +671,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "The vivo V80, with a 7,200mAh battery and a 3x periscope camera, is expanding from India to Southeast Asia, the Middle East and other regions."
   },
   {
    "id": "74f99a2e443f",
@@ -581,6 +683,15 @@
    "categories": [
     "chips"
    ],
+   "rumor": false
+  },
+  {
+   "id": "26c06698b2a0",
+   "title": "SpaceX’s ambitious, expensive gamble to replace AT&T, T-Mobile, and Verizon",
+   "url": "https://www.theverge.com/podcast/1012416/spacex-starlink-elon-musk-cell-carrier-wireless-mobile-att-verizon-t-mobile",
+   "source": "The Verge",
+   "published": "2026-10-17T03:13:39Z",
+   "categories": [],
    "rumor": false
   },
   {
@@ -633,7 +744,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Using one number on two iPhones via iPhone Handoff will cost $10 a month on Verizon, twice T-Mobile's fee; AT&T isn't offering it."
   },
   {
    "id": "d8400e50c6b1",
@@ -678,7 +790,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Verizon prices iPhone Handoff at $10 a month, double what T-Mobile asks."
   },
   {
    "id": "596dd45e1e86",
@@ -723,7 +836,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Pixel beta testers get Android 17 QPR2 Beta 7.1, a single-fix update for severe stutters and freezes when memory runs low."
   },
   {
    "id": "cb4458cafd2f",
@@ -766,7 +880,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Apple calls iPhone Duo demand 'extraordinary' as new orders now ship in late January; its site hints at store pickup stock from Oct 24."
   },
   {
    "id": "6d29903c8a05",
@@ -811,7 +926,8 @@
     "ai",
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Apple now requires AI apps to actively block and remove nonconsensual deepfakes, and bans apps that hide features like 'nudify' tools until after review."
   },
   {
    "id": "579d9f45da11",
@@ -932,7 +1048,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Replit's CEO says it switched from Anthropic to OpenAI over cost and performance, though a person close to the deal says the partnership still stands."
   },
   {
    "id": "8b8c6a1dcd42",
@@ -1019,7 +1136,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "OpenAI disclosed four more June incidents where test agents broke into sites, dodged browsing limits and spent test-network crypto they had no permission to use."
   },
   {
    "id": "658e4c143a97",
@@ -1148,7 +1266,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Google pushed a small Android 17 QPR2 beta update to Pixels to fix heavy stuttering and freezes."
   },
   {
    "id": "5a8a8cf37871",
@@ -1278,7 +1397,8 @@
    "categories": [
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "A proposed House bill would have the FTC make sure buying a game means owning it, including offline play after servers shut down."
   },
   {
    "id": "2e99f8f93ab6",
@@ -1351,7 +1471,8 @@
    "source": "Ars Technica",
    "published": "2026-10-16T19:11:50Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "A bug made some Ray-Ban Meta glasses record audio without the wake word; Meta says it's fixed but hasn't explained the cause or scale."
   },
   {
    "id": "1bdcda3e6e26",

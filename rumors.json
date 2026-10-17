@@ -77,7 +77,7 @@
    "updated": "2026-10-17",
    "expected": "Early 2027",
    "claim": "Samsung will release the Galaxy S27, S27+, S27 Pro and S27 Ultra.",
-   "why": "Model numbers for all four (SM-S952U, SM-S956U, SM-S958U and a global dual-SIM SM-S957B/DS) appeared in the GSMA IMEI database, which is strong evidence a phone exists but does not confirm names, specs or launch dates.",
+   "why": "Model numbers for all four (SM-S952U, SM-S956U, SM-S958U and a global dual-SIM SM-S957B/DS) appeared in the GSMA IMEI database, which is strong evidence a phone exists but does not confirm names, specs or launch dates. On Oct 16, two more model numbers (SM-S9570 and SM-S9580, believed to be the Pro and Ultra) appeared in China's MIIT certification database.",
    "sources": [
     {
      "name": "Notebookcheck",
@@ -86,6 +86,10 @@
     {
      "name": "PhoneArena",
      "url": "https://www.phonearena.com/galaxy-s27-release-date-price-features-news"
+    },
+    {
+     "name": "Android Headlines (MIIT listing)",
+     "url": "https://www.androidheadlines.com/2026/10/samsung-is-taking-a-key-feature-away-from-the-galaxy-s27-plus.html"
     }
    ],
    "first_reported": "2026-06-25"
@@ -363,19 +367,31 @@
   {
    "id": "honor-win-2-october",
    "title": "Honor Win 2 and Win 2 RT launch in October",
-   "rating": "Rumor",
+   "rating": "Confirmed",
    "categories": [
     "android"
    ],
    "status": "Active",
    "updated": "2026-10-17",
-   "expected": "Late Oct 2026 (rumored)",
+   "expected": "Oct 21, 2026 (official)",
    "claim": "Honor's Win 2 and Win 2 RT phones launch this month with 100W/90W charging and 10,000mAh+ batteries.",
-   "why": "Both models cleared China's 3C certification with those charging figures, which is real evidence they exist. The October timing comes from a tipster, and Honor has not confirmed.",
+   "why": "Honor announced on Oct 12 that the Win 2 series launches Oct 21 at 2:30 p.m. in China and goes on sale the same day, and later confirmed a battery above 10,000mAh. Still unconfirmed: the 100W charging figure (from leaker Digital Chat Station) and whether a 'Win 2 RT' model is part of the launch, since Honor's announcement only says 'Win 2 series'.",
    "sources": [
     {
      "name": "Gizmochina",
      "url": "https://www.gizmochina.com/2026/10/10/smartphones-list-launching-october/"
+    },
+    {
+     "name": "Gizmochina: official date",
+     "url": "https://www.gizmochina.com/2026/10/12/honor-win-2-and-win-pad-launches-on-october-21-with-cooling-fan-on-both-devices/"
+    },
+    {
+     "name": "Eastmoney (Chinese)",
+     "url": "https://finance.eastmoney.com/a/202610123892485780.html"
+    },
+    {
+     "name": "Fone Arena",
+     "url": "https://www.fonearena.com/blog/495142/honor-win-2-launch-date.html"
     }
    ],
    "first_reported": "2026-10-10"
@@ -383,19 +399,27 @@
   {
    "id": "oppo-find-x10-oct-21",
    "title": "OPPO Find X10 launches worldwide on Oct 21",
-   "rating": "Shaky",
+   "rating": "Confirmed",
    "categories": [
     "android"
    ],
    "status": "Active",
    "updated": "2026-10-17",
-   "expected": "Unknown",
+   "expected": "Oct 21, 2026 (official launch event)",
    "claim": "OPPO's Find X10 goes on sale on Oct 21.",
-   "why": "The only evidence is that a UK subscription promotion and its coupon end on Oct 21. That is not a global launch date, and the source that spotted it says so itself.",
+   "why": "We first rated this Shaky because the only clue was a UK promotion ending Oct 21. OPPO then announced on Oct 8 that the Find X10 and Find X10 Pro Max make their global debut on Oct 21 at an event in Mallorca, with India on Oct 22. OPPO says prices and availability come at the event, so on-sale dates are not yet confirmed.",
    "sources": [
     {
      "name": "PromptyBox",
      "url": "https://promptybox.com/blog/whats-coming-in-tech-october-2026"
+    },
+    {
+     "name": "OPPO Newsroom",
+     "url": "https://www.oppo.com/en/newsroom/press/oppo-findx10series-upcoming-launch/"
+    },
+    {
+     "name": "Tech Advisor",
+     "url": "https://www.techadvisor.com/article/3255697/oppo-find-x10-global-launch-official-for-21-october.html"
     }
    ],
    "first_reported": "2026-09-30"
@@ -423,6 +447,132 @@
     }
    ],
    "first_reported": null
+  },
+  {
+   "id": "galaxy-s27-ultra-exynos-2700",
+   "title": "Galaxy S27 Ultra may switch to Exynos 2700 because Snapdragon overheats",
+   "rating": "Shaky",
+   "categories": [
+    "samsung",
+    "android",
+    "chips"
+   ],
+   "status": "Active",
+   "first_reported": "2026-10-15",
+   "updated": "2026-10-17",
+   "expected": "Decision pending (conflicting reports)",
+   "claim": "Samsung found the Snapdragon 8 Elite Extreme Gen 6 overheating in S27 Ultra testing and may use its own Exynos 2700 chip if Qualcomm doesn't fix it by mid-October.",
+   "why": "The report came from Korean outlet SEDaily and was relayed by SamMobile and others. Qualcomm told 9to5Google on Oct 17 the overheating reports are 'inaccurate', and its CMO Don McGuire says there are 'no systemic thermal issues'. A separate Oct 16 MoneyToday report says Samsung has dropped the Exynos plan for the Ultra because of Exynos supply limits and memory costs, and the Ultra will use Snapdragon only. Samsung has not commented. Single-sourced, denied, and now contradicted by another report.",
+   "sources": [
+    {
+     "name": "SamMobile",
+     "url": "https://www.sammobile.com/news/galaxy-s27-ultra-snapdragon-heating-issues-use-exynos-2700/"
+    },
+    {
+     "name": "GSMArena",
+     "url": "https://www.gsmarena.com/the_galaxy_s27_ultra_runs_into_issues_with_the_snapdragon_8_ee_gen_6_exynos_2700_may_return-news-75078.php"
+    },
+    {
+     "name": "9to5Google",
+     "url": "https://9to5google.com/2026/10/16/samsung-galaxy-s27-snapdragon-overheating-report/"
+    },
+    {
+     "name": "9to5Google: Qualcomm response",
+     "url": "https://9to5google.com/2026/10/17/qualcomm-says-rumors-about-snapdragon-8-elite-extreme-gen-6-overheating-are-inaccurate/"
+    },
+    {
+     "name": "MoneyToday",
+     "url": "https://www.mt.co.kr/en/industry/2026/10/16/2026101522493126583"
+    }
+   ]
+  },
+  {
+   "id": "galaxy-s27-plus-no-uwb",
+   "title": "Galaxy S27+ drops ultra-wideband (UWB)",
+   "rating": "Rumor",
+   "categories": [
+    "samsung",
+    "android"
+   ],
+   "status": "Active",
+   "first_reported": "2026-10-16",
+   "updated": "2026-10-17",
+   "expected": "Early 2027",
+   "claim": "The Galaxy S27+ may lose UWB, a feature Samsung has offered for years.",
+   "why": "Leaker Abhishek Yadav found two S27 models (SM-S9570 and SM-S9580, believed to be the Pro and Ultra) in China's MIIT certification database with UWB listed, and says the S27 and S27+ lack it; SammyFans reported precise tracking may be Pro/Ultra-only. The certification is real evidence for the two higher models, but the S27+ losing UWB is an inference from what is missing. Samsung has not commented.",
+   "sources": [
+    {
+     "name": "GSMArena",
+     "url": "https://www.gsmarena.com/samsung_galaxy_s27_might_miss_out_on_uwb-news-75084.php"
+    },
+    {
+     "name": "SamMobile",
+     "url": "https://www.sammobile.com/news/galaxy-s27-plus-could-miss-out-uwb/"
+    },
+    {
+     "name": "Android Authority",
+     "url": "https://www.androidauthority.com/samsung-galaxy-s27-plus-uwb-downgrade-3724300/"
+    },
+    {
+     "name": "Android Headlines",
+     "url": "https://www.androidheadlines.com/2026/10/samsung-is-taking-a-key-feature-away-from-the-galaxy-s27-plus.html"
+    }
+   ]
+  },
+  {
+   "id": "apple-intelligence-china-ios-27-3",
+   "title": "Apple Intelligence fully launches in China with iOS 27.3 in December",
+   "rating": "Likely",
+   "categories": [
+    "apple",
+    "ai"
+   ],
+   "status": "Active",
+   "updated": "2026-10-17",
+   "expected": "December 2026 (reported)",
+   "claim": "After an October beta, Apple will roll out Apple Intelligence in China with iOS 27.3 in December, without the new Siri, Image Playground or the newer Genmoji.",
+   "why": "Reported by Bloomberg. The groundwork is confirmed: Tim Cook said on Oct 15 that a beta arrives this month after regulators approved the first features and Alibaba's Qwen models, and the SCMP reports China's MIIT granted network permits for the models. Apple has not given a date or feature list for the full launch.",
+   "sources": [
+    {
+     "name": "MacRumors (citing Bloomberg)",
+     "url": "https://www.macrumors.com/2026/10/14/apple-intelligence-china-ios-27-3/"
+    },
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/tech/1011503/apple-intelligence-is-reportedly-launching-in-china-with-ios-27-3"
+    },
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/10/16/apple-intelligence-to-enter-china-beta-testing-this-month-tim-cook-confirms/"
+    }
+   ],
+   "first_reported": "2026-10-14"
+  },
+  {
+   "id": "one-ui-10-overhaul",
+   "title": "One UI 10 is Samsung's biggest software overhaul yet",
+   "rating": "Rumor",
+   "categories": [
+    "samsung",
+    "android",
+    "ai"
+   ],
+   "status": "Active",
+   "updated": "2026-10-17",
+   "expected": "2027 or later (sources disagree)",
+   "claim": "Samsung's One UI 10 will be its biggest software overhaul yet, built around cross-app 'contextual flow', fewer menus and tighter device handoffs, possibly with paid tiers for heavy AI features.",
+   "why": "Comes from an unnamed insider via Nokia Power User, relayed by GSMArena; tipster Ice Universe, who has a solid Samsung track record, says his own source confirms 'significant changes, unprecedented in nature'. Timing is disputed: SamMobile expects mid-2027 with the Galaxy Z Fold 9 and Flip 9, while GSMArena's reading of the insider points to the Galaxy S29. Samsung has said nothing, and the details are vague.",
+   "sources": [
+    {
+     "name": "GSMArena",
+     "url": "https://www.gsmarena.com/insider_reveals_samsungs_plans_to_completely_overhaul_one_ui_10-news-75097.php"
+    },
+    {
+     "name": "SamMobile",
+     "url": "https://www.sammobile.com/news/major-one-ui-10-update-expected-2027/"
+    }
+   ],
+   "first_reported": "2026-10-17"
   },
   {
    "id": "snapdragon-two-flagships",
@@ -476,78 +626,19 @@
    "first_reported": "2026-07-07"
   },
   {
-   "id": "galaxy-s27-ultra-exynos-2700",
-   "title": "Galaxy S27 Ultra may switch to Exynos 2700 because Snapdragon overheats",
-   "rating": "Shaky",
-   "categories": [
-    "samsung",
-    "android",
-    "chips"
-   ],
-   "status": "Active",
-   "first_reported": "2026-10-15",
-   "updated": "2026-10-17",
-   "expected": "Decision pending",
-   "claim": "Samsung found the Snapdragon 8 Elite Extreme Gen 6 overheating in S27 Ultra testing and may use its own Exynos 2700 chip if Qualcomm doesn't fix it by mid-October.",
-   "why": "The report comes from Korean outlet SEDaily and was relayed by SamMobile and others. Qualcomm's chief marketing officer Don McGuire says the overheating reports are '100% NOT accurate'. Chip choice by region is routine for Samsung, but this specific claim is single-sourced and denied.",
-   "sources": [
-    {
-     "name": "SamMobile",
-     "url": "https://www.sammobile.com/news/galaxy-s27-ultra-snapdragon-heating-issues-use-exynos-2700/"
-    },
-    {
-     "name": "GSMArena",
-     "url": "https://www.gsmarena.com/the_galaxy_s27_ultra_runs_into_issues_with_the_snapdragon_8_ee_gen_6_exynos_2700_may_return-news-75078.php"
-    },
-    {
-     "name": "9to5Google",
-     "url": "https://9to5google.com/2026/10/16/samsung-galaxy-s27-snapdragon-overheating-report/"
-    }
-   ]
-  },
-  {
-   "id": "galaxy-s27-plus-no-uwb",
-   "title": "Galaxy S27+ drops ultra-wideband (UWB)",
-   "rating": "Rumor",
-   "categories": [
-    "samsung",
-    "android"
-   ],
-   "status": "Active",
-   "first_reported": "2026-10-16",
-   "updated": "2026-10-17",
-   "expected": "Early 2027",
-   "claim": "The Galaxy S27+ may lose UWB, a feature Samsung has offered for years.",
-   "why": "Reported by several Android outlets (GSMArena, SamMobile, Android Authority) from leaked information, but Samsung has not commented and the underlying source is not named in the headlines we reviewed.",
-   "sources": [
-    {
-     "name": "GSMArena",
-     "url": "https://www.gsmarena.com/samsung_galaxy_s27_might_miss_out_on_uwb-news-75084.php"
-    },
-    {
-     "name": "SamMobile",
-     "url": "https://www.sammobile.com/news/galaxy-s27-plus-could-miss-out-uwb/"
-    },
-    {
-     "name": "Android Authority",
-     "url": "https://www.androidauthority.com/samsung-galaxy-s27-plus-uwb-downgrade-3724300/"
-    }
-   ]
-  },
-  {
    "id": "rtx-5090-production-halt",
    "title": "NVIDIA has stopped making the RTX 5090",
-   "rating": "Rumor",
+   "rating": "Debunked",
    "categories": [
     "chips",
     "gaming"
    ],
-   "status": "Active",
+   "status": "Resolved",
    "first_reported": "2026-10-10",
    "updated": "2026-10-17",
    "expected": "",
    "claim": "NVIDIA has halted production of the GeForce RTX 5090 and is redirecting the GB202 chip to its professional RTX Pro cards.",
-   "why": "Real signs point that way: Micro Center reclassified the card 'Not Carried', many stores sold out, and NVIDIA removed it from its own marketplace. But NVIDIA has not commented, still lists the card at $1,999, and Tom's Hardware notes it has not been formally confirmed as discontinued.",
+   "why": "Real signs pointed that way: Micro Center reclassified the card 'Not Carried', many stores sold out, and NVIDIA pulled it from its own marketplace. But on Oct 16 NVIDIA's head of personal computing, Jeff Fisher, told reporters in Taipei the RTX 5090 is not end-of-life and NVIDIA will keep shipping it, while admitting supply is tight. By Oct 17 the card was listed again on NVIDIA's US store, though not in stock.",
    "sources": [
     {
      "name": "Tom's Hardware",
@@ -556,8 +647,17 @@
     {
      "name": "Tom's Hardware: last chance",
      "url": "https://www.tomshardware.com/desktops/gaming-pcs/this-could-be-your-last-chance-to-grab-an-rtx-5090-how-to-secure-nvidias-top-rtx-gpu-as-rumors-of-discontinuation-swirl"
+    },
+    {
+     "name": "CNA (Chinese)",
+     "url": "https://www.cna.com.tw/news/afe/202610160349.aspx"
+    },
+    {
+     "name": "ComputerBase (German)",
+     "url": "https://www.computerbase.de/news/grafikkarten/nvidia-widerspricht-die-geforce-rtx-5090-ist-nicht-eingestellt.99877/"
     }
-   ]
+   ],
+   "outcome": "Debunked by NVIDIA: the RTX 5090 has not been discontinued, though it remains scarce and expensive."
   }
  ]
 }

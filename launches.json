@@ -2,6 +2,121 @@
  "updated": "2026-10-17",
  "items": [
   {
+   "id": "samsung-galaxy-f70-india",
+   "name": "Samsung Galaxy F70 5G (India)",
+   "brand": "Samsung",
+   "categories": [
+    "samsung",
+    "android"
+   ],
+   "type": "Phone",
+   "date": "2026-10-18",
+   "date_label": "Oct 18, 2026",
+   "precision": "day",
+   "status": "Confirmed",
+   "price": "",
+   "summary": "Samsung's budget Galaxy F70 5G launches in India on Oct 18 and will be sold through Flipkart.",
+   "details": "Samsung's launch microsite lists a 50MP main camera with OIS, a Full HD+ Super AMOLED screen with Gorilla Glass Victus, the Exynos 1330 chip, a 5,000mAh battery with 25W charging, and Bold Black and Vivid Violet colors. The price will be announced at launch.",
+   "sources": [
+    {
+     "name": "Gadgets 360",
+     "url": "https://www.gadgets360.com/mobiles/news/samsung-galaxy-f70-5g-india-launch-date-announced-design-specifications-features-12193497"
+    },
+    {
+     "name": "India Today",
+     "url": "https://www.indiatoday.in/technology/news/story/samsung-galaxy-f70-5g-arrives-in-india-on-october-18-here-is-what-to-expect-3018994-2026-10-16"
+    }
+   ]
+  },
+  {
+   "id": "gtc-berlin-2026",
+   "name": "NVIDIA GTC Berlin 2026 (keynote Oct 21)",
+   "brand": "NVIDIA",
+   "categories": [
+    "chips",
+    "ai"
+   ],
+   "type": "Event",
+   "date": "2026-10-20",
+   "date_label": "Oct 20-22, 2026",
+   "precision": "day",
+   "status": "Confirmed",
+   "price": "Free livestream",
+   "summary": "NVIDIA's Europe AI conference runs Oct 20-22, with Jensen Huang's keynote on Oct 21 at 11 a.m. CEST.",
+   "details": "Virtual viewing is free with no registration. Expect AI infrastructure news; NVIDIA has not said whether it will announce consumer GPUs.",
+   "sources": [
+    {
+     "name": "NVIDIA GTC Berlin FAQ",
+     "url": "https://www.nvidia.com/en-eu/gtc/faq/"
+    },
+    {
+     "name": "NVIDIA keynote listing",
+     "url": "https://www.nvidia.com/de-de/gtc/session-catalog/sessions/gtceu26-sb61112/"
+    }
+   ]
+  },
+  {
+   "id": "honor-win-2",
+   "name": "Honor Win 2 series (China launch)",
+   "brand": "Honor",
+   "categories": [
+    "android",
+    "gaming"
+   ],
+   "type": "Phone",
+   "date": "2026-10-21",
+   "date_label": "Oct 21, 2026 (China)",
+   "precision": "day",
+   "status": "Confirmed",
+   "price": "CNY 5,499 after subsidy (Win 2, China)",
+   "summary": "Honor's fan-cooled gaming phones launch in China on Oct 21 and go on sale the same day.",
+   "details": "Honor has confirmed a built-in dual-fan cooling system, a 2K 185Hz display, a battery of more than 10,000mAh (10,100mAh per promo material) and the Snapdragon 8 Elite Extreme Gen 6 chip. Pre-orders are open, and Fone Arena reports Honor's marketing chief gave a post-subsidy price of 5,499 yuan. A Win gaming tablet debuts at the same event. Honor has not announced plans outside China.",
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "url": "https://www.gizmochina.com/2026/10/12/honor-win-2-and-win-pad-launches-on-october-21-with-cooling-fan-on-both-devices/"
+    },
+    {
+     "name": "Sina Tech (Chinese)",
+     "url": "https://finance.sina.com.cn/tech/mobile/n/n/2026-10-13/doc-inivamwi8135293.shtml"
+    },
+    {
+     "name": "Fone Arena",
+     "url": "https://www.fonearena.com/blog/495142/honor-win-2-launch-date.html"
+    }
+   ]
+  },
+  {
+   "id": "oppo-find-x10-global",
+   "name": "OPPO Find X10 and Find X10 Pro Max (global launch)",
+   "brand": "OPPO",
+   "categories": [
+    "android"
+   ],
+   "type": "Phone",
+   "date": "2026-10-21",
+   "date_label": "Oct 21, 2026 (global); India Oct 22",
+   "precision": "day",
+   "status": "Confirmed",
+   "price": "",
+   "summary": "OPPO's camera-focused flagships, already out in China, get a global launch event in Mallorca on Oct 21; India follows Oct 22.",
+   "details": "The Find X10 Pro Max has three 200MP rear cameras and the 2nm Dimensity 9600 Pro; the Find X10 has two 200MP cameras and the Dimensity 9600M. Both have 8,000mAh batteries and ColorOS 17. OPPO will announce prices and availability at the event; the China-only Find X10 E is not coming.",
+   "sources": [
+    {
+     "name": "OPPO Newsroom",
+     "url": "https://www.oppo.com/en/newsroom/press/oppo-findx10series-upcoming-launch/"
+    },
+    {
+     "name": "OPPO launch page",
+     "url": "https://www.oppo.com/en/events/find-x10-series-launch/"
+    },
+    {
+     "name": "GSMArena (India date)",
+     "url": "https://www.gsmarena.com/heres_when_the_oppo_find_x10_series_is_launching_in_india-news-75015.php"
+    }
+   ]
+  },
+  {
    "id": "iphone-duo",
    "name": "iPhone Duo (Apple's first foldable)",
    "brand": "Apple",
@@ -36,59 +151,24 @@
    ]
   },
   {
-   "id": "homepod-mini-2",
-   "name": "HomePod mini (2nd generation)",
-   "brand": "Apple",
+   "id": "cod-modern-warfare-4",
+   "name": "Call of Duty: Modern Warfare 4",
+   "brand": "Activision",
    "categories": [
-    "apple"
+    "gaming"
    ],
-   "type": "Gadget",
-   "date": "2026-10-30",
-   "date_label": "Oct 30, 2026",
+   "type": "Game",
+   "date": "2026-10-23",
+   "date_label": "Oct 23, 2026",
    "precision": "day",
    "status": "Confirmed",
-   "price": "$149",
-   "summary": "Apple's refreshed smart speaker ships Oct 30 with new colors and improved audio.",
-   "details": "Announced at Apple's Oct 13 'Welcome Home' event alongside the HomeView hub and a new Apple TV 4K.",
+   "price": "",
+   "summary": "Call of Duty: Modern Warfare 4 lands Oct 23 on PC, Xbox, PS5 and Switch 2.",
+   "details": "Date taken from VGC's release schedule, updated in October 2026.",
    "sources": [
     {
-     "name": "Apple Newsroom",
-     "url": "https://www.apple.com/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini/"
-    },
-    {
-     "name": "The Verge",
-     "url": "https://www.theverge.com/tech/1009816/apple-smart-home-event-homeview-homepod-mini-roundup"
-    }
-   ]
-  },
-  {
-   "id": "apple-homeview-apple-tv-4k",
-   "name": "Apple HomeView hub and Apple TV 4K (4th gen)",
-   "brand": "Apple",
-   "categories": [
-    "apple",
-    "ai"
-   ],
-   "type": "Gadget",
-   "date": "2026-11-13",
-   "date_label": "Nov 13, 2026",
-   "precision": "day",
-   "status": "Confirmed",
-   "price": "$299 each",
-   "summary": "Apple's new 7-inch HomeView smart-home hub and the Siri AI-enabled Apple TV 4K both arrive Nov 13.",
-   "details": "Both devices were announced Oct 13 and are built to showcase Apple's upgraded Siri.",
-   "sources": [
-    {
-     "name": "Apple Newsroom: HomeView",
-     "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/"
-    },
-    {
-     "name": "Apple Newsroom: Apple TV 4K",
-     "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/"
-    },
-    {
-     "name": "CNBC",
-     "url": "https://www.cnbc.com/2026/10/13/apple-homeview-smart-home-siri-ai.html"
+     "name": "Video Games Chronicle",
+     "url": "https://www.videogameschronicle.com/guide/upcoming-game-release-dates-schedule/"
     }
    ]
   },
@@ -120,55 +200,6 @@
    ]
   },
   {
-   "id": "gtc-berlin-2026",
-   "name": "NVIDIA GTC Berlin 2026 (keynote Oct 21)",
-   "brand": "NVIDIA",
-   "categories": [
-    "chips",
-    "ai"
-   ],
-   "type": "Event",
-   "date": "2026-10-20",
-   "date_label": "Oct 20-22, 2026",
-   "precision": "day",
-   "status": "Confirmed",
-   "price": "Free livestream",
-   "summary": "NVIDIA's Europe AI conference runs Oct 20-22, with Jensen Huang's keynote on Oct 21 at 11 a.m. CEST.",
-   "details": "Virtual viewing is free with no registration. Expect AI infrastructure news; NVIDIA has not said whether it will announce consumer GPUs.",
-   "sources": [
-    {
-     "name": "NVIDIA GTC Berlin FAQ",
-     "url": "https://www.nvidia.com/en-eu/gtc/faq/"
-    },
-    {
-     "name": "NVIDIA keynote listing",
-     "url": "https://www.nvidia.com/de-de/gtc/session-catalog/sessions/gtceu26-sb61112/"
-    }
-   ]
-  },
-  {
-   "id": "cod-modern-warfare-4",
-   "name": "Call of Duty: Modern Warfare 4",
-   "brand": "Activision",
-   "categories": [
-    "gaming"
-   ],
-   "type": "Game",
-   "date": "2026-10-23",
-   "date_label": "Oct 23, 2026",
-   "precision": "day",
-   "status": "Confirmed",
-   "price": "",
-   "summary": "Call of Duty: Modern Warfare 4 lands Oct 23 on PC, Xbox, PS5 and Switch 2.",
-   "details": "Date taken from VGC's release schedule, updated in October 2026.",
-   "sources": [
-    {
-     "name": "Video Games Chronicle",
-     "url": "https://www.videogameschronicle.com/guide/upcoming-game-release-dates-schedule/"
-    }
-   ]
-  },
-  {
    "id": "phantom-blade-zero",
    "name": "Phantom Blade Zero",
    "brand": "S-Game",
@@ -187,6 +218,63 @@
     {
      "name": "Video Games Chronicle",
      "url": "https://www.videogameschronicle.com/guide/upcoming-game-release-dates-schedule/"
+    }
+   ]
+  },
+  {
+   "id": "homepod-mini-2",
+   "name": "HomePod mini (2nd generation)",
+   "brand": "Apple",
+   "categories": [
+    "apple"
+   ],
+   "type": "Gadget",
+   "date": "2026-10-30",
+   "date_label": "Oct 30, 2026",
+   "precision": "day",
+   "status": "Confirmed",
+   "price": "$149",
+   "summary": "Apple's refreshed smart speaker ships Oct 30 with new colors and improved audio.",
+   "details": "Announced at Apple's Oct 13 'Welcome Home' event alongside the HomeView hub and a new Apple TV 4K.",
+   "sources": [
+    {
+     "name": "Apple Newsroom",
+     "url": "https://www.apple.com/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini/"
+    },
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/tech/1009816/apple-smart-home-event-homeview-homepod-mini-roundup"
+    }
+   ]
+  },
+  {
+   "id": "apple-intelligence-china-beta",
+   "name": "Apple Intelligence beta in China",
+   "brand": "Apple",
+   "categories": [
+    "apple",
+    "ai"
+   ],
+   "type": "Software",
+   "date": "2026-10-31",
+   "date_label": "Late Oct 2026 (beta)",
+   "precision": "window",
+   "status": "Confirmed",
+   "price": "Free",
+   "summary": "Tim Cook says a beta of Apple Intelligence reaches users in China later in October, without the new Siri.",
+   "details": "Cook said on Oct 15 that the first features (live translation, writing tools and photo cleanup) and the Alibaba Qwen models behind them have regulatory approval. He did not give an exact day. Bloomberg reports a wider launch with iOS 27.3 in December.",
+   "sources": [
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/10/16/apple-intelligence-to-enter-china-beta-testing-this-month-tim-cook-confirms/"
+    },
+    {
+     "name": "NBD (Chinese)",
+     "url": "https://www.nbd.com.cn/articles/2026-10-15/4605556.html"
+    },
+    {
+     "name": "MacRumors (citing Bloomberg)",
+     "url": "https://www.macrumors.com/2026/10/14/apple-intelligence-china-ios-27-3/"
     }
    ]
   },
@@ -235,32 +323,33 @@
    ]
   },
   {
-   "id": "gta-6",
-   "name": "Grand Theft Auto VI",
-   "brand": "Rockstar Games",
+   "id": "apple-homeview-apple-tv-4k",
+   "name": "Apple HomeView hub and Apple TV 4K (4th gen)",
+   "brand": "Apple",
    "categories": [
-    "gaming"
+    "apple",
+    "ai"
    ],
-   "type": "Game",
-   "date": "2026-11-19",
-   "date_label": "Nov 19, 2026",
+   "type": "Gadget",
+   "date": "2026-11-13",
+   "date_label": "Nov 13, 2026",
    "precision": "day",
    "status": "Confirmed",
-   "price": "",
-   "summary": "Rockstar's GTA VI launches Nov 19 on PS5 and Xbox Series X|S; pre-orders opened June 25.",
-   "details": "Digital preloading is reported to start Nov 12. There is no PC version announced for launch.",
+   "price": "$299 each",
+   "summary": "Apple's new 7-inch HomeView smart-home hub and the Siri AI-enabled Apple TV 4K both arrive Nov 13.",
+   "details": "Both devices were announced Oct 13 and are built to showcase Apple's upgraded Siri.",
    "sources": [
     {
-     "name": "Rockstar Games",
-     "url": "https://www.rockstargames.com/newswire/article/ak3ak31a49a221/grand-theft-auto-vi-is-now-set-to-launch-november-19-2026"
+     "name": "Apple Newsroom: HomeView",
+     "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/"
     },
     {
-     "name": "Take-Two",
-     "url": "https://taketwointeractivesoftwareinc.gcs-web.com/news-releases/news-release-details/rockstar-games-announces-pre-orders-grand-theft-auto-vi/"
+     "name": "Apple Newsroom: Apple TV 4K",
+     "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/"
     },
     {
-     "name": "PlayStation",
-     "url": "https://www.playstation.com/en-us/games/grand-theft-auto-vi/"
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/10/13/apple-homeview-smart-home-siri-ai.html"
     }
    ]
   },
@@ -288,6 +377,36 @@
     {
      "name": "Microsoft Security Blog",
      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/30/secure-whats-next-your-guide-to-microsoft-security-at-microsoft-ignite-2026/"
+    }
+   ]
+  },
+  {
+   "id": "gta-6",
+   "name": "Grand Theft Auto VI",
+   "brand": "Rockstar Games",
+   "categories": [
+    "gaming"
+   ],
+   "type": "Game",
+   "date": "2026-11-19",
+   "date_label": "Nov 19, 2026",
+   "precision": "day",
+   "status": "Confirmed",
+   "price": "",
+   "summary": "Rockstar's GTA VI launches Nov 19 on PS5 and Xbox Series X|S; pre-orders opened June 25.",
+   "details": "Digital preloading is reported to start Nov 12. There is no PC version announced for launch.",
+   "sources": [
+    {
+     "name": "Rockstar Games",
+     "url": "https://www.rockstargames.com/newswire/article/ak3ak31a49a221/grand-theft-auto-vi-is-now-set-to-launch-november-19-2026"
+    },
+    {
+     "name": "Take-Two",
+     "url": "https://taketwointeractivesoftwareinc.gcs-web.com/news-releases/news-release-details/rockstar-games-announces-pre-orders-grand-theft-auto-vi/"
+    },
+    {
+     "name": "PlayStation",
+     "url": "https://www.playstation.com/en-us/games/grand-theft-auto-vi/"
     }
    ]
   },
@@ -550,6 +669,58 @@
     {
      "name": "InsideEVs",
      "url": "https://insideevs.com/news/812247/tesla-roadster-preorder-delivery-guarantee/"
+    }
+   ]
+  },
+  {
+   "id": "deepseek-v4-1-flash-1017",
+   "name": "DeepSeek V4.1-Flash-1017",
+   "brand": "DeepSeek",
+   "categories": [
+    "ai"
+   ],
+   "type": "Software",
+   "date": "2026-10-17",
+   "date_label": "Oct 17, 2026",
+   "precision": "day",
+   "status": "Released",
+   "price": "Open weights; also in DeepSeek's app and API",
+   "summary": "DeepSeek shipped an updated Flash model in its app and API and as open weights, aimed at coding and agent tasks.",
+   "details": "DeepSeek's own benchmarks show gains over the previous Flash and some larger rivals on coding and agent tests at a much lower cost per task; independent results are not out yet. DeepSeek also opened its in-house Search and Fetch APIs to developers.",
+   "sources": [
+    {
+     "name": "Hugging Face",
+     "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
+    },
+    {
+     "name": "The Decoder",
+     "url": "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/"
+    }
+   ]
+  },
+  {
+   "id": "reflection-beam",
+   "name": "Reflection Beam (501B open-weight model)",
+   "brand": "Reflection AI",
+   "categories": [
+    "ai"
+   ],
+   "type": "Software",
+   "date": "2026-10-16",
+   "date_label": "Oct 16, 2026",
+   "precision": "day",
+   "status": "Released",
+   "price": "Free weights (Apache 2.0)",
+   "summary": "US lab Reflection released Beam, its first model, as Apache 2.0 open weights on Hugging Face.",
+   "details": "Beam is a text-only mixture-of-experts model with 501B total and 23B active parameters and a 1M-token context, built for coding and agent work. Self-hosting needs data-center GPUs (Hugging Face suggests four B200s for the 4-bit version); hosted inference providers also offer it.",
+   "sources": [
+    {
+     "name": "Hugging Face blog",
+     "url": "https://huggingface.co/blog/reflection-beam"
+    },
+    {
+     "name": "Hugging Face model page",
+     "url": "https://huggingface.co/reflection/Beam-1.0-501B-A23B"
     }
    ]
   },

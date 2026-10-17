@@ -1,0 +1,687 @@
+{
+ "updated": "2026-10-17",
+ "items": [
+  {
+   "id": "iphone-duo",
+   "name": "iPhone Duo (Apple's first foldable)",
+   "brand": "Apple",
+   "categories": [
+    "apple"
+   ],
+   "type": "Phone",
+   "date": "2026-10-23",
+   "date_label": "Oct 23, 2026",
+   "precision": "day",
+   "status": "Confirmed",
+   "price": "From $1,999",
+   "summary": "Apple's first foldable iPhone goes on sale Oct 23 in the US and 70+ other markets; 28 more follow Oct 30.",
+   "details": "Pre-orders opened Oct 16 at 5 a.m. PT. It has a 7.6-inch folding screen, a 5.4-inch outer screen and the A20 Pro chip, in Star White and Night Sky. Demand is heavy: Apple called it 'extraordinary', and new orders now quote ship dates in January 2027, so check store stock if you want one sooner.",
+   "sources": [
+    {
+     "name": "Apple Newsroom",
+     "url": "https://www.apple.com/newsroom/2026/10/open-up-to-new-possibilities-with-iphone-duo/"
+    },
+    {
+     "name": "MacRumors",
+     "url": "https://www.macrumors.com/2026/10/15/iphone-duo-pre-orders-and-release-date/"
+    },
+    {
+     "name": "Macworld",
+     "url": "https://www.macworld.com/article/3262078/iphone-duo-pre-order-live-blog-how-quickly-will-apples-folding-phone-sell-out.html"
+    },
+    {
+     "name": "MacRumors: sold out for Christmas",
+     "url": "https://www.macrumors.com/2026/10/16/iphone-duo-sold-out-for-christmas/"
+    }
+   ]
+  },
+  {
+   "id": "homepod-mini-2",
+   "name": "HomePod mini (2nd generation)",
+   "brand": "Apple",
+   "categories": [
+    "apple"
+   ],
+   "type": "Gadget",
+   "date": "2026-10-30",
+   "date_label": "Oct 30, 2026",
+   "precision": "day",
+   "status": "Confirmed",
+   "price": "$149",
+   "summary": "Apple's refreshed smart speaker ships Oct 30 with new colors and improved audio.",
+   "details": "Announced at Apple's Oct 13 'Welcome Home' event alongside the HomeView hub and a new Apple TV 4K.",
+   "sources": [
+    {
+     "name": "Apple Newsroom",
+     "url": "https://www.apple.com/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini/"
+    },
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/tech/1009816/apple-smart-home-event-homeview-homepod-mini-roundup"
+    }
+   ]
+  },
+  {
+   "id": "apple-homeview-apple-tv-4k",
+   "name": "Apple HomeView hub and Apple TV 4K (4th gen)",
+   "brand": "Apple",
+   "categories": [
+    "apple",
+    "ai"
+   ],
+   "type": "Gadget",
+   "date": "2026-11-13",
+   "date_label": "Nov 13, 2026",
+   "precision": "day",
+   "status": "Confirmed",
+   "price": "$299 each",
+   "summary": "Apple's new 7-inch HomeView smart-home hub and the Siri AI-enabled Apple TV 4K both arrive Nov 13.",
+   "details": "Both devices were announced Oct 13 and are built to showcase Apple's upgraded Siri.",
+   "sources": [
+    {
+     "name": "Apple Newsroom: HomeView",
+     "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/"
+    },
+    {
+     "name": "Apple Newsroom: Apple TV 4K",
+     "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/10/13/apple-homeview-smart-home-siri-ai.html"
+    }
+   ]
+  },
+  {
+   "id": "apple-oled-macbook-pro-oct-27",
+   "name": "Apple OLED touchscreen MacBook Pro, OLED iPad mini, M6 MacBook Pro and iMac",
+   "brand": "Apple",
+   "categories": [
+    "apple",
+    "chips"
+   ],
+   "type": "Laptop",
+   "date": "2026-10-27",
+   "date_label": "Oct 27-28, 2026 (reported)",
+   "precision": "day",
+   "status": "Expected",
+   "price": "",
+   "summary": "Bloomberg says Apple will launch OLED touchscreen MacBook Pros, an OLED iPad mini, a 14-inch M6 MacBook Pro and an M6 iMac around Oct 27, with a media day in Los Angeles on Oct 28.",
+   "details": "Apple has not announced this event. Mark Gurman reports Apple invited some media to an all-day launch experience on Oct 28 in Los Angeles, which suggests an announcement on Oct 27. Details such as which chips power the OLED models are still disputed; see the rumor tracker.",
+   "sources": [
+    {
+     "name": "MacRumors (citing Bloomberg)",
+     "url": "https://www.macrumors.com/2026/10/08/apple-october-27-macbook-pro/"
+    },
+    {
+     "name": "GSMArena (citing Gurman)",
+     "url": "https://www.gsmarena.com/heres_when_apple_will_show_off_its_touchscreen_macbooks_and_the_oled_ipad_mini-news-75065.php"
+    }
+   ]
+  },
+  {
+   "id": "gtc-berlin-2026",
+   "name": "NVIDIA GTC Berlin 2026 (keynote Oct 21)",
+   "brand": "NVIDIA",
+   "categories": [
+    "chips",
+    "ai"
+   ],
+   "type": "Event",
+   "date": "2026-10-20",
+   "date_label": "Oct 20-22, 2026",
+   "precision": "day",
+   "status": "Confirmed",
+   "price": "Free livestream",
+   "summary": "NVIDIA's Europe AI conference runs Oct 20-22, with Jensen Huang's keynote on Oct 21 at 11 a.m. CEST.",
+   "details": "Virtual viewing is free with no registration. Expect AI infrastructure news; NVIDIA has not said whether it will announce consumer GPUs.",
+   "sources": [
+    {
+     "name": "NVIDIA GTC Berlin FAQ",
+     "url": "https://www.nvidia.com/en-eu/gtc/faq/"
+    },
+    {
+     "name": "NVIDIA keynote listing",
+     "url": "https://www.nvidia.com/de-de/gtc/session-catalog/sessions/gtceu26-sb61112/"
+    }
+   ]
+  },
+  {
+   "id": "cod-modern-warfare-4",
+   "name": "Call of Duty: Modern Warfare 4",
+   "brand": "Activision",
+   "categories": [
+    "gaming"
+   ],
+   "type": "Game",
+   "date": "2026-10-23",
+   "date_label": "Oct 23, 2026",
+   "precision": "day",
+   "status": "Confirmed",
+   "price": "",
+   "summary": "Call of Duty: Modern Warfare 4 lands Oct 23 on PC, Xbox, PS5 and Switch 2.",
+   "details": "Date taken from VGC's release schedule, updated in October 2026.",
+   "sources": [
+    {
+     "name": "Video Games Chronicle",
+     "url": "https://www.videogameschronicle.com/guide/upcoming-game-release-dates-schedule/"
+    }
+   ]
+  },
+  {
+   "id": "phantom-blade-zero",
+   "name": "Phantom Blade Zero",
+   "brand": "S-Game",
+   "categories": [
+    "gaming"
+   ],
+   "type": "Game",
+   "date": "2026-10-29",
+   "date_label": "Oct 29, 2026",
+   "precision": "day",
+   "status": "Confirmed",
+   "price": "",
+   "summary": "The martial-arts action game is scheduled for Oct 29 on PS5 and PC.",
+   "details": "Date taken from VGC's release schedule.",
+   "sources": [
+    {
+     "name": "Video Games Chronicle",
+     "url": "https://www.videogameschronicle.com/guide/upcoming-game-release-dates-schedule/"
+    }
+   ]
+  },
+  {
+   "id": "zelda-ocarina-of-time-switch-2",
+   "name": "The Legend of Zelda: Ocarina of Time (Switch 2)",
+   "brand": "Nintendo",
+   "categories": [
+    "gaming"
+   ],
+   "type": "Game",
+   "date": "2026-11-05",
+   "date_label": "Nov 5, 2026",
+   "precision": "day",
+   "status": "Confirmed",
+   "price": "",
+   "summary": "Ocarina of Time is listed for Nov 5 on Nintendo Switch 2.",
+   "details": "Date taken from VGC's release schedule.",
+   "sources": [
+    {
+     "name": "Video Games Chronicle",
+     "url": "https://www.videogameschronicle.com/guide/upcoming-game-release-dates-schedule/"
+    }
+   ]
+  },
+  {
+   "id": "pikmin-4-switch-2",
+   "name": "Pikmin 4: Nintendo Switch 2 Edition + Dandori Academy",
+   "brand": "Nintendo",
+   "categories": [
+    "gaming"
+   ],
+   "type": "Game",
+   "date": "2026-11-12",
+   "date_label": "Nov 12, 2026",
+   "precision": "day",
+   "status": "Confirmed",
+   "price": "",
+   "summary": "The Switch 2 edition of Pikmin 4, with the Dandori Academy add-on, arrives Nov 12.",
+   "details": "Date taken from VGC's release schedule.",
+   "sources": [
+    {
+     "name": "Video Games Chronicle",
+     "url": "https://www.videogameschronicle.com/guide/upcoming-game-release-dates-schedule/"
+    }
+   ]
+  },
+  {
+   "id": "gta-6",
+   "name": "Grand Theft Auto VI",
+   "brand": "Rockstar Games",
+   "categories": [
+    "gaming"
+   ],
+   "type": "Game",
+   "date": "2026-11-19",
+   "date_label": "Nov 19, 2026",
+   "precision": "day",
+   "status": "Confirmed",
+   "price": "",
+   "summary": "Rockstar's GTA VI launches Nov 19 on PS5 and Xbox Series X|S; pre-orders opened June 25.",
+   "details": "Digital preloading is reported to start Nov 12. There is no PC version announced for launch.",
+   "sources": [
+    {
+     "name": "Rockstar Games",
+     "url": "https://www.rockstargames.com/newswire/article/ak3ak31a49a221/grand-theft-auto-vi-is-now-set-to-launch-november-19-2026"
+    },
+    {
+     "name": "Take-Two",
+     "url": "https://taketwointeractivesoftwareinc.gcs-web.com/news-releases/news-release-details/rockstar-games-announces-pre-orders-grand-theft-auto-vi/"
+    },
+    {
+     "name": "PlayStation",
+     "url": "https://www.playstation.com/en-us/games/grand-theft-auto-vi/"
+    }
+   ]
+  },
+  {
+   "id": "microsoft-ignite-2026",
+   "name": "Microsoft Ignite 2026",
+   "brand": "Microsoft",
+   "categories": [
+    "ai",
+    "chips"
+   ],
+   "type": "Event",
+   "date": "2026-11-17",
+   "date_label": "Nov 17-20, 2026",
+   "precision": "day",
+   "status": "Confirmed",
+   "price": "",
+   "summary": "Microsoft's big AI, cloud and security conference runs Nov 17-20 at Moscone Center in San Francisco, with an online option.",
+   "details": "Watch for Copilot and Windows AI announcements.",
+   "sources": [
+    {
+     "name": "Moscone Center",
+     "url": "https://moscone.com/events/microsoft-ignite-2026"
+    },
+    {
+     "name": "Microsoft Security Blog",
+     "url": "https://www.microsoft.com/en-us/security/blog/2026/09/30/secure-whats-next-your-guide-to-microsoft-security-at-microsoft-ignite-2026/"
+    }
+   ]
+  },
+  {
+   "id": "monster-hunter-wilds-switch-2",
+   "name": "Monster Hunter Wilds (Switch 2)",
+   "brand": "Capcom",
+   "categories": [
+    "gaming"
+   ],
+   "type": "Game",
+   "date": "2026-12-04",
+   "date_label": "Dec 4, 2026",
+   "precision": "day",
+   "status": "Confirmed",
+   "price": "",
+   "summary": "Monster Hunter Wilds comes to Switch 2 on Dec 4.",
+   "details": "Date taken from VGC's release schedule.",
+   "sources": [
+    {
+     "name": "Video Games Chronicle",
+     "url": "https://www.videogameschronicle.com/guide/upcoming-game-release-dates-schedule/"
+    }
+   ]
+  },
+  {
+   "id": "ces-2027",
+   "name": "CES 2027",
+   "brand": "CTA",
+   "categories": [
+    "chips",
+    "android",
+    "ai"
+   ],
+   "type": "Event",
+   "date": "2027-01-06",
+   "date_label": "Jan 6-9, 2027",
+   "precision": "day",
+   "status": "Confirmed",
+   "price": "",
+   "summary": "CES 2027 runs Jan 6-9 in Las Vegas, with media days on Jan 4-5; expect new PC chips, TVs, laptops and gadgets.",
+   "details": "CPU and GPU makers often use CES for launches. See the rumor tracker for what is expected from Intel, AMD and NVIDIA.",
+   "sources": [
+    {
+     "name": "CES: dates and hours",
+     "url": "https://www.ces.tech/plan-your-visit/dates-and-hours/"
+    },
+    {
+     "name": "CTA",
+     "url": "https://www.cta.tech/events/ces-2027/"
+    }
+   ]
+  },
+  {
+   "id": "intel-nova-lake-s",
+   "name": "Intel Core Ultra 400 'Nova Lake-S' desktop CPUs",
+   "brand": "Intel",
+   "categories": [
+    "chips"
+   ],
+   "type": "Chip",
+   "date": "2027-01-06",
+   "date_label": "CES 2027 (Jan 2027), retail Q1",
+   "precision": "window",
+   "status": "Estimated",
+   "price": "",
+   "summary": "Intel's next desktop CPUs are expected to debut at CES 2027 with first retail models in Q1 2027; Intel has not confirmed.",
+   "details": "Based on leaker claims and trade-press reports of mass production in Q4 2026. The 52-core flagship is expected later.",
+   "sources": [
+    {
+     "name": "OC3D",
+     "url": "https://overclock3d.net/news/cpu_mainboard/intel-to-launch-next-gen-nova-lake-s-at-ces-2027-leaker-claims/"
+    },
+    {
+     "name": "PC Guide",
+     "url": "https://www.pcguide.com/news/nova-lake-cpus-expected-to-launch-early-next-year-and-intel-is-reportedly-planning-a-multi-generational-socket/"
+    },
+    {
+     "name": "Tom's Hardware",
+     "url": "https://www.tomshardware.com/pc-components/cpus/amd-zen-6-and-intel-nova-lake-cpus-reportedly-arriving-late-delayed-to-ces-2027-next-gen-chips-rocked-by-industry-turmoil"
+    }
+   ]
+  },
+  {
+   "id": "galaxy-s27",
+   "name": "Samsung Galaxy S27 series",
+   "brand": "Samsung",
+   "categories": [
+    "samsung",
+    "android"
+   ],
+   "type": "Phone",
+   "date": "2027-02-01",
+   "date_label": "Jan-Feb 2027 (estimate)",
+   "precision": "window",
+   "status": "Estimated",
+   "price": "",
+   "summary": "Samsung has not announced it, but its past Galaxy S launches point to a Jan-Feb 2027 Unpacked with sales about two weeks later.",
+   "details": "Past Unpacked dates: Jan 17, 2024; Jan 22, 2025; Feb 25, 2026. Four models are expected: S27, S27+, S27 Pro and S27 Ultra.",
+   "sources": [
+    {
+     "name": "PhoneArena",
+     "url": "https://www.phonearena.com/galaxy-s27-release-date-price-features-news"
+    },
+    {
+     "name": "Pogwire",
+     "url": "https://pogwire.com/tech/galaxy-s27-release-date"
+    },
+    {
+     "name": "Notebookcheck",
+     "url": "https://www.notebookcheck.net/Compact-Galaxy-S27-Pro-globally-confirmed-Four-Samsung-flagship-smartphones-set-for-2027.1328614.0.html"
+    }
+   ]
+  },
+  {
+   "id": "openai-first-device",
+   "name": "OpenAI's first hardware device (Jony Ive)",
+   "brand": "OpenAI",
+   "categories": [
+    "ai"
+   ],
+   "type": "Gadget",
+   "date": "2027-03-01",
+   "date_label": "2027 (not before end of Feb)",
+   "precision": "window",
+   "status": "Estimated",
+   "price": "",
+   "summary": "A court filing says OpenAI's first device won't ship before the end of February 2027; rumors point to a smart speaker with a camera.",
+   "details": "OpenAI earlier said it would unveil a product in late 2026, which is a reveal, not a shipping date. Pricing and form factor are unconfirmed.",
+   "sources": [
+    {
+     "name": "Business Insider",
+     "url": "https://www.businessinsider.com/openai-timeline-hardware-ai-device-launch-jony-ive-iyo-2026-2"
+    },
+    {
+     "name": "MacRumors",
+     "url": "https://www.macrumors.com/2026/07/28/openai-first-devices/"
+    },
+    {
+     "name": "WIRED",
+     "url": "https://www.wired.com/story/openai-drops-io-branding-hardware-devices/"
+    }
+   ]
+  },
+  {
+   "id": "iphone-18-and-18e",
+   "name": "iPhone 18 and iPhone 18e",
+   "brand": "Apple",
+   "categories": [
+    "apple"
+   ],
+   "type": "Phone",
+   "date": "2027-03-01",
+   "date_label": "Spring 2027 (about March)",
+   "precision": "window",
+   "status": "Estimated",
+   "price": "",
+   "summary": "Reports say Apple is splitting the iPhone lineup, with the standard iPhone 18 and 18e arriving in spring 2027; Apple has not confirmed.",
+   "details": "The iPhone 18 Pro, Pro Max and the foldable were the fall 2026 models.",
+   "sources": [
+    {
+     "name": "MacRumors",
+     "url": "https://www.macrumors.com/2026/04/08/iphone-air-2-and-iphone-18e-early-next-year/"
+    },
+    {
+     "name": "TechSpot",
+     "url": "https://www.techspot.com/news/110282-apple-could-split-iphone-releases-premium-budget-events.html"
+    },
+    {
+     "name": "Macworld",
+     "url": "https://www.macworld.com/article/3188152/iphone-18e-18-2027-release-date-specs-price-cameras.html"
+    }
+   ]
+  },
+  {
+   "id": "amd-zen-6-desktop",
+   "name": "AMD Zen 6 desktop CPUs ('Olympic Ridge')",
+   "brand": "AMD",
+   "categories": [
+    "chips"
+   ],
+   "type": "Chip",
+   "date": "2027-03-01",
+   "date_label": "CES 2027 reveal, retail Mar-Jun 2027 (estimate)",
+   "precision": "window",
+   "status": "Estimated",
+   "price": "",
+   "summary": "AMD's next desktop CPUs are reportedly targeted for a CES 2027 reveal, with retail between March and June 2027.",
+   "details": "AMD has not confirmed dates. Reports say the schedule slipped because of industry component turmoil.",
+   "sources": [
+    {
+     "name": "Tom's Hardware",
+     "url": "https://www.tomshardware.com/pc-components/cpus/amd-zen-6-and-intel-nova-lake-cpus-reportedly-arriving-late-delayed-to-ces-2027-next-gen-chips-rocked-by-industry-turmoil"
+    },
+    {
+     "name": "Tech Insider",
+     "url": "https://tech-insider.org/ca/intel-nova-lake-amd-zen-6-delay-2026/"
+    }
+   ]
+  },
+  {
+   "id": "apple-smart-glasses",
+   "name": "Apple smart glasses",
+   "brand": "Apple",
+   "categories": [
+    "apple",
+    "ai"
+   ],
+   "type": "Gadget",
+   "date": "2027-06-01",
+   "date_label": "Reveal WWDC (June 2027)? ship late 2027",
+   "precision": "window",
+   "status": "Estimated",
+   "price": "",
+   "summary": "Bloomberg's Mark Gurman reports Apple may unveil smart glasses at WWDC 2027 and ship late 2027, though it could slip to 2028-29.",
+   "details": "Apple has said nothing publicly. This entry is a report, not an announcement.",
+   "sources": [
+    {
+     "name": "MacRumors",
+     "url": "https://www.macrumors.com/2026/07/26/apple-smart-glasses-wwdc-2027-report/"
+    },
+    {
+     "name": "AppleInsider",
+     "url": "https://appleinsider.com/articles/26/09/27/apples-smart-glasses-predicted-for-2027-upgraded-apple-vision-pro-2028"
+    }
+   ]
+  },
+  {
+   "id": "tesla-roadster",
+   "name": "Tesla Roadster (next generation)",
+   "brand": "Tesla",
+   "categories": [
+    "evs"
+   ],
+   "type": "Car",
+   "date": "2028-01-01",
+   "date_label": "2028 (production, per Tesla)",
+   "precision": "window",
+   "status": "Estimated",
+   "price": "",
+   "summary": "Tesla showed the new Roadster on Oct 15 and said consumer production begins in 2028; reservations reopened.",
+   "details": "The flying 'Rocket' version using SpaceX-derived cold-gas thrusters is not expected to be street-legal. Engadget reports the thruster option requires a $250,000 reservation, and InsideEVs reports Tesla 'cannot guarantee' that pre-orders will ever be delivered.",
+   "sources": [
+    {
+     "name": "AP News",
+     "url": "https://apnews.com/article/tesla-musk-roadster-rocket-7d5f19665435b7408025bfb7a2f2f0b7"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html"
+    },
+    {
+     "name": "WIRED",
+     "url": "https://www.wired.com/story/tesla-roadster-2-launch/"
+    },
+    {
+     "name": "Engadget",
+     "url": "https://www.engadget.com/2288437/teslas-redesigned-roadster-cold-gas-thruster-option-reservation/"
+    },
+    {
+     "name": "InsideEVs",
+     "url": "https://insideevs.com/news/812247/tesla-roadster-preorder-delivery-guarantee/"
+    }
+   ]
+  },
+  {
+   "id": "gemini-4-argon",
+   "name": "Gemini 4 Argon",
+   "brand": "Google",
+   "categories": [
+    "ai",
+    "android"
+   ],
+   "type": "Software",
+   "date": "2026-10-13",
+   "date_label": "Oct 13, 2026",
+   "precision": "day",
+   "status": "Released",
+   "price": "API: $2 in / $10 out per 1M tokens until Nov 30",
+   "summary": "Google's newest frontier model is available worldwide to developers and to Google AI Pro and Ultra subscribers.",
+   "details": "API pricing rises to $4 / $20 per million tokens after the introductory period ends Nov 30, 2026.",
+   "sources": [
+    {
+     "name": "Google blog",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
+    }
+   ]
+  },
+  {
+   "id": "oneplus-16",
+   "name": "OnePlus 16 (China launch)",
+   "brand": "OnePlus",
+   "categories": [
+    "android",
+    "chips"
+   ],
+   "type": "Phone",
+   "date": "2026-10-12",
+   "date_label": "Oct 12, 2026",
+   "precision": "day",
+   "status": "Released",
+   "price": "",
+   "summary": "OnePlus launched the 16 in China on Oct 12, among the first phones with a Snapdragon 8 Elite Gen 6-series chip.",
+   "details": "Global plans were not announced at launch.",
+   "sources": [
+    {
+     "name": "Fone Arena",
+     "url": "https://www.fonearena.com/blog/493444/oneplus-16-launch-date.html"
+    },
+    {
+     "name": "Gizmochina",
+     "url": "https://www.gizmochina.com/2026/10/10/smartphones-list-launching-october/"
+    }
+   ]
+  },
+  {
+   "id": "snapdragon-8-elite-gen-6",
+   "name": "Snapdragon 8 Elite Gen 6 and 8 Elite Extreme Gen 6",
+   "brand": "Qualcomm",
+   "categories": [
+    "chips",
+    "android"
+   ],
+   "type": "Chip",
+   "date": "2026-09-22",
+   "date_label": "Sep 22, 2026",
+   "precision": "day",
+   "status": "Released",
+   "price": "",
+   "summary": "Qualcomm announced two flagship phone chips at Snapdragon Summit; Motorola and Xiaomi were first with the Extreme version.",
+   "details": "Phones using them are rolling out through late 2026 and early 2027.",
+   "sources": [
+    {
+     "name": "Qualcomm",
+     "url": "https://www.qualcomm.com/news/releases/2026/09/snapdragon-leads-the-agentic-ai-age-with-two-of-the-world-s-fast"
+    },
+    {
+     "name": "TechRadar",
+     "url": "https://www.techradar.com/phones/android/qualcomm-just-announced-the-snapdragon-8-elite-gen-6-and-8-elite-extreme-gen-6-for-next-gen-android-phones-heres-how-and-why-the-two-chipsets-differ-and-which-phones-could-be-supported"
+    }
+   ]
+  },
+  {
+   "id": "pixel-11-series",
+   "name": "Google Pixel 11, 11 Pro, 11 Pro XL and 11 Pro Fold",
+   "brand": "Google",
+   "categories": [
+    "android"
+   ],
+   "type": "Phone",
+   "date": "2026-08-20",
+   "date_label": "Aug 20, 2026",
+   "precision": "day",
+   "status": "Released",
+   "price": "From $899",
+   "summary": "Google's Tensor G6 phones went on sale Aug 20 at $899, $1,099 and $1,299 for the non-fold models.",
+   "details": "The Pixel 11 Pro Fold released the same day, though not in every country.",
+   "sources": [
+    {
+     "name": "Google blog",
+     "url": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-11-pro-xl/"
+    },
+    {
+     "name": "Android Authority",
+     "url": "https://www.androidauthority.com/google-pixel-11-series-3693865/"
+    }
+   ]
+  },
+  {
+   "id": "nvidia-rtx-spark-laptops",
+   "name": "NVIDIA RTX Spark Windows laptops (Surface Laptop Ultra and more)",
+   "brand": "NVIDIA",
+   "categories": [
+    "chips",
+    "ai"
+   ],
+   "type": "Laptop",
+   "date": "2026-10-16",
+   "date_label": "Oct 16, 2026",
+   "precision": "day",
+   "status": "Released",
+   "price": "From $2,599",
+   "summary": "Laptops built on NVIDIA's RTX Spark chip began shipping Oct 16 from Asus, Microsoft, Lenovo, HP and Dell.",
+   "details": "RTX Spark pairs a Grace CPU with a Blackwell GPU and up to 128GB of unified memory. Tom's Hardware lists prices from $2,599 (Asus ProArt P14) to about $7,000 for a 128GB, 2TB configuration. Small desktops are due later.",
+   "sources": [
+    {
+     "name": "Tom's Hardware",
+     "url": "https://www.tomshardware.com/laptops/nvidia-rtx-spark-devices-are-now-officially-on-sale-secure-the-surface-laptop-ultra-or-other-rtx-spark-laptops-here-starting-at-usd2-599-where-to-buy-pricing-and-availability-revealed-on-several-models"
+    },
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions"
+    }
+   ]
+  }
+ ]
+}

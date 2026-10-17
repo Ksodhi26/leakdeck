@@ -1,0 +1,563 @@
+{
+ "updated": "2026-10-17",
+ "scale": {
+  "Confirmed": "Announced by the company or shown in an official source.",
+  "Likely": "Multiple credible outlets or hard evidence (certifications, databases, supply chain), but no official word.",
+  "Rumor": "One or few sources, an estimate, or a leaker claim. Plausible but unverified.",
+  "Shaky": "Weak sourcing, conflicting reports, a bad track record, or a guess presented as news.",
+  "Debunked": "Contradicted by the company or by clear evidence."
+ },
+ "items": [
+  {
+   "id": "apple-oled-macbook-pro-launch",
+   "title": "Apple launches OLED touchscreen MacBook Pros and an M6 lineup around Oct 27",
+   "rating": "Likely",
+   "categories": [
+    "apple",
+    "chips"
+   ],
+   "status": "Active",
+   "updated": "2026-10-17",
+   "expected": "Oct 27, 2026 (reported)",
+   "claim": "Apple will announce OLED touchscreen 14- and 16-inch MacBook Pros, an OLED iPad mini, a 14-inch M6 MacBook Pro and an M6 iMac on or around Oct 27, with a media day in Los Angeles on Oct 28.",
+   "why": "Reported by Bloomberg and matched Apple's earlier pattern of two October launch rounds (the Oct 13 event happened as reported). On Oct 15 Gurman added that media were invited to an all-day launch experience on Oct 28. Apple has not confirmed. Reports disagree on whether the OLED models use M6 or M5 Pro/Max chips, and on availability dates.",
+   "sources": [
+    {
+     "name": "MacRumors (citing Bloomberg)",
+     "url": "https://www.macrumors.com/2026/10/08/apple-october-27-macbook-pro/"
+    },
+    {
+     "name": "Macworld",
+     "url": "https://www.macworld.com/article/3203946/m6-macbook-pro-rumors-release-date-specs.html"
+    },
+    {
+     "name": "GSMArena (citing Gurman)",
+     "url": "https://www.gsmarena.com/heres_when_apple_will_show_off_its_touchscreen_macbooks_and_the_oled_ipad_mini-news-75065.php"
+    }
+   ],
+   "first_reported": "2026-10-08"
+  },
+  {
+   "id": "iphone-18-spring-2027",
+   "title": "Standard iPhone 18 and iPhone 18e arrive in spring 2027",
+   "rating": "Likely",
+   "categories": [
+    "apple"
+   ],
+   "status": "Active",
+   "updated": "2026-10-17",
+   "expected": "About March 2027",
+   "claim": "Apple is splitting its iPhone releases: Pro and foldable models in fall, the standard iPhone 18 and 18e in spring.",
+   "why": "Reported repeatedly by Mark Gurman and echoed by several outlets. The fall 2026 lineup (iPhone 18 Pro and the foldable iPhone Duo) matched the split. Apple has not confirmed the spring models or date.",
+   "sources": [
+    {
+     "name": "MacRumors",
+     "url": "https://www.macrumors.com/2026/04/08/iphone-air-2-and-iphone-18e-early-next-year/"
+    },
+    {
+     "name": "GSMArena",
+     "url": "https://www.gsmarena.com/report_apple_to_split_iphone_unveil_in_two_phases__fall_and_spring-news-70320.php"
+    },
+    {
+     "name": "Tom's Guide",
+     "url": "https://www.tomsguide.com/phones/iphones/iphone-release-schedule-set-to-change-forever-in-2026-2027-confirms-apple-insider"
+    }
+   ],
+   "first_reported": "2026-04-08"
+  },
+  {
+   "id": "galaxy-s27-four-models",
+   "title": "Galaxy S27 family has four models, including a compact S27 Pro",
+   "rating": "Likely",
+   "categories": [
+    "samsung",
+    "android"
+   ],
+   "status": "Active",
+   "updated": "2026-10-17",
+   "expected": "Early 2027",
+   "claim": "Samsung will release the Galaxy S27, S27+, S27 Pro and S27 Ultra.",
+   "why": "Model numbers for all four (SM-S952U, SM-S956U, SM-S958U and a global dual-SIM SM-S957B/DS) appeared in the GSMA IMEI database, which is strong evidence a phone exists but does not confirm names, specs or launch dates.",
+   "sources": [
+    {
+     "name": "Notebookcheck",
+     "url": "https://www.notebookcheck.net/Compact-Galaxy-S27-Pro-globally-confirmed-Four-Samsung-flagship-smartphones-set-for-2027.1328614.0.html"
+    },
+    {
+     "name": "PhoneArena",
+     "url": "https://www.phonearena.com/galaxy-s27-release-date-price-features-news"
+    }
+   ],
+   "first_reported": "2026-06-25"
+  },
+  {
+   "id": "galaxy-s27-unpacked-feb-24",
+   "title": "Galaxy S27 Unpacked lands around Feb 24, 2027",
+   "rating": "Rumor",
+   "categories": [
+    "samsung",
+    "android"
+   ],
+   "status": "Active",
+   "updated": "2026-10-17",
+   "expected": "Jan-Feb 2027",
+   "claim": "Samsung will hold its Galaxy S27 Unpacked in late February 2027, possibly on Feb 24.",
+   "why": "This is an estimate extrapolated from past schedules (Jan 17, 2024; Jan 22, 2025; Feb 25, 2026) and early One UI 9.5 firmware testing, not a leak from Samsung. Samsung usually sends invitations about two weeks before the show.",
+   "sources": [
+    {
+     "name": "WhenCount",
+     "url": "https://whencount.com/samsung-galaxy-unpacked/"
+    },
+    {
+     "name": "Pogwire",
+     "url": "https://pogwire.com/tech/galaxy-s27-release-date"
+    },
+    {
+     "name": "PhoneArena",
+     "url": "https://www.phonearena.com/galaxy-s27-release-date-price-features-news"
+    }
+   ],
+   "first_reported": null
+  },
+  {
+   "id": "galaxy-s27-mass-production",
+   "title": "Galaxy S27 parts ramp to mass production in mid-October",
+   "rating": "Rumor",
+   "categories": [
+    "samsung"
+   ],
+   "status": "Active",
+   "updated": "2026-10-17",
+   "expected": "",
+   "claim": "Some Galaxy S27 components entered mass production in September, with all four models ramping in mid-October.",
+   "why": "Single-source report from ZDNet Korea relayed by SammyGuru and iDevice. Samsung has not commented.",
+   "sources": [
+    {
+     "name": "iDevice (citing ZDNet Korea)",
+     "url": "https://idevice.com/galaxy-s27-parts-are-in-mass-production-with-all-four-models-ramping-in-mid-octo"
+    }
+   ],
+   "first_reported": null
+  },
+  {
+   "id": "rtx-50-super-ces-2027",
+   "title": "NVIDIA RTX 50 Super cards debut at CES 2027",
+   "rating": "Shaky",
+   "categories": [
+    "chips",
+    "gaming"
+   ],
+   "status": "Active",
+   "updated": "2026-10-17",
+   "expected": "CES 2027? Or never",
+   "claim": "NVIDIA will launch the RTX 5060 Super (12GB), 5070 Super (18GB) and 5070 Ti/5080 Super (24GB) around CES 2027.",
+   "why": "Earlier reports named CES 2027, but a later September 2026 report says NVIDIA has no RTX 50 Super plans for 2027 and the refresh may not ship. The dates have moved repeatedly and the sources conflict.",
+   "sources": [
+    {
+     "name": "VideoCardz",
+     "url": "https://videocardz.com/newz/nvidia-geforce-rtx-50-super-series-now-rumored-for-ces-2027"
+    },
+    {
+     "name": "OC3D",
+     "url": "https://overclock3d.net/news/gpu-displays/nvidia-rtx-50-super-series-targets-ces-2027-launch-report-claims/"
+    },
+    {
+     "name": "Club386",
+     "url": "https://www.club386.com/nvidia-geforce-rtx-60-2028/"
+    },
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/tech/874439/nvidia-rtx-50-super-60-series-delay"
+    }
+   ],
+   "first_reported": null
+  },
+  {
+   "id": "rtx-60-2028",
+   "title": "NVIDIA RTX 60 series slips to 2028",
+   "rating": "Rumor",
+   "categories": [
+    "chips",
+    "gaming"
+   ],
+   "status": "Active",
+   "updated": "2026-10-17",
+   "expected": "2028",
+   "claim": "The next GeForce generation will miss 2027 and reach retail in 2028; AMD will have only one RDNA 5 GPU in 2027.",
+   "why": "Based on a leaker's claims reported by Club386 and a Verge report that the lineup could miss 2027. Neither company has confirmed.",
+   "sources": [
+    {
+     "name": "Club386",
+     "url": "https://www.club386.com/nvidia-geforce-rtx-60-2028/"
+    },
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/tech/874439/nvidia-rtx-50-super-60-series-delay"
+    }
+   ],
+   "first_reported": null
+  },
+  {
+   "id": "intel-nova-lake-ces",
+   "title": "Intel Nova Lake-S desktop CPUs debut at CES 2027",
+   "rating": "Likely",
+   "categories": [
+    "chips"
+   ],
+   "status": "Active",
+   "updated": "2026-10-17",
+   "expected": "Jan 2027",
+   "claim": "Intel will launch Core Ultra 400 'Nova Lake-S' desktop chips at CES 2027, with first retail models in Q1 2027.",
+   "why": "Several outlets report a CES 2027 debut and Q4 2026 mass production. The origin is leakers and supply-chain reports, and Intel has not confirmed a date.",
+   "sources": [
+    {
+     "name": "OC3D",
+     "url": "https://overclock3d.net/news/cpu_mainboard/intel-to-launch-next-gen-nova-lake-s-at-ces-2027-leaker-claims/"
+    },
+    {
+     "name": "PC Guide",
+     "url": "https://www.pcguide.com/news/nova-lake-cpus-expected-to-launch-early-next-year-and-intel-is-reportedly-planning-a-multi-generational-socket/"
+    },
+    {
+     "name": "Tom's Hardware",
+     "url": "https://www.tomshardware.com/pc-components/cpus/amd-zen-6-and-intel-nova-lake-cpus-reportedly-arriving-late-delayed-to-ces-2027-next-gen-chips-rocked-by-industry-turmoil"
+    }
+   ],
+   "first_reported": null
+  },
+  {
+   "id": "amd-zen-6-ces",
+   "title": "AMD Zen 6 desktop chips show up at CES 2027",
+   "rating": "Rumor",
+   "categories": [
+    "chips"
+   ],
+   "status": "Active",
+   "updated": "2026-10-17",
+   "expected": "CES 2027; retail Mar-Jun",
+   "claim": "AMD's Zen 6 'Olympic Ridge' desktop CPUs will be revealed at CES 2027 with retail from March to June 2027.",
+   "why": "Trade-press reports of a delay from earlier plans; retail window is an estimate. AMD has not confirmed.",
+   "sources": [
+    {
+     "name": "Tom's Hardware",
+     "url": "https://www.tomshardware.com/pc-components/cpus/amd-zen-6-and-intel-nova-lake-cpus-reportedly-arriving-late-delayed-to-ces-2027-next-gen-chips-rocked-by-industry-turmoil"
+    },
+    {
+     "name": "Tech Insider",
+     "url": "https://tech-insider.org/ca/intel-nova-lake-amd-zen-6-delay-2026/"
+    }
+   ],
+   "first_reported": null
+  },
+  {
+   "id": "openai-device-smart-speaker",
+   "title": "OpenAI's first device is a screenless smart speaker with a camera",
+   "rating": "Rumor",
+   "categories": [
+    "ai"
+   ],
+   "status": "Active",
+   "updated": "2026-10-17",
+   "expected": "Not before end of Feb 2027",
+   "claim": "The first Jony Ive-designed OpenAI device is a hockey-puck-sized speaker with a camera and sensors, priced around $200-$300.",
+   "why": "Form factor and price come from reports and leaks that OpenAI has not confirmed. One piece is firm: a court filing says no shipping before the end of February 2027.",
+   "sources": [
+    {
+     "name": "MacRumors",
+     "url": "https://www.macrumors.com/2026/07/28/openai-first-devices/"
+    },
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor"
+    },
+    {
+     "name": "Business Insider",
+     "url": "https://www.businessinsider.com/openai-timeline-hardware-ai-device-launch-jony-ive-iyo-2026-2"
+    }
+   ],
+   "first_reported": "2026-02-20"
+  },
+  {
+   "id": "apple-glasses-wwdc-2027",
+   "title": "Apple unveils smart glasses at WWDC 2027",
+   "rating": "Rumor",
+   "categories": [
+    "apple",
+    "ai"
+   ],
+   "status": "Active",
+   "updated": "2026-10-17",
+   "expected": "June 2027 reveal; late 2027 ship",
+   "claim": "Apple will show privacy-focused smart glasses at WWDC 2027 and ship them in late 2027.",
+   "why": "Reporting traces back mainly to Bloomberg's Mark Gurman, who also warns it could slip to late 2028 or 2029. The camera design decision was reported as not final.",
+   "sources": [
+    {
+     "name": "MacRumors",
+     "url": "https://www.macrumors.com/2026/07/26/apple-smart-glasses-wwdc-2027-report/"
+    },
+    {
+     "name": "AppleInsider",
+     "url": "https://appleinsider.com/articles/26/09/27/apples-smart-glasses-predicted-for-2027-upgraded-apple-vision-pro-2028"
+    },
+    {
+     "name": "GSMArena",
+     "url": "https://www.gsmarena.com/gurman_apple_to_unveil_its_smart_glasses_at_wwdc_2027-news-73887.php"
+    }
+   ],
+   "first_reported": "2026-05-31"
+  },
+  {
+   "id": "next-gen-consoles-delay",
+   "title": "PS6 and the next Xbox slip because of the memory shortage",
+   "rating": "Likely",
+   "categories": [
+    "gaming",
+    "chips"
+   ],
+   "status": "Active",
+   "updated": "2026-10-17",
+   "expected": "2028 or later (reported)",
+   "claim": "Sony's PS6 and Microsoft's next Xbox (Project Helix) will launch later than planned because of high memory prices.",
+   "why": "Sony's CEO said the PS6 launch date is still undecided because of the component shortage, and Microsoft's new CEO admitted the next Xbox is affected. The 2028-2029 timeframe for PS6 is a report, not a statement.",
+   "sources": [
+    {
+     "name": "TechRadar",
+     "url": "https://www.techradar.com/gaming/sony-ceo-confirms-the-ps6-launch-date-is-still-undecided-due-to-the-ongoing-component-shortage-considering-that-importance-we-need-to-take-some-action-otherwise-we-cannot-survive-in-this-landscape"
+    },
+    {
+     "name": "GameSpot",
+     "url": "https://www.gamespot.com/articles/next-gen-xbox-impacted-by-memory-crisis-new-ceo-admits/1100-6539620/"
+    },
+    {
+     "name": "Polygon",
+     "url": "https://www.polygon.com/ps6-sony-playstation-6-release-date-price/"
+    }
+   ],
+   "first_reported": "2025-12-29"
+  },
+  {
+   "id": "optimus-v3-unveil-2026",
+   "title": "Tesla unveils Optimus V3 before the end of 2026",
+   "rating": "Shaky",
+   "categories": [
+    "evs",
+    "ai"
+   ],
+   "status": "Active",
+   "updated": "2026-10-17",
+   "expected": "Unknown",
+   "claim": "Tesla will publicly show its Optimus V3 humanoid robot in 2026.",
+   "why": "Elon Musk had targeted a July-August window that passed without a reveal, and he blamed copycats for the delay. No unveiling was scheduled as of Oct 11. Treat Tesla timelines with caution.",
+   "sources": [
+    {
+     "name": "Business Insider",
+     "url": "https://www.businessinsider.com/elon-musk-tesla-optimus-humanoid-robot-unveiling-date-2026-4"
+    },
+    {
+     "name": "PolySignal",
+     "url": "https://polysignal.uk/q/ia-optimus-v3.html"
+    }
+   ],
+   "first_reported": null
+  },
+  {
+   "id": "honor-win-2-october",
+   "title": "Honor Win 2 and Win 2 RT launch in October",
+   "rating": "Rumor",
+   "categories": [
+    "android"
+   ],
+   "status": "Active",
+   "updated": "2026-10-17",
+   "expected": "Late Oct 2026 (rumored)",
+   "claim": "Honor's Win 2 and Win 2 RT phones launch this month with 100W/90W charging and 10,000mAh+ batteries.",
+   "why": "Both models cleared China's 3C certification with those charging figures, which is real evidence they exist. The October timing comes from a tipster, and Honor has not confirmed.",
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "url": "https://www.gizmochina.com/2026/10/10/smartphones-list-launching-october/"
+    }
+   ],
+   "first_reported": "2026-10-10"
+  },
+  {
+   "id": "oppo-find-x10-oct-21",
+   "title": "OPPO Find X10 launches worldwide on Oct 21",
+   "rating": "Shaky",
+   "categories": [
+    "android"
+   ],
+   "status": "Active",
+   "updated": "2026-10-17",
+   "expected": "Unknown",
+   "claim": "OPPO's Find X10 goes on sale on Oct 21.",
+   "why": "The only evidence is that a UK subscription promotion and its coupon end on Oct 21. That is not a global launch date, and the source that spotted it says so itself.",
+   "sources": [
+    {
+     "name": "PromptyBox",
+     "url": "https://promptybox.com/blog/whats-coming-in-tech-october-2026"
+    }
+   ],
+   "first_reported": "2026-09-30"
+  },
+  {
+   "id": "gpt7-claude6-dates",
+   "title": "Claude 6 arrives around May 2027 and GPT-7 around Jul-Aug 2027",
+   "rating": "Shaky",
+   "categories": [
+    "ai"
+   ],
+   "status": "Active",
+   "updated": "2026-10-17",
+   "expected": "2027 (forecast)",
+   "claim": "Anthropic's next flagship lands around May 2027 and OpenAI's around July-August 2027.",
+   "why": "These are prediction-market and blog forecasts. Neither company has announced model names or dates.",
+   "sources": [
+    {
+     "name": "Father of AI",
+     "url": "https://www.fatherofai.in/blog/every-ai-model-coming-2026-2027-release-calendar/"
+    },
+    {
+     "name": "AI Model Release Timeline",
+     "url": "https://matthewlloyd.github.io/ai-model-release-timeline/"
+    }
+   ],
+   "first_reported": null
+  },
+  {
+   "id": "snapdragon-two-flagships",
+   "title": "Qualcomm launches two flagship Snapdragon 8 Elite Gen 6 chips",
+   "rating": "Confirmed",
+   "categories": [
+    "chips",
+    "android"
+   ],
+   "status": "Resolved",
+   "updated": "2026-09-22",
+   "expected": "Sep 22, 2026",
+   "claim": "Qualcomm will unveil two Gen 6 flagship chips at Snapdragon Summit rather than one.",
+   "why": "Qualcomm teased 'Dual 8 Elites' on Aug 19 and announced the Snapdragon 8 Elite Gen 6 and 8 Elite Extreme Gen 6 on Sep 22. One detail was off: leaks called the second chip 'Pro', but Qualcomm named it 'Extreme'.",
+   "outcome": "Confirmed, with a different name than leaked.",
+   "sources": [
+    {
+     "name": "GSMArena",
+     "url": "https://www.gsmarena.com/qualcomms_new_teaser_confirms_that_two_snapdragon_8_elite_gen_6_socs_are_coming-news-74252.php"
+    },
+    {
+     "name": "TechRadar",
+     "url": "https://www.techradar.com/phones/android/qualcomm-just-announced-the-snapdragon-8-elite-gen-6-and-8-elite-extreme-gen-6-for-next-gen-android-phones-heres-how-and-why-the-two-chipsets-differ-and-which-phones-could-be-supported"
+    }
+   ],
+   "first_reported": "2026-08-19"
+  },
+  {
+   "id": "pixel-11-price-increase",
+   "title": "Pixel 11 prices go up $100",
+   "rating": "Confirmed",
+   "categories": [
+    "android"
+   ],
+   "status": "Resolved",
+   "updated": "2026-08-12",
+   "expected": "Aug 12, 2026",
+   "claim": "Google's Pixel 11 would start at $899 and the Pro at $1,099, about $100 more than last year, after leaks of higher European prices.",
+   "why": "Ars Technica extrapolated from European leaks; Google then priced the Pixel 11, Pro and Pro XL at $899, $1,099 and $1,299 on Aug 12.",
+   "outcome": "Confirmed at launch.",
+   "sources": [
+    {
+     "name": "Ars Technica",
+     "url": "https://arstechnica.com/gadgets/2026/07/googles-pixel-11-launch-event-is-set-for-august-12-with-possible-price-increases/"
+    },
+    {
+     "name": "Google blog",
+     "url": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-11-pro-xl/"
+    }
+   ],
+   "first_reported": "2026-07-07"
+  },
+  {
+   "id": "galaxy-s27-ultra-exynos-2700",
+   "title": "Galaxy S27 Ultra may switch to Exynos 2700 because Snapdragon overheats",
+   "rating": "Shaky",
+   "categories": [
+    "samsung",
+    "android",
+    "chips"
+   ],
+   "status": "Active",
+   "first_reported": "2026-10-15",
+   "updated": "2026-10-17",
+   "expected": "Decision pending",
+   "claim": "Samsung found the Snapdragon 8 Elite Extreme Gen 6 overheating in S27 Ultra testing and may use its own Exynos 2700 chip if Qualcomm doesn't fix it by mid-October.",
+   "why": "The report comes from Korean outlet SEDaily and was relayed by SamMobile and others. Qualcomm's chief marketing officer Don McGuire says the overheating reports are '100% NOT accurate'. Chip choice by region is routine for Samsung, but this specific claim is single-sourced and denied.",
+   "sources": [
+    {
+     "name": "SamMobile",
+     "url": "https://www.sammobile.com/news/galaxy-s27-ultra-snapdragon-heating-issues-use-exynos-2700/"
+    },
+    {
+     "name": "GSMArena",
+     "url": "https://www.gsmarena.com/the_galaxy_s27_ultra_runs_into_issues_with_the_snapdragon_8_ee_gen_6_exynos_2700_may_return-news-75078.php"
+    },
+    {
+     "name": "9to5Google",
+     "url": "https://9to5google.com/2026/10/16/samsung-galaxy-s27-snapdragon-overheating-report/"
+    }
+   ]
+  },
+  {
+   "id": "galaxy-s27-plus-no-uwb",
+   "title": "Galaxy S27+ drops ultra-wideband (UWB)",
+   "rating": "Rumor",
+   "categories": [
+    "samsung",
+    "android"
+   ],
+   "status": "Active",
+   "first_reported": "2026-10-16",
+   "updated": "2026-10-17",
+   "expected": "Early 2027",
+   "claim": "The Galaxy S27+ may lose UWB, a feature Samsung has offered for years.",
+   "why": "Reported by several Android outlets (GSMArena, SamMobile, Android Authority) from leaked information, but Samsung has not commented and the underlying source is not named in the headlines we reviewed.",
+   "sources": [
+    {
+     "name": "GSMArena",
+     "url": "https://www.gsmarena.com/samsung_galaxy_s27_might_miss_out_on_uwb-news-75084.php"
+    },
+    {
+     "name": "SamMobile",
+     "url": "https://www.sammobile.com/news/galaxy-s27-plus-could-miss-out-uwb/"
+    },
+    {
+     "name": "Android Authority",
+     "url": "https://www.androidauthority.com/samsung-galaxy-s27-plus-uwb-downgrade-3724300/"
+    }
+   ]
+  },
+  {
+   "id": "rtx-5090-production-halt",
+   "title": "NVIDIA has stopped making the RTX 5090",
+   "rating": "Rumor",
+   "categories": [
+    "chips",
+    "gaming"
+   ],
+   "status": "Active",
+   "first_reported": "2026-10-10",
+   "updated": "2026-10-17",
+   "expected": "",
+   "claim": "NVIDIA has halted production of the GeForce RTX 5090 and is redirecting the GB202 chip to its professional RTX Pro cards.",
+   "why": "Real signs point that way: Micro Center reclassified the card 'Not Carried', many stores sold out, and NVIDIA removed it from its own marketplace. But NVIDIA has not commented, still lists the card at $1,999, and Tom's Hardware notes it has not been formally confirmed as discontinued.",
+   "sources": [
+    {
+     "name": "Tom's Hardware",
+     "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-5090-disappears-from-micro-center-amid-rumors-of-a-production-halt-retailer-flags-flagship-as-not-carried-as-stock-mysteriously-vanishes"
+    },
+    {
+     "name": "Tom's Hardware: last chance",
+     "url": "https://www.tomshardware.com/desktops/gaming-pcs/this-could-be-your-last-chance-to-grab-an-rtx-5090-how-to-secure-nvidias-top-rtx-gpu-as-rumors-of-discontinuation-swirl"
+    }
+   ]
+  }
+ ]
+}

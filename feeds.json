@@ -1,0 +1,120 @@
+{
+ "_note": "Public RSS/Atom feeds. We store only headline, link, source, date and category. We never store or republish article text. Add or remove feeds here.",
+ "feeds": [
+  {
+   "name": "The Verge",
+   "url": "https://www.theverge.com/rss/index.xml",
+   "default": []
+  },
+  {
+   "name": "Ars Technica",
+   "url": "https://feeds.arstechnica.com/arstechnica/index",
+   "default": []
+  },
+  {
+   "name": "Engadget",
+   "url": "https://www.engadget.com/rss.xml",
+   "default": []
+  },
+  {
+   "name": "TechCrunch",
+   "url": "https://techcrunch.com/feed/",
+   "default": [],
+   "require_category": true
+  },
+  {
+   "name": "9to5Mac",
+   "url": "https://9to5mac.com/feed/",
+   "default": [
+    "apple"
+   ]
+  },
+  {
+   "name": "MacRumors",
+   "url": "https://feeds.macrumors.com/MacRumors-All",
+   "default": [
+    "apple"
+   ]
+  },
+  {
+   "name": "9to5Google",
+   "url": "https://9to5google.com/feed/",
+   "default": [
+    "android"
+   ]
+  },
+  {
+   "name": "Android Authority",
+   "url": "https://www.androidauthority.com/feed/",
+   "default": [
+    "android"
+   ]
+  },
+  {
+   "name": "Android Police",
+   "url": "https://www.androidpolice.com/feed/",
+   "default": [
+    "android"
+   ]
+  },
+  {
+   "name": "GSMArena",
+   "url": "https://www.gsmarena.com/rss-news-reviews.php3",
+   "default": []
+  },
+  {
+   "name": "SamMobile",
+   "url": "https://www.sammobile.com/feed/",
+   "default": [
+    "samsung"
+   ]
+  },
+  {
+   "name": "XDA Developers",
+   "url": "https://www.xda-developers.com/feed/",
+   "default": []
+  },
+  {
+   "name": "Tom's Hardware",
+   "url": "https://www.tomshardware.com/feeds.xml",
+   "default": []
+  },
+  {
+   "name": "TechRadar",
+   "url": "https://www.techradar.com/feeds/articletype/news",
+   "default": [],
+   "require_category": true
+  },
+  {
+   "name": "PC Gamer",
+   "url": "https://www.pcgamer.com/rss/",
+   "default": [
+    "gaming"
+   ]
+  },
+  {
+   "name": "GameSpot",
+   "url": "https://www.gamespot.com/feeds/news/",
+   "default": [
+    "gaming"
+   ]
+  },
+  {
+   "name": "Electrek",
+   "url": "https://electrek.co/feed/",
+   "default": [
+    "evs"
+   ]
+  },
+  {
+   "name": "InsideEVs",
+   "url": "https://insideevs.com/rss/news/all/",
+   "default": [
+    "evs"
+   ]
+  }
+ ],
+ "max_age_days": 10,
+ "max_items": 600,
+ "per_feed_max": 30
+}

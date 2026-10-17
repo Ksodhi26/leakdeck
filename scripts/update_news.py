@@ -22,7 +22,7 @@ from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-UA = "Mozilla/5.0 (compatible; LeakDeckBot/1.0; +https://leakdeck.com/about.html)"
+UA = "Mozilla/5.0 (compatible; LeakDeckBot/1.0; +https://leakdeck.com/about)"
 NOW = dt.datetime.now(dt.timezone.utc)
 
 # Keyword rules (matched against the headline, lowercase). Order does not matter.

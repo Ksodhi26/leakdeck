@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T14:09:36Z",
+ "updated": "2026-10-18T01:39:47Z",
  "sources": [
   "9to5Google",
   "9to5Mac",
@@ -20,8 +20,808 @@
   "Tom's Hardware",
   "XDA Developers"
  ],
- "count": 442,
+ "count": 519,
  "items": [
+  {
+   "id": "25516ef6dbcc",
+   "title": "Someone got Blu-ray's Dolby Atmos TrueHD sound working on the Apple TV 4K, through quite the hack",
+   "url": "https://www.techradar.com/televisions/streaming-devices/someone-got-blu-ray-quality-dolby-atmos-truehd-lossless-sound-working-on-the-apple-tv-4k",
+   "source": "TechRadar",
+   "published": "2026-10-18T01:00:00Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "090cac728b32",
+   "title": "You don't have to turn off your phone to switch SIM cards (but you probably should)",
+   "url": "https://www.engadget.com/2285099/why-turn-off-phone-remove-sim-card-explained/",
+   "source": "Engadget",
+   "published": "2026-10-18T00:30:00Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "416a2e9f7957",
+   "title": "I rebuilt my Windows PC from one YAML file, and I'm never clicking through installers again",
+   "url": "https://www.xda-developers.com/rebuilt-windows-pc-from-one-yaml-file-never-clicking-through-installers-again/",
+   "source": "XDA Developers",
+   "published": "2026-10-18T00:00:19Z",
+   "categories": [
+    "chips"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "ffa91a50501d",
+   "title": "What to check if your Nintendo Switch 2 isn't connecting to the TV",
+   "url": "https://www.engadget.com/2285088/nintendo-switch-2-not-connecting-to-tv-what-check/",
+   "source": "Engadget",
+   "published": "2026-10-18T00:00:00Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "083c1a19a74d",
+   "title": "OpenAI is building a humanoid robot, but the body isn't the real challenge",
+   "url": "https://www.engadget.com/2285040/openai-humanoid-robot-sam-altman-statement-real-challenge/",
+   "source": "Engadget",
+   "published": "2026-10-17T23:45:00Z",
+   "categories": [
+    "ai"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "8175fdb0eaa7",
+   "title": "These Samsung Galaxy tablets are in their last year of software support",
+   "url": "https://www.engadget.com/2284679/samsung-galaxy-tablets-last-year-software-support/",
+   "source": "Engadget",
+   "published": "2026-10-17T23:30:00Z",
+   "categories": [
+    "android",
+    "samsung"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "eedd0c453d3f",
+   "title": "Deals: latest Galaxy foldables and Galaxy S26 series are on sale",
+   "url": "https://www.gsmarena.com/deals_the_galaxy_z8_and_galaxy_s26_models_are_on_sale-news-75085.php",
+   "source": "GSMArena",
+   "published": "2026-10-17T23:24:02Z",
+   "categories": [
+    "android",
+    "samsung"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "95f6f3f9d0fb",
+   "title": "I run OpenCode with a different model for every job, and I haven't hit a rate limit yet",
+   "url": "https://www.xda-developers.com/run-opencode-with-different-model-for-every-job-havent-hit-rate-limits/",
+   "source": "XDA Developers",
+   "published": "2026-10-17T23:00:20Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "83a04dcd1806",
+   "title": "Using EQSweep to fine-tune my Pixel Buds improved their sound quality",
+   "url": "https://www.androidpolice.com/i-tried-eqsweep-on-my-pixel-buds-and-now-my-music-sounds-dramatically-better/",
+   "source": "Android Police",
+   "published": "2026-10-17T23:00:13Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "d26c8bcad37f",
+   "title": "Why your Wi-Fi speeds can drop in the evening, and what to do about it",
+   "url": "https://www.engadget.com/2284612/wifi-speeds-drop-evening-reason-why/",
+   "source": "Engadget",
+   "published": "2026-10-17T23:00:00Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "e454c0242576",
+   "title": "Skullcandy Crusher 720 headphones hit a record-low thanks to this 33% discount from Amazon",
+   "url": "https://www.androidpolice.com/skullcandy-crusher-720-lowest-price-ever/",
+   "source": "Android Police",
+   "published": "2026-10-17T22:56:21Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "a3efd6ceca5c",
+   "title": "How to keep your smart home running even if the internet goes down",
+   "url": "https://www.engadget.com/2284525/how-to-keep-smart-home-running-internet-goes-down/",
+   "source": "Engadget",
+   "published": "2026-10-17T22:45:00Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "c15051f8fbb6",
+   "title": "Why it's important to monitor your PC's background processes",
+   "url": "https://www.engadget.com/2284465/why-its-important-to-monitor-pc-background-processes/",
+   "source": "Engadget",
+   "published": "2026-10-17T22:30:00Z",
+   "categories": [
+    "chips"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "81107bc9b032",
+   "title": "iPhone Duo walk-in purchases might be challenging at launch, per report",
+   "url": "https://9to5mac.com/2026/10/17/iphone-duo-walk-in-purchases-challenging-report/",
+   "source": "9to5Mac",
+   "published": "2026-10-17T22:21:41Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": true
+  },
+  {
+   "id": "87c4986e368b",
+   "title": "An old Android tablet makes a better Steam Link screen than any handheld I own",
+   "url": "https://www.xda-developers.com/an-old-android-tablet-makes-a-better-steam-link-screen-than-any-handheld-i-own/",
+   "source": "XDA Developers",
+   "published": "2026-10-17T22:00:19Z",
+   "categories": [
+    "android",
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "cd795beffc45",
+   "title": "Don't throw away your old PlayStation — Do this instead",
+   "url": "https://www.engadget.com/2284423/dont-throw-away-old-playstation-do-this-instead/",
+   "source": "Engadget",
+   "published": "2026-10-17T22:00:00Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "f917ef556103",
+   "title": "Metal band Genitorturers allegedly claims a Vampire: The Masquerade - Bloodlines remake is coming, getting a dozen crusty nerds way too worked up",
+   "url": "https://www.pcgamer.com/games/rpg/metal-band-genitorturers-allegedly-claims-a-vampire-the-masquerade-bloodlines-remake-is-coming-getting-a-dozen-crusty-nerds-way-too-worked-up/",
+   "source": "PC Gamer",
+   "published": "2026-10-17T21:52:34Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": true
+  },
+  {
+   "id": "a39d55ce33a9",
+   "title": "World's smallest PC with a 16GB GDDR7 desktop RTX 5080 GPU goes on sale for $2,647, but you will have to buy your own SSD, RAM, and OS — Zotac Magnus One Ultra has an 850W PSU and can drive 6 4K monitors",
+   "url": "https://www.techradar.com/pro/worlds-smallest-pc-with-a-16gb-gddr7-desktop-rtx-5080-gpu-goes-on-sale-for-usd2-647-but-you-will-have-to-buy-your-own-ssd-ram-and-os-zotac-magnus-one-ultra-has-an-850w-psu-and-can-drive-6-4k-monitors",
+   "source": "TechRadar",
+   "published": "2026-10-17T21:35:00Z",
+   "categories": [
+    "chips",
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "568162b981af",
+   "title": "Meta removes language that raised scraping and AI training concerns",
+   "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+   "source": "TechCrunch",
+   "published": "2026-10-17T21:31:32Z",
+   "categories": [
+    "ai"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "5e5f89e70a51",
+   "title": "Apple Retail Staff Told to Warn Against iPhone Duo Walk-In Purchases",
+   "url": "https://www.macrumors.com/2026/10/17/staff-warn-against-iphone-duo-walk-ins/",
+   "source": "MacRumors",
+   "published": "2026-10-17T21:30:45Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "fbbe14e7beac",
+   "title": "I stopped using a VPN for privacy once I understood what it actually hides",
+   "url": "https://www.xda-developers.com/stopped-using-a-vpn-for-privacy-once-i-understood-what-it-actually-hides/",
+   "source": "XDA Developers",
+   "published": "2026-10-17T21:30:20Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "ae67274fc29a",
+   "title": "The Tesla Roadster is far from the first car to use fans for downforce",
+   "url": "https://www.engadget.com/2289646/tesla-roadster-not-first-car-use-fans-for-downforce/",
+   "source": "Engadget",
+   "published": "2026-10-17T21:20:21Z",
+   "categories": [
+    "evs"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "9060bf593907",
+   "title": "Your Claude Opus 5.5 keeps quietly switching to Opus 4.8, and it's supposed to prevent a security leak",
+   "url": "https://www.xda-developers.com/claude-opus-5-5-model-switch-opus-4-8/",
+   "source": "XDA Developers",
+   "published": "2026-10-17T21:00:19Z",
+   "categories": [
+    "ai"
+   ],
+   "rumor": true
+  },
+  {
+   "id": "a13ae586fc0d",
+   "title": "I let YouTube's Auto Speed binge my videos; here's where it shines",
+   "url": "https://www.androidpolice.com/youtube-auto-speed-ai-premium-feature-review/",
+   "source": "Android Police",
+   "published": "2026-10-17T21:00:13Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "003d90fce56a",
+   "title": "Electric Mercedes-AMG GT SUV unveiled with 1,153 hp and 710 kW charging",
+   "url": "https://electrek.co/2026/10/17/mercedes-amg-gt-suv-electric-1153-hp-710-kw-charging/",
+   "source": "Electrek",
+   "published": "2026-10-17T20:37:19Z",
+   "categories": [
+    "evs"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "d0d55c33e198",
+   "title": "Grab an RTX 5090 for a discounted $5,300 as part of an MSI Infinite ZS prebuilt gaming PC — price includes other components worth about $2,300 on their own",
+   "url": "https://www.tomshardware.com/pc-components/gpus/grab-an-rtx-5090-for-discounted-usd5-300-as-part-of-an-msi-infinite-zs-prebuilt-gaming-pc-usd7-599-price-includes-other-components-worth-about-usd2-300-on-their-own",
+   "source": "Tom's Hardware",
+   "published": "2026-10-17T20:30:58Z",
+   "categories": [
+    "chips",
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "b5bf67551b70",
+   "title": "Your motherboard's old debug header is still listening, and it's an unpatched security risk",
+   "url": "https://www.xda-developers.com/motherboard-old-debug-header-still-listening-security-risk/",
+   "source": "XDA Developers",
+   "published": "2026-10-17T20:30:19Z",
+   "categories": [
+    "chips"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "0b92556a2d62",
+   "title": "Apple Hires Former Meta Lawyer to Oversee Global Litigation",
+   "url": "https://www.macrumors.com/2026/10/17/apple-hires-former-meta-lawyer/",
+   "source": "MacRumors",
+   "published": "2026-10-17T20:21:20Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "b769f5e984a3",
+   "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+   "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+   "source": "TechCrunch",
+   "published": "2026-10-17T20:21:19Z",
+   "categories": [
+    "ai"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "7f880a8c648f",
+   "title": "Qualcomm denies rumors about Snapdragon 8 Elite Extreme Gen 6 overheating",
+   "url": "https://www.gsmarena.com/qualcomm_denies_rumors_about_snapdragon_8_elite_extreme_gen_6_overheating-news-75100.php",
+   "source": "GSMArena",
+   "published": "2026-10-17T20:01:02Z",
+   "categories": [
+    "android",
+    "chips"
+   ],
+   "rumor": true
+  },
+  {
+   "id": "e9a973cec7f0",
+   "title": "I tried Claude Code, VS Code, and a local LLM as a note-taking app, and only one worked",
+   "url": "https://www.xda-developers.com/tried-claude-code-vs-code-local-llm-as-note-taking-app-only-one-worked/",
+   "source": "XDA Developers",
+   "published": "2026-10-17T20:00:20Z",
+   "categories": [
+    "ai"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "bb38f1891d15",
+   "title": "TikTok bans Musk documentary account",
+   "url": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
+   "source": "The Verge",
+   "published": "2026-10-17T19:32:23Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "48d2c8842451",
+   "title": "Qualcomm wins $2 legal decision against fellow tech giant Arm, and that's not a typo",
+   "url": "https://www.pcgamer.com/gaming-industry/qualcomm-wins-usd2-legal-decision-against-fellow-tech-giant-arm-and-thats-not-a-typo/",
+   "source": "PC Gamer",
+   "published": "2026-10-17T19:30:53Z",
+   "categories": [
+    "chips",
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "72c57088d254",
+   "title": "I almost retired my old PC until these 5 lightweight Docker containers gave it a purpose",
+   "url": "https://www.xda-developers.com/almost-retired-pc-until-these-lightweight-docker-containers-gave-purpose/",
+   "source": "XDA Developers",
+   "published": "2026-10-17T19:30:20Z",
+   "categories": [
+    "chips"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "713176acd35b",
+   "title": "Indie App Spotlight: ‘Hoardware’ makes it easy to track your Apple device collection",
+   "url": "https://9to5mac.com/2026/10/17/indie-app-spotlight-hoardware-makes-it-easy-to-track-your-apple-device-collection/",
+   "source": "9to5Mac",
+   "published": "2026-10-17T19:30:00Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "802822a13a21",
+   "title": "Leaked gameplay purports to show a canceled Assassin's Creed game set in ancient China",
+   "url": "https://www.engadget.com/2289636/leaked-gameplay-purports-to-show-a-canceled-assassins-creed-game-set-in-ancient-china/",
+   "source": "Engadget",
+   "published": "2026-10-17T19:22:17Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": true
+  },
+  {
+   "id": "7385e8b68100",
+   "title": "Microsoft's Maia 300 swaps raw compute for a 2.5x memory bandwidth gain as it moves to make in-house silicon its main AI engine while claiming a 40% efficiency bump — could going the Google route be the pin that pops the Nvidia AI bubble?",
+   "url": "https://www.techradar.com/pro/microsofts-maia-300-swaps-raw-compute-for-a-2-5x-memory-bandwidth-gain-as-it-moves-to-make-in-house-silicon-its-main-ai-engine-while-claiming-a-40-percent-efficiency-bump-could-going-the-google-route-be-the-pin-that-pops-the-nvidia-ai-bubble",
+   "source": "TechRadar",
+   "published": "2026-10-17T19:20:00Z",
+   "categories": [
+    "ai",
+    "android",
+    "chips"
+   ],
+   "rumor": true
+  },
+  {
+   "id": "f908db41f2f3",
+   "title": "This Jellyfin dashboard lets me manage viewers, requests, and downloads right from my couch",
+   "url": "https://www.xda-developers.com/this-jellyfin-dashboard-lets-me-manage-viewers-requests-downloads-from-my-couch/",
+   "source": "XDA Developers",
+   "published": "2026-10-17T19:00:19Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "9ce0c060629a",
+   "title": "Liquid cooling finally made a Qi2 power bank worth it for my Pixel 11 Pro",
+   "url": "https://www.androidpolice.com/ugreeen-magflow-pro-liquid-cooling-pixel-11/",
+   "source": "Android Police",
+   "published": "2026-10-17T19:00:13Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "51c1c9a5e48b",
+   "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+   "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+   "source": "TechCrunch",
+   "published": "2026-10-17T18:48:08Z",
+   "categories": [
+    "ai"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "b16013f5fc2c",
+   "title": "Grab an Amazon Fire HD 10 for just $73 while the 53% discount lasts",
+   "url": "https://www.androidpolice.com/score-a-amazon-fire-hd-10-for-just-73/",
+   "source": "Android Police",
+   "published": "2026-10-17T18:45:57Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "122d129c7d9d",
+   "title": "Android Auto can be used outside of your car: Here's how",
+   "url": "https://www.engadget.com/2284102/how-android-auto-used-outside-of-car/",
+   "source": "Engadget",
+   "published": "2026-10-17T18:45:00Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "a00c48e1088a",
+   "title": "'I am overwhelmed and overstimulated': The actor behind Star Wars: Galactic Racer’s Biddy Blas is scribbing doon all your enthusiasm",
+   "url": "https://www.pcgamer.com/games/racing/i-am-overwhelmed-and-overstimulated-the-actor-behind-star-wars-galactic-racers-biddy-blas-is-scribbing-doon-all-your-enthusiasm/",
+   "source": "PC Gamer",
+   "published": "2026-10-17T18:34:02Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "36421fc76370",
+   "title": "I replaced VS Code's Copilot with a local LLM, and my offline coding got faster",
+   "url": "https://www.xda-developers.com/replaced-vs-code-copilot-local-llm-offline-coding-got-faster/",
+   "source": "XDA Developers",
+   "published": "2026-10-17T18:30:19Z",
+   "categories": [
+    "ai"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "5b11e9ff35ba",
+   "title": "What's actually eating all the storage space on your Android Phone?",
+   "url": "https://www.engadget.com/2283986/whats-actually-eating-all-the-storage-space-on-your-android-phone/",
+   "source": "Engadget",
+   "published": "2026-10-17T18:30:00Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "99d4955c3c20",
+   "title": "iPhone Duo shipping estimates have already been pushed back to 2027",
+   "url": "https://www.engadget.com/2289629/iphone-duo-shipping-estimates-have-already-been-pushed-back-to-2027/",
+   "source": "Engadget",
+   "published": "2026-10-17T18:12:35Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "e8051945a9e2",
+   "title": "You might be surprised by how much the Slate truck can carry",
+   "url": "https://www.engadget.com/2289615/slate-truck-how-much-can-carry/",
+   "source": "Engadget",
+   "published": "2026-10-17T18:00:00Z",
+   "categories": [],
+   "rumor": true
+  },
+  {
+   "id": "1977a18ec0be",
+   "title": "To help America, I used Crusader Kings 3 to figure out how to remove a doddering, senile lunatic from power",
+   "url": "https://www.pcgamer.com/games/strategy/to-help-america-i-used-crusader-kings-3-to-figure-out-how-to-remove-a-doddering-senile-lunatic-from-power/",
+   "source": "PC Gamer",
+   "published": "2026-10-17T18:00:00Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "58f927055ed2",
+   "title": "Hands-on: UGREEN’s new 25W MagSafe battery for iPhone features liquid cooling",
+   "url": "https://9to5mac.com/2026/10/17/ugreen-25w-magsafe-liquid-cooling-battery-bank/",
+   "source": "9to5Mac",
+   "published": "2026-10-17T17:52:00Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "b5c0a9a204bb",
+   "title": "Apple's official silicone case for the iPhone Duo requires adhesive",
+   "url": "https://www.gsmarena.com/apples_official_silicone_case_for_the_iphone_duo_requires_adhesive-news-75099.php",
+   "source": "GSMArena",
+   "published": "2026-10-17T17:44:02Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "1b2271ef1b12",
+   "title": "The S26 Ultra's best camera setting is hiding in a separate Samsung app",
+   "url": "https://www.androidpolice.com/s26-ultras-best-camera-setting-is-hiding-in-separate-samsung-app/",
+   "source": "Android Police",
+   "published": "2026-10-17T17:00:13Z",
+   "categories": [
+    "android",
+    "samsung"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "68542ef58980",
+   "title": "Surprising no-one, Wizards of the Coast 'doesn't intend to voluntarily recognize' union efforts for the second time this year",
+   "url": "https://www.pcgamer.com/gaming-industry/surprising-no-one-wizards-of-the-coast-doesnt-intend-to-voluntarily-recognize-union-efforts-for-the-second-time-this-year/",
+   "source": "PC Gamer",
+   "published": "2026-10-17T17:00:00Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "7d51ead4792c",
+   "title": "Discussion time: Do you think zone chats in MMOs are forces for good, or evil?",
+   "url": "https://www.pcgamer.com/games/world-of-warcraft/discussion-time-do-you-think-zone-chats-in-mmos-are-forces-for-good-or-evil/",
+   "source": "PC Gamer",
+   "published": "2026-10-17T17:00:00Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "5805bd435024",
+   "title": "AMG’s New Electric SUV Has 1,153 HP. The Charging Specs Are Even Wilder",
+   "url": "https://insideevs.com/news/812320/amg-gt-suv-ev-reveal/",
+   "source": "InsideEVs",
+   "published": "2026-10-17T17:00:00Z",
+   "categories": [
+    "evs"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "1b9b6ec35709",
+   "title": "Elon Musk settles lawsuits over $1 million voter giveaway",
+   "url": "https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway",
+   "source": "The Verge",
+   "published": "2026-10-17T16:39:44Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "d684eb729d7a",
+   "title": "What does the yellow light on your Alexa device mean and how do you clear it?",
+   "url": "https://www.engadget.com/2284036/amazon-alexa-device-yellow-light-meaning/",
+   "source": "Engadget",
+   "published": "2026-10-17T16:30:00Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "1496b16b029c",
+   "title": "Anbernic's RG DDS is almost double the price of the original Nintendo 3DS",
+   "url": "https://www.engadget.com/2289602/anbernics-rg-dds-is-almost-double-the-price-of-the-original-nintendo-3ds/",
+   "source": "Engadget",
+   "published": "2026-10-17T16:15:11Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "855c836b9ece",
+   "title": "I tested Samsung's Auto Blocker and Google's Advanced Protection; you'll want both on",
+   "url": "https://www.androidpolice.com/tested-samsungs-auto-blocker-googles-advanced-protection/",
+   "source": "Android Police",
+   "published": "2026-10-17T16:00:13Z",
+   "categories": [
+    "android",
+    "samsung"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "da74599633b1",
+   "title": "This Samsung Galaxy feature can protect you from untrustworthy apps",
+   "url": "https://www.engadget.com/2284034/samsung-galaxy-feature-protects-from-untrustworth-apps-auto-blocker/",
+   "source": "Engadget",
+   "published": "2026-10-17T16:00:00Z",
+   "categories": [
+    "android",
+    "samsung"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "82330dff574a",
+   "title": "This game about grinding mute lumps of shapeless flesh has made me realise I've been hornswoggled by capitalism",
+   "url": "https://www.pcgamer.com/games/horror/this-game-about-grinding-mute-lumps-of-shapeless-flesh-has-made-me-realise-ive-been-hornswoggled-by-capitalism/",
+   "source": "PC Gamer",
+   "published": "2026-10-17T16:00:00Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "5144229ec80f",
+   "title": "EE announces iPhone Handoff pricing details for UK customers",
+   "url": "https://9to5mac.com/2026/10/17/iphone-handoff-pricing-details-ee-uk/",
+   "source": "9to5Mac",
+   "published": "2026-10-17T15:54:02Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "0ccad728c437",
+   "title": "Ghostwire: Tokyo joins GOG Preservation Program, which means you don't have to deal with Bethesda.NET anymore",
+   "url": "https://www.pcgamer.com/games/action/ghostwire-tokyo-joins-gog-preservation-program-which-means-you-dont-have-to-deal-with-bethesda-net-anymore/",
+   "source": "PC Gamer",
+   "published": "2026-10-17T15:45:38Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "02893498c4b0",
+   "title": "HyperX Cloud Alpha Air Review: Open-back and budget-friendly",
+   "url": "https://www.tomshardware.com/peripherals/gaming-headsets/hyperx-cloud-alpha-air-review",
+   "source": "Tom's Hardware",
+   "published": "2026-10-17T15:40:00Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "de885c9e3f0b",
+   "title": "Why are some locations blurred out on Google Maps?",
+   "url": "https://www.engadget.com/2284032/why-some-places-blurry-google-maps/",
+   "source": "Engadget",
+   "published": "2026-10-17T15:30:00Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "0609aa8f455a",
+   "title": "Quad 8-pin mod protects the $8,500 RTX 5090 you can’t replace from melting",
+   "url": "https://www.tomshardware.com/pc-components/gpus/quad-8-pin-mod-protects-the-usd8-500-rtx-5090-you-cant-replace-from-melting-modders-custom-power-solution-claims-to-fix-nvidia-16-pin-gpu-meltdowns",
+   "source": "Tom's Hardware",
+   "published": "2026-10-17T15:20:00Z",
+   "categories": [
+    "chips",
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "207636b52d87",
+   "title": "Honor Win2 teased once again with world's first 2K 185Hz display",
+   "url": "https://www.gsmarena.com/honor_win2_teased_once_again_with_worlds_first_2k_185hz_display-news-75098.php",
+   "source": "GSMArena",
+   "published": "2026-10-17T15:12:02Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "ac0eba5f3991",
+   "title": "Meta removes language that may have allowed it to scrape news sites",
+   "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+   "source": "The Verge",
+   "published": "2026-10-17T15:04:36Z",
+   "categories": [],
+   "rumor": true
+  },
+  {
+   "id": "893af5b7d7c9",
+   "title": "Now is the perfect time for Amazon to bring back its Android Fire Phone",
+   "url": "https://www.androidpolice.com/now-is-perfect-time-for-amazon-to-bring-back-android-fire-phone/",
+   "source": "Android Police",
+   "published": "2026-10-17T15:00:13Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "71d8b356bfe2",
+   "title": "The Apple HomeView already lost to one of the most unloved Google products in my house",
+   "url": "https://www.androidauthority.com/apple-homeview-vs-pixel-tablet-missing-features-3723785/",
+   "source": "Android Authority",
+   "published": "2026-10-17T15:00:07Z",
+   "categories": [
+    "android",
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "4e7f5ae8030f",
+   "title": "Common problems with Amazon Alexa and how to fix them",
+   "url": "https://www.engadget.com/2284031/amazon-alexa-common-problems-fixes/",
+   "source": "Engadget",
+   "published": "2026-10-17T15:00:00Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "a080ff64154c",
+   "title": "MOZA AY210 Force Feedback Base and MFY Yoke review: Taking flight sim immersion to the next level",
+   "url": "https://www.tomshardware.com/peripherals/controllers-gamepads/moza-ay210-force-feedback-base-and-mfy-yoke-review",
+   "source": "Tom's Hardware",
+   "published": "2026-10-17T15:00:00Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "e9b82bfa14c2",
+   "title": "Nvidia reportedly insists the RTX 5090 isn't dead despite severe shortages and removed listings at multiple retailers",
+   "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-insists-the-rtx-5090-isnt-dead-despite-severe-shortages-and-removed-listings-at-multiple-retailers-flagship-gpu-is-missing-from-nvidias-store-and-commands-usd8-500-on-amazon",
+   "source": "Tom's Hardware",
+   "published": "2026-10-17T14:38:18Z",
+   "categories": [
+    "chips",
+    "gaming"
+   ],
+   "rumor": true
+  },
+  {
+   "id": "1fc0605620f3",
+   "title": "My Galaxy S22+ was stolen; Samsung Find couldn't help me find it",
+   "url": "https://www.androidpolice.com/stolen-galaxy-s22-plus-samsung-find/",
+   "source": "Android Police",
+   "published": "2026-10-17T14:30:13Z",
+   "categories": [
+    "android",
+    "samsung"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "4d2f0872edeb",
+   "title": "Should you have both Ethernet and Wi-Fi for your home?",
+   "url": "https://www.engadget.com/2284029/both-ethernet-and-wifi-for-home/",
+   "source": "Engadget",
+   "published": "2026-10-17T14:30:00Z",
+   "categories": [],
+   "rumor": false
+  },
   {
    "id": "6549c69af407",
    "title": "Walmart’s $60 Google TV streamer might be the only good deal left in streaming",
@@ -254,6 +1054,15 @@
     "evs"
    ],
    "rumor": true
+  },
+  {
+   "id": "79e800af7ff3",
+   "title": "Jad Abumrad loves a butterfly knife and a good springy pillow",
+   "url": "https://www.theverge.com/entertainment/1013381/jad-abumrad-radiolab-dolly-parton-fela-kuti-podcast-interview",
+   "source": "The Verge",
+   "published": "2026-10-17T12:44:24Z",
+   "categories": [],
+   "rumor": false
   },
   {
    "id": "552be3f84ef1",
@@ -1412,6 +2221,17 @@
    "rumor": false
   },
   {
+   "id": "ce81f3c6c7b6",
+   "title": "Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update",
+   "url": "https://www.theverge.com/gadgets/1013105/pikmin-4-nintendo-switch-deal-sale",
+   "source": "The Verge",
+   "published": "2026-10-16T19:35:20Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
    "id": "83f3fffde75a",
    "title": "The incredible flying Tesla Roadster is just for show",
    "url": "https://www.theverge.com/transportation/1012783/tesla-roadster-flying-stunt-production-reality-musk",
@@ -1440,6 +2260,15 @@
    "categories": [
     "evs"
    ],
+   "rumor": false
+  },
+  {
+   "id": "3fc6af837124",
+   "title": "Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast",
+   "url": "https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance",
+   "source": "The Verge",
+   "published": "2026-10-16T19:20:13Z",
+   "categories": [],
    "rumor": false
   },
   {

@@ -26,7 +26,29 @@
      "name": "NVIDIA keynote listing",
      "url": "https://www.nvidia.com/de-de/gtc/session-catalog/sessions/gtceu26-sb61112/"
     }
-   ]
+   ],
+   "event": {
+    "startDate": "2026-10-20",
+    "endDate": "2026-10-22",
+    "mode": "Mixed",
+    "place": {
+     "name": "STATION-Berlin",
+     "street": "Luckenwalder Str. 4-6",
+     "postal": "10963",
+     "city": "Berlin",
+     "region": "BE",
+     "country": "DE"
+    },
+    "online_url": "https://www.nvidia.com/en-eu/gtc/",
+    "organizer": {
+     "name": "NVIDIA",
+     "url": "https://www.nvidia.com/"
+    },
+    "performer": {
+     "type": "Person",
+     "name": "Jensen Huang"
+    }
+   }
   },
   {
    "id": "byd-seagull-2nd-gen",
@@ -552,7 +574,25 @@
      "name": "Microsoft Security Blog",
      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/30/secure-whats-next-your-guide-to-microsoft-security-at-microsoft-ignite-2026/"
     }
-   ]
+   ],
+   "event": {
+    "startDate": "2026-11-17",
+    "endDate": "2026-11-20",
+    "mode": "Mixed",
+    "place": {
+     "name": "Moscone Center",
+     "street": "747 Howard Street",
+     "postal": "94103",
+     "city": "San Francisco",
+     "region": "CA",
+     "country": "US"
+    },
+    "online_url": "https://moscone.com/events/microsoft-ignite-2026",
+    "organizer": {
+     "name": "Microsoft",
+     "url": "https://www.microsoft.com/"
+    }
+   }
   },
   {
    "id": "gta-6",
@@ -632,7 +672,22 @@
      "name": "CTA",
      "url": "https://www.cta.tech/events/ces-2027/"
     }
-   ]
+   ],
+   "event": {
+    "startDate": "2027-01-06",
+    "endDate": "2027-01-09",
+    "mode": "Offline",
+    "place": {
+     "name": "CES 2027, Las Vegas (multiple venues)",
+     "city": "Las Vegas",
+     "region": "NV",
+     "country": "US"
+    },
+    "organizer": {
+     "name": "Consumer Technology Association",
+     "url": "https://www.cta.tech/"
+    }
+   }
   },
   {
    "id": "intel-nova-lake-s",

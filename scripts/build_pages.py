@@ -434,6 +434,42 @@ def crumb(items):
     return '<nav class="crumbs" aria-label="Breadcrumb"><div class="wrap">' + " / ".join(f'<a href="{u}">{e(t)}</a>' for t, u in items) + "</div></nav>"
 
 
+def event_jsonld(i, path):
+    """Event rich-result markup, only for real conferences with a confirmed date and venue (i["event"]).
+    Product launches, rumors and undated items are not Events, so they get no Event markup."""
+    x = i.get("event")
+    if not x or i.get("precision") != "day" or i.get("status") == "Rumor":
+        return None
+    mode = x.get("mode", "Offline")
+    pl = x.get("place")
+    place = None
+    if pl:
+        addr = {"@type": "PostalAddress", "addressLocality": pl["city"], "addressCountry": pl["country"]}
+        for k, f in (("street", "streetAddress"), ("postal", "postalCode"), ("region", "addressRegion")):
+            if pl.get(k):
+                addr[f] = pl[k]
+        place = {"@type": "Place", "name": pl["name"], "address": addr}
+    virtual = {"@type": "VirtualLocation", "url": x["online_url"]} if x.get("online_url") else None
+    if mode == "Online":
+        loc = virtual
+    elif mode == "Mixed":
+        loc = [place, virtual]
+    else:
+        loc = place
+    if not loc:
+        return None
+    ev = {"@type": "Event", "name": i["name"], "startDate": x["startDate"], "endDate": x["endDate"],
+          "eventStatus": "https://schema.org/EventScheduled",
+          "eventAttendanceMode": f"https://schema.org/{mode}EventAttendanceMode",
+          "location": loc, "description": i["summary"], "image": [f"{SITE_URL}/og-image.png"],
+          "organizer": {"@type": "Organization", **x["organizer"]}, "url": SITE_URL + path}
+    if x.get("performer"):
+        ev["performer"] = {"@type": x["performer"].get("type", "Organization"), "name": x["performer"]["name"]}
+    if x.get("offers"):
+        ev["offers"] = {"@type": "Offer", **x["offers"]}
+    return ev
+
+
 def build_launch_details():
     shutil.rmtree(ROOT / "launch", ignore_errors=True)
     for i in LAUNCHES:
@@ -442,9 +478,9 @@ def build_launch_details():
             {"@type": "BreadcrumbList", "itemListElement": [
                 {"@type": "ListItem", "position": 1, "name": "Launch calendar", "item": SITE_URL + "/launches"},
                 {"@type": "ListItem", "position": 2, "name": i["name"], "item": SITE_URL + path}]}]}
-        if i["type"] == "Event" and i["precision"] == "day":
-            ld["@graph"].append({"@type": "Event", "name": i["name"], "startDate": i["date"], "description": i["summary"],
-                                 "eventStatus": "https://schema.org/EventScheduled", "url": SITE_URL + path})
+        ev = event_jsonld(i, path)
+        if ev:
+            ld["@graph"].append(ev)
         h = head(f"{i['name']}: release date and details", i["summary"], path, jsonld(ld))
         rows = [("Status", status_chip(i["status"])), ("Date", e(i["date_label"])), ("Maker", e(i["brand"])), ("Type", e(i["type"]))]
         if i.get("price"):

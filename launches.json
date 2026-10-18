@@ -1,33 +1,6 @@
 {
- "updated": "2026-10-17",
+ "updated": "2026-10-18",
  "items": [
-  {
-   "id": "samsung-galaxy-f70-india",
-   "name": "Samsung Galaxy F70 5G (India)",
-   "brand": "Samsung",
-   "categories": [
-    "samsung",
-    "android"
-   ],
-   "type": "Phone",
-   "date": "2026-10-18",
-   "date_label": "Oct 18, 2026",
-   "precision": "day",
-   "status": "Confirmed",
-   "price": "",
-   "summary": "Samsung's budget Galaxy F70 5G launches in India on Oct 18 and will be sold through Flipkart.",
-   "details": "Samsung's launch microsite lists a 50MP main camera with OIS, a Full HD+ Super AMOLED screen with Gorilla Glass Victus, the Exynos 1330 chip, a 5,000mAh battery with 25W charging, and Bold Black and Vivid Violet colors. The price will be announced at launch.",
-   "sources": [
-    {
-     "name": "Gadgets 360",
-     "url": "https://www.gadgets360.com/mobiles/news/samsung-galaxy-f70-5g-india-launch-date-announced-design-specifications-features-12193497"
-    },
-    {
-     "name": "India Today",
-     "url": "https://www.indiatoday.in/technology/news/story/samsung-galaxy-f70-5g-arrives-in-india-on-october-18-here-is-what-to-expect-3018994-2026-10-16"
-    }
-   ]
-  },
   {
    "id": "gtc-berlin-2026",
    "name": "NVIDIA GTC Berlin 2026 (keynote Oct 21)",
@@ -56,6 +29,32 @@
    ]
   },
   {
+   "id": "byd-seagull-2nd-gen",
+   "name": "BYD Seagull (2nd generation, China)",
+   "brand": "BYD",
+   "categories": [
+    "evs"
+   ],
+   "type": "Car",
+   "date": "2026-10-20",
+   "date_label": "Oct 20, 2026 (reported)",
+   "precision": "day",
+   "status": "Expected",
+   "price": "",
+   "summary": "BYD's best-selling small EV gets a bigger, more powerful second generation, reportedly launching in China on Oct 20.",
+   "details": "Regulatory filings show it is 425mm longer than before, with a 2,650mm wheelbase, five seats instead of four, a 95kW motor (up from 55kW) and LFP Blade batteries, with optional LiDAR on one version. Pre-orders opened Oct 9. The Oct 20 date comes from Chinese outlet Yiche citing BYD; BYD itself had only said 'before the end of the year'. Some export markets sell the Seagull as the Dolphin Mini or Dolphin Surf.",
+   "sources": [
+    {
+     "name": "CnEVPost",
+     "url": "https://cnevpost.com/2026/10/14/byd-launch-2nd-gen-seagull-oct-20/"
+    },
+    {
+     "name": "CarNewsChina",
+     "url": "https://carnewschina.com/2026/10/14/second-generation-byd-seagull-set-for-october-20-launch-with-lidar-and-expanded-dimensions/"
+    }
+   ]
+  },
+  {
    "id": "honor-win-2",
    "name": "Honor Win 2 series (China launch)",
    "brand": "Honor",
@@ -70,7 +69,7 @@
    "status": "Confirmed",
    "price": "CNY 5,499 after subsidy (Win 2, China)",
    "summary": "Honor's fan-cooled gaming phones launch in China on Oct 21 and go on sale the same day.",
-   "details": "Honor has confirmed a built-in dual-fan cooling system, a 2K 185Hz display, a battery of more than 10,000mAh (10,100mAh per promo material) and the Snapdragon 8 Elite Extreme Gen 6 chip. Pre-orders are open, and Fone Arena reports Honor's marketing chief gave a post-subsidy price of 5,499 yuan. A Win gaming tablet debuts at the same event. Honor has not announced plans outside China.",
+   "details": "Honor has confirmed a built-in dual-fan cooling system, a 2K 185Hz display, a battery of more than 10,000mAh (10,100mAh per promo material) and the Snapdragon 8 Elite Extreme Gen 6 chip. Pre-orders are open, and Fone Arena reports Honor's marketing chief gave a post-subsidy price of 5,499 yuan. A Win gaming tablet debuts at the same event. Honor has not announced plans outside China. Panel maker Visionox says all three models in the series (Win 2, Win 2 RT and Win 2 Turbo) use the 2K 185Hz screen.",
    "sources": [
     {
      "name": "Gizmochina",
@@ -83,6 +82,10 @@
     {
      "name": "Fone Arena",
      "url": "https://www.fonearena.com/blog/495142/honor-win-2-launch-date.html"
+    },
+    {
+     "name": "GSMArena (Visionox teaser)",
+     "url": "https://www.gsmarena.com/honor_win2_teased_once_again_with_worlds_first_2k_185hz_display-news-75098.php"
     }
    ]
   },
@@ -113,6 +116,54 @@
     {
      "name": "GSMArena (India date)",
      "url": "https://www.gsmarena.com/heres_when_the_oppo_find_x10_series_is_launching_in_india-news-75015.php"
+    }
+   ]
+  },
+  {
+   "id": "final-fantasy-resonance",
+   "name": "Final Fantasy Resonance",
+   "brand": "Square Enix",
+   "categories": [
+    "gaming"
+   ],
+   "type": "Game",
+   "date": "2026-10-22",
+   "date_label": "Oct 22, 2026",
+   "precision": "day",
+   "status": "Confirmed",
+   "price": "$49.99 (Xbox store)",
+   "summary": "The first HD-2D Final Fantasy, a turn-based RPG, arrives Oct 22.",
+   "details": "Xbox Wire lists it for Xbox with Play Anywhere, and Nintendo lists it for both Switch 2 and the original Switch. Party members can summon 'Visions', echoes of characters from across the series.",
+   "sources": [
+    {
+     "name": "Xbox Wire",
+     "url": "https://news.xbox.com/en-us/2026/10/16/next-week-on-xbox-new-games-for-october-19-to-23/"
+    },
+    {
+     "name": "Nintendo UK",
+     "url": "https://www.nintendo.com/en-gb/News/2026/October/Upcoming-Games-October-2026-3208377.html"
+    }
+   ]
+  },
+  {
+   "id": "nintendo-switch-sports-resort",
+   "name": "Nintendo Switch Sports Resort",
+   "brand": "Nintendo",
+   "categories": [
+    "gaming"
+   ],
+   "type": "Game",
+   "date": "2026-10-22",
+   "date_label": "Oct 22, 2026",
+   "precision": "day",
+   "status": "Confirmed",
+   "price": "",
+   "summary": "Nintendo's motion-control sports game returns to Wuhu Island on Switch 2 on Oct 22.",
+   "details": "Nintendo lists 12 sports, from bowling to thumb wrestling, plus free-roam activities such as the prop plane and skateboarding.",
+   "sources": [
+    {
+     "name": "Nintendo UK",
+     "url": "https://www.nintendo.com/en-gb/News/2026/October/Upcoming-Games-October-2026-3208377.html"
     }
    ]
   },
@@ -200,6 +251,84 @@
    ]
   },
   {
+   "id": "vivo-x500-pro-europe",
+   "name": "vivo X500 Pro and X500 Pro Max (Europe launch)",
+   "brand": "vivo",
+   "categories": [
+    "android"
+   ],
+   "type": "Phone",
+   "date": "2026-10-27",
+   "date_label": "Oct 27, 2026 (Europe, 16:00 CET)",
+   "precision": "day",
+   "status": "Confirmed",
+   "price": "",
+   "summary": "vivo's ZEISS camera flagships, already out in China, launch in Europe at an event on Oct 27.",
+   "details": "Both run MediaTek's 2nm Dimensity 9600 Pro. The Pro Max has a 200MP ZEISS APO telephoto camera and supports a 400mm-equivalent clip-on teleconverter; the smaller Pro has a 6.36-inch screen. vivo says prices, configurations and regional availability come at the event. The standard X500 is not part of the European launch.",
+   "sources": [
+    {
+     "name": "vivo Austria newsroom",
+     "url": "https://www.vivo.com/at/about-vivo/news/x500-series"
+    },
+    {
+     "name": "tech-ish",
+     "url": "https://tech-ish.com/2026/10/13/vivo-x500-pro-and-x500-pro-max-launch-in-europe-on-27th-october/"
+    }
+   ]
+  },
+  {
+   "id": "google-fitbit-edge",
+   "name": "Google Fitbit Edge",
+   "brand": "Google",
+   "categories": [
+    "android"
+   ],
+   "type": "Gadget",
+   "date": "2026-10-27",
+   "date_label": "Oct 27, 2026",
+   "precision": "day",
+   "status": "Confirmed",
+   "price": "From $179.99 ($219.99 Stephen Curry edition)",
+   "summary": "Google's new screen-equipped Fitbit tracker, slotted between the Fitbit Air and Pixel Watch 5, ships Oct 27.",
+   "details": "Pre-orders opened Oct 12. It has a larger OLED display, built-in GPS, ECG and skin-temperature sensors, up to seven days of battery life and Fitbit's first replaceable battery. There is no NFC payments, microphone or speaker, and it uses a new band system that doesn't fit older Fitbit or Pixel Watch bands.",
+   "sources": [
+    {
+     "name": "Google Store",
+     "url": "https://store.google.com/us/product/google_fitbit_edge?hl=en-US"
+    },
+    {
+     "name": "9to5Google",
+     "url": "https://9to5google.com/2026/10/12/google-fitbit-edge-announcement/"
+    },
+    {
+     "name": "Android Authority",
+     "url": "https://www.androidauthority.com/google-fitbit-edge-price-specs-features-launch-3720894/"
+    }
+   ]
+  },
+  {
+   "id": "minecraft-switch-2",
+   "name": "Minecraft (Nintendo Switch 2 version)",
+   "brand": "Mojang",
+   "categories": [
+    "gaming"
+   ],
+   "type": "Game",
+   "date": "2026-10-27",
+   "date_label": "Oct 27, 2026",
+   "precision": "day",
+   "status": "Confirmed",
+   "price": "",
+   "summary": "An enhanced Switch 2 version of Minecraft with Vibrant Visuals support arrives Oct 27.",
+   "details": "Listed in Nintendo's October 2026 release roundup.",
+   "sources": [
+    {
+     "name": "Nintendo UK",
+     "url": "https://www.nintendo.com/en-gb/News/2026/October/Upcoming-Games-October-2026-3208377.html"
+    }
+   ]
+  },
+  {
    "id": "phantom-blade-zero",
    "name": "Phantom Blade Zero",
    "brand": "S-Game",
@@ -275,6 +404,51 @@
     {
      "name": "MacRumors (citing Bloomberg)",
      "url": "https://www.macrumors.com/2026/10/14/apple-intelligence-china-ios-27-3/"
+    }
+   ]
+  },
+  {
+   "id": "iqoo-neo12",
+   "name": "iQOO Neo12 (China)",
+   "brand": "iQOO",
+   "categories": [
+    "android",
+    "gaming"
+   ],
+   "type": "Phone",
+   "date": "2026-10-31",
+   "date_label": "Late Oct 2026 (China)",
+   "precision": "window",
+   "status": "Expected",
+   "price": "",
+   "summary": "iQOO's next gaming-focused midrange flagship is due in China at the end of October; no exact day yet.",
+   "details": "An iQOO vice president confirmed the end-of-October timing at a display event with Visionox. Confirmed so far: a 2K 185Hz OLED screen, a 9,000mAh battery, a built-in cooling fan and an ultrasonic fingerprint sensor. Pricing comes at launch.",
+   "sources": [
+    {
+     "name": "Fone Arena",
+     "url": "https://www.fonearena.com/blog/495123/iqoo-neo12-display-battery-teaser.html"
+    }
+   ]
+  },
+  {
+   "id": "mistral-large-4-weights",
+   "name": "Mistral Large 4 open weights",
+   "brand": "Mistral AI",
+   "categories": [
+    "ai"
+   ],
+   "type": "Software",
+   "date": "2026-10-31",
+   "date_label": "By end of Oct 2026",
+   "precision": "window",
+   "status": "Expected",
+   "price": "Open weights (preview API on Mistral Studio now)",
+   "summary": "Mistral says the weights for its 1-trillion-parameter Large 4 model will be released by the end of October.",
+   "details": "Previewed Oct 6 as a natively multimodal mixture-of-experts model with 52B active parameters, trained on 3,800 NVIDIA Grace Blackwell GPUs in Mistral's own European data centers. Until the weights ship it is available only through a preview API while Mistral red-teams it with vetted partners. Licence and final architecture details have not been published.",
+   "sources": [
+    {
+     "name": "Mistral AI",
+     "url": "https://mistral.ai/news/mistral-large-4"
     }
    ]
   },
@@ -673,6 +847,63 @@
    ]
   },
   {
+   "id": "samsung-galaxy-f70-india",
+   "name": "Samsung Galaxy F70 5G (India)",
+   "brand": "Samsung",
+   "categories": [
+    "samsung",
+    "android"
+   ],
+   "type": "Phone",
+   "date": "2026-10-18",
+   "date_label": "Oct 18, 2026 (on sale Oct 20)",
+   "precision": "day",
+   "status": "Released",
+   "price": "Rs 19,999 (4GB/128GB), Rs 22,999 (6GB/128GB); Rs 17,999 with launch offers",
+   "summary": "Samsung launched the Galaxy F70 5G in India on Oct 18; first sales start Oct 20 at noon IST on Flipkart and Samsung's site.",
+   "details": "It has a 6.7-inch 90Hz Full HD+ Super AMOLED screen with Gorilla Glass Victus, the Exynos 1330, a 50MP main camera with OIS, a 5,000mAh battery with 25W charging (charger sold separately) and a 7.5mm body, in Bold Black and Vivid Violet. Bank offers cut Rs 2,000 off at launch. Reports disagree on whether it ships with Android 15 or a newer One UI build.",
+   "sources": [
+    {
+     "name": "Fone Arena",
+     "url": "https://www.fonearena.com/blog/495303/samsung-galaxy-f70-5g-price-india-specifications.html"
+    },
+    {
+     "name": "Beebom",
+     "url": "https://gadgets.beebom.com/news/samsung-galaxy-f70-5g-launched-in-india-key-specs-price-sale-date"
+    },
+    {
+     "name": "Gadgets 360",
+     "url": "https://www.gadgets360.com/mobiles/news/samsung-galaxy-f70-5g-india-launch-date-announced-design-specifications-features-12193497"
+    },
+    {
+     "name": "India Today",
+     "url": "https://www.indiatoday.in/technology/news/story/samsung-galaxy-f70-5g-arrives-in-india-on-october-18-here-is-what-to-expect-3018994-2026-10-16"
+    }
+   ]
+  },
+  {
+   "id": "leapmotor-a10s",
+   "name": "Leapmotor A10s (China)",
+   "brand": "Leapmotor",
+   "categories": [
+    "evs"
+   ],
+   "type": "Car",
+   "date": "2026-10-18",
+   "date_label": "Oct 18, 2026",
+   "precision": "day",
+   "status": "Released",
+   "price": "CNY 92,800 (about $13,810)",
+   "summary": "Leapmotor launched a sportier-styled A10s small electric SUV in China with LiDAR and a 505km CLTC range.",
+   "details": "Power, battery (53kWh LFP) and range match the existing A10 505 LiDAR trim; the A10s adds black paint and wheels, a red-stitched cabin and ventilated front seats for 6,000 yuan more. It uses Qualcomm's SA8295 cockpit and SA8650 driver-assist chips.",
+   "sources": [
+    {
+     "name": "CnEVPost",
+     "url": "https://cnevpost.com/2026/10/18/leapmotor-launches-a10s/"
+    }
+   ]
+  },
+  {
    "id": "deepseek-v4-1-flash-1017",
    "name": "DeepSeek V4.1-Flash-1017",
    "brand": "DeepSeek",
@@ -725,6 +956,59 @@
    ]
   },
   {
+   "id": "nvidia-rtx-spark-laptops",
+   "name": "NVIDIA RTX Spark Windows laptops (Surface Laptop Ultra and more)",
+   "brand": "NVIDIA",
+   "categories": [
+    "chips",
+    "ai"
+   ],
+   "type": "Laptop",
+   "date": "2026-10-16",
+   "date_label": "Oct 16, 2026",
+   "precision": "day",
+   "status": "Released",
+   "price": "From $2,599",
+   "summary": "Laptops built on NVIDIA's RTX Spark chip began shipping Oct 16 from Asus, Microsoft, Lenovo, HP and Dell.",
+   "details": "RTX Spark pairs a Grace CPU with a Blackwell GPU and up to 128GB of unified memory. Tom's Hardware lists prices from $2,599 (Asus ProArt P14) to about $7,000 for a 128GB, 2TB configuration. Small desktops are due later.",
+   "sources": [
+    {
+     "name": "Tom's Hardware",
+     "url": "https://www.tomshardware.com/laptops/nvidia-rtx-spark-devices-are-now-officially-on-sale-secure-the-surface-laptop-ultra-or-other-rtx-spark-laptops-here-starting-at-usd2-599-where-to-buy-pricing-and-availability-revealed-on-several-models"
+    },
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions"
+    }
+   ]
+  },
+  {
+   "id": "amazon-bee-frontier",
+   "name": "Amazon Bee Frontier and Bee Eclipse",
+   "brand": "Amazon",
+   "categories": [
+    "ai"
+   ],
+   "type": "Gadget",
+   "date": "2026-10-15",
+   "date_label": "Oct 15, 2026 (Frontier); Eclipse 'soon'",
+   "precision": "day",
+   "status": "Released",
+   "price": "$74.99 (Frontier); from $99.99 (Eclipse)",
+   "summary": "Amazon's Bee unit released the Frontier AI wearable, which turns conversations into summaries and to-dos; the phone-mounted Eclipse follows soon.",
+   "details": "Frontier can be worn on the wrist or clipped on, with IP67 water resistance and up to seven days of battery. Eclipse is a credit-card-sized magnetic phone attachment with 21+ days of battery. Amazon says audio is deleted after processing and transcripts are encrypted with device-held keys; Bee can now connect to Alexa+ and Amazon.com shopping.",
+   "sources": [
+    {
+     "name": "Amazon",
+     "url": "https://www.aboutamazon.com/news/devices/amazon-personal-ai-bee-frontier-bee-eclipse"
+    },
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/"
+    }
+   ]
+  },
+  {
    "id": "gemini-4-argon",
    "name": "Gemini 4 Argon",
    "brand": "Google",
@@ -744,6 +1028,28 @@
     {
      "name": "Google blog",
      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
+    }
+   ]
+  },
+  {
+   "id": "byd-da-han-ev",
+   "name": "BYD Da Han EV (China)",
+   "brand": "BYD",
+   "categories": [
+    "evs"
+   ],
+   "type": "Car",
+   "date": "2026-10-13",
+   "date_label": "Oct 13, 2026",
+   "precision": "day",
+   "status": "Released",
+   "price": "CNY 235,900-275,900 (from about $35,050)",
+   "summary": "BYD's new flagship electric sedan went on sale in China with up to 1,008km of CLTC range.",
+   "details": "All three versions use a 102.3kWh second-generation Blade Battery that BYD says charges from 10% to 97% in about nine minutes on its fastest chargers. Prices came in below the pre-sale figures.",
+   "sources": [
+    {
+     "name": "CnEVPost",
+     "url": "https://cnevpost.com/2026/10/13/byd-launches-da-han-ev/"
     }
    ]
   },
@@ -824,33 +1130,6 @@
     {
      "name": "Android Authority",
      "url": "https://www.androidauthority.com/google-pixel-11-series-3693865/"
-    }
-   ]
-  },
-  {
-   "id": "nvidia-rtx-spark-laptops",
-   "name": "NVIDIA RTX Spark Windows laptops (Surface Laptop Ultra and more)",
-   "brand": "NVIDIA",
-   "categories": [
-    "chips",
-    "ai"
-   ],
-   "type": "Laptop",
-   "date": "2026-10-16",
-   "date_label": "Oct 16, 2026",
-   "precision": "day",
-   "status": "Released",
-   "price": "From $2,599",
-   "summary": "Laptops built on NVIDIA's RTX Spark chip began shipping Oct 16 from Asus, Microsoft, Lenovo, HP and Dell.",
-   "details": "RTX Spark pairs a Grace CPU with a Blackwell GPU and up to 128GB of unified memory. Tom's Hardware lists prices from $2,599 (Asus ProArt P14) to about $7,000 for a 128GB, 2TB configuration. Small desktops are due later.",
-   "sources": [
-    {
-     "name": "Tom's Hardware",
-     "url": "https://www.tomshardware.com/laptops/nvidia-rtx-spark-devices-are-now-officially-on-sale-secure-the-surface-laptop-ultra-or-other-rtx-spark-laptops-here-starting-at-usd2-599-where-to-buy-pricing-and-availability-revealed-on-several-models"
-    },
-    {
-     "name": "The Verge",
-     "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions"
     }
    ]
   }

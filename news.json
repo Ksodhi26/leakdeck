@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T13:38:34Z",
+ "updated": "2026-10-18T14:13:04Z",
  "sources": [
   "9to5Google",
   "9to5Mac",
@@ -20,8 +20,50 @@
   "Tom's Hardware",
   "XDA Developers"
  ],
- "count": 570,
+ "count": 575,
  "items": [
+  {
+   "id": "b89fe9f8874b",
+   "title": "Cinebench world record that stood for 12 years gets toppled",
+   "url": "https://www.tomshardware.com/pc-components/overclocking/cinebench-world-record-that-stood-for-12-years-gets-toppled-oc-expert-scores-10-8cb-in-cinebench-r11-5-using-an-intel-core-i5-4670k-at-6-3-ghz",
+   "source": "Tom's Hardware",
+   "published": "2026-10-18T14:02:53Z",
+   "categories": [],
+   "rumor": false,
+   "summary": "Overclocker Luumi pushed a Haswell Core i5 4670K to 6.3GHz on liquid nitrogen and scored 10.8 in Cinebench R11.5, beating a 12-year-old record for that chip."
+  },
+  {
+   "id": "3c2da5a172b3",
+   "title": "I gave four local models the same messy spreadsheet, and not one found the cheapest graphics card on it",
+   "url": "https://www.xda-developers.com/gave-four-local-models-same-messy-spreadsheet-not-one-found-cheapest-gpu/",
+   "source": "XDA Developers",
+   "published": "2026-10-18T14:00:20Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "321aacc88760",
+   "title": "The Fix For Plug-In Hybrids That Don't Get Plugged In? Smaller Gas Tanks, New Report Argues",
+   "url": "https://insideevs.com/news/812076/phevs-with-smaller-tanks-proposed/",
+   "source": "InsideEVs",
+   "published": "2026-10-18T14:00:00Z",
+   "categories": [
+    "evs"
+   ],
+   "rumor": false,
+   "summary": "Transport & Environment wants incentives tied to plug-in hybrids with 15-liter gas tanks and 200km of electric range, after finding 2024 European PHEVs emitted almost six times their official CO2."
+  },
+  {
+   "id": "fdae7d0692a4",
+   "title": "E-quipment highlight: LEAPTING launches electric autonomous forklift",
+   "url": "https://electrek.co/2026/10/18/e-quipment-highlight-leapting-launches-electric-autonomous-forklift/",
+   "source": "Electrek",
+   "published": "2026-10-18T13:38:45Z",
+   "categories": [
+    "evs"
+   ],
+   "rumor": false
+  },
   {
    "id": "4cacd4d6faca",
    "title": "I am ditching my Pixel Watch 4 for the Fitbit Air. Here's why",
@@ -51,7 +93,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "At a Kentucky rally, Trump claimed he personally called Google Maps about renaming the Gulf of Mexico, which clashes with Google's line that it just follows official US naming data."
   },
   {
    "id": "68f665799d88",
@@ -74,7 +117,8 @@
     "chips",
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Brazilian distributor Oderço says two pallets of Zotac RTX 5090s, bought for about R$2.5 million, vanished after reaching São Paulo's Guarulhos airport, and nobody is giving it answers."
   },
   {
    "id": "e82628724892",
@@ -130,7 +174,8 @@
    "categories": [
     "evs"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "VW will cap charging at 80% on about 22,500 recalled US ID.4s around Oct 27 to cut fire risk unless owners opt out by Oct 21; it still doesn't know the root cause."
   },
   {
    "id": "d789cafd835f",
@@ -151,7 +196,8 @@
     "chips",
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Fab24hr, a free browser game that simulates a shift in a chip fab, has gone viral in Taiwan, where some real fab workers say it's so accurate it feels like a horror game."
   },
   {
    "id": "5ca98624fc23",
@@ -182,7 +228,8 @@
    "categories": [
     "gaming"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "Modders pulled Nvidia's slimmer new DLSS 5 rendering model out of NBA 2K27 and report it running up to 90% faster than the old one in unsupported games like The Witcher 3."
   },
   {
    "id": "3276e532c42b",
@@ -293,7 +340,8 @@
    "source": "Tom's Hardware",
    "published": "2026-10-18T11:45:00Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "SemiAnalysis finds the 300-plus local moratoriums will likely hold up only about 2.3GW of US data center capacity, against 38GW due online in 2027."
   },
   {
    "id": "720df5c1be41",
@@ -315,7 +363,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Politico reports Anthropic is backing a bill under which only the Commerce Department, through a federal judge, could halt a model release, and only if 50+ casualties or $1 billion in damage is at stake."
   },
   {
    "id": "75b009f3d1c0",
@@ -382,7 +431,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Swedish defense researchers open-sourced WiFireNet, an AI that spots concealed handguns from Wi-Fi signal distortion with about 72.5% precision in small indoor tests."
   },
   {
    "id": "9e19c777aed2",
@@ -415,7 +465,8 @@
    "source": "Tom's Hardware",
    "published": "2026-10-18T10:30:00Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "DJI's Dock 4 swaps a drone's battery in about 25 seconds and relaunches it in under 45, but without FCC clearance it can't be sold in the US."
   },
   {
    "id": "388456d0365d",
@@ -439,7 +490,8 @@
     "chips",
     "gaming"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "Google says 96.6% of the top 10,000 Android apps work on Intel Googlebooks, but Arm-only games still need translation, so Snapdragon models are the safer buy for now."
   },
   {
    "id": "375ae96ede98",
@@ -470,7 +522,8 @@
    "categories": [
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Samson studio Liquid Swords was declared bankrupt on Oct 12 after about 30 unpaid staff petitioned; the studio and its game are up for sale until Oct 21."
   },
   {
    "id": "2410a319f134",
@@ -754,7 +807,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Meta dropped a terms clause that appeared to let it scrape and train AI on business-account websites, saying it only ever covered its ads and business products."
   },
   {
    "id": "5e5f89e70a51",
@@ -765,7 +819,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Some Apple Store staff have been told to warn shoppers that there will likely be no iPhone Duo stock for walk-ins on Oct 23."
   },
   {
    "id": "fbbe14e7beac",
@@ -796,7 +851,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "When a classifier flags a chat as cyber-related, Claude Opus 5.5 quietly hands it to Opus 4.8, and Anthropic's own tests found fallback models easier to hijack; a settings toggle disables the switch."
   },
   {
    "id": "a13ae586fc0d",
@@ -818,7 +874,8 @@
    "categories": [
     "evs"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Mercedes-AMG's first fully in-house SUV is electric, with up to 1,153hp from three axial-flux motors and 710kW charging; US dealers get it in summer 2027."
   },
   {
    "id": "d0d55c33e198",
@@ -852,7 +909,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Apple hired ex-Meta litigation chief Scott Tucker to run global litigation and financial-services legal work, reuniting him with general counsel Jennifer Newstead."
   },
   {
    "id": "b769f5e984a3",
@@ -940,7 +998,8 @@
    "categories": [
     "gaming"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "Leaked footage shows 'Assassin's Creed Destiny', a reportedly canceled Ubisoft-Tencent game set in China's Qin dynasty around 206 BCE."
   },
   {
    "id": "7385e8b68100",
@@ -984,7 +1043,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Replit's CEO told TechCrunch Disrupt the coding platform now defaults to OpenAI instead of Anthropic, citing cost, partnership terms and its own benchmarks."
   },
   {
    "id": "b16013f5fc2c",
@@ -1646,6 +1706,15 @@
    "categories": [
     "android"
    ],
+   "rumor": false
+  },
+  {
+   "id": "c5996f174452",
+   "title": "J Mascis has nothing better to do",
+   "url": "https://www.theverge.com/entertainment/1012442/j-mascis-dinosaur-jr-fender-interview",
+   "source": "The Verge",
+   "published": "2026-10-17T12:22:11Z",
+   "categories": [],
    "rumor": false
   },
   {

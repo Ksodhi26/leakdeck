@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17",
+ "updated": "2026-10-18",
  "scale": {
   "Confirmed": "Announced by the company or shown in an official source.",
   "Likely": "Multiple credible outlets or hard evidence (certifications, databases, supply chain), but no official word.",
@@ -17,10 +17,10 @@
     "chips"
    ],
    "status": "Active",
-   "updated": "2026-10-17",
+   "updated": "2026-10-18",
    "expected": "Oct 27, 2026 (reported)",
    "claim": "Apple will announce OLED touchscreen 14- and 16-inch MacBook Pros, an OLED iPad mini, a 14-inch M6 MacBook Pro and an M6 iMac on or around Oct 27, with a media day in Los Angeles on Oct 28.",
-   "why": "Reported by Bloomberg and matched Apple's earlier pattern of two October launch rounds (the Oct 13 event happened as reported). On Oct 15 Gurman added that media were invited to an all-day launch experience on Oct 28. Apple has not confirmed. Reports disagree on whether the OLED models use M6 or M5 Pro/Max chips, and on availability dates.",
+   "why": "Reported by Bloomberg and matched Apple's earlier pattern of two October launch rounds (the Oct 13 event happened as reported). On Oct 15 Gurman added that media were invited to an all-day launch experience on Oct 28. Apple has not confirmed. Reports disagree on whether the OLED models use M6 or M5 Pro/Max chips, and on availability dates. New supporting evidence: an unreleased iPad mini Smart Folio (model A3632) appeared on Apple's French regulatory site, which suggests a redesigned iPad mini that won't fit current cases.",
    "sources": [
     {
      "name": "MacRumors (citing Bloomberg)",
@@ -33,6 +33,10 @@
     {
      "name": "GSMArena (citing Gurman)",
      "url": "https://www.gsmarena.com/heres_when_apple_will_show_off_its_touchscreen_macbooks_and_the_oled_ipad_mini-news-75065.php"
+    },
+    {
+     "name": "GSMArena (Apple regulatory listing)",
+     "url": "https://www.gsmarena.com/apples_own_website_now_hints_at_a_new_ipad_mini-news-75081.php"
     }
    ],
    "first_reported": "2026-10-08"
@@ -152,10 +156,10 @@
     "gaming"
    ],
    "status": "Active",
-   "updated": "2026-10-17",
+   "updated": "2026-10-18",
    "expected": "CES 2027? Or never",
    "claim": "NVIDIA will launch the RTX 5060 Super (12GB), 5070 Super (18GB) and 5070 Ti/5080 Super (24GB) around CES 2027.",
-   "why": "Earlier reports named CES 2027, but a later September 2026 report says NVIDIA has no RTX 50 Super plans for 2027 and the refresh may not ship. The dates have moved repeatedly and the sources conflict.",
+   "why": "Earlier reports named CES 2027, but a later September 2026 report says NVIDIA has no RTX 50 Super plans for 2027 and the refresh may not ship. The dates have moved repeatedly and the sources conflict. On Oct 12 Taiwan's BenchLife reported a 24GB RTX 5080 for Q1 2027 that would replace the 16GB card; it is unclear whether that is the rumored 5080 Super or a different plan (tracked separately below).",
    "sources": [
     {
      "name": "VideoCardz",
@@ -172,6 +176,10 @@
     {
      "name": "The Verge",
      "url": "https://www.theverge.com/tech/874439/nvidia-rtx-50-super-60-series-delay"
+    },
+    {
+     "name": "VideoCardz (citing BenchLife)",
+     "url": "https://videocardz.com/newz/nvidia-rtx-5080-24gb-reportedly-launching-in-q1-2027-board-partners-still-waiting-for-details"
     }
    ],
    "first_reported": null
@@ -185,10 +193,10 @@
     "gaming"
    ],
    "status": "Active",
-   "updated": "2026-10-17",
+   "updated": "2026-10-18",
    "expected": "2028",
    "claim": "The next GeForce generation will miss 2027 and reach retail in 2028; AMD will have only one RDNA 5 GPU in 2027.",
-   "why": "Based on a leaker's claims reported by Club386 and a Verge report that the lineup could miss 2027. Neither company has confirmed.",
+   "why": "Based on a leaker's claims reported by Club386 and a Verge report that the lineup could miss 2027. Neither company has confirmed. On Oct 12 the same leaker, Kepler_L2, said AMD is unlikely to even announce RDNA 5 before Computex (June) 2027 and that a later 2027 reveal is more likely. AMD has published no schedule.",
    "sources": [
     {
      "name": "Club386",
@@ -197,6 +205,10 @@
     {
      "name": "The Verge",
      "url": "https://www.theverge.com/tech/874439/nvidia-rtx-50-super-60-series-delay"
+    },
+    {
+     "name": "VideoCardz (Kepler_L2 on RDNA 5)",
+     "url": "https://videocardz.com/newz/amd-rdna-5-graphics-cards-unlikely-to-be-revealed-before-computex-2027-leaker-claims"
     }
    ],
    "first_reported": null
@@ -372,10 +384,10 @@
     "android"
    ],
    "status": "Active",
-   "updated": "2026-10-17",
+   "updated": "2026-10-18",
    "expected": "Oct 21, 2026 (official)",
    "claim": "Honor's Win 2 and Win 2 RT phones launch this month with 100W/90W charging and 10,000mAh+ batteries.",
-   "why": "Honor announced on Oct 12 that the Win 2 series launches Oct 21 at 2:30 p.m. in China and goes on sale the same day, and later confirmed a battery above 10,000mAh. Still unconfirmed: the 100W charging figure (from leaker Digital Chat Station) and whether a 'Win 2 RT' model is part of the launch, since Honor's announcement only says 'Win 2 series'.",
+   "why": "Honor announced on Oct 12 that the Win 2 series launches Oct 21 at 2:30 p.m. in China and goes on sale the same day, and later confirmed a battery above 10,000mAh. Still unconfirmed: the 100W charging figure (from leaker Digital Chat Station) and the final model list: Honor's announcement only says 'Win 2 series', though panel maker Visionox now names three models (Win 2, Win 2 RT and Win 2 Turbo).",
    "sources": [
     {
      "name": "Gizmochina",
@@ -392,6 +404,10 @@
     {
      "name": "Fone Arena",
      "url": "https://www.fonearena.com/blog/495142/honor-win-2-launch-date.html"
+    },
+    {
+     "name": "GSMArena (Visionox teaser)",
+     "url": "https://www.gsmarena.com/honor_win2_teased_once_again_with_worlds_first_2k_185hz_display-news-75098.php"
     }
    ],
    "first_reported": "2026-10-10"
@@ -573,6 +589,104 @@
     }
    ],
    "first_reported": "2026-10-17"
+  },
+  {
+   "id": "gta-6-pc-q1-2027",
+   "title": "GTA VI comes to PC in Q1 2027",
+   "rating": "Rumor",
+   "categories": [
+    "gaming"
+   ],
+   "status": "Active",
+   "updated": "2026-10-18",
+   "expected": "Jan-Mar 2027 (reported)",
+   "claim": "Rockstar plans to release the PC version of Grand Theft Auto VI in the first quarter of 2027, a few months after the Nov 19 console launch.",
+   "why": "GamesBeat reports this from four anonymous industry sources; The Verge, Polygon and others relayed it, but nobody has independent confirmation. Rockstar did not comment, and its store page still lists only PS5 and Xbox Series X|S. It would be a much shorter gap than GTA V's 19-month wait for PC.",
+   "sources": [
+    {
+     "name": "GamesBeat",
+     "url": "https://gamesbeat.com/grand-theft-auto-vis-pc-release-is-slated-for-q1-2027/"
+    },
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/games/1010098/gta-vi-is-reportedly-launching-on-pc-in-q1-of-2027"
+    },
+    {
+     "name": "Polygon",
+     "url": "https://www.polygon.com/gta-6-pc-release-q1-2027-rumor/"
+    }
+   ],
+   "first_reported": "2026-10-13"
+  },
+  {
+   "id": "rtx-5080-24gb-q1-2027",
+   "title": "NVIDIA swaps the RTX 5080 to 24GB in Q1 2027",
+   "rating": "Rumor",
+   "categories": [
+    "chips",
+    "gaming"
+   ],
+   "status": "Active",
+   "updated": "2026-10-18",
+   "expected": "Q1 2027 (reported)",
+   "claim": "NVIDIA will release an RTX 5080 with 24GB of GDDR7 in early 2027, gradually replacing the 16GB model.",
+   "why": "Single-source report from Taiwan's BenchLife, relayed by VideoCardz and TechPowerUp. Board partners reportedly have only verbal guidance and no design documents yet, so timing is soft. Technically easy: 3GB memory chips on the same 256-bit bus. NVIDIA has not commented. Comes amid tight RTX 5090 supply, which NVIDIA says is constrained but not discontinued.",
+   "sources": [
+    {
+     "name": "VideoCardz (citing BenchLife)",
+     "url": "https://videocardz.com/newz/nvidia-rtx-5080-24gb-reportedly-launching-in-q1-2027-board-partners-still-waiting-for-details"
+    },
+    {
+     "name": "TechPowerUp",
+     "url": "https://www.techpowerup.com/353640/nvidia-rtx-5080-24-gb-reportedly-planned-for-q1-2027-but-board-partners-are-still-in-the-dark"
+    },
+    {
+     "name": "igor'sLAB LeakWatch",
+     "url": "https://www.igorslab.de/en/leakwatch-week-42-2026-nvidia-denies-rtx-5090-end-amd-takes-time-intel-massive-memory-capacities/"
+    }
+   ],
+   "first_reported": "2026-10-12"
+  },
+  {
+   "id": "galaxy-s27-ultra-bezels-camera",
+   "title": "Galaxy S27 Ultra gets thinner bezels and a thicker camera bump",
+   "rating": "Rumor",
+   "categories": [
+    "samsung",
+    "android"
+   ],
+   "status": "Active",
+   "updated": "2026-10-18",
+   "expected": "Early 2027",
+   "claim": "The Galaxy S27 Ultra will have 1.28mm screen bezels (vs 1.32mm on the S26 Ultra) and a 4.69mm camera bump, slightly thicker than today's.",
+   "why": "Measurements come from leaker Ice Universe, who has a good Samsung record, relayed by SamMobile. They fit separate case leaks showing a wide camera bar on the Pro and Ultra. Small, unverified numbers; Samsung has said nothing.",
+   "sources": [
+    {
+     "name": "SamMobile (citing Ice Universe)",
+     "url": "https://www.sammobile.com/news/galaxy-s27-ultra-slimmer-display-bezels-but-thicker-camera-housing/"
+    }
+   ],
+   "first_reported": "2026-10-15"
+  },
+  {
+   "id": "oneplus-ace-7-200mp",
+   "title": "OnePlus Ace 7 and Ace 7 Pro both get 200MP main cameras",
+   "rating": "Rumor",
+   "categories": [
+    "android"
+   ],
+   "status": "Active",
+   "updated": "2026-10-18",
+   "expected": "Not announced",
+   "claim": "Both OnePlus Ace 7 models will use a 200MP main camera, and the Pro adds a 50MP 3.5x periscope.",
+   "why": "From Weibo tipster Digital Chat Station, relayed by GSMArena. The phones have appeared on Google's supported-devices list, so they exist, but OnePlus has not announced specs or a date.",
+   "sources": [
+    {
+     "name": "GSMArena (citing Digital Chat Station)",
+     "url": "https://www.gsmarena.com/oneplus_ace_7_and_ace_7_pro_could_both_get_200mp_main_cameras-news-75086.php"
+    }
+   ],
+   "first_reported": "2026-10-16"
   },
   {
    "id": "snapdragon-two-flagships",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T01:39:47Z",
+ "updated": "2026-10-18T13:38:34Z",
  "sources": [
   "9to5Google",
   "9to5Mac",
@@ -20,8 +20,537 @@
   "Tom's Hardware",
   "XDA Developers"
  ],
- "count": 519,
+ "count": 570,
  "items": [
+  {
+   "id": "4cacd4d6faca",
+   "title": "I am ditching my Pixel Watch 4 for the Fitbit Air. Here's why",
+   "url": "https://www.androidpolice.com/i-am-ditching-pixel-watch-4-for-fitbit-air-heres-why/",
+   "source": "Android Police",
+   "published": "2026-10-18T13:30:13Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "9398a3038a1e",
+   "title": "Your smart TV has one big problem: It's tracking what you watch",
+   "url": "https://www.engadget.com/2285490/one-problem-smart-tv-tracking-what-you-watch/",
+   "source": "Engadget",
+   "published": "2026-10-18T13:30:00Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "c7fbcff09d02",
+   "title": "Trump says Google kisses his ass",
+   "url": "https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass",
+   "source": "The Verge",
+   "published": "2026-10-18T13:26:28Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "68f665799d88",
+   "title": "Asus ROG Strix XG27AQGNV 27-inch G-Sync Pulsar gaming monitor review: Super smooth with unprecedented control",
+   "url": "https://www.tomshardware.com/monitors/gaming-monitors/asus-rog-strix-xg27aqgnv-27-inch-g-sync-pulsar-gaming-monitor-review",
+   "source": "Tom's Hardware",
+   "published": "2026-10-18T13:25:00Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "e3db65fdf7c4",
+   "title": "Nvidia RTX 5090 shipment worth $470,000 goes missing in Brazilian airport",
+   "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-5090-shipment-worth-usd470-000-goes-missing-in-brazilian-airport-two-pallets-disappear-distributor-seeks-explanations-but-met-with-zero-answers",
+   "source": "Tom's Hardware",
+   "published": "2026-10-18T13:24:23Z",
+   "categories": [
+    "chips",
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "e82628724892",
+   "title": "How to use your Windows PC to make and receive phone calls",
+   "url": "https://www.engadget.com/2285327/how-to-use-windows-pc-make-receive-phone-calls/",
+   "source": "Engadget",
+   "published": "2026-10-18T13:15:00Z",
+   "categories": [
+    "chips"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "5427a8fe1cd5",
+   "title": "Whatever you do, don’t buy a Fitbit Edge on day one",
+   "url": "https://www.androidauthority.com/dont-buy-fitbit-edge-day-one-3723619/",
+   "source": "Android Authority",
+   "published": "2026-10-18T13:00:29Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "588c2e2f8b0b",
+   "title": "After a week with a Googlebook, I can't shake the feeling I'm using an Android tablet disguised as a laptop",
+   "url": "https://www.xda-developers.com/after-week-with-googlebook-cant-shake-feeling-using-android-tablet-disguised-as-laptop/",
+   "source": "XDA Developers",
+   "published": "2026-10-18T13:00:19Z",
+   "categories": [
+    "android",
+    "chips"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "8a7147c9a444",
+   "title": "The biggest reason not to buy a Googlebook is all about timing",
+   "url": "https://9to5google.com/2026/10/18/the-biggest-reason-not-to-buy-a-googlebook-is-all-about-timing/",
+   "source": "9to5Google",
+   "published": "2026-10-18T13:00:00Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "144338badd7a",
+   "title": "VW Will Automatically Limit Some ID.4 Batteries To 80% Charge This Week Unless Owners Opt Out",
+   "url": "https://insideevs.com/news/812129/vw-id4-charge-limit-80/",
+   "source": "InsideEVs",
+   "published": "2026-10-18T13:00:00Z",
+   "categories": [
+    "evs"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "d789cafd835f",
+   "title": "How overhead projectors took over your classroom",
+   "url": "https://www.theverge.com/podcast/1013473/overhead-projector-version-history",
+   "source": "The Verge",
+   "published": "2026-10-18T12:55:01Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "69f8edc97d35",
+   "title": "Chip fab engineering game goes viral in Taiwan",
+   "url": "https://www.tomshardware.com/video-games/pc-gaming/chip-fab-engineering-game-goes-viral-in-taiwan-realistic-and-stressful-simulation-is-basically-a-horror-game-say-some-players",
+   "source": "Tom's Hardware",
+   "published": "2026-10-18T12:50:33Z",
+   "categories": [
+    "chips",
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "5ca98624fc23",
+   "title": "The Fitbit Edge is stuck between the Air and Pixel Watch 5, and it misses the point of both",
+   "url": "https://www.androidpolice.com/fitbit-edge-middle-ground-between-air-and-pixel-watch-5-misses-point-of-both/",
+   "source": "Android Police",
+   "published": "2026-10-18T12:45:13Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "baad13467ffb",
+   "title": "Why it's important to avoid plugging in a damaged external hard drive",
+   "url": "https://www.engadget.com/2285211/why-its-important-to-avoid-plugging-in-damaged-hard-drive/",
+   "source": "Engadget",
+   "published": "2026-10-18T12:45:00Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "b78fcb7cebf1",
+   "title": "Official DLSS 5 running on unsupported games delivers up to 90% better performance than the leaked version",
+   "url": "https://www.tomshardware.com/pc-components/gpus/modders-used-the-official-dlss-5-release-on-unsupported-games-and-are-seeing-up-to-90-percent-better-performance-than-the-leaked-dlss-5-nvidia-says-new-nr-model-uses-20-percent-less-vram-and-processes-neural-workloads-up-to-2x-faster",
+   "source": "Tom's Hardware",
+   "published": "2026-10-18T12:45:00Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": true
+  },
+  {
+   "id": "3276e532c42b",
+   "title": "Clive Barker says he's 'genuinely astonished' by Hellraiser: Revival: 'I'm proud as f**k at the end result'",
+   "url": "https://www.pcgamer.com/games/horror/clive-barker-says-hes-genuinely-astonished-by-hellraiser-revival-im-proud-as-f-k-at-the-end-result/",
+   "source": "PC Gamer",
+   "published": "2026-10-18T12:41:50Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "27b7ea1c3ebd",
+   "title": "My old Fire TV Stick does more than Amazon's brand-new one, because the new one can't sideload a single app",
+   "url": "https://www.xda-developers.com/my-old-amazon-fire-tv-stick-does-more-because-new-one-cant-sideload/",
+   "source": "XDA Developers",
+   "published": "2026-10-18T12:30:20Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "7cbbc7a22c77",
+   "title": "Why are internet upload speeds so much slower than download speeds?",
+   "url": "https://www.engadget.com/2285208/why-internet-upload-speeds-slower-download-comparison/",
+   "source": "Engadget",
+   "published": "2026-10-18T12:30:00Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "52790d2f3b28",
+   "title": "MIT engineers build soft 3D shape-sensing skin for gaming and VR",
+   "url": "https://www.tomshardware.com/virtual-reality/mit-engineers-build-soft-3d-shape-sensing-skin-for-gaming-and-vr-tracks-3d-movement-and-touch-with-sub-half-centimeter-error",
+   "source": "Tom's Hardware",
+   "published": "2026-10-18T12:25:00Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "c5ccc3ee3d09",
+   "title": "Why you might not want to join two Ethernet cables (and what you should do instead)",
+   "url": "https://www.engadget.com/2285141/ethernet-cables-why-not-join-two-what-do-instead/",
+   "source": "Engadget",
+   "published": "2026-10-18T12:15:00Z",
+   "categories": [],
+   "rumor": true
+  },
+  {
+   "id": "22a1748c3726",
+   "title": "Typo-squatting attacks with major domains are still viable",
+   "url": "https://www.tomshardware.com/tech-industry/cyber-security/typo-squatting-attacks-with-major-domains-are-still-viable-corner-cases-with-cyrillic-characters-still-evade-the-best-checks",
+   "source": "Tom's Hardware",
+   "published": "2026-10-18T12:05:00Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "4da5d2e689aa",
+   "title": "All-flash NAS was supposed to be the future, and SSD prices just pushed it back by years",
+   "url": "https://www.xda-developers.com/all-flash-nas-was-supposed-to-be-the-future-and-ssd-prices-just-pushed-it-back-by-years/",
+   "source": "XDA Developers",
+   "published": "2026-10-18T12:00:20Z",
+   "categories": [
+    "chips"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "f8940d4cd0e5",
+   "title": "I used Nova Launcher for years until this free alternative replaced it for good",
+   "url": "https://www.androidpolice.com/i-used-nova-launcher-for-years-until-this-free-app-replaced-it-for-good/",
+   "source": "Android Police",
+   "published": "2026-10-18T12:00:13Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "c5a408d0212a",
+   "title": "This Firefox feature made me ditch sticky notes for everyday research",
+   "url": "https://www.androidauthority.com/firefox-feature-ditch-sticky-notes-3720865/",
+   "source": "Android Authority",
+   "published": "2026-10-18T12:00:01Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "e50a5a5e1309",
+   "title": "Tenebris Somnia Blends 2D Visuals With Live-Action Horror Scenes, And It’s Already On Sale At Launch",
+   "url": "https://www.gamespot.com/articles/tenebris-somnia-blends-2d-visuals-with-live-action-horror-scenes-and-its-already-on-sale-at-launch/",
+   "source": "GameSpot",
+   "published": "2026-10-18T12:00:00Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "70cb9c60d988",
+   "title": "300-plus local data center bans have only delayed just three US projects",
+   "url": "https://www.tomshardware.com/tech-industry/data-centers/300-plus-local-data-center-bans-have-only-delayed-just-three-us-projects-bans-much-more-bark-than-bite-only-2-3-gigawatts-of-data-centers-are-held-up-versus-38-gigawatts-expected-online-in-2027",
+   "source": "Tom's Hardware",
+   "published": "2026-10-18T11:45:00Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "720df5c1be41",
+   "title": "I install these 5 open-source apps on every Pixel before anything else",
+   "url": "https://www.xda-developers.com/i-install-these-open-source-apps-on-every-pixel-before-anything-else/",
+   "source": "XDA Developers",
+   "published": "2026-10-18T11:30:19Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "a257dddc2d05",
+   "title": "Anthropic’s proposed AI safety bill only kicks in if 50 deaths or $1 billion in damages are on the line",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+   "source": "Tom's Hardware",
+   "published": "2026-10-18T11:25:00Z",
+   "categories": [
+    "ai"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "75b009f3d1c0",
+   "title": "Weekly poll: would you get a OnePlus 16 if you could?",
+   "url": "https://www.gsmarena.com/weekly_poll_would_you_get_a_oneplus_16_if_you_could-news-75067.php",
+   "source": "GSMArena",
+   "published": "2026-10-18T11:21:02Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": true
+  },
+  {
+   "id": "94698757b14b",
+   "title": "Outlast designer says that one playtester was so upset by the horror series they 'ran out of the studio to go cry outside' and didn't return",
+   "url": "https://www.pcgamer.com/games/horror/outlast-designer-says-that-one-playtester-was-so-upset-by-the-horror-series-they-ran-out-of-the-studio-to-go-cry-outside-and-didnt-return/",
+   "source": "PC Gamer",
+   "published": "2026-10-18T11:18:11Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "1cbe7bf877e8",
+   "title": "Why I'd buy a two-generation-old flagship GPU before any new mid-range card",
+   "url": "https://www.xda-developers.com/buy-two-generation-old-flagship-gpu-before-new-mid-range-card/",
+   "source": "XDA Developers",
+   "published": "2026-10-18T11:01:20Z",
+   "categories": [
+    "chips"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "d330f9b6a48b",
+   "title": "The Pixel 11 Pro’s 120x zoom is ridiculous, but is it actually useful?",
+   "url": "https://www.androidauthority.com/the-pixel-11-pros-120x-zoom-3721738/",
+   "source": "Android Authority",
+   "published": "2026-10-18T11:00:46Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "2f424bfc4387",
+   "title": "I turned Google Keep into my personal assistant with Gemini; it's awesome",
+   "url": "https://www.androidpolice.com/turned-google-keep-into-my-personal-assistant-with-gemini/",
+   "source": "Android Police",
+   "published": "2026-10-18T11:00:13Z",
+   "categories": [
+    "ai",
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "3fd96395fa0e",
+   "title": "Researchers train AI to detect concealed handguns using Wi-Fi signals",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-train-ai-to-detect-concealed-handguns-using-wi-fi-signals-open-source-wifirenet-achieves-precision-detection-on-older-802-11a-standard-by-analyzing-how-weapons-distort-wireless-signals",
+   "source": "Tom's Hardware",
+   "published": "2026-10-18T11:00:00Z",
+   "categories": [
+    "ai"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "9e19c777aed2",
+   "title": "I’ve been a smart home user for 10 years, and the Apple HomeView looks like a game-changer",
+   "url": "https://www.androidauthority.com/apple-homeview-smart-home-3723150/",
+   "source": "Android Authority",
+   "published": "2026-10-18T10:30:59Z",
+   "categories": [
+    "android",
+    "apple",
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "5a0185e964b5",
+   "title": "Google Maps isn't just for roads; here's how I use it to navigate inside buildings",
+   "url": "https://www.androidpolice.com/google-maps-indoor-maps-to-navigate-inside-buildings/",
+   "source": "Android Police",
+   "published": "2026-10-18T10:30:13Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "4106b04bd4c2",
+   "title": "DJI’s first battery-swapping dock gets drones recharged and back in the air in under 45 seconds",
+   "url": "https://www.tomshardware.com/tech-industry/drones/djis-first-battery-swapping-dock-gets-drones-recharged-and-back-in-the-air-in-under-45-seconds-but-dock-4-has-no-fcc-clearance-for-u-s-sale",
+   "source": "Tom's Hardware",
+   "published": "2026-10-18T10:30:00Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "388456d0365d",
+   "title": "I rebuilt my most complicated Excel workbook in Python with an AI agent's help, and I'm not going back",
+   "url": "https://www.xda-developers.com/rebuilt-excel-workbook-in-python-with-ai-agent/",
+   "source": "XDA Developers",
+   "published": "2026-10-18T10:00:19Z",
+   "categories": [
+    "ai"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "1f8b82dd4be1",
+   "title": "Skip Intel Googlebooks for now, because your favorite apps and games may run poorly on them",
+   "url": "https://www.androidpolice.com/skip-intel-googlebooks-for-now/",
+   "source": "Android Police",
+   "published": "2026-10-18T10:00:13Z",
+   "categories": [
+    "android",
+    "chips",
+    "gaming"
+   ],
+   "rumor": true
+  },
+  {
+   "id": "375ae96ede98",
+   "title": "Motorola’s forgotten foldable is the one I’d actually buy",
+   "url": "https://www.androidauthority.com/motorola-forgotten-foldable-buy-3722300/",
+   "source": "Android Authority",
+   "published": "2026-10-18T10:00:11Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "d7252f1b7ceb",
+   "title": "Flock camera locations revealed on MapQuest’s new Surveillance Layer",
+   "url": "https://www.tomshardware.com/software/maps/flock-camera-locations-revealed-on-mapquests-new-surveillance-layer-users-can-now-see-placement-and-direction-of-known-license-plate-readers-from-multiple-companies",
+   "source": "Tom's Hardware",
+   "published": "2026-10-18T10:00:00Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "d97d7828fcbe",
+   "title": "Liquid Swords, developer of open-city crime sim Samson, has gone bankrupt following staff claims that they haven't been paid in two months",
+   "url": "https://www.pcgamer.com/gaming-industry/liquid-swords-developer-of-open-city-crime-sim-samson-has-gone-bankrupt-following-staff-claims-that-they-havent-been-paid-in-two-months/",
+   "source": "PC Gamer",
+   "published": "2026-10-18T09:50:29Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "2410a319f134",
+   "title": "5 Android phones you should buy instead of the Samsung Galaxy A16",
+   "url": "https://www.androidauthority.com/samsung-galaxy-a16-alternatives-3721499/",
+   "source": "Android Authority",
+   "published": "2026-10-18T09:30:37Z",
+   "categories": [
+    "android",
+    "samsung"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "462163ab8b8a",
+   "title": "Pixel 11 Pro XL vs. Galaxy S27 Ultra: Why you shouldn’t buy Google’s flagship right now",
+   "url": "https://www.androidauthority.com/pixel-11-pro-xl-vs-galaxy-s27-ultra-should-you-buy-wait-3722140/",
+   "source": "Android Authority",
+   "published": "2026-10-18T09:00:23Z",
+   "categories": [
+    "android",
+    "samsung"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "f8c4b8ff8f3e",
+   "title": "Deals: Galaxy Z Fold8 is on sale as the iPhone Duo launches, other foldables also discounted",
+   "url": "https://www.gsmarena.com/deals_galaxy_z_fold8_is_on_sale_as_the_iphone_duo_launches_other_foldables_also_discounted-news-75088.php",
+   "source": "GSMArena",
+   "published": "2026-10-18T08:22:01Z",
+   "categories": [
+    "android",
+    "apple",
+    "samsung"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "3b4027c98d56",
+   "title": "This cool Raspberry Pi project turns Telegram photos and voice messages into framed pictures",
+   "url": "https://www.xda-developers.com/this-cool-raspberry-pi-project-turns-telegram-photos-and-voice-messages-into-framed-pictures/",
+   "source": "XDA Developers",
+   "published": "2026-10-18T06:24:09Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "71036c9fcf68",
+   "title": "Someone made a sleek Raspberry Pi scrolling ticker, and it shows current sports results",
+   "url": "https://www.xda-developers.com/someone-made-a-sleek-raspberry-pi-scrolling-ticker-and-it-shows-current-sports-results/",
+   "source": "XDA Developers",
+   "published": "2026-10-18T05:52:05Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "e002f80a5022",
+   "title": "Weekly poll results: the Galaxy Tab S12+ and Tab S12 Ultra make laptops look reasonably priced",
+   "url": "https://www.gsmarena.com/weekly_poll_results_the_galaxy_tab_s12_and_tab_s12_ultra_make_laptops_look_reasonably_priced-news-75069.php",
+   "source": "GSMArena",
+   "published": "2026-10-18T05:23:01Z",
+   "categories": [
+    "android",
+    "chips",
+    "samsung"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "00d54f92633f",
+   "title": "vivo V80 in for review",
+   "url": "https://www.gsmarena.com/vivo_v80_in_for_review-news-75087.php",
+   "source": "GSMArena",
+   "published": "2026-10-18T02:24:02Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
   {
    "id": "25516ef6dbcc",
    "title": "Someone got Blu-ray's Dolby Atmos TrueHD sound working on the Apple TV 4K, through quite the hack",
@@ -1751,6 +2280,15 @@
    "rumor": false
   },
   {
+   "id": "07f5e8442486",
+   "title": "The best gadget I bought this year is a milk frother",
+   "url": "https://www.theverge.com/gadgets/1013257/milk-frother-cold-foam-gadget",
+   "source": "The Verge",
+   "published": "2026-10-16T22:15:10Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
    "id": "af76e8d52e34",
    "title": "The Cyberpunk 2077 movie won't be 'a film adaptation of the game,' CD Projekt chief says",
    "url": "https://www.pcgamer.com/movies-tv/the-cyberpunk-2077-movie-wont-be-a-film-adaptation-of-the-game-cd-projekt-chief-says/",
@@ -2302,6 +2840,15 @@
    "categories": [],
    "rumor": false,
    "summary": "A bug made some Ray-Ban Meta glasses record audio without the wake word; Meta says it's fixed but hasn't explained the cause or scale."
+  },
+  {
+   "id": "a4cfa48e5145",
+   "title": "Cities want to put the boot on robotaxis",
+   "url": "https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws",
+   "source": "The Verge",
+   "published": "2026-10-16T19:07:30Z",
+   "categories": [],
+   "rumor": false
   },
   {
    "id": "1bdcda3e6e26",

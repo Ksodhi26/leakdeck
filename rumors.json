@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18",
+ "updated": "2026-10-19",
  "scale": {
   "Confirmed": "Announced by the company or shown in an official source.",
   "Likely": "Multiple credible outlets or hard evidence (certifications, databases, supply chain), but no official word.",
@@ -17,10 +17,10 @@
     "chips"
    ],
    "status": "Active",
-   "updated": "2026-10-18",
-   "expected": "Oct 27, 2026 (reported)",
+   "updated": "2026-10-19",
+   "expected": "Announce Oct 27-28; on sale Nov 6 (reported)",
    "claim": "Apple will announce OLED touchscreen 14- and 16-inch MacBook Pros, an OLED iPad mini, a 14-inch M6 MacBook Pro and an M6 iMac on or around Oct 27, with a media day in Los Angeles on Oct 28.",
-   "why": "Reported by Bloomberg and matched Apple's earlier pattern of two October launch rounds (the Oct 13 event happened as reported). On Oct 15 Gurman added that media were invited to an all-day launch experience on Oct 28. Apple has not confirmed. Reports disagree on whether the OLED models use M6 or M5 Pro/Max chips, and on availability dates. New supporting evidence: an unreleased iPad mini Smart Folio (model A3632) appeared on Apple's French regulatory site, which suggests a redesigned iPad mini that won't fit current cases.",
+   "why": "Reported by Bloomberg and matched Apple's earlier pattern of two October launch rounds (the Oct 13 event happened as reported). On Oct 15 Gurman added that media were invited to an all-day launch experience on Oct 28. Apple has not confirmed. Reports disagree on whether the OLED models use M6 or M5 Pro/Max chips, and on availability dates. New supporting evidence: an unreleased iPad mini Smart Folio (model A3632) appeared on Apple's French regulatory site, which suggests a redesigned iPad mini that won't fit current cases. On Oct 18 Gurman said Apple Stores plan an overnight reset on Nov 5-6, pointing to a Nov 6 release a week after the announcement. 9to5Mac now reports the OLED models skip M6 and use M5 Pro/Max, while MacRumors' summary of Gurman still lists M6 for the 14-inch MacBook Pro and iMac, so the chip question remains open.",
    "sources": [
     {
      "name": "MacRumors (citing Bloomberg)",
@@ -37,6 +37,14 @@
     {
      "name": "GSMArena (Apple regulatory listing)",
      "url": "https://www.gsmarena.com/apples_own_website_now_hints_at_a_new_ipad_mini-news-75081.php"
+    },
+    {
+     "name": "MacRumors (Nov 6 release)",
+     "url": "https://www.macrumors.com/2026/10/18/apple-product-releases-next-four-fridays/"
+    },
+    {
+     "name": "9to5Mac",
+     "url": "https://9to5mac.com/2026/10/18/new-macbook-pro-with-touchscreen-and-oled-november-6-release/"
     }
    ],
    "first_reported": "2026-10-08"
@@ -101,16 +109,16 @@
   {
    "id": "galaxy-s27-unpacked-feb-24",
    "title": "Galaxy S27 Unpacked lands around Feb 24, 2027",
-   "rating": "Rumor",
+   "rating": "Shaky",
    "categories": [
     "samsung",
     "android"
    ],
    "status": "Active",
-   "updated": "2026-10-17",
+   "updated": "2026-10-19",
    "expected": "Jan-Feb 2027",
    "claim": "Samsung will hold its Galaxy S27 Unpacked in late February 2027, possibly on Feb 24.",
-   "why": "This is an estimate extrapolated from past schedules (Jan 17, 2024; Jan 22, 2025; Feb 25, 2026) and early One UI 9.5 firmware testing, not a leak from Samsung. Samsung usually sends invitations about two weeks before the show.",
+   "why": "This is an estimate extrapolated from past schedules (Jan 17, 2024; Jan 22, 2025; Feb 25, 2026) and early One UI 9.5 firmware testing, not a leak from Samsung. Samsung usually sends invitations about two weeks before the show. Re-rated Shaky on Oct 19: Korean tipster Lanzuk, who has a solid Samsung record, now says Samsung is aiming for early January 2027, which contradicts the late-February guess.",
    "sources": [
     {
      "name": "WhenCount",
@@ -123,6 +131,10 @@
     {
      "name": "PhoneArena",
      "url": "https://www.phonearena.com/galaxy-s27-release-date-price-features-news"
+    },
+    {
+     "name": "SamMobile (citing Lanzuk)",
+     "url": "https://www.sammobile.com/news/galaxy-s27-series-launch-earlier/"
     }
    ],
    "first_reported": null
@@ -384,10 +396,10 @@
     "android"
    ],
    "status": "Active",
-   "updated": "2026-10-18",
+   "updated": "2026-10-19",
    "expected": "Oct 21, 2026 (official)",
    "claim": "Honor's Win 2 and Win 2 RT phones launch this month with 100W/90W charging and 10,000mAh+ batteries.",
-   "why": "Honor announced on Oct 12 that the Win 2 series launches Oct 21 at 2:30 p.m. in China and goes on sale the same day, and later confirmed a battery above 10,000mAh. Still unconfirmed: the 100W charging figure (from leaker Digital Chat Station) and the final model list: Honor's announcement only says 'Win 2 series', though panel maker Visionox now names three models (Win 2, Win 2 RT and Win 2 Turbo).",
+   "why": "Honor announced on Oct 12 that the Win 2 series launches Oct 21 at 2:30 p.m. in China and goes on sale the same day, and later confirmed a battery above 10,000mAh. Still unconfirmed: the 100W charging figure (from leaker Digital Chat Station) and the final model list: Honor's announcement only says 'Win 2 series', though panel maker Visionox now names three models (Win 2, Win 2 RT and Win 2 Turbo). On Oct 19 a Weibo tipster leaked full specs and a live photo of all three models (Win 2, Win 2 RT, Win Turbo 2), including 100W wired and 50W wireless charging for the Win 2 and 90W for the other two; Honor itself has still only confirmed the date and the 10,000mAh+ battery.",
    "sources": [
     {
      "name": "Gizmochina",
@@ -408,6 +420,10 @@
     {
      "name": "GSMArena (Visionox teaser)",
      "url": "https://www.gsmarena.com/honor_win2_teased_once_again_with_worlds_first_2k_185hz_display-news-75098.php"
+    },
+    {
+     "name": "GSMArena (spec leak)",
+     "url": "https://www.gsmarena.com/honor_win2_win2_rt_and_win_turbo2_specs_leak_along_with_a_live_image-news-75109.php"
     }
    ],
    "first_reported": "2026-10-10"
@@ -475,10 +491,10 @@
    ],
    "status": "Active",
    "first_reported": "2026-10-15",
-   "updated": "2026-10-17",
+   "updated": "2026-10-19",
    "expected": "Decision pending (conflicting reports)",
    "claim": "Samsung found the Snapdragon 8 Elite Extreme Gen 6 overheating in S27 Ultra testing and may use its own Exynos 2700 chip if Qualcomm doesn't fix it by mid-October.",
-   "why": "The report came from Korean outlet SEDaily and was relayed by SamMobile and others. Qualcomm told 9to5Google on Oct 17 the overheating reports are 'inaccurate', and its CMO Don McGuire says there are 'no systemic thermal issues'. A separate Oct 16 MoneyToday report says Samsung has dropped the Exynos plan for the Ultra because of Exynos supply limits and memory costs, and the Ultra will use Snapdragon only. Samsung has not commented. Single-sourced, denied, and now contradicted by another report.",
+   "why": "The report came from Korean outlet SEDaily and was relayed by SamMobile and others. Qualcomm told 9to5Google on Oct 17 the overheating reports are 'inaccurate', and its CMO Don McGuire says there are 'no systemic thermal issues'. A separate Oct 16 MoneyToday report says Samsung has dropped the Exynos plan for the Ultra because of Exynos supply limits and memory costs, and the Ultra will use Snapdragon only. Samsung has not commented. Single-sourced, denied, and now contradicted by another report. An Oct 19 Lanzuk leak (via SamMobile) also says the Ultra may use Qualcomm's chip exclusively.",
    "sources": [
     {
      "name": "SamMobile",
@@ -499,6 +515,10 @@
     {
      "name": "MoneyToday",
      "url": "https://www.mt.co.kr/en/industry/2026/10/16/2026101522493126583"
+    },
+    {
+     "name": "SamMobile (Oct 19)",
+     "url": "https://www.sammobile.com/news/galaxy-s27-series-launch-earlier/"
     }
    ]
   },
@@ -687,6 +707,94 @@
     }
    ],
    "first_reported": "2026-10-16"
+  },
+  {
+   "id": "galaxy-s27-early-january",
+   "title": "Galaxy S27 series launches in early January 2027",
+   "rating": "Rumor",
+   "categories": [
+    "samsung",
+    "android"
+   ],
+   "status": "Active",
+   "first_reported": "2026-10-19",
+   "updated": "2026-10-19",
+   "expected": "Early Jan 2027 (leak)",
+   "claim": "Samsung plans to launch the Galaxy S27, S27+, S27 Pro and S27 Ultra in early January 2027, a few weeks earlier than the S25 and S26.",
+   "why": "From Korean tipster Lanzuk on Naver, who has a solid track record on Samsung, relayed by SamMobile and GSMArena. The leak says major hardware is finalized but Samsung is still deciding whether the Pro and Ultra get LPDDR6 and UFS 5.0 because of memory prices. GSMArena reads it more loosely as a return to the usual January-February window. Samsung has not announced anything.",
+   "sources": [
+    {
+     "name": "SamMobile",
+     "url": "https://www.sammobile.com/news/galaxy-s27-series-launch-earlier/"
+    },
+    {
+     "name": "GSMArena",
+     "url": "https://www.gsmarena.com/samsung_may_launch_galaxy_s27_series_earlier_than_expected_but_memory_questions_still_linger-news-75106.php"
+    }
+   ]
+  },
+  {
+   "id": "ps6-price-1000",
+   "title": "PlayStation 6 costs $1,000 or more",
+   "rating": "Rumor",
+   "categories": [
+    "gaming",
+    "chips"
+   ],
+   "status": "Active",
+   "first_reported": "2026-07-01",
+   "updated": "2026-10-19",
+   "expected": "Not announced",
+   "claim": "Memory and storage alone will cost Sony about $680 per PS6, pushing the console's price to $1,000 or more.",
+   "why": "Leaker KeplerL2, who has a decent hardware track record, made the $680 claim on NeoGAF and earlier estimated a $960 bill of materials (in July). The $1,000 price is an inference from those cost estimates plus Sony saying it does not intend to sell hardware at significant losses, not a leaked price. Sony has not said when the PS6 launches or what it costs.",
+   "sources": [
+    {
+     "name": "TechRadar",
+     "url": "https://www.techradar.com/gaming/playstation/the-playstation-6-could-cost-over-usd1-000-as-leaker-claims-its-memory-and-storage-alone-will-cost-sony-usd680"
+    }
+   ]
+  },
+  {
+   "id": "vivo-x500-ultra-specs",
+   "title": "vivo X500 Ultra uses the Snapdragon 8 Elite Extreme Gen 6 and a 7,000mAh battery",
+   "rating": "Rumor",
+   "categories": [
+    "android",
+    "chips"
+   ],
+   "status": "Active",
+   "first_reported": "2026-10-19",
+   "updated": "2026-10-19",
+   "expected": "Mar-Apr 2027 (China, reported)",
+   "claim": "The vivo X500 Ultra launches in China around March-April 2027 with the Snapdragon 8 Elite Extreme Gen 6, a flat 6.85-inch 2K 144Hz BOE LTPO screen, an ultrasonic fingerprint sensor and a battery of about 7,000mAh.",
+   "why": "From Weibo tipster Digital Chat Station via GSMArena. The chip choice is the expected default for a 2027 Ultra flagship; the screen and battery details are unverified, and vivo has not announced the phone.",
+   "sources": [
+    {
+     "name": "GSMArena (citing Digital Chat Station)",
+     "url": "https://www.gsmarena.com/vivo_x500_ultra_key_specifications_tipped-news-75108.php"
+    }
+   ]
+  },
+  {
+   "id": "apple-homeview-max",
+   "title": "Apple plans a bigger HomeView with a 9-inch screen on a robotic arm",
+   "rating": "Rumor",
+   "categories": [
+    "apple",
+    "ai"
+   ],
+   "status": "Active",
+   "first_reported": "2026-10-18",
+   "updated": "2026-10-19",
+   "expected": "2027 or 2028 (reported)",
+   "claim": "Apple is developing a higher-end HomeView smart home hub with a 9-inch screen that swivels 360 degrees on a robotic arm, for 2027 or 2028.",
+   "why": "Reported by Bloomberg's Mark Gurman, who has a strong Apple record, in his Oct 18 newsletter. Names like 'HomeView Max' are his guesses. The timeline is far out and Apple's plans could change; the current 7-inch HomeView ships Nov 13.",
+   "sources": [
+    {
+     "name": "MacRumors (citing Bloomberg)",
+     "url": "https://www.macrumors.com/2026/10/18/apple-rumored-to-launch-homeview-max/"
+    }
+   ]
   },
   {
    "id": "snapdragon-two-flagships",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T13:55:52Z",
+ "updated": "2026-10-19T14:09:38Z",
  "sources": [
   "9to5Google",
   "9to5Mac",
@@ -22,6 +22,73 @@
  ],
  "count": 600,
  "items": [
+  {
+   "id": "c72190d03cc3",
+   "title": "Tesla (TSLA) proxy shows a board getting ready for a SpaceX merger",
+   "url": "https://electrek.co/2026/10/19/tesla-tsla-proxy-annual-meeting-spacex-merger/",
+   "source": "Electrek",
+   "published": "2026-10-19T14:07:33Z",
+   "categories": [
+    "evs"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "c037856dd5f2",
+   "title": "I ditched $20 ChatGPT subscription and made Claude and Gemini work together for better results",
+   "url": "https://www.xda-developers.com/i-made-claude-and-gemini-work-together-for-better-results/",
+   "source": "XDA Developers",
+   "published": "2026-10-19T14:00:18Z",
+   "categories": [
+    "ai"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "c08e28e17ab3",
+   "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+   "source": "The Verge",
+   "published": "2026-10-19T13:58:41Z",
+   "categories": [
+    "ai"
+   ],
+   "rumor": false,
+   "summary": "Security firm Norforge says one attacker used largely autonomous AI agents on an open-source platform to breach 100+ sites, reportedly including John Deere and SharkNinja."
+  },
+  {
+   "id": "95ab5e8f65fb",
+   "title": "The COROS Pace 4 is a smartwatch for running and clear reasons to buy over Wear OS",
+   "url": "https://9to5google.com/2026/10/19/coros-pace-4-suguru-osako-edition/",
+   "source": "9to5Google",
+   "published": "2026-10-19T13:57:27Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "7ff27ace52ec",
+   "title": "Why this major e-bike brand just started selling battery-less electric bikes",
+   "url": "https://electrek.co/2026/10/19/why-this-major-e-bike-brand-just-started-selling-battery-less-electric-bikes/",
+   "source": "Electrek",
+   "published": "2026-10-19T13:57:15Z",
+   "categories": [
+    "evs"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "364999588ce7",
+   "title": "All new Kindles have this fan-favorite feature: replaceable batteries",
+   "url": "https://www.androidpolice.com/all-the-new-kindles-have-this-fan-favorite-feature-replaceable-batteries/",
+   "source": "Android Police",
+   "published": "2026-10-19T13:56:32Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
   {
    "id": "89ba6cf6e45a",
    "title": "Google support pages start defaulting to AI chatbots – it might be for the best",
@@ -141,7 +208,8 @@
    "categories": [
     "android"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "Two days before launch, a Weibo leak lays out all three Honor Win 2 models: the top one reportedly pairs twin fans with a 10,100mAh battery and 100W charging, while the fanless Turbo 2 steps down to a Snapdragon 8s Gen 4."
   },
   {
    "id": "86b18d0d86de",
@@ -165,7 +233,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Some iPhone Duo buyers, mostly in Japan, are seeing Apple pull their delivery estimates forward, in a few cases all the way to launch day."
   },
   {
    "id": "b79afa48c3c5",
@@ -219,7 +288,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "A UAE certification hints Suunto is readying a screen-free heart-rate band to take on Fitbit Air and Whoop."
   },
   {
    "id": "848958bdf271",
@@ -241,7 +311,8 @@
    "categories": [
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Faraway, a one-button star-hopping arcade game first shown in 2010, finally lands Nov 5 on PC and all three major consoles via Annapurna."
   },
   {
    "id": "737ede9d9eb9",
@@ -252,7 +323,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Apple's revised App Store rules target bait-and-switch apps that pass review and then unlock AI 'nudify' tools, and promise removal for undisclosed features."
   },
   {
    "id": "5e1a5be193f0",
@@ -317,7 +389,8 @@
    "categories": [
     "gaming"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "Leaker KeplerL2 puts the PS6's memory and storage bill at about $680, which would make a sub-$1,000 price hard for Sony to hit."
   },
   {
    "id": "dcc98110f732",
@@ -357,7 +430,8 @@
    "categories": [
     "android"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "Early leaks peg vivo's X500 Ultra for spring 2027 in China with Qualcomm's top 2026 chip, a flat 2K 144Hz screen and roughly 7,000mAh of battery."
   },
   {
    "id": "54238be11079",
@@ -452,7 +526,8 @@
     "android",
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "AYN's next Odin Portal handheld will run Qualcomm's modem-less Dragonwing Q8 and pack a 9,000mAh battery; no price or date yet."
   },
   {
    "id": "6062992532c8",
@@ -528,7 +603,8 @@
     "chips",
     "samsung"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "Samsung has reportedly locked most Galaxy S27 hardware, but soaring memory prices have it reconsidering whether the Pro and Ultra get LPDDR6 and UFS 5."
   },
   {
    "id": "a3615ccb949d",
@@ -615,7 +691,8 @@
     "android",
     "samsung"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "A Korean tipster with a good Samsung record says the Galaxy S27 lineup could arrive in early January, weeks ahead of the last two generations."
   },
   {
    "id": "9f8a34684727",
@@ -727,7 +804,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Redmi's standard K100 is coming next week in China with a 10,000mAh cell, a 6.83-inch 165Hz screen and HyperOS 4, filling out the K100 family."
   },
   {
    "id": "45a693e1a3bd",
@@ -863,7 +941,8 @@
     "ai",
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "A team of four Gemini 4 agents defeated Minecraft's Ender Dragon on their own in about 27 hours, dividing up jobs and dying 605 times along the way."
   },
   {
    "id": "4865d7b9edeb",
@@ -933,7 +1012,8 @@
     "chips",
     "samsung"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "Samsung will reportedly let rival TSMC build the base dies for Nvidia's custom HBM4E, a first for its memory business, while keeping a Samsung Foundry fallback."
   },
   {
    "id": "0f877a1f4366",
@@ -981,7 +1061,8 @@
     "ai",
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "OpenAI's ChatGPT extension for Chrome can now read across your open tabs and act in them, such as filling forms or downloading files, on every plan."
   },
   {
    "id": "3602fec87d38",
@@ -1014,7 +1095,8 @@
    "source": "GSMArena",
    "published": "2026-10-19T07:00:02Z",
    "categories": [],
-   "rumor": true
+   "rumor": true,
+   "summary": "iQOO set Oct 28 for the Neo12's China debut and showed its fan-equipped camera block, three colors and a 9,000mAh battery; pre-orders are already live."
   },
   {
    "id": "c537390f9752",
@@ -1455,7 +1537,8 @@
     "ai",
     "chips"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Intel's air-cooled GPU D-series (formerly Crescent Island) uses 480GB of laptop-class LPDDR5X so a single card can serve models up to 300B parameters."
   },
   {
    "id": "58e3a066f23f",
@@ -1589,7 +1672,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "If Gurman's Nov 6 date holds, Apple will have something new in stores four Fridays running: iPhone Duo, HomePod mini 2, the new Macs and HomeView."
   },
   {
    "id": "87d10a0a57ea",
@@ -1858,7 +1942,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "Gurman says Apple is working on a larger HomeView whose 9-inch display rotates on a motorized arm, though it may not ship until 2027 or 2028."
   },
   {
    "id": "4f5bd0962d74",
@@ -1880,7 +1965,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "A rundown of what to expect from Apple's first touch-screen MacBook Pro, from its tandem OLED panel to touch-aware menus, with stores possibly getting it Nov 6."
   },
   {
    "id": "6239b4b3471b",
@@ -6510,71 +6596,6 @@
    "categories": [
     "android"
    ],
-   "rumor": false
-  },
-  {
-   "id": "dd504ef40e90",
-   "title": "Peter Molyneux explains why Black & White 3 remains MIA, and then drops a tantalising teaser: 'It's such a difficult, difficult, challenging title to develop'",
-   "url": "https://www.pcgamer.com/games/strategy/peter-molyneux-explains-why-black-and-white-3-remains-mia-and-then-drops-a-tantalising-teaser-its-such-a-difficult-difficult-challenging-title-to-develop/",
-   "source": "PC Gamer",
-   "published": "2026-10-16T10:34:30Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "f566aec872f1",
-   "title": "Redmi K100 confirmed to launch this month, Redmi Clip Neo to tag along",
-   "url": "https://www.gsmarena.com/redmi_k100_confirmed_to_launch_this_month_redmi_clip_neo_to_tag_along-news-75079.php",
-   "source": "GSMArena",
-   "published": "2026-10-16T10:34:02Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "7538b8047abb",
-   "title": "New fear dropped: Amazon scammer seems to have delidded an $889 AMD chip, transplanted it on old Intel chip, and got it through return inspection",
-   "url": "https://www.pcgamer.com/hardware/processors/new-fear-dropped-amazon-scammer-seems-to-have-delidded-an-usd889-amd-chip-transplanted-it-on-old-intel-chip-and-got-it-through-return-inspection/",
-   "source": "PC Gamer",
-   "published": "2026-10-16T10:30:59Z",
-   "categories": [
-    "chips",
-    "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "355d95c53312",
-   "title": "I wouldn’t buy these phones, and neither should you",
-   "url": "https://www.androidauthority.com/android-phones-avoid-dont-buy-3720295/",
-   "source": "Android Authority",
-   "published": "2026-10-16T10:30:34Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "fd38680e9be2",
-   "title": "Linus Torvalds posts his first AI-assisted patch to the Linux kernel, synthetic test clocks 23x performance leap",
-   "url": "https://www.tomshardware.com/software/linux/linus-torvalds-posts-his-first-llm-assisted-patch-to-the-linux-kernel-after-issuing-clear-pro-ai-directives-the-bossman-makes-use-of-ai-tooling-himself",
-   "source": "Tom's Hardware",
-   "published": "2026-10-16T10:30:00Z",
-   "categories": [
-    "ai"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "7a430276edf6",
-   "title": "Thai cops bust 'audacious' cross-border fiberoptic cable running to Myanmar scam compound",
-   "url": "https://www.tomshardware.com/tech-industry/thai-cops-bust-audacious-cross-border-fiberoptic-cable-running-to-myanmar-scam-compound-350-meter-48-core-cable-was-supplying-illegal-border-casino-and-a-scam-center-with-6tb-of-data-per-day",
-   "source": "Tom's Hardware",
-   "published": "2026-10-16T10:24:24Z",
-   "categories": [],
    "rumor": false
   }
  ]

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T13:51:13Z",
+ "updated": "2026-10-20T14:17:07Z",
  "sources": [
   "9to5Google",
   "9to5Mac",
@@ -23,6 +23,130 @@
  "count": 600,
  "items": [
   {
+   "id": "7aa3bb20fa96",
+   "title": "This Chinese EV Is Now Made In Europe. More Are Coming",
+   "url": "https://insideevs.com/news/812617/leapmotor-begins-european-production-stellantis/",
+   "source": "InsideEVs",
+   "published": "2026-10-20T14:16:42Z",
+   "categories": [
+    "evs"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "f3325a465170",
+   "title": "New Apple TV 4K Features 'Whole Room Audio' With Four HomePods",
+   "url": "https://www.macrumors.com/2026/10/20/new-apple-tv-4k-whole-room-audio/",
+   "source": "MacRumors",
+   "published": "2026-10-20T14:02:13Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false,
+   "summary": "Besides surround sound, the new Apple TV 4K can spread audio evenly across four HomePods for parties, with separate settings for each mode coming in tvOS 27.2."
+  },
+  {
+   "id": "e5f04efa8c23",
+   "title": "Speak is getting an interactive new way to practice your language skills",
+   "url": "https://www.androidauthority.com/speak-ai-tutor-call-3725246/",
+   "source": "Android Authority",
+   "published": "2026-10-20T14:00:29Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "5e55db2710e1",
+   "title": "Used Wi-Fi 6 routers are still a better home networking deal than Wi-Fi 7 routers for most homes",
+   "url": "https://www.xda-developers.com/used-wi-fi-6-routers-better-deal-than-wi-fi-7-routers/",
+   "source": "XDA Developers",
+   "published": "2026-10-20T14:00:19Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "f007b17e62e5",
+   "title": "The Lucy AI Studio brings AI agents, local models, and private storage together",
+   "url": "https://www.xda-developers.com/cephalon-lucy-ai-studio/",
+   "source": "XDA Developers",
+   "published": "2026-10-20T14:00:04Z",
+   "categories": [
+    "ai"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "ae05192c49f7",
+   "title": "Modretro’s Chromatic is more transparent and cheaper than ever; how could I not love it?",
+   "url": "https://9to5google.com/2026/10/20/modretro-chromatic-transparent/",
+   "source": "9to5Google",
+   "published": "2026-10-20T14:00:00Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": true
+  },
+  {
+   "id": "11e6fc931294",
+   "title": "How electric school buses power 1,000 homes in California – and make money",
+   "url": "https://electrek.co/2026/10/20/how-electric-school-buses-power-1000-homes-in-california-and-make-money/",
+   "source": "Electrek",
+   "published": "2026-10-20T14:00:00Z",
+   "categories": [
+    "evs"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "a3e1d93e65d8",
+   "title": "Mysterious AMD Zen 6 APU with 24GB of LPDDR5 memory appears in benchmarks — chip may be for next-gen Steam Deck or gaming handhelds",
+   "url": "https://www.tomshardware.com/pc-components/cpus/mysterious-amd-zen-6-apu-with-24gb-of-lpddr5-memory-appears-in-benchmarks-chip-may-be-for-next-gen-steam-deck-or-gaming-handhelds",
+   "source": "Tom's Hardware",
+   "published": "2026-10-20T13:59:43Z",
+   "categories": [
+    "chips",
+    "gaming"
+   ],
+   "rumor": true,
+   "summary": "An AMD test chip with six Zen 6-family cores and 24GB of fast LPDDR5 showed up in a benchmark database, fueling talk that it is meant for a future Steam Deck."
+  },
+  {
+   "id": "10a906b8b173",
+   "title": "tvOS 27.2 adds three new features to your Apple TV 4K",
+   "url": "https://9to5mac.com/2026/10/20/tvos-27-2-adds-three-new-features-to-your-apple-tv-4k/",
+   "source": "9to5Mac",
+   "published": "2026-10-20T13:57:50Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false,
+   "summary": "tvOS 27.2, due next week, can shuffle every screen saver category, lets you hand-pick Photos for screen savers, and adds ASL and BSL sign-language tracks to some titles."
+  },
+  {
+   "id": "1ab8e3c3b6e2",
+   "title": "The Galaxy S26 Ultra just hit its lowest price in months",
+   "url": "https://9to5google.com/2026/10/20/galaxy-s26-ultra-deal/",
+   "source": "9to5Google",
+   "published": "2026-10-20T13:54:48Z",
+   "categories": [
+    "android",
+    "samsung"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "8f1f33d49777",
+   "title": "“The Suits” Made All The Money From Call Of Duty: Black Ops 1 And 2 Ports, OG Dev Says",
+   "url": "https://www.gamespot.com/articles/the-suits-made-all-the-money-from-call-of-duty-black-ops-1-and-2-ports-og-dev-says/",
+   "source": "GameSpot",
+   "published": "2026-10-20T13:50:20Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
    "id": "9e8edbe344e0",
    "title": "Apple now selling repair parts for iPhone 18 Pro, latest Mac Studio and Mac mini models",
    "url": "https://9to5mac.com/2026/10/20/apple-now-selling-repair-parts-for-iphone-18-pro-latest-mac-studio-and-mac-mini-models/",
@@ -31,7 +155,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Apple's Self Service Repair store now stocks parts and tools for the iPhone 18 Pro and Pro Max plus the newest Mac Studio and Mac mini models."
   },
   {
    "id": "3bf5259aca34",
@@ -63,7 +188,8 @@
     "android",
     "samsung"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "A leaker says memory costs may push the base Galaxy S27 and S27+ back to 8GB of RAM, with cheaper Android phones possibly falling to 4GB."
   },
   {
    "id": "ba8a3f8b4718",
@@ -74,7 +200,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Apple is putting up to $100 million into a Pennsylvania titanium maker for iPhone Duo frames and says US suppliers now make almost 100 parts for its newest iPhones."
   },
   {
    "id": "cb888d03e774",
@@ -108,7 +235,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Leaked Army Cyber Command papers describe ECHOTRIBBLE, a plan for self-spreading AI agents that hunt targets inside enemy networks and then erase themselves; security experts are alarmed."
   },
   {
    "id": "8c0eb1323e90",
@@ -142,7 +270,8 @@
     "chips",
     "gaming"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "The Steam Deck 2 link for AMD's leaked 'Gainsborough' chip rests on a Final Fantasy codename, so treat this one with caution."
   },
   {
    "id": "626ed8130ffc",
@@ -175,7 +304,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Apple repeated that Foxconn will start assembling Mac minis in Houston later this year, mainly to supply US buyers."
   },
   {
    "id": "cbbaddde7f45",
@@ -195,7 +325,8 @@
    "source": "The Verge",
    "published": "2026-10-20T13:12:02Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "Lightroom on phones and tablets now spots blinking subjects and offers a one-tap generative AI fix that opens their eyes."
   },
   {
    "id": "979e928743bc",
@@ -204,7 +335,8 @@
    "source": "The Verge",
    "published": "2026-10-20T13:11:23Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "Court depositions reported by NPR show TikTok staff repeatedly flagged child-safety problems to leadership, who they say were slow to act."
   },
   {
    "id": "c723746d1e66",
@@ -215,7 +347,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Homeland Security told civilian federal agencies to stop buying and remove DeepSeek AI, including third-party tools built on it, citing data-access risks; Beijing objected."
   },
   {
    "id": "b2ef6931e6fb",
@@ -237,7 +370,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "A single China-linked attacker reportedly used mostly autonomous AI agents to break into more than 100 company websites, with Deere and SharkNinja among the victims."
   },
   {
    "id": "4c8d683a9f72",
@@ -291,7 +425,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Robotics startup Eka raised $150 million at a $1.45 billion valuation for a force-sensing gripper and AI model that roboticists say handles new objects unusually well."
   },
   {
    "id": "41cf4f8f1cc3",
@@ -346,7 +481,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Three retired US nuclear plants, Palisades, Three Mile Island's Crane center and Duane Arnold, are being revived to add about 2.25GW, largely for AI data centers."
   },
   {
    "id": "29e3e1e1d3aa",
@@ -377,7 +513,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "The UK's CMA wants Apple to cut its fees and open iPhone tap-to-pay to rival wallets, noting no competitor has launched one in the UK."
   },
   {
    "id": "fb9936745ef9",
@@ -386,7 +523,8 @@
    "source": "Ars Technica",
    "published": "2026-10-20T12:33:13Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "Researchers found thousands of shared Meta Muse chat links could be enumerated, exposing confidential business and personal details people never meant to publish."
   },
   {
    "id": "7fb851e4f21f",
@@ -432,7 +570,8 @@
     "chips",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Yonhap says 70% of Samsung's 2027 DRAM and all of its HBM is already booked by big tech buyers, a squeeze likely to raise phone prices."
   },
   {
    "id": "6b369b1677ad",
@@ -443,7 +582,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Apple named two new US partners, Perryman for iPhone Duo titanium and Qnity for iPhone 18 Pro camera films, as part of its $600 billion US manufacturing pledge."
   },
   {
    "id": "9fe83b13be74",
@@ -490,7 +630,8 @@
     "chips",
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "ByteDance, Alibaba and Tencent reportedly ordered over 3 million export-legal RTX Pro 5500 cards worth $35 billion, far more than Nvidia plans to make."
   },
   {
    "id": "985f0f8b0e83",
@@ -546,7 +687,8 @@
     "apple",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "A leak lists six Samsung foldables for 2027, including a Fold9 Pro and a rollable Galaxy Z Slide, as the iPhone Duo sells out."
   },
   {
    "id": "98399b177a82",
@@ -621,7 +763,8 @@
     "chips",
     "samsung"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "The Elec reports Exynos Galaxy S27 models get a new M2700 modem meant to close the battery-life gap with Snapdragon versions."
   },
   {
    "id": "3920b1bda3c9",
@@ -6457,131 +6600,6 @@
    "published": "2026-10-17T21:20:21Z",
    "categories": [
     "evs"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "9060bf593907",
-   "title": "Your Claude Opus 5.5 keeps quietly switching to Opus 4.8, and it's supposed to prevent a security leak",
-   "url": "https://www.xda-developers.com/claude-opus-5-5-model-switch-opus-4-8/",
-   "source": "XDA Developers",
-   "published": "2026-10-17T21:00:19Z",
-   "categories": [
-    "ai"
-   ],
-   "rumor": true,
-   "summary": "When a classifier flags a chat as cyber-related, Claude Opus 5.5 quietly hands it to Opus 4.8, and Anthropic's own tests found fallback models easier to hijack; a settings toggle disables the switch."
-  },
-  {
-   "id": "a13ae586fc0d",
-   "title": "I let YouTube's Auto Speed binge my videos; here's where it shines",
-   "url": "https://www.androidpolice.com/youtube-auto-speed-ai-premium-feature-review/",
-   "source": "Android Police",
-   "published": "2026-10-17T21:00:13Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "003d90fce56a",
-   "title": "Electric Mercedes-AMG GT SUV unveiled with 1,153 hp and 710 kW charging",
-   "url": "https://electrek.co/2026/10/17/mercedes-amg-gt-suv-electric-1153-hp-710-kw-charging/",
-   "source": "Electrek",
-   "published": "2026-10-17T20:37:19Z",
-   "categories": [
-    "evs"
-   ],
-   "rumor": false,
-   "summary": "Mercedes-AMG's first fully in-house SUV is electric, with up to 1,153hp from three axial-flux motors and 710kW charging; US dealers get it in summer 2027."
-  },
-  {
-   "id": "d0d55c33e198",
-   "title": "Grab an RTX 5090 for a discounted $5,300 as part of an MSI Infinite ZS prebuilt gaming PC — price includes other components worth about $2,300 on their own",
-   "url": "https://www.tomshardware.com/pc-components/gpus/grab-an-rtx-5090-for-discounted-usd5-300-as-part-of-an-msi-infinite-zs-prebuilt-gaming-pc-usd7-599-price-includes-other-components-worth-about-usd2-300-on-their-own",
-   "source": "Tom's Hardware",
-   "published": "2026-10-17T20:30:58Z",
-   "categories": [
-    "chips",
-    "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "b5bf67551b70",
-   "title": "Your motherboard's old debug header is still listening, and it's an unpatched security risk",
-   "url": "https://www.xda-developers.com/motherboard-old-debug-header-still-listening-security-risk/",
-   "source": "XDA Developers",
-   "published": "2026-10-17T20:30:19Z",
-   "categories": [
-    "chips"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "0b92556a2d62",
-   "title": "Apple Hires Former Meta Lawyer to Oversee Global Litigation",
-   "url": "https://www.macrumors.com/2026/10/17/apple-hires-former-meta-lawyer/",
-   "source": "MacRumors",
-   "published": "2026-10-17T20:21:20Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false,
-   "summary": "Apple hired ex-Meta litigation chief Scott Tucker to run global litigation and financial-services legal work, reuniting him with general counsel Jennifer Newstead."
-  },
-  {
-   "id": "b769f5e984a3",
-   "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-   "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-   "source": "TechCrunch",
-   "published": "2026-10-17T20:21:19Z",
-   "categories": [
-    "ai"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "7f880a8c648f",
-   "title": "Qualcomm denies rumors about Snapdragon 8 Elite Extreme Gen 6 overheating",
-   "url": "https://www.gsmarena.com/qualcomm_denies_rumors_about_snapdragon_8_elite_extreme_gen_6_overheating-news-75100.php",
-   "source": "GSMArena",
-   "published": "2026-10-17T20:01:02Z",
-   "categories": [
-    "android",
-    "chips"
-   ],
-   "rumor": true
-  },
-  {
-   "id": "e9a973cec7f0",
-   "title": "I tried Claude Code, VS Code, and a local LLM as a note-taking app, and only one worked",
-   "url": "https://www.xda-developers.com/tried-claude-code-vs-code-local-llm-as-note-taking-app-only-one-worked/",
-   "source": "XDA Developers",
-   "published": "2026-10-17T20:00:20Z",
-   "categories": [
-    "ai"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "bb38f1891d15",
-   "title": "TikTok bans Musk documentary account",
-   "url": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
-   "source": "The Verge",
-   "published": "2026-10-17T19:32:23Z",
-   "categories": [],
-   "rumor": false
-  },
-  {
-   "id": "48d2c8842451",
-   "title": "Qualcomm wins $2 legal decision against fellow tech giant Arm, and that's not a typo",
-   "url": "https://www.pcgamer.com/gaming-industry/qualcomm-wins-usd2-legal-decision-against-fellow-tech-giant-arm-and-thats-not-a-typo/",
-   "source": "PC Gamer",
-   "published": "2026-10-17T19:30:53Z",
-   "categories": [
-    "chips",
-    "gaming"
    ],
    "rumor": false
   }

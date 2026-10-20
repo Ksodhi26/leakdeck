@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19",
+ "updated": "2026-10-20",
  "items": [
   {
    "id": "gtc-berlin-2026",
@@ -51,36 +51,6 @@
    }
   },
   {
-   "id": "byd-seagull-2nd-gen",
-   "name": "BYD Seagull (2nd generation, China)",
-   "brand": "BYD",
-   "categories": [
-    "evs"
-   ],
-   "type": "Car",
-   "date": "2026-10-20",
-   "date_label": "Oct 20, 2026 (China, Zhengzhou)",
-   "precision": "day",
-   "status": "Confirmed",
-   "price": "",
-   "summary": "BYD's best-selling small EV gets a bigger, more powerful second generation, launching in China on Oct 20 with prices revealed at the event.",
-   "details": "BYD sent media an invitation for an Oct 20 launch at the Zhengzhou International Circuit (per IT Home, relayed by Electrek). Regulatory filings show it is 425mm longer than before, with a 2,650mm wheelbase, five seats instead of four, rear-wheel drive, a 95kW motor (up from 55kW) and LFP Blade batteries with CLTC ranges of up to 320km or 420km; higher trims add BYD's 1,500kW flash charging and roof LiDAR. Pre-orders opened Oct 9 without prices. Some export markets sell the Seagull as the Dolphin Mini or Dolphin Surf.",
-   "sources": [
-    {
-     "name": "CnEVPost",
-     "url": "https://cnevpost.com/2026/10/14/byd-launch-2nd-gen-seagull-oct-20/"
-    },
-    {
-     "name": "CarNewsChina",
-     "url": "https://carnewschina.com/2026/10/14/second-generation-byd-seagull-set-for-october-20-launch-with-lidar-and-expanded-dimensions/"
-    },
-    {
-     "name": "Electrek",
-     "url": "https://electrek.co/2026/10/14/byd-reveals-launch-date-updated-seagull-ev/"
-    }
-   ]
-  },
-  {
    "id": "honor-win-2",
    "name": "Honor Win 2 series (China launch)",
    "brand": "Honor",
@@ -95,8 +65,16 @@
    "status": "Confirmed",
    "price": "CNY 5,499 after subsidy (Win 2, China)",
    "summary": "Honor's fan-cooled gaming phones launch in China on Oct 21 and go on sale the same day.",
-   "details": "Honor has confirmed a built-in dual-fan cooling system, a 2K 185Hz display, a battery of more than 10,000mAh (10,100mAh per promo material) and the Snapdragon 8 Elite Extreme Gen 6 chip. Pre-orders are open, and Fone Arena reports Honor's marketing chief gave a post-subsidy price of 5,499 yuan. A Win gaming tablet debuts at the same event. Honor has not announced plans outside China. Panel maker Visionox says all three models in the series (Win 2, Win 2 RT and Win 2 Turbo) use the 2K 185Hz screen. A Weibo tipster (via GSMArena) has since leaked full specs: the Win 2 reportedly adds 100W wired and 50W wireless charging and a 200MP main camera, the Win 2 RT a Snapdragon 8 Elite Gen 5 with a 12,070mAh battery, and a fanless Win Turbo 2 a Snapdragon 8s Gen 4; Honor has not confirmed these.",
+   "details": "Honor has confirmed the Snapdragon 8 Elite Extreme Gen 6, a 6.89-inch 2K 185Hz OLED screen, a 10,100mAh battery with 100W wired and 80W wireless charging, a dual-fan cooling system (a 20,000 RPM cross-flow fan plus a 31,000 RPM side fan) and IP68, IP69 and IP69K ratings, with five memory options from 12GB/256GB to 16GB/1TB. Pre-orders are open, and Honor's marketing chief gave a post-subsidy price of 5,499 yuan; full pricing comes at the event. A Win gaming tablet debuts alongside. The pre-order listing also includes the Win RT 2 and Win Turbo 2; a Weibo tipster (via GSMArena) says the RT 2 has a 12,070mAh battery and the fanless Turbo 2 a Snapdragon 8s Gen 4, which Honor has not confirmed. No launch outside China has been announced.",
    "sources": [
+    {
+     "name": "Notebookcheck (Honor-confirmed specs)",
+     "url": "https://www.notebookcheck.net/Honor-WIN-2-gets-bespoke-waterproof-ratings-despite-dual-cooling-fans-and-gigantic-battery.1427112.0.html"
+    },
+    {
+     "name": "Gizmochina (price)",
+     "url": "https://www.gizmochina.com/2026/10/15/honor-win-2-price-officially-out-before-launch/"
+    },
     {
      "name": "Gizmochina",
      "url": "https://www.gizmochina.com/2026/10/12/honor-win-2-and-win-pad-launches-on-october-21-with-cooling-fan-on-both-devices/"
@@ -133,7 +111,7 @@
    "status": "Confirmed",
    "price": "",
    "summary": "OPPO's camera-focused flagships, already out in China, get a global launch event in Mallorca on Oct 21; India follows Oct 22.",
-   "details": "The Find X10 Pro Max has three 200MP rear cameras and the 2nm Dimensity 9600 Pro; the Find X10 has two 200MP cameras and the Dimensity 9600M. Both have 8,000mAh batteries and ColorOS 17. OPPO will announce prices and availability at the event; the China-only Find X10 E is not coming.",
+   "details": "The Find X10 Pro Max has three 200MP rear cameras and the 2nm Dimensity 9600 Pro; the Find X10 has two 200MP cameras and the Dimensity 9600M. OPPO lists 8,000mAh batteries and ColorOS 17, though a footnote says 7,150mAh 'in selected markets'. The event starts at 16:00 CEST in Mallorca; OPPO will announce prices then. Leaks put the Pro Max at EUR 1,799 (12GB/512GB) and the Find X10 at EUR 1,299-1,599 depending on the source and storage, far above last year's EUR 999 Find X9; these are unconfirmed. UK and EU stores already take a small deposit for launch discounts. The China-only Find X10 E is not coming, and there is no US launch.",
    "sources": [
     {
      "name": "OPPO Newsroom",
@@ -146,6 +124,10 @@
     {
      "name": "GSMArena (India date)",
      "url": "https://www.gsmarena.com/heres_when_the_oppo_find_x10_series_is_launching_in_india-news-75015.php"
+    },
+    {
+     "name": "TechRadar (leaked prices)",
+     "url": "https://www.techradar.com/phones/oppo-phones/oppo-find-x10-series-gets-global-launch-date-but-shocking-leaked-prices-suggest-its-200mp-triple-camera-system-will-cost-you"
     }
    ]
   },
@@ -259,36 +241,40 @@
   },
   {
    "id": "apple-oled-macbook-pro-oct-27",
-   "name": "Apple OLED touchscreen MacBook Pro, OLED iPad mini, M6 MacBook Pro and iMac",
+   "name": "Apple 'Pro and tell' launch: OLED touchscreen MacBook Pro, OLED iPad mini, M6 MacBook Pro and iMac (expected)",
    "brand": "Apple",
    "categories": [
     "apple",
     "chips"
    ],
    "type": "Laptop",
-   "date": "2026-10-27",
-   "date_label": "Oct 27-28, 2026 (reported); on sale Nov 6?",
+   "date": "2026-10-28",
+   "date_label": "Oct 28, 2026, 10 a.m. PT (Apple); on sale Nov 6?",
    "precision": "day",
-   "status": "Expected",
+   "status": "Confirmed",
    "price": "",
-   "summary": "Bloomberg says Apple will announce OLED touchscreen MacBook Pros, an OLED iPad mini, a 14-inch M6 MacBook Pro and an M6 iMac around Oct 27-28, with sales likely starting Nov 6.",
-   "details": "Apple has not announced this event. Mark Gurman reports Apple invited some media to an all-day launch experience on Oct 28 in Los Angeles, and on Oct 18 added that Apple Stores plan an overnight 'reset' on Nov 5-6, pointing to a Nov 6 release. Which chips power the OLED models is still disputed (9to5Mac now says M5 Pro/Max rather than M6); see the rumor tracker.",
+   "summary": "Apple has confirmed a 'Pro and tell' launch on Oct 28; Bloomberg expects OLED touchscreen MacBook Pros, an OLED iPad mini and M6 Macs, with sales from Nov 6.",
+   "details": "Apple's Greg Joswiak posted the invite on Oct 19: a media experience in Los Angeles on Wednesday, Oct 28 at 10 a.m. PT, like the Oct 13 'Welcome home' launch, so expect press releases rather than a keynote. Apple has not named the products. Per Mark Gurman: 14- and 16-inch OLED touchscreen MacBook Pros with a Dynamic Island, 'significantly lighter' but not much thinner, using the existing M5 Pro and M5 Max (no M6 Pro/Max); an M6 14-inch MacBook Pro and M6 iMac with unchanged designs; and an OLED iPad mini. Pre-orders could open Oct 28, and Gurman says Apple Stores plan an overnight reset on Nov 5-6, pointing to a Nov 6 release.",
    "sources": [
+    {
+     "name": "9to5Mac (event announced)",
+     "url": "https://9to5mac.com/2026/10/19/apple-announces-special-event-for-october-28/"
+    },
+    {
+     "name": "MacRumors: what's coming",
+     "url": "https://www.macrumors.com/2026/10/19/apple-october-28-product-launch/"
+    },
+    {
+     "name": "Engadget",
+     "url": "https://www.engadget.com/2290401/apple-pro-and-tell-event-october-28-announcement/"
+    },
     {
      "name": "MacRumors (citing Bloomberg)",
      "url": "https://www.macrumors.com/2026/10/08/apple-october-27-macbook-pro/"
     },
     {
-     "name": "GSMArena (citing Gurman)",
-     "url": "https://www.gsmarena.com/heres_when_apple_will_show_off_its_touchscreen_macbooks_and_the_oled_ipad_mini-news-75065.php"
-    },
-    {
-     "name": "MacRumors (Nov 6 release)",
-     "url": "https://www.macrumors.com/2026/10/18/apple-product-releases-next-four-fridays/"
-    },
-    {
-     "name": "9to5Mac",
-     "url": "https://9to5mac.com/2026/10/18/new-macbook-pro-with-touchscreen-and-oled-november-6-release/"
+     "name": "heise (Nov 6 availability)",
+     "url": "https://www.heise.de/en/news/OLED-MacBook-Pro-Available-Nov-6-with-chip-details-11492775.html"
     }
    ]
   },
@@ -464,7 +450,7 @@
    "status": "Confirmed",
    "price": "",
    "summary": "iQOO's fan-cooled gaming flagship launches in China on Oct 28; pre-orders are already open.",
-   "details": "iQOO has confirmed the Snapdragon 8 Elite Gen 5 chip with its own Q3 gaming chip, a 2K 185Hz AMOLED screen, a 9,000mAh battery, an Ice-Dome cooling system with a built-in fan in the camera module, a polished metal frame and an ultrasonic fingerprint sensor. Colors: Fierce Edge, Shadow Black and Frost Blade Blue. Pricing comes at launch.",
+   "details": "iQOO has confirmed the Snapdragon 8 Elite Gen 5 chip with its own Q3 gaming chip, a 2K 185Hz AMOLED screen (2,200 nits in high-brightness mode), a 9,000mAh battery, an Ice-Dome cooling system with a built-in fan in the camera module, a polished metal frame and a 3D ultrasonic fingerprint sensor. It goes on sale the same day it launches. Colors: Fierce Edge, Shadow Black and Frost Blade Blue. Camera, charging and pricing details come at launch. A report says it could reach some global markets as the iQOO 16R, which iQOO has not confirmed.",
    "sources": [
     {
      "name": "Fone Arena",
@@ -473,6 +459,41 @@
     {
      "name": "GSMArena (launch date)",
      "url": "https://www.gsmarena.com/iqoo_neo12_will_launch_on_october_28_design_and_color_options_revealed-news-75103.php"
+    },
+    {
+     "name": "91mobiles",
+     "url": "https://www.91mobiles.com/hub/iqoo-neo-12-confirmed-to-launch-on-october-28th-in-china-with-a-2k-185hz-display-9000mah-battery/"
+    }
+   ]
+  },
+  {
+   "id": "oneplus-ace-7",
+   "name": "OnePlus Ace 7 and Ace 7 Pro (China)",
+   "brand": "OnePlus",
+   "categories": [
+    "android",
+    "gaming"
+   ],
+   "type": "Phone",
+   "date": "2026-10-31",
+   "date_label": "Late Oct 2026 (China; exact day TBA)",
+   "precision": "window",
+   "status": "Confirmed",
+   "price": "",
+   "summary": "OnePlus China says its fan-cooled Ace 7 series launches this month; the exact date and prices have not been announced.",
+   "details": "On Oct 19 OnePlus China president Li Jie named the Ace 7 series as a launch still due in October, with a teaser poster promising more news 'this week'. Reservations for the Ace 7 and Ace 7 Pro are open in China. OnePlus has also detailed a built-in cooling fan with two airflow paths, one aimed at the chip and one blowing across the back panel to keep hands cool. Leaked specs (Snapdragon 8 Elite Gen 5, a 185Hz screen, 200MP main cameras) are not confirmed; see the rumor tracker.",
+   "sources": [
+    {
+     "name": "OPPO之家 (Chinese)",
+     "url": "https://www.oppojia.com/news/18391.html"
+    },
+    {
+     "name": "GSMArena (fan design)",
+     "url": "https://www.gsmarena.com/oneplus_details_the_dualairflow_fan_design_on_the_upcoming_ace_7_series-news-75123.php"
+    },
+    {
+     "name": "Gizmochina (names)",
+     "url": "https://www.gizmochina.com/2026/10/15/oneplus-ace-7-ace-7-pro-names-revealed/"
     }
    ]
   },
@@ -934,6 +955,40 @@
    ]
   },
   {
+   "id": "byd-seagull-2nd-gen",
+   "name": "BYD Seagull (2nd generation, China)",
+   "brand": "BYD",
+   "categories": [
+    "evs"
+   ],
+   "type": "Car",
+   "date": "2026-10-20",
+   "date_label": "Oct 20, 2026 (China)",
+   "precision": "day",
+   "status": "Released",
+   "price": "CNY 65,900-99,900 (about $9,810-14,870)",
+   "summary": "BYD launched its bigger second-generation Seagull in China from 65,900 yuan, 4,000 yuan below the old model, with five-minute flash charging on upper trims.",
+   "details": "Launched Oct 20 at the Zhengzhou International Circuit in five trims: Vitality (65,900 yuan), Freedom (72,900), Comfort (75,900), Flying (82,900) and Smart (99,900); trade-in buyers get 3,000 yuan off. The two cheaper trims have a 30.1kWh battery (320km CLTC) and an 85kW motor; the top three get a 39.2kWh pack (420km CLTC), a 95kW motor and BYD flash charging (10-70% in about five minutes at BYD stations), plus a year of free flash charging for private buyers. It is 425mm longer than before (4,205mm, 2,650mm wheelbase), seats five instead of four, switches to rear-motor rear-wheel drive with multi-link rear suspension, and adds a 94-litre frunk; the top trim adds roof LiDAR. Some export markets sell the Seagull as the Dolphin Mini or Dolphin Surf.",
+   "sources": [
+    {
+     "name": "CnEVPost (launch)",
+     "url": "https://cnevpost.com/2026/10/20/byd-launches-second-gen-seagull/"
+    },
+    {
+     "name": "IT Home (Chinese)",
+     "url": "https://www.ithome.com/1/015/535.htm"
+    },
+    {
+     "name": "CarNewsChina",
+     "url": "https://carnewschina.com/2026/10/20/byd-launches-all-new-seagull-in-china-the-brands-most-affordable-flash-charging-ev-under-10000-usd/"
+    },
+    {
+     "name": "CnEVPost (date)",
+     "url": "https://cnevpost.com/2026/10/14/byd-launch-2nd-gen-seagull-oct-20/"
+    }
+   ]
+  },
+  {
    "id": "samsung-galaxy-f70-india",
    "name": "Samsung Galaxy F70 5G (India)",
    "brand": "Samsung",
@@ -1235,8 +1290,12 @@
    "status": "Confirmed",
    "price": "",
    "summary": "The standard Redmi K100 joins the K100 Pro and Pro Max with a 10,000mAh battery; Xiaomi's Lu Weibing set an Oct 27 launch in China.",
-   "details": "Redmi has confirmed a flat 6.83-inch AMOLED screen up to 3,500 nits, 165fps gaming in 40+ titles via its D2 display chip, a 10,000mAh battery, Bose-tuned speakers and HyperOS 4 (Android 17), in a new green color; pre-orders are open in China. GSMArena reports the chip as the Snapdragon 8 Elite; a reported price of about 3,500 yuan is unconfirmed. GSMArena's story said Oct 28, but Redmi's Weibo announcement says Oct 27 at 7 p.m. local time. Redmi Clip Neo open-ear earbuds launch alongside.",
+   "details": "Redmi has confirmed a flat 6.83-inch 165Hz AMOLED screen up to 3,500 nits, 165fps gaming in 40+ titles via its D2 display chip, the Snapdragon 8 Elite, a 10,000mAh silicon-carbon battery (Xiaomi's first that large) with 100W wired charging, 27W wired reverse charging and bypass charging for gaming, Bose-tuned speakers, a metal frame and HyperOS 4, in a new Firefly Green color; pre-orders are open in China. A reported price of about 3,500 yuan is unconfirmed. Redmi's Weibo announcement says Oct 27 at 7 p.m. local time. Redmi Clip Neo open-ear earbuds launch alongside.",
    "sources": [
+    {
+     "name": "Gizchina (charging confirmed)",
+     "url": "https://www.gizchina.com/redmi-phones/redmi-k100-officially-gets-a-huge-10000mah-battery-and-100w-charging"
+    },
     {
      "name": "Gadgets 360",
      "url": "https://www.gadgets360.com/mobiles/news/redmi-k100-launch-date-announced-colour-option-design-display-specifications-features-12205507"

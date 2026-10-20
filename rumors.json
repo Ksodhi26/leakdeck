@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19",
+ "updated": "2026-10-20",
  "scale": {
   "Confirmed": "Announced by the company or shown in an official source.",
   "Likely": "Multiple credible outlets or hard evidence (certifications, databases, supply chain), but no official word.",
@@ -10,37 +10,37 @@
  "items": [
   {
    "id": "apple-oled-macbook-pro-launch",
-   "title": "Apple launches OLED touchscreen MacBook Pros and an M6 lineup around Oct 27",
+   "title": "Apple launches OLED touchscreen MacBook Pros and an M6 lineup at its Oct 28 launch",
    "rating": "Likely",
    "categories": [
     "apple",
     "chips"
    ],
    "status": "Active",
-   "updated": "2026-10-19",
-   "expected": "Announce Oct 27-28; on sale Nov 6 (reported)",
-   "claim": "Apple will announce OLED touchscreen 14- and 16-inch MacBook Pros, an OLED iPad mini, a 14-inch M6 MacBook Pro and an M6 iMac on or around Oct 27, with a media day in Los Angeles on Oct 28.",
-   "why": "Reported by Bloomberg and matched Apple's earlier pattern of two October launch rounds (the Oct 13 event happened as reported). On Oct 15 Gurman added that media were invited to an all-day launch experience on Oct 28. Apple has not confirmed. Reports disagree on whether the OLED models use M6 or M5 Pro/Max chips, and on availability dates. New supporting evidence: an unreleased iPad mini Smart Folio (model A3632) appeared on Apple's French regulatory site, which suggests a redesigned iPad mini that won't fit current cases. On Oct 18 Gurman said Apple Stores plan an overnight reset on Nov 5-6, pointing to a Nov 6 release a week after the announcement. 9to5Mac now reports the OLED models skip M6 and use M5 Pro/Max, while MacRumors' summary of Gurman still lists M6 for the 14-inch MacBook Pro and iMac, so the chip question remains open.",
+   "updated": "2026-10-20",
+   "expected": "Oct 28, 2026 (Apple 'Pro and tell'); on sale Nov 6 (reported)",
+   "claim": "At its Oct 28 launch Apple will announce OLED touchscreen 14- and 16-inch MacBook Pros (M5 Pro/Max), an OLED iPad mini, a 14-inch M6 MacBook Pro and an M6 iMac, with sales from Nov 6.",
+   "why": "The date is now official: on Oct 19 Apple's Greg Joswiak posted the invite for a 'Pro and tell' media experience in Los Angeles on Oct 28 at 10 a.m. PT, one day after Bloomberg's 'on or around Oct 27'. The tagline points to the MacBook Pro, but Apple has not named any product, so the line-up remains a Bloomberg report. Supporting evidence: Bloomberg called the Oct 13 launch correctly; an unreleased iPad mini Smart Folio (A3632) appeared on Apple's French regulatory site; and Gurman says Apple Stores plan an overnight reset on Nov 5-6. The chip question has largely settled: Gurman, 9to5Mac and MacRumors now all say the OLED models use the existing M5 Pro/Max, with M6 only in the entry 14-inch MacBook Pro and iMac. We will resolve this on Oct 28.",
    "sources": [
+    {
+     "name": "9to5Mac (event announced)",
+     "url": "https://9to5mac.com/2026/10/19/apple-announces-special-event-for-october-28/"
+    },
+    {
+     "name": "MacRumors: what's coming",
+     "url": "https://www.macrumors.com/2026/10/19/apple-october-28-product-launch/"
+    },
     {
      "name": "MacRumors (citing Bloomberg)",
      "url": "https://www.macrumors.com/2026/10/08/apple-october-27-macbook-pro/"
-    },
-    {
-     "name": "Macworld",
-     "url": "https://www.macworld.com/article/3203946/m6-macbook-pro-rumors-release-date-specs.html"
-    },
-    {
-     "name": "GSMArena (citing Gurman)",
-     "url": "https://www.gsmarena.com/heres_when_apple_will_show_off_its_touchscreen_macbooks_and_the_oled_ipad_mini-news-75065.php"
     },
     {
      "name": "GSMArena (Apple regulatory listing)",
      "url": "https://www.gsmarena.com/apples_own_website_now_hints_at_a_new_ipad_mini-news-75081.php"
     },
     {
-     "name": "MacRumors (Nov 6 release)",
-     "url": "https://www.macrumors.com/2026/10/18/apple-product-releases-next-four-fridays/"
+     "name": "heise (Nov 6 availability)",
+     "url": "https://www.heise.de/en/news/OLED-MacBook-Pro-Available-Nov-6-with-chip-details-11492775.html"
     },
     {
      "name": "9to5Mac",
@@ -396,11 +396,15 @@
     "android"
    ],
    "status": "Active",
-   "updated": "2026-10-19",
+   "updated": "2026-10-20",
    "expected": "Oct 21, 2026 (official)",
    "claim": "Honor's Win 2 and Win 2 RT phones launch this month with 100W/90W charging and 10,000mAh+ batteries.",
-   "why": "Honor announced on Oct 12 that the Win 2 series launches Oct 21 at 2:30 p.m. in China and goes on sale the same day, and later confirmed a battery above 10,000mAh. Still unconfirmed: the 100W charging figure (from leaker Digital Chat Station) and the final model list: Honor's announcement only says 'Win 2 series', though panel maker Visionox now names three models (Win 2, Win 2 RT and Win 2 Turbo). On Oct 19 a Weibo tipster leaked full specs and a live photo of all three models (Win 2, Win 2 RT, Win Turbo 2), including 100W wired and 50W wireless charging for the Win 2 and 90W for the other two; Honor itself has still only confirmed the date and the 10,000mAh+ battery.",
+   "why": "Honor announced on Oct 12 that the Win 2 series launches Oct 21 at 2:30 p.m. in China and goes on sale the same day. Honor has since confirmed the Win 2's 10,100mAh battery with 100W wired (and 80W wireless) charging, so the 100W part of the claim has held up. Still unconfirmed by Honor: 90W charging on the other models and their exact specs. Honor's pre-order listing names the Win 2, Win RT 2 and Win Turbo 2, and a Weibo tipster (via GSMArena) has leaked specs for all three. We will close this after the Oct 21 launch.",
    "sources": [
+    {
+     "name": "Notebookcheck (Honor-confirmed specs)",
+     "url": "https://www.notebookcheck.net/Honor-WIN-2-gets-bespoke-waterproof-ratings-despite-dual-cooling-fans-and-gigantic-battery.1427112.0.html"
+    },
     {
      "name": "Gizmochina",
      "url": "https://www.gizmochina.com/2026/10/10/smartphones-list-launching-october/"
@@ -436,10 +440,10 @@
     "android"
    ],
    "status": "Active",
-   "updated": "2026-10-17",
+   "updated": "2026-10-20",
    "expected": "Oct 21, 2026 (official launch event)",
    "claim": "OPPO's Find X10 goes on sale on Oct 21.",
-   "why": "We first rated this Shaky because the only clue was a UK promotion ending Oct 21. OPPO then announced on Oct 8 that the Find X10 and Find X10 Pro Max make their global debut on Oct 21 at an event in Mallorca, with India on Oct 22. OPPO says prices and availability come at the event, so on-sale dates are not yet confirmed.",
+   "why": "We first rated this Shaky because the only clue was a UK promotion ending Oct 21. OPPO then announced on Oct 8 that the Find X10 and Find X10 Pro Max make their global debut on Oct 21 at an event in Mallorca (16:00 CEST), with India on Oct 22. UK and EU stores are already taking deposits, but OPPO says prices and availability come at the event, so the on-sale date is not yet confirmed. We will close this after the event.",
    "sources": [
     {
      "name": "PromptyBox",
@@ -696,14 +700,18 @@
     "android"
    ],
    "status": "Active",
-   "updated": "2026-10-18",
-   "expected": "Not announced",
+   "updated": "2026-10-20",
+   "expected": "Late Oct 2026 (launch month confirmed)",
    "claim": "Both OnePlus Ace 7 models will use a 200MP main camera, and the Pro adds a 50MP 3.5x periscope.",
-   "why": "From Weibo tipster Digital Chat Station, relayed by GSMArena. The phones have appeared on Google's supported-devices list, so they exist, but OnePlus has not announced specs or a date.",
+   "why": "From Weibo tipster Digital Chat Station, relayed by GSMArena. OnePlus China's president confirmed on Oct 19 that the Ace 7 series launches in October and OnePlus has shown its dual-airflow cooling fan, but it has not confirmed camera specs.",
    "sources": [
     {
      "name": "GSMArena (citing Digital Chat Station)",
      "url": "https://www.gsmarena.com/oneplus_ace_7_and_ace_7_pro_could_both_get_200mp_main_cameras-news-75086.php"
+    },
+    {
+     "name": "OPPO之家 (October launch, Chinese)",
+     "url": "https://www.oppojia.com/news/18391.html"
     }
    ],
    "first_reported": "2026-10-16"
@@ -793,6 +801,163 @@
     {
      "name": "MacRumors (citing Bloomberg)",
      "url": "https://www.macrumors.com/2026/10/18/apple-rumored-to-launch-homeview-max/"
+    }
+   ]
+  },
+  {
+   "id": "galaxy-s27-8gb-ram",
+   "title": "Galaxy S27 and S27+ start with just 8GB of RAM",
+   "rating": "Rumor",
+   "categories": [
+    "samsung",
+    "android"
+   ],
+   "status": "Active",
+   "first_reported": "2026-10-19",
+   "updated": "2026-10-20",
+   "expected": "Galaxy S27 launch (early 2027)",
+   "claim": "Because of soaring memory prices, Samsung will sell 8GB/256GB versions of the Galaxy S27 and S27+ alongside 12GB/512GB models, while the S27 Pro and Ultra start at 12GB.",
+   "why": "From leaker @kro_roe on X, relayed by SamMobile and 9to5Google. It contradicts a September leak that had the S27 keeping the S26's 12GB base, but it fits the memory shortage: Yonhap reports most of Samsung's 2027 DRAM output is already sold to big tech customers. The same leaker says Samsung may mix UFS storage generations and cut pre-order storage upgrades. Samsung has said nothing.",
+   "sources": [
+    {
+     "name": "SamMobile",
+     "url": "https://www.sammobile.com/news/samsung-may-change-galaxy-s27-memory-options-as-chip-prices-soar/"
+    },
+    {
+     "name": "9to5Google",
+     "url": "https://9to5google.com/2026/10/20/samsung-galaxy-s27-8gb-ram-rumor/"
+    },
+    {
+     "name": "GSMArena (DRAM contracts)",
+     "url": "https://www.gsmarena.com/samsung_signs_huge_dram_and_hbm_contracts-news-75124.php"
+    }
+   ]
+  },
+  {
+   "id": "samsung-six-foldables-2027",
+   "title": "Samsung launches six foldables in 2027, including a rollable Galaxy Z Slide",
+   "rating": "Rumor",
+   "categories": [
+    "samsung",
+    "android"
+   ],
+   "status": "Active",
+   "first_reported": "2026-10-14",
+   "updated": "2026-10-20",
+   "expected": "2027 (TriFold 2 first)",
+   "claim": "Samsung's 2027 line-up will have six Galaxy Z devices: Z Flip9, Z Fold9, Z Fold9 Pro, Z Fold9 Ultra, Z TriFold2 and a rollable Z Slide, with the TriFold 2 arriving first.",
+   "why": "From tipster @TheGalox_ on X, relayed by 9to5Google and Android Authority. Four of the names match an earlier report; the Fold9 Pro and Z Slide are new and uncorroborated. Samsung Display has shown slidable screens, but earlier reports pointed to a rollable phone in the first half of 2028, so the Slide's 2027 timing is the weakest part.",
+   "sources": [
+    {
+     "name": "Android Authority",
+     "url": "https://www.androidauthority.com/samsung-galaxy-z-slide-fold-9-pro-2027-leak-3723768/"
+    },
+    {
+     "name": "9to5Google",
+     "url": "https://9to5google.com/2026/10/19/galaxy-z-fold-9-slide-and-trifold-2-leaks/"
+    },
+    {
+     "name": "9to5Mac",
+     "url": "https://9to5mac.com/2026/10/20/samsung-fighting-iphone-duo-by-launching-six-foldable-phones-next-year/"
+    }
+   ]
+  },
+  {
+   "id": "steam-deck-2-gainsborough",
+   "title": "AMD's 'Gainsborough' APU powers the Steam Deck 2",
+   "rating": "Shaky",
+   "categories": [
+    "gaming",
+    "chips"
+   ],
+   "status": "Active",
+   "first_reported": "2026-10-19",
+   "updated": "2026-10-20",
+   "expected": "Not announced (chip tipped for late 2027-2028)",
+   "claim": "An AMD engineering sample codenamed Gainsborough, with six Zen 6-family cores and 24GB of LPDDR5-9600 in testing, is the chip for Valve's Steam Deck 2.",
+   "why": "The benchmark listing on OpenBenchmarking is real, and kernel data places it in AMD's Zen 6 range. The Steam Deck link rests only on the codename: Gainsborough is Aerith's surname in Final Fantasy VII, and Valve's earlier Deck chips were named Aerith and Sephiroth. Its early GPU score is only slightly above the current Deck, Valve has not announced a Steam Deck 2, and TechPowerUp notes the chip could end up in other handhelds.",
+   "sources": [
+    {
+     "name": "TechPowerUp",
+     "url": "https://www.techpowerup.com/353888/rumored-steam-deck-2-apu-appears-in-leaked-benchmarks-with-50-more-cpu-cores"
+    },
+    {
+     "name": "Tom's Hardware",
+     "url": "https://www.tomshardware.com/pc-components/cpus/mysterious-amd-zen-6-apu-with-24gb-of-lpddr5-memory-appears-in-benchmarks-chip-may-be-for-next-gen-steam-deck-or-gaming-handhelds"
+    },
+    {
+     "name": "TechRadar",
+     "url": "https://www.techradar.com/gaming/steam-deck/is-valve-now-working-on-the-steam-deck-2-rumors-suggest-leaked-amd-chip-could-be-the-engine-of-the-next-gen-handheld"
+    }
+   ]
+  },
+  {
+   "id": "huawei-mate-x8-november",
+   "title": "Huawei Mate X8 foldable launches in November",
+   "rating": "Rumor",
+   "categories": [
+    "android"
+   ],
+   "status": "Active",
+   "first_reported": "2026-10-19",
+   "updated": "2026-10-20",
+   "expected": "Nov 2026 (leak)",
+   "claim": "Huawei will launch the Mate X8 in China in November with Kirin 9050/9050 Pro chips, an 8.15-inch inner and 6.5-inch cover screen, a 50MP 1/1.28-inch variable-aperture main camera, a 50MP periscope and a battery above 6,000mAh, plus a privacy-display version.",
+   "why": "From Weibo tipster Bai Ze Guan Shan, relayed by Gizmochina and GSMArena. The timing fits Huawei's pattern (the Mate X7 launched in November 2025), but the tipster says the launch was planned alongside a new sub-brand whose timing is uncertain. Huawei has not announced anything.",
+   "sources": [
+    {
+     "name": "GSMArena",
+     "url": "https://www.gsmarena.com/huawei_mate_x8_specs_leak-news-75120.php"
+    },
+    {
+     "name": "Gizmochina",
+     "url": "https://www.gizmochina.com/2026/10/19/huawei-mate-x8-specifications-leak/"
+    }
+   ]
+  },
+  {
+   "id": "galaxy-s27-exynos-m2700-modem",
+   "title": "Exynos Galaxy S27 models get a more efficient M2700 modem",
+   "rating": "Rumor",
+   "categories": [
+    "samsung",
+    "android",
+    "chips"
+   ],
+   "status": "Active",
+   "first_reported": "2026-10-20",
+   "updated": "2026-10-20",
+   "expected": "Galaxy S27 launch (early 2027)",
+   "claim": "Exynos versions of the Galaxy S27 will use a new 4nm Samsung M2700 modem with Release 18 support, better satellite connectivity and idle power use on par with rivals; the Galaxy S28 follows with a 2nm M2800.",
+   "why": "Reported by Korean outlet The Elec from an unnamed source, relayed by Android Authority and SamMobile. The Elec has a decent supply-chain record, but no performance figures were given and Samsung has not commented.",
+   "sources": [
+    {
+     "name": "Android Authority (citing The Elec)",
+     "url": "https://www.androidauthority.com/samsung-galaxy-s27-cellular-upgrade-modem-3725448/"
+    }
+   ]
+  },
+  {
+   "id": "xiaomi-18-pro-europe-prices",
+   "title": "Xiaomi 18 Pro and Pro Max cost EUR 1,449-1,849 in Europe with smaller batteries",
+   "rating": "Rumor",
+   "categories": [
+    "android"
+   ],
+   "status": "Active",
+   "first_reported": "2026-10-19",
+   "updated": "2026-10-20",
+   "expected": "European launch soon (date not announced)",
+   "claim": "The European Xiaomi 18 Pro will cost EUR 1,449 (256GB) or EUR 1,649 (512GB) with a 6,000mAh-rated battery and 90W charging, and the 18 Pro Max EUR 1,849 (512GB) with a 7,050mAh-rated battery and 100W, both smaller than the Chinese versions' 7,000mAh and 8,500mAh.",
+   "why": "Prices come from a single unnamed report relayed by GSMArena. The battery figures are more solid: Xiaomi's EU energy labels are already published, which also means a European launch is close. Xiaomi has not confirmed prices or a date.",
+   "sources": [
+    {
+     "name": "GSMArena",
+     "url": "https://www.gsmarena.com/xiaomi_18_pro_and_xiaomi_18_pro_max_european_prices_and_battery_capacities_leak-news-75114.php"
+    },
+    {
+     "name": "Android Authority",
+     "url": "https://www.androidauthority.com/xiaomi-18-pro-series-global-pricing-3725353/"
     }
    ]
   },

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "scale": {
   "Confirmed": "Announced by the company or shown in an official source.",
   "Likely": "Multiple credible outlets or hard evidence (certifications, databases, supply chain), but no official word.",
@@ -343,10 +343,10 @@
     "chips"
    ],
    "status": "Active",
-   "updated": "2026-10-17",
+   "updated": "2026-10-21",
    "expected": "2028 or later (reported)",
    "claim": "Sony's PS6 and Microsoft's next Xbox (Project Helix) will launch later than planned because of high memory prices.",
-   "why": "Sony's CEO said the PS6 launch date is still undecided because of the component shortage, and Microsoft's new CEO admitted the next Xbox is affected. The 2028-2029 timeframe for PS6 is a report, not a statement.",
+   "why": "Sony's CEO said the PS6 launch date is still undecided because of the component shortage, and Microsoft's new CEO admitted the next Xbox is affected. The 2028-2029 timeframe for PS6 is a report, not a statement. On Oct 20 Fortune reported, citing people familiar with Microsoft's plans, that the Project Helix console is planned for 2028, with a next-gen Xbox handheld possibly by the end of 2027; see our separate price rumor.",
    "sources": [
     {
      "name": "TechRadar",
@@ -359,6 +359,10 @@
     {
      "name": "Polygon",
      "url": "https://www.polygon.com/ps6-sony-playstation-6-release-date-price/"
+    },
+    {
+     "name": "GameSpot (citing Fortune)",
+     "url": "https://www.gamespot.com/articles/next-gen-xbox-could-be-1800-and-launch-in-2028-report/"
     }
    ],
    "first_reported": "2025-12-29"
@@ -389,18 +393,92 @@
    "first_reported": null
   },
   {
+   "id": "xbox-helix-price-1800",
+   "title": "Microsoft's next Xbox console costs $1,200-1,800 and launches in 2028",
+   "rating": "Rumor",
+   "categories": [
+    "gaming"
+   ],
+   "status": "Active",
+   "first_reported": "2026-10-20",
+   "updated": "2026-10-21",
+   "expected": "2028 (reported); handheld by end of 2027",
+   "claim": "Microsoft's Project Helix console will cost between $1,200 and $1,800 unless Microsoft subsidizes it, and will launch in 2028, with a next-generation Xbox handheld by the end of 2027.",
+   "why": "One report, from Fortune, based on unnamed sources; GameSpot, Engadget and Ars Technica relayed it. The price is a projected range that depends on whether Microsoft eats some of the cost, and memory shortages make high prices plausible. Xbox CTO Scott Van Vliet disputed the same story's account of the handheld's software, though not the price or timing. Microsoft has announced no date or price.",
+   "sources": [
+    {
+     "name": "GameSpot (citing Fortune)",
+     "url": "https://www.gamespot.com/articles/next-gen-xbox-could-be-1800-and-launch-in-2028-report/"
+    },
+    {
+     "name": "Engadget",
+     "url": "https://www.engadget.com/2292408/the-next-xbox-might-cost-1800-report-says/"
+    },
+    {
+     "name": "Ars Technica",
+     "url": "https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/"
+    }
+   ]
+  },
+  {
+   "id": "oneplus-turbo-pro-snapdragon-pro",
+   "title": "OnePlus readies a Turbo Pro phone with an unreleased Snapdragon 8 Gen 5 Pro",
+   "rating": "Rumor",
+   "categories": [
+    "android",
+    "chips"
+   ],
+   "status": "Active",
+   "first_reported": "2026-10-21",
+   "updated": "2026-10-21",
+   "expected": "Around the end of 2026 (leak)",
+   "claim": "OnePlus is developing a Turbo Pro (possibly Turbo 7 Pro) with a new 3nm Snapdragon 8 Gen 5 Pro (SM8845 Pro), a 6.78-inch 1.5K 185Hz screen, a 200MP main camera and a 9,000mAh battery, launching around the end of the year.",
+   "why": "From Digital Chat Station, a prolific Weibo tipster with a decent record, in a post he later edited; Android Authority reported it. Qualcomm has not announced a Snapdragon 8 Gen 5 Pro, and OnePlus has not mentioned the phone. The timing is vague.",
+   "sources": [
+    {
+     "name": "Android Authority",
+     "url": "https://www.androidauthority.com/oneplus-turbo-snapdragon-8-gen-5-pro-3725410/"
+    }
+   ]
+  },
+  {
+   "id": "rtx-6060-2029",
+   "title": "NVIDIA's RTX 6060 doesn't arrive until 2029",
+   "rating": "Shaky",
+   "categories": [
+    "chips",
+    "gaming"
+   ],
+   "status": "Active",
+   "first_reported": "2026-10-21",
+   "updated": "2026-10-21",
+   "expected": "2029? (speculation)",
+   "claim": "NVIDIA's budget RTX 6060 will launch around 2029, well after the higher-end RTX 60 cards, and may not match the PS6's gaming performance.",
+   "why": "Leaker Kepler posted this in a NeoGAF thread, and TechRadar relayed it via Wccftech. He framed it as a guess based on NVIDIA's past habit of delaying low-end cards during shortages, not as inside information. It assumes the RTX 60 series itself lands in 2028, which is also only a rumor (see our RTX 60 entry).",
+   "sources": [
+    {
+     "name": "TechRadar",
+     "url": "https://www.techradar.com/computing/gpu/nvidias-rtx-6060-gpu-could-disappoint-for-gaming-performance-compared-to-the-ps6-and-it-may-not-arrive-until-2029"
+    }
+   ]
+  },
+  {
    "id": "honor-win-2-october",
    "title": "Honor Win 2 and Win 2 RT launch in October",
    "rating": "Confirmed",
    "categories": [
     "android"
    ],
-   "status": "Active",
-   "updated": "2026-10-20",
-   "expected": "Oct 21, 2026 (official)",
+   "status": "Resolved",
+   "updated": "2026-10-21",
+   "expected": "Oct 21, 2026 (launched)",
    "claim": "Honor's Win 2 and Win 2 RT phones launch this month with 100W/90W charging and 10,000mAh+ batteries.",
-   "why": "Honor announced on Oct 12 that the Win 2 series launches Oct 21 at 2:30 p.m. in China and goes on sale the same day. Honor has since confirmed the Win 2's 10,100mAh battery with 100W wired (and 80W wireless) charging, so the 100W part of the claim has held up. Still unconfirmed by Honor: 90W charging on the other models and their exact specs. Honor's pre-order listing names the Win 2, Win RT 2 and Win Turbo 2, and a Weibo tipster (via GSMArena) has leaked specs for all three. We will close this after the Oct 21 launch.",
+   "why": "Honor announced on Oct 12 that the Win 2 series would launch Oct 21, and it did: the Win 2 arrived in China with a 10,100mAh battery and 100W wired charging, so the battery and 100W parts of the claim held up. Honor launched the Win RT 2 and Win Turbo 2 alongside it, but we could not verify the 90W charging figure the original leak gave for the other models.",
    "sources": [
+    {
+     "name": "GSMArena (launch)",
+     "url": "https://www.gsmarena.com/honor_win2_and_win_tablet_launch_with_builtin_fans_and_big_batteries-news-75152.php"
+    },
     {
      "name": "Notebookcheck (Honor-confirmed specs)",
      "url": "https://www.notebookcheck.net/Honor-WIN-2-gets-bespoke-waterproof-ratings-despite-dual-cooling-fans-and-gigantic-battery.1427112.0.html"
@@ -430,7 +508,8 @@
      "url": "https://www.gsmarena.com/honor_win2_win2_rt_and_win_turbo2_specs_leak_along_with_a_live_image-news-75109.php"
     }
    ],
-   "first_reported": "2026-10-10"
+   "first_reported": "2026-10-10",
+   "outcome": "Confirmed: the Win 2 launched in China on Oct 21 with a 10,100mAh battery and 100W charging. The 90W claim for other models is unverified."
   },
   {
    "id": "oppo-find-x10-oct-21",
@@ -439,12 +518,20 @@
    "categories": [
     "android"
    ],
-   "status": "Active",
-   "updated": "2026-10-20",
-   "expected": "Oct 21, 2026 (official launch event)",
+   "status": "Resolved",
+   "updated": "2026-10-21",
+   "expected": "Oct 21, 2026 (launched)",
    "claim": "OPPO's Find X10 goes on sale on Oct 21.",
-   "why": "We first rated this Shaky because the only clue was a UK promotion ending Oct 21. OPPO then announced on Oct 8 that the Find X10 and Find X10 Pro Max make their global debut on Oct 21 at an event in Mallorca (16:00 CEST), with India on Oct 22. UK and EU stores are already taking deposits, but OPPO says prices and availability come at the event, so the on-sale date is not yet confirmed. We will close this after the event.",
+   "why": "We first rated this Shaky because the only clue was a UK promotion ending Oct 21. OPPO then confirmed an Oct 21 global launch, and on the day it published prices and opened orders in Europe (Finland: EUR 1,499 and EUR 1,799). But 'on sale' only partly held: European deliveries start Nov 2, Singapore pre-orders open Oct 22 with deliveries from Oct 26, and India launches Oct 22.",
    "sources": [
+    {
+     "name": "Suomimobiili (Finnish prices)",
+     "url": "https://suomimobiili.fi/oppo-esitteli-find-x10-ja-find-x10-pro-max-huippupuhelimet/"
+    },
+    {
+     "name": "OPPO Singapore newsroom",
+     "url": "https://www.oppo.com/sg/newsroom/press/oppo-find-x10-series-global-launch-singapore/"
+    },
     {
      "name": "PromptyBox",
      "url": "https://promptybox.com/blog/whats-coming-in-tech-october-2026"
@@ -458,7 +545,8 @@
      "url": "https://www.techadvisor.com/article/3255697/oppo-find-x10-global-launch-official-for-21-october.html"
     }
    ],
-   "first_reported": "2026-09-30"
+   "first_reported": "2026-09-30",
+   "outcome": "Mostly confirmed: launched and orderable on Oct 21, but phones ship from Nov 2 in Europe, so it was not in buyers' hands that day."
   },
   {
    "id": "gpt7-claude6-dates",
@@ -764,7 +852,7 @@
   },
   {
    "id": "vivo-x500-ultra-specs",
-   "title": "vivo X500 Ultra uses the Snapdragon 8 Elite Extreme Gen 6 and a 7,000mAh battery",
+   "title": "vivo X500 Ultra uses the Snapdragon 8 Elite Extreme Gen 6, a huge battery and a bigger 200MP telephoto",
    "rating": "Rumor",
    "categories": [
     "android",
@@ -772,14 +860,18 @@
    ],
    "status": "Active",
    "first_reported": "2026-10-19",
-   "updated": "2026-10-19",
+   "updated": "2026-10-21",
    "expected": "Mar-Apr 2027 (China, reported)",
-   "claim": "The vivo X500 Ultra launches in China around March-April 2027 with the Snapdragon 8 Elite Extreme Gen 6, a flat 6.85-inch 2K 144Hz BOE LTPO screen, an ultrasonic fingerprint sensor and a battery of about 7,000mAh.",
-   "why": "From Weibo tipster Digital Chat Station via GSMArena. The chip choice is the expected default for a 2027 Ultra flagship; the screen and battery details are unverified, and vivo has not announced the phone.",
+   "claim": "The vivo X500 Ultra launches in China around March-April 2027 with the Snapdragon 8 Elite Extreme Gen 6, a flat 6.85-inch BOE LTPO screen, an ultrasonic fingerprint sensor, a 7,000-8,000mAh battery and a 200MP 1/1.2-inch telephoto camera.",
+   "why": "All from Weibo tipster Digital Chat Station via GSMArena. On Oct 21 he said the latest engineering sample tests a 200MP 1/1.2-inch telephoto sensor, larger than the X300 Ultra's 1/1.4-inch. GSMArena's two write-ups disagree on the battery (about 7,000mAh on Oct 19, about 8,000mAh on Oct 21), and engineering samples often change. The chip choice is the expected default for a 2027 Ultra; vivo has not announced the phone.",
    "sources": [
     {
      "name": "GSMArena (citing Digital Chat Station)",
      "url": "https://www.gsmarena.com/vivo_x500_ultra_key_specifications_tipped-news-75108.php"
+    },
+    {
+     "name": "GSMArena (telephoto sensor)",
+     "url": "https://www.gsmarena.com/vivo_x500_ultra_said_to_use_a_larger_telephoto_sensor_over_its_predecessor-news-75143.php"
     }
    ]
   },

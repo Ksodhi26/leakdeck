@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "items": [
   {
    "id": "gtc-berlin-2026",
@@ -15,8 +15,8 @@
    "precision": "day",
    "status": "Confirmed",
    "price": "Free livestream",
-   "summary": "NVIDIA's Europe AI conference runs Oct 20-22, with Jensen Huang's keynote on Oct 21 at 11 a.m. CEST.",
-   "details": "Virtual viewing is free with no registration. Expect AI infrastructure news; NVIDIA has not said whether it will announce consumer GPUs.",
+   "summary": "NVIDIA's Europe AI conference runs Oct 20-22; Jensen Huang's Oct 21 keynote focused on AI factories, agent security and open models.",
+   "details": "Virtual viewing is free with no registration. In the Oct 21 keynote (briefly interrupted by Greenpeace protesters) Huang announced DSX POD, a factory-built, containerized Vera Rubin AI data center that NVIDIA says partners will deliver from early 2027; the OpenShell reference architecture for running AI agents safely; a reference humanoid robot, Agile ONE SN; and new open models, including Nemotron 3.5 Super VL (available now) and Nemotron 3.5 Bolt (due Oct 23). No consumer GeForce GPUs were announced.",
    "sources": [
     {
      "name": "NVIDIA GTC Berlin FAQ",
@@ -25,6 +25,18 @@
     {
      "name": "NVIDIA keynote listing",
      "url": "https://www.nvidia.com/de-de/gtc/session-catalog/sessions/gtceu26-sb61112/"
+    },
+    {
+     "name": "NVIDIA keynote blog",
+     "url": "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/"
+    },
+    {
+     "name": "NVIDIA (open models)",
+     "url": "https://blogs.nvidia.com/blog/open-models-europe-industry/"
+    },
+    {
+     "name": "The Next Platform",
+     "url": "https://www.nextplatform.com/control/2026/10/21/huang-shrugs-off-protestors-to-kick-off-gtc-berlin-with-dsx-pods-robots/5304447"
     }
    ],
    "event": {
@@ -62,11 +74,15 @@
    "date": "2026-10-21",
    "date_label": "Oct 21, 2026 (China)",
    "precision": "day",
-   "status": "Confirmed",
-   "price": "CNY 5,499 after subsidy (Win 2, China)",
-   "summary": "Honor's fan-cooled gaming phones launch in China on Oct 21 and go on sale the same day.",
-   "details": "Honor has confirmed the Snapdragon 8 Elite Extreme Gen 6, a 6.89-inch 2K 185Hz OLED screen, a 10,100mAh battery with 100W wired and 80W wireless charging, a dual-fan cooling system (a 20,000 RPM cross-flow fan plus a 31,000 RPM side fan) and IP68, IP69 and IP69K ratings, with five memory options from 12GB/256GB to 16GB/1TB. Pre-orders are open, and Honor's marketing chief gave a post-subsidy price of 5,499 yuan; full pricing comes at the event. A Win gaming tablet debuts alongside. The pre-order listing also includes the Win RT 2 and Win Turbo 2; a Weibo tipster (via GSMArena) says the RT 2 has a 12,070mAh battery and the fanless Turbo 2 a Snapdragon 8s Gen 4, which Honor has not confirmed. No launch outside China has been announced.",
+   "status": "Released",
+   "price": "CNY 5,499-7,999 (about $822-1,196)",
+   "summary": "Honor launched the fan-cooled Win 2 gaming phone in China from 5,499 yuan, alongside the Win RT 2, Win Turbo 2 and its first Win gaming tablet.",
+   "details": "Announced Oct 21 with the Snapdragon 8 Elite Extreme Gen 6, a 6.89-inch 1440p 185Hz OLED screen (10,000 nits peak), a 10,100mAh battery with 100W wired and 80W wireless charging, two built-in fans (a 20,000rpm cross-flow fan and a 31,000rpm side fan), a 200MP main camera, a 12MP ultrawide, a 50MP selfie camera, IP68/IP69/IP69K ratings and MagicOS 11 on Android 17; it is 8.5mm thick and about 237g. Five memory options: 12/256GB for 5,499 yuan, 16/256GB for 5,799, 12/512GB for 6,299, 16/512GB for 6,999 and 16GB/1TB for 7,999. The Win Tablet has an 8.4-inch 240Hz OLED, the Snapdragon 8 Elite Gen 5, a 10,000mAh battery and a 15,000rpm fan, from 4,199 yuan. Honor also announced the Win RT 2 and Win Turbo 2; we have not verified their final specs. No launch outside China has been announced.",
    "sources": [
+    {
+     "name": "GSMArena (launch and prices)",
+     "url": "https://www.gsmarena.com/honor_win2_and_win_tablet_launch_with_builtin_fans_and_big_batteries-news-75152.php"
+    },
     {
      "name": "Notebookcheck (Honor-confirmed specs)",
      "url": "https://www.notebookcheck.net/Honor-WIN-2-gets-bespoke-waterproof-ratings-despite-dual-cooling-fans-and-gigantic-battery.1427112.0.html"
@@ -106,13 +122,25 @@
    ],
    "type": "Phone",
    "date": "2026-10-21",
-   "date_label": "Oct 21, 2026 (global); India Oct 22",
+   "date_label": "Oct 21, 2026 (global launch); Europe deliveries from Nov 2",
    "precision": "day",
-   "status": "Confirmed",
-   "price": "",
-   "summary": "OPPO's camera-focused flagships, already out in China, get a global launch event in Mallorca on Oct 21; India follows Oct 22.",
-   "details": "The Find X10 Pro Max has three 200MP rear cameras and the 2nm Dimensity 9600 Pro; the Find X10 has two 200MP cameras and the Dimensity 9600M. OPPO lists 8,000mAh batteries and ColorOS 17, though a footnote says 7,150mAh 'in selected markets'. The event starts at 16:00 CEST in Mallorca; OPPO will announce prices then. Leaks put the Pro Max at EUR 1,799 (12GB/512GB) and the Find X10 at EUR 1,299-1,599 depending on the source and storage, far above last year's EUR 999 Find X9; these are unconfirmed. UK and EU stores already take a small deposit for launch discounts. The China-only Find X10 E is not coming, and there is no US launch.",
+   "status": "Released",
+   "price": "EUR 1,499 (Find X10) and EUR 1,799 (Pro Max), 12GB/512GB, Finland",
+   "summary": "OPPO launched the Find X10 and Find X10 Pro Max globally on Oct 21 at EUR 1,499 and EUR 1,799, with European pre-orders open and deliveries from Nov 2.",
+   "details": "Finnish pricing published at launch: Find X10 12GB/512GB EUR 1,499 and Find X10 Pro Max 12GB/512GB EUR 1,799, about EUR 500 more than last year's Find X9 equivalents, with pre-order discounts of at least EUR 100 and EUR 200 and deliveries starting Nov 2; a Hasselblad Teleconverter Kit costs EUR 499. The European models have a 7,150mAh battery (8,000mAh in China), 80W wired and 50W wireless charging, IP66/IP68/IP69 ratings and ColorOS 17 on Android 17. The Pro Max has three 200MP rear cameras (main, ultrawide and 3x telephoto) and the 2nm Dimensity 9600 Pro; the Find X10 pairs 200MP main and telephoto cameras with a 50MP ultrawide. In the Benelux, OPPO's store opened balance payments at 17:00 CEST on Oct 21; Singapore pre-orders open Oct 22 with deliveries from Oct 26; India gets its launch Oct 22. There is no US launch.",
    "sources": [
+    {
+     "name": "Suomimobiili (Finnish prices and specs)",
+     "url": "https://suomimobiili.fi/oppo-esitteli-find-x10-ja-find-x10-pro-max-huippupuhelimet/"
+    },
+    {
+     "name": "OPPO Benelux store (pre-order terms)",
+     "url": "https://oppo-nederland.store/en/pages/oppo-find-x10-series-coming-soon"
+    },
+    {
+     "name": "OPPO Singapore newsroom",
+     "url": "https://www.oppo.com/sg/newsroom/press/oppo-find-x10-series-global-launch-singapore/"
+    },
     {
      "name": "OPPO Newsroom",
      "url": "https://www.oppo.com/en/newsroom/press/oppo-findx10series-upcoming-launch/"
@@ -193,7 +221,7 @@
    "status": "Confirmed",
    "price": "From $1,999",
    "summary": "Apple's first foldable iPhone goes on sale Oct 23 in the US and 70+ other markets; 28 more follow Oct 30.",
-   "details": "Pre-orders opened Oct 16 at 5 a.m. PT. It has a 7.6-inch folding screen, a 5.4-inch outer screen and the A20 Pro chip, in Star White and Night Sky. Demand is heavy: Apple called it 'extraordinary', and new orders now quote ship dates in January 2027, so check store stock if you want one sooner. On Oct 19 some buyers, mostly in Japan, reported Apple moving their delivery dates earlier, in some cases to launch day; Apple has not commented.",
+   "details": "Pre-orders opened Oct 16 at 5 a.m. PT. It has a 7.6-inch folding screen, a 5.4-inch outer screen and the A20 Pro chip, in Star White and Night Sky. Demand is heavy: Apple called it 'extraordinary', and new orders now quote ship dates in January 2027, so check store stock if you want one sooner. On Oct 19 some buyers, mostly in Japan, reported Apple moving their delivery dates earlier, in some cases to launch day; Apple has not commented. Reviews went live Oct 21: The Verge called it fun but messy and expensive, citing a small cover screen, heat and only-OK cameras, while Engadget scored it 8.8/10 for its hinge, matte inner display and battery life. Apple Pencil (USB-C) support arrives with iOS 27.2, expected around Oct 26, and Apple says Reachability comes in a later update this year.",
    "sources": [
     {
      "name": "Apple Newsroom",
@@ -214,6 +242,14 @@
     {
      "name": "9to5Mac: earlier delivery dates",
      "url": "https://9to5mac.com/2026/10/19/some-iphone-duo-orders-getting-moved-up-to-earlier-dates/"
+    },
+    {
+     "name": "9to5Mac (Apple Pencil in iOS 27.2)",
+     "url": "https://9to5mac.com/2026/10/21/iphone-duo-adding-apple-pencil-support-next-week-with-ios-27-2/"
+    },
+    {
+     "name": "MacRumors (review roundup)",
+     "url": "https://www.macrumors.com/review/iphone-duo/"
     }
    ]
   },
@@ -240,7 +276,7 @@
    ]
   },
   {
-   "id": "apple-oled-macbook-pro-oct-27",
+   "id": "apple-oled-macbook-pro-oct-28",
    "name": "Apple 'Pro and tell' launch: OLED touchscreen MacBook Pro, OLED iPad mini, M6 MacBook Pro and iMac (expected)",
    "brand": "Apple",
    "categories": [
@@ -1290,8 +1326,12 @@
    "status": "Confirmed",
    "price": "",
    "summary": "The standard Redmi K100 joins the K100 Pro and Pro Max with a 10,000mAh battery; Xiaomi's Lu Weibing set an Oct 27 launch in China.",
-   "details": "Redmi has confirmed a flat 6.83-inch 165Hz AMOLED screen up to 3,500 nits, 165fps gaming in 40+ titles via its D2 display chip, the Snapdragon 8 Elite, a 10,000mAh silicon-carbon battery (Xiaomi's first that large) with 100W wired charging, 27W wired reverse charging and bypass charging for gaming, Bose-tuned speakers, a metal frame and HyperOS 4, in a new Firefly Green color; pre-orders are open in China. A reported price of about 3,500 yuan is unconfirmed. Redmi's Weibo announcement says Oct 27 at 7 p.m. local time. Redmi Clip Neo open-ear earbuds launch alongside.",
+   "details": "Redmi has confirmed a flat 6.83-inch 165Hz AMOLED screen up to 3,500 nits, 165fps gaming in 40+ titles via its D2 display chip, the Snapdragon 8 Elite, a 10,000mAh silicon-carbon battery (Xiaomi's first that large) with 100W wired charging, 27W wired reverse charging and bypass charging for gaming, Bose-tuned speakers, a metal frame and HyperOS 4, in a new Firefly Green color; pre-orders are open in China. A reported price of about 3,500 yuan is unconfirmed. Redmi's Weibo announcement says Oct 27 at 7 p.m. local time. Redmi Clip Neo open-ear earbuds launch alongside. On Oct 21 Redmi added a 50MP main camera (Light and Shadow Hunter 800, 1/1.55-inch, f/1.68) in a dual-camera setup, IP68, an ultrasonic in-display fingerprint sensor, symmetrical dual speakers and an X-axis haptic motor. GSMArena's Oct 21 story gives Oct 26 as the launch day, but Redmi's announcement and IT Home's same-day report both say Oct 27 at 7 p.m., so we keep Oct 27.",
    "sources": [
+    {
+     "name": "GSMArena (camera, IP68)",
+     "url": "https://www.gsmarena.com/redmi_k100_to_get_a_50mp_rear_camera_ultrasonic_fingerprint_scanner-news-75138.php"
+    },
     {
      "name": "Gizchina (charging confirmed)",
      "url": "https://www.gizchina.com/redmi-phones/redmi-k100-officially-gets-a-huge-10000mah-battery-and-100w-charging"
@@ -1307,6 +1347,10 @@
     {
      "name": "GSMArena",
      "url": "https://www.gsmarena.com/redmi_k100_with_10000mah_battery_and_683inch_display_is_launching_next_week-news-75105.php"
+    },
+    {
+     "name": "IT Home (Chinese, Oct 27 date)",
+     "url": "https://www.ithome.com/tags/Redmi%20K100/"
     }
    ]
   },
@@ -1355,6 +1399,55 @@
     {
      "name": "GameSpot",
      "url": "https://www.gamespot.com/articles/after-16-years-chill-sci-fi-game-faraway-has-a-release-date/"
+    }
+   ]
+  },
+  {
+   "id": "ayn-odin-3-portal",
+   "name": "AYN Odin 3 Portal (Android gaming handheld)",
+   "brand": "AYN",
+   "categories": [
+    "gaming",
+    "android"
+   ],
+   "type": "Handheld",
+   "date": "2026-10-23",
+   "date_label": "Oct 23, 2026",
+   "precision": "day",
+   "status": "Confirmed",
+   "price": "$419-579 ($399-549 launch promo)",
+   "summary": "AYN's OLED Android handheld with a Snapdragon 8 Elite-class chip launches Oct 23 from $399 with a launch discount.",
+   "details": "AYN confirmed the date on its Discord. It uses the Dragonwing Q8 (effectively a Snapdragon 8 Elite without a modem) with active cooling, a 7-inch 120Hz OLED, a 9,000mAh battery with 60W charging, Wi-Fi 7, Bluetooth 6.0, DisplayPort output, rear paddles and microSD, running Android 15; it weighs 450g. Base (12/128GB) $419, Pro (12/256GB) $499 and Max (16/512GB) $579, each $20 less during the launch promotion. Colors: Black, White and Cold Gray.",
+   "sources": [
+    {
+     "name": "Android Authority",
+     "url": "https://www.androidauthority.com/ayn-odin-3-portal-launch-pricing-3726007/"
+    }
+   ]
+  },
+  {
+   "id": "ios-27-2",
+   "name": "iOS 27.2",
+   "brand": "Apple",
+   "categories": [
+    "apple"
+   ],
+   "type": "Software",
+   "date": "2026-10-26",
+   "date_label": "Around Oct 26, 2026 (expected)",
+   "precision": "window",
+   "status": "Expected",
+   "price": "Free",
+   "summary": "Apple's next iPhone update, now at release candidate, is expected around Oct 26 and brings Apple Pencil support to the iPhone Duo.",
+   "details": "Apple released the iOS 27.2 release candidate on Oct 19, which usually means a public release about a week later; 9to5Mac expects it on or around Monday, Oct 26. Apple has not announced the date. Besides Apple Pencil (USB-C) support on the iPhone Duo, it adds features across six built-in apps and a new HomePod setting; tvOS 27.2 is expected alongside.",
+   "sources": [
+    {
+     "name": "9to5Mac (release timing, Pencil)",
+     "url": "https://9to5mac.com/2026/10/21/iphone-duo-adding-apple-pencil-support-next-week-with-ios-27-2/"
+    },
+    {
+     "name": "9to5Mac (what's new)",
+     "url": "https://9to5mac.com/2026/10/20/ios-27-2-adds-new-features-in-six-iphone-apps-heres-whats-coming/"
     }
    ]
   }

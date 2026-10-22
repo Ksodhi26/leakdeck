@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21",
+ "updated": "2026-10-22",
  "scale": {
   "Confirmed": "Announced by the company or shown in an official source.",
   "Likely": "Multiple credible outlets or hard evidence (certifications, databases, supply chain), but no official word.",
@@ -86,10 +86,10 @@
     "android"
    ],
    "status": "Active",
-   "updated": "2026-10-17",
+   "updated": "2026-10-22",
    "expected": "Early 2027",
    "claim": "Samsung will release the Galaxy S27, S27+, S27 Pro and S27 Ultra.",
-   "why": "Model numbers for all four (SM-S952U, SM-S956U, SM-S958U and a global dual-SIM SM-S957B/DS) appeared in the GSMA IMEI database, which is strong evidence a phone exists but does not confirm names, specs or launch dates. On Oct 16, two more model numbers (SM-S9570 and SM-S9580, believed to be the Pro and Ultra) appeared in China's MIIT certification database.",
+   "why": "Model numbers for all four (SM-S952U, SM-S956U, SM-S958U and a global dual-SIM SM-S957B/DS) appeared in the GSMA IMEI database, which is strong evidence a phone exists but does not confirm names, specs or launch dates. On Oct 16, two more model numbers (SM-S9570 and SM-S9580, believed to be the Pro and Ultra) appeared in China's MIIT certification database. On Oct 20 leaked third-party screen protectors showed only the S27, S27+ and S27 Ultra (6.27, 6.66 and 6.89 inches), without the Pro. Accessory leaks are less reliable than certification databases, so we keep this at Likely for now.",
    "sources": [
     {
      "name": "Notebookcheck",
@@ -102,6 +102,10 @@
     {
      "name": "Android Headlines (MIIT listing)",
      "url": "https://www.androidheadlines.com/2026/10/samsung-is-taking-a-key-feature-away-from-the-galaxy-s27-plus.html"
+    },
+    {
+     "name": "Android Authority (screen protectors)",
+     "url": "https://www.androidauthority.com/galaxy-s27-screen-protectors-leak-3725552/"
     }
    ],
    "first_reported": "2026-06-25"
@@ -376,11 +380,15 @@
     "ai"
    ],
    "status": "Active",
-   "updated": "2026-10-17",
+   "updated": "2026-10-22",
    "expected": "Unknown",
    "claim": "Tesla will publicly show its Optimus V3 humanoid robot in 2026.",
-   "why": "Elon Musk had targeted a July-August window that passed without a reveal, and he blamed copycats for the delay. No unveiling was scheduled as of Oct 11. Treat Tesla timelines with caution.",
+   "why": "Elon Musk had targeted a July-August window that passed without a reveal. On the Oct 21 Q3 earnings call Tesla said early production of Optimus had begun on its Fremont line, but it did not present a new version, and Musk promised only a video 'within a month or two' showing unscripted tasks, with deliveries to outside companies around the end of 2027. Treat Tesla timelines with caution.",
    "sources": [
+    {
+     "name": "The Verge (Q3 call)",
+     "url": "https://www.theverge.com/tech/1016492/tesla-optimus-robots-production-musk-q3-earnings"
+    },
     {
      "name": "Business Insider",
      "url": "https://www.businessinsider.com/elon-musk-tesla-optimus-humanoid-robot-unveiling-date-2026-4"
@@ -430,14 +438,18 @@
    ],
    "status": "Active",
    "first_reported": "2026-10-21",
-   "updated": "2026-10-21",
+   "updated": "2026-10-22",
    "expected": "Around the end of 2026 (leak)",
    "claim": "OnePlus is developing a Turbo Pro (possibly Turbo 7 Pro) with a new 3nm Snapdragon 8 Gen 5 Pro (SM8845 Pro), a 6.78-inch 1.5K 185Hz screen, a 200MP main camera and a 9,000mAh battery, launching around the end of the year.",
-   "why": "From Digital Chat Station, a prolific Weibo tipster with a decent record, in a post he later edited; Android Authority reported it. Qualcomm has not announced a Snapdragon 8 Gen 5 Pro, and OnePlus has not mentioned the phone. The timing is vague.",
+   "why": "From Digital Chat Station, a prolific Weibo tipster with a decent record, in a post he later edited; Android Authority reported it. Qualcomm has not announced a Snapdragon 8 Gen 5 Pro, and OnePlus has not mentioned the phone. The timing is vague. GSMArena adds that the tipster also mentioned a clip-on external fan accessory, and that the screen, camera and battery match the OnePlus 16; the same SM8845 Pro chip is rumored for the iQOO Z12 Turbo/iQOO 16R.",
    "sources": [
     {
      "name": "Android Authority",
      "url": "https://www.androidauthority.com/oneplus-turbo-snapdragon-8-gen-5-pro-3725410/"
+    },
+    {
+     "name": "GSMArena",
+     "url": "https://www.gsmarena.com/oneplus_turbo_pro_to_borrow_a_lot_from_the_oneplus_16_key_specs_leak-news-75150.php"
     }
    ]
   },
@@ -788,11 +800,15 @@
     "android"
    ],
    "status": "Active",
-   "updated": "2026-10-20",
-   "expected": "Late Oct 2026 (launch month confirmed)",
+   "updated": "2026-10-22",
+   "expected": "Oct 29, 2026 (launch date confirmed)",
    "claim": "Both OnePlus Ace 7 models will use a 200MP main camera, and the Pro adds a 50MP 3.5x periscope.",
-   "why": "From Weibo tipster Digital Chat Station, relayed by GSMArena. OnePlus China's president confirmed on Oct 19 that the Ace 7 series launches in October and OnePlus has shown its dual-airflow cooling fan, but it has not confirmed camera specs.",
+   "why": "From Weibo tipster Digital Chat Station, relayed by GSMArena. OnePlus has now set the launch for Oct 29 and confirmed the chips (Snapdragon 8 Elite Gen 5 'V series' for the Ace 7, standard 8 Elite Gen 5 for the Pro) and the cooling fan, but it still has not confirmed camera specs. We will resolve this at launch.",
    "sources": [
+    {
+     "name": "GSMArena (Oct 29 date)",
+     "url": "https://www.gsmarena.com/heres_when_the_oneplus_ace_7_series_is_launching-news-75160.php"
+    },
     {
      "name": "GSMArena (citing Digital Chat Station)",
      "url": "https://www.gsmarena.com/oneplus_ace_7_and_ace_7_pro_could_both_get_200mp_main_cameras-news-75086.php"
@@ -1137,6 +1153,71 @@
     }
    ],
    "outcome": "Debunked by NVIDIA: the RTX 5090 has not been discontinued, though it remains scarce and expensive."
+  },
+  {
+   "id": "iphone-duo-2-face-id",
+   "title": "iPhone Duo 2 gets under-display Face ID",
+   "rating": "Rumor",
+   "categories": [
+    "apple"
+   ],
+   "status": "Active",
+   "first_reported": "2026-10-22",
+   "updated": "2026-10-22",
+   "expected": "Fall 2027 (if it ships)",
+   "claim": "Apple's second-generation iPhone Duo, expected next fall, adds Face ID under the outer display, and Apple is also considering an Action button.",
+   "why": "From Bloomberg's Mark Gurman on his Power On podcast, relayed by MacRumors and 9to5Mac. Gurman has a strong Apple record, but he says Apple is only testing Face ID on prototypes and has not decided whether it will ship, so this stays a Rumor. The first iPhone Duo uses Touch ID in the side button.",
+   "sources": [
+    {
+     "name": "MacRumors (citing Bloomberg)",
+     "url": "https://www.macrumors.com/2026/10/22/iphone-duo-2-prototypes-under-display-face-id/"
+    },
+    {
+     "name": "9to5Mac",
+     "url": "https://9to5mac.com/2026/10/22/gurman-iphone-duo-2-face-id/"
+    }
+   ]
+  },
+  {
+   "id": "huawei-pura-90-plus",
+   "title": "Huawei adds a Pura 90 Plus with a 1-inch variable-aperture camera",
+   "rating": "Rumor",
+   "categories": [
+    "android"
+   ],
+   "status": "Active",
+   "first_reported": "2026-10-22",
+   "updated": "2026-10-22",
+   "expected": "Unknown",
+   "claim": "Huawei is preparing a Pura 90 Plus with a 50MP 1-inch-type RYYB variable-aperture main camera in a triple setup, a 6.8-inch 1.5K screen and four colors.",
+   "why": "From Weibo tipster Digital Chat Station, relayed by GSMArena. He has a decent record on Chinese phones, but this is a single source with no timing, and Huawei has not mentioned a Plus model; the Pura 90 series launched in April.",
+   "sources": [
+    {
+     "name": "GSMArena",
+     "url": "https://www.gsmarena.com/leak_suggests_huawei_pura_90_plus_will_get_a_1inch_type_main_camera_with_variable_aperture-news-75164.php"
+    }
+   ]
+  },
+  {
+   "id": "samsung-w27-fold-8-ultra",
+   "title": "Samsung's China-only W27 is a premium Galaxy Z Fold 8 Ultra",
+   "rating": "Rumor",
+   "categories": [
+    "samsung",
+    "android"
+   ],
+   "status": "Active",
+   "first_reported": "2026-10-22",
+   "updated": "2026-10-22",
+   "expected": "Soon (no date)",
+   "claim": "Samsung will release a W27 in China, a more premium Galaxy Z Fold 8 Ultra in blue with gold accents.",
+   "why": "Based on an image posted by tipster Ice Universe, relayed by SamMobile. Samsung has made China-only W versions of its foldables for years (the W26 launched last October), so the device is plausible, but nothing is confirmed about specs or timing.",
+   "sources": [
+    {
+     "name": "SamMobile",
+     "url": "https://www.sammobile.com/news/first-look-samsung-w27-more-premium-galaxy-z-fold-8-ultra/"
+    }
+   ]
   }
  ]
 }

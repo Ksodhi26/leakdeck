@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21",
+ "updated": "2026-10-22",
  "items": [
   {
    "id": "gtc-berlin-2026",
@@ -16,7 +16,7 @@
    "status": "Confirmed",
    "price": "Free livestream",
    "summary": "NVIDIA's Europe AI conference runs Oct 20-22; Jensen Huang's Oct 21 keynote focused on AI factories, agent security and open models.",
-   "details": "Virtual viewing is free with no registration. In the Oct 21 keynote (briefly interrupted by Greenpeace protesters) Huang announced DSX POD, a factory-built, containerized Vera Rubin AI data center that NVIDIA says partners will deliver from early 2027; the OpenShell reference architecture for running AI agents safely; a reference humanoid robot, Agile ONE SN; and new open models, including Nemotron 3.5 Super VL (available now) and Nemotron 3.5 Bolt (due Oct 23). No consumer GeForce GPUs were announced.",
+   "details": "Virtual viewing is free with no registration. In the Oct 21 keynote (briefly interrupted by Greenpeace protesters) Huang announced DSX POD, a factory-built, containerized Vera Rubin AI data center that NVIDIA says partners will deliver from early 2027; the OpenShell reference architecture for running AI agents safely; a reference humanoid robot, Agile ONE SN; and new open models, including Nemotron 3.5 Super VL and Nemotron 3.5 Bolt 74B-A9B (both available now) and the 4GB Nemotron 3.5 Bolt E4B (due Oct 23). No consumer GeForce GPUs were announced.",
    "sources": [
     {
      "name": "NVIDIA GTC Berlin FAQ",
@@ -37,6 +37,10 @@
     {
      "name": "The Next Platform",
      "url": "https://www.nextplatform.com/control/2026/10/21/huang-shrugs-off-protestors-to-kick-off-gtc-berlin-with-dsx-pods-robots/5304447"
+    },
+    {
+     "name": "NVIDIA (Super VL and Bolt)",
+     "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/"
     }
    ],
    "event": {
@@ -170,11 +174,19 @@
    "date": "2026-10-22",
    "date_label": "Oct 22, 2026",
    "precision": "day",
-   "status": "Confirmed",
-   "price": "$49.99 (Xbox store)",
-   "summary": "The first HD-2D Final Fantasy, a turn-based RPG, arrives Oct 22.",
-   "details": "Xbox Wire lists it for Xbox with Play Anywhere, and Nintendo lists it for both Switch 2 and the original Switch. Party members can summon 'Visions', echoes of characters from across the series.",
+   "status": "Released",
+   "price": "$49.99 (Digital Deluxe $59.99)",
+   "summary": "Square Enix's first HD-2D Final Fantasy, a turn-based RPG, launched Oct 22 on Switch 2, Switch, PS5 and Xbox; the Steam version follows Oct 23.",
+   "details": "Square Enix confirmed the Oct 22 launch on Nintendo Switch 2, Nintendo Switch, PS5, Xbox Series X|S and Xbox on PC, with the Steam version a day later on Oct 23. It is based on the first story arc of the mobile game Final Fantasy Brave Exvius, rebuilt as a console RPG, and party members can summon 'Visions', echoes of characters from across the series. Square Enix lists $49.99 for the standard edition, $59.99 for the Digital Deluxe Edition and $209.99 for the Collector's Edition.",
    "sources": [
+    {
+     "name": "Square Enix (launch notice, Japanese)",
+     "url": "https://jp.finalfantasy.com/news/6156"
+    },
+    {
+     "name": "Square Enix (announcement, prices)",
+     "url": "https://na.finalfantasy.com/news/2825"
+    },
     {
      "name": "Xbox Wire",
      "url": "https://news.xbox.com/en-us/2026/10/16/next-week-on-xbox-new-games-for-october-19-to-23/"
@@ -196,11 +208,19 @@
    "date": "2026-10-22",
    "date_label": "Oct 22, 2026",
    "precision": "day",
-   "status": "Confirmed",
+   "status": "Released",
    "price": "",
-   "summary": "Nintendo's motion-control sports game returns to Wuhu Island on Switch 2 on Oct 22.",
-   "details": "Nintendo lists 12 sports, from bowling to thumb wrestling, plus free-roam activities such as the prop plane and skateboarding.",
+   "summary": "Nintendo's motion-control sports game launched on Switch 2 on Oct 22, set on Wuhu Island with 12 sports.",
+   "details": "Nintendo lists 12 sports, including new Thumb Wrestling and Skateboarding plus returning favorites like bowling, archery, table tennis and Power Cruising, with free-roam activities such as the prop plane. It supports 1-4 players on one system and 2-16 online, and is exclusive to Nintendo Switch 2.",
    "sources": [
+    {
+     "name": "Nintendo (US store page)",
+     "url": "https://www.nintendo.com/us/store/products/nintendo-switch-sports-resort-switch-2/"
+    },
+    {
+     "name": "Nintendo (sports list)",
+     "url": "https://www.nintendo.com/us/whatsnew/get-warmed-up-for-the-new-and-returning-sports-in-nintendo-switch-sports-resort/"
+    },
     {
      "name": "Nintendo UK",
      "url": "https://www.nintendo.com/en-gb/News/2026/October/Upcoming-Games-October-2026-3208377.html"
@@ -266,9 +286,21 @@
    "precision": "day",
    "status": "Confirmed",
    "price": "",
-   "summary": "Call of Duty: Modern Warfare 4 lands Oct 23 on PC, Xbox, PS5 and Switch 2.",
-   "details": "Date taken from VGC's release schedule, updated in October 2026.",
+   "summary": "Call of Duty: Modern Warfare 4 launches in full Oct 23 at midnight local time; digital pre-order early access is already live.",
+   "details": "Activision says the game launches worldwide on Oct 23 on Xbox Series X|S, Xbox on PC, PS5, Battle.net, Steam and Nintendo Switch 2. Digital pre-orders got Campaign Early Access from Oct 16 and DMZ Early Access from Oct 20. It is a standalone purchase and will not join Game Pass until holiday 2027. PC Gamer reports a midnight local-time release and a 115GB install.",
    "sources": [
+    {
+     "name": "Activision (editions, early access)",
+     "url": "https://support.activision.com/modern-warfare-4/articles/modern-warfare-4-editions"
+    },
+    {
+     "name": "Call of Duty blog (Game Pass)",
+     "url": "https://www.callofduty.com/blog/2026/10/call-of-duty-intel-modern-warfare-4-launch-xbox-game-pass"
+    },
+    {
+     "name": "PC Gamer (release times)",
+     "url": "https://www.pcgamer.com/games/call-of-duty/modern-warfare-4-release-date-launch-times-early-access/"
+    },
     {
      "name": "Video Games Chronicle",
      "url": "https://www.videogameschronicle.com/guide/upcoming-game-release-dates-schedule/"
@@ -511,14 +543,18 @@
     "gaming"
    ],
    "type": "Phone",
-   "date": "2026-10-31",
-   "date_label": "Late Oct 2026 (China; exact day TBA)",
-   "precision": "window",
+   "date": "2026-10-29",
+   "date_label": "Oct 29, 2026 (China)",
+   "precision": "day",
    "status": "Confirmed",
    "price": "",
-   "summary": "OnePlus China says its fan-cooled Ace 7 series launches this month; the exact date and prices have not been announced.",
-   "details": "On Oct 19 OnePlus China president Li Jie named the Ace 7 series as a launch still due in October, with a teaser poster promising more news 'this week'. Reservations for the Ace 7 and Ace 7 Pro are open in China. OnePlus has also detailed a built-in cooling fan with two airflow paths, one aimed at the chip and one blowing across the back panel to keep hands cool. Leaked specs (Snapdragon 8 Elite Gen 5, a 185Hz screen, 200MP main cameras) are not confirmed; see the rumor tracker.",
+   "summary": "OnePlus has set Oct 29 for the China launch of its fan-cooled Ace 7 and Ace 7 Pro; pre-orders are open.",
+   "details": "OnePlus confirmed the Oct 29 date and the chips on Oct 22: the Ace 7 uses a Snapdragon 8 Elite Gen 5 'V series' variant and the Ace 7 Pro the standard Snapdragon 8 Elite Gen 5. Both get OnePlus's Wind-Chaser gaming engine and a built-in cooling fan with two airflow paths, one aimed at the chip and one across the back panel. Pre-orders are open on OPPO's online store in China. Leaked specs (a 9,000mAh battery, a 6.78-inch 185Hz screen, 200MP main cameras) are not confirmed; see the rumor tracker. Prices have not been announced.",
    "sources": [
+    {
+     "name": "GSMArena (launch date, chips)",
+     "url": "https://www.gsmarena.com/heres_when_the_oneplus_ace_7_series_is_launching-news-75160.php"
+    },
     {
      "name": "OPPO之家 (Chinese)",
      "url": "https://www.oppojia.com/news/18391.html"
@@ -1326,8 +1362,12 @@
    "status": "Confirmed",
    "price": "",
    "summary": "The standard Redmi K100 joins the K100 Pro and Pro Max with a 10,000mAh battery; Xiaomi's Lu Weibing set an Oct 27 launch in China.",
-   "details": "Redmi has confirmed a flat 6.83-inch 165Hz AMOLED screen up to 3,500 nits, 165fps gaming in 40+ titles via its D2 display chip, the Snapdragon 8 Elite, a 10,000mAh silicon-carbon battery (Xiaomi's first that large) with 100W wired charging, 27W wired reverse charging and bypass charging for gaming, Bose-tuned speakers, a metal frame and HyperOS 4, in a new Firefly Green color; pre-orders are open in China. A reported price of about 3,500 yuan is unconfirmed. Redmi's Weibo announcement says Oct 27 at 7 p.m. local time. Redmi Clip Neo open-ear earbuds launch alongside. On Oct 21 Redmi added a 50MP main camera (Light and Shadow Hunter 800, 1/1.55-inch, f/1.68) in a dual-camera setup, IP68, an ultrasonic in-display fingerprint sensor, symmetrical dual speakers and an X-axis haptic motor. GSMArena's Oct 21 story gives Oct 26 as the launch day, but Redmi's announcement and IT Home's same-day report both say Oct 27 at 7 p.m., so we keep Oct 27.",
+   "details": "Redmi has confirmed a flat 6.83-inch 165Hz AMOLED screen up to 3,500 nits, 165fps gaming in 40+ titles via its D2 display chip, the Snapdragon 8 Elite, a 10,000mAh silicon-carbon battery (Xiaomi's first that large) with 100W wired charging, 27W wired reverse charging and bypass charging for gaming, Bose-tuned speakers, a metal frame and HyperOS 4, in a new Firefly Green color; pre-orders are open in China. A reported price of about 3,500 yuan is unconfirmed. Redmi's Weibo announcement says Oct 27 at 7 p.m. local time. Redmi Clip Neo open-ear earbuds launch alongside. On Oct 21 Redmi added a 50MP main camera (Light and Shadow Hunter 800, 1/1.55-inch, f/1.68) in a dual-camera setup, IP68, an ultrasonic in-display fingerprint sensor, symmetrical dual speakers and an X-axis haptic motor. Redmi's pinned Weibo post still says Oct 27 at 7 p.m. (one GSMArena story had said Oct 26). Redmi says the REDMI Book 14 2027 laptop (Intel 18A-based Core chip, 72Wh battery) launches at the same event.",
    "sources": [
+    {
+     "name": "REDMI on Weibo (Oct 27, 7 p.m.)",
+     "url": "https://weibo.com/3021514657/RnlToooDd"
+    },
     {
      "name": "GSMArena (camera, IP68)",
      "url": "https://www.gsmarena.com/redmi_k100_to_get_a_50mp_rear_camera_ultrasonic_fingerprint_scanner-news-75138.php"
@@ -1448,6 +1488,148 @@
     {
      "name": "9to5Mac (what's new)",
      "url": "https://9to5mac.com/2026/10/20/ios-27-2-adds-new-features-in-six-iphone-apps-heres-whats-coming/"
+    }
+   ]
+  },
+  {
+   "id": "vivo-y600",
+   "name": "vivo Y600 (China)",
+   "brand": "vivo",
+   "categories": [
+    "android"
+   ],
+   "type": "Phone",
+   "date": "2026-10-30",
+   "date_label": "Oct 30, 2026 (China)",
+   "precision": "day",
+   "status": "Confirmed",
+   "price": "",
+   "summary": "vivo's Y600 budget phone with a 10,000mAh battery launches in China on Oct 30.",
+   "details": "vivo confirmed the date and the 10,000mAh battery; pre-orders open early the week of Oct 26. It joins the Y600 Pro, Y600 Turbo and Y600i, and vivo says it set a Guinness record for the longest continuous livestream test of a phone (32 hours 37 minutes). A tipster claims a Dimensity 7300e chip, a 50MP main camera and IP68, which vivo has not confirmed.",
+   "sources": [
+    {
+     "name": "GSMArena",
+     "url": "https://www.gsmarena.com/vivo_y600_to_debut_next_week_with_a_10000mah_battery-news-75161.php"
+    }
+   ]
+  },
+  {
+   "id": "denza-n8-ev",
+   "name": "Denza N8 EV (China)",
+   "brand": "BYD Denza",
+   "categories": [
+    "evs"
+   ],
+   "type": "Car",
+   "date": "2026-10-26",
+   "date_label": "Oct 26, 2026 (China, reported)",
+   "precision": "day",
+   "status": "Expected",
+   "price": "",
+   "summary": "BYD's luxury brand Denza is expected to launch an all-electric N8 SUV with up to 1,003 km (CLTC) of range on Oct 26.",
+   "details": "Denza says the five-seat SUV uses BYD's second-generation Blade battery (130.15 kWh) and Flash Charging. Electrek, citing MIIT filings and Autohome, lists single-motor RWD versions (320 or 370 kW) and a tri-motor AWD version with 890 kW combined. The Oct 26 date comes from Chinese media; Denza has said 'next week' but we have not seen an official day.",
+   "sources": [
+    {
+     "name": "Electrek",
+     "url": "https://electrek.co/2026/10/21/byd-launch-luxury-ev-suv-with-623-miles-range/"
+    }
+   ]
+  },
+  {
+   "id": "tesla-cybercab-sales",
+   "name": "Tesla Cybercab sales to customers",
+   "brand": "Tesla",
+   "categories": [
+    "evs",
+    "ai"
+   ],
+   "type": "Car",
+   "date": "2026-12-31",
+   "date_label": "By end of 2026 (Tesla target)",
+   "precision": "window",
+   "status": "Estimated",
+   "price": "",
+   "summary": "Tesla said on its Q3 earnings call that it will start selling the steering-wheel-free Cybercab to customers by the end of 2026.",
+   "details": "Tesla engineering VP Lars Moravy said current Cybercab production goes to Tesla's own robotaxi fleet, with customer deliveries starting small later. Musk said most Cybercabs will still be Tesla-owned and sold as transport-as-a-service. NHTSA opened an investigation in September into whether the Cybercab meets federal safety standards, which could affect the plan. Treat Tesla timelines with caution.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/"
+    },
+    {
+     "name": "Engadget",
+     "url": "https://www.engadget.com/2293810/tesla-plans-selling-cybercabs-by-end-of-2026/"
+    }
+   ]
+  },
+  {
+   "id": "tesla-unsupervised-fsd-owners",
+   "name": "Tesla unsupervised FSD for owner cars (Robotaxi zones only)",
+   "brand": "Tesla",
+   "categories": [
+    "evs",
+    "ai"
+   ],
+   "type": "Software",
+   "date": "2027-04-01",
+   "date_label": "Q2 2027 (Tesla target)",
+   "precision": "window",
+   "status": "Estimated",
+   "price": "",
+   "summary": "Tesla now targets Q2 2027 for unsupervised FSD in customer cars, but only by adding them to its Robotaxi fleet inside Robotaxi zones.",
+   "details": "On the Q3 2026 earnings call, Tesla AI chief Ashok Elluswamy gave Q2 2027 and described the first step as owners adding their cars to Tesla's managed Robotaxi network, so cars would only drive unsupervised where Robotaxi already operates. Tesla has missed several earlier unsupervised-FSD targets.",
+   "sources": [
+    {
+     "name": "Electrek",
+     "url": "https://electrek.co/2026/10/21/tesla-unsupervised-fsd-q2-2027-robotaxi-fleet/"
+    },
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/"
+    }
+   ]
+  },
+  {
+   "id": "claude-duet",
+   "name": "Claude Duet (research preview)",
+   "brand": "Anthropic",
+   "categories": [
+    "ai"
+   ],
+   "type": "Software",
+   "date": "2026-10-21",
+   "date_label": "Oct 21, 2026 (US waitlist)",
+   "precision": "day",
+   "status": "Released",
+   "price": "Included with Claude plans (waitlist)",
+   "summary": "Anthropic announced Claude Duet, a proactive personal agent with its own iOS and Android apps, as a US research preview.",
+   "details": "Duet runs on Opus 5.5 in its own virtual machine, sends a daily briefing of action items from connected apps, takes on tasks in the background and checks in before acting. For now it is a waitlist for US Claude subscribers; Anthropic says Pro ($20/month) subscribers get it at general availability. It competes with Meta Muse and OpenAI Dots.",
+   "sources": [
+    {
+     "name": "Engadget",
+     "url": "https://www.engadget.com/2293646/claude-duet-is-anthropics-answer-to-meta-muse-and-openai-dots/"
+    }
+   ]
+  },
+  {
+   "id": "lenovo-ideapad-vibe-snapdragon",
+   "name": "Lenovo IdeaPad Vibe 14 (Snapdragon)",
+   "brand": "Lenovo",
+   "categories": [
+    "chips"
+   ],
+   "type": "Laptop",
+   "date": "2026-10-21",
+   "date_label": "On sale Oct 2026 (ships from Oct 28)",
+   "precision": "day",
+   "status": "Released",
+   "price": "From $799.99 (US)",
+   "summary": "Lenovo's Snapdragon IdeaPad Vibe, pitched as a MacBook Neo rival, went on sale a month early but at $799.99 instead of the promised $699.99.",
+   "details": "TechRadar reports it is on Lenovo's own stores in the US, UK, Canada, the Eurozone, Malaysia and Singapore, with orders shipping from Oct 28. The US base model has 8GB of soldered RAM and 256GB of storage; other markets get 512GB. It offers two USB-C, two USB-A, HDMI and microSD, and comes in seven colors. The AMD version starts at $899.",
+   "sources": [
+    {
+     "name": "TechRadar",
+     "url": "https://www.techradar.com/pro/lenovos-macbook-neo-rival-has-landed-a-month-early-but-is-it-worth-your-money"
     }
    ]
   }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T13:53:12Z",
+ "updated": "2026-10-22T14:17:23Z",
  "sources": [
   "9to5Google",
   "9to5Mac",
@@ -23,6 +23,162 @@
  "count": 600,
  "items": [
   {
+   "id": "24f7817cb3a6",
+   "title": "Fortescue is using KUKA welding robots to handle 6 MW charging cables [video]",
+   "url": "https://electrek.co/2026/10/22/fortescue-is-using-kuka-welding-robots-to-handle-6-mw-charging-cables-video/",
+   "source": "Electrek",
+   "published": "2026-10-22T14:10:00Z",
+   "categories": [
+    "evs"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "fde1a8e6e46d",
+   "title": "iPhone Duo's next-gen prototypes are trying to cram in Face ID",
+   "url": "https://www.engadget.com/2294041/iphone-duos-next-gen-prototypes-are-trying-to-cram-in-face-id/",
+   "source": "Engadget",
+   "published": "2026-10-22T14:06:33Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "d8fb8112860b",
+   "title": "Amazon Takes $49 Off iPad With Prices Starting at $399.99",
+   "url": "https://www.macrumors.com/2026/10/22/amazon-49-off-ipad/",
+   "source": "MacRumors",
+   "published": "2026-10-22T14:05:33Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "aad213ac5d64",
+   "title": "Some Galaxy S26 phones are basically paperweights while Samsung fixes a setup bug",
+   "url": "https://9to5google.com/2026/10/22/samsung-galaxy-s26-setup-bug/",
+   "source": "9to5Google",
+   "published": "2026-10-22T14:05:00Z",
+   "categories": [
+    "android",
+    "samsung"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "4ff59ff973c3",
+   "title": "Sony Japan marks last standalone 4K Blu-ray player as ‘Discontinued’",
+   "url": "https://www.tomshardware.com/tech-industry/sony-japan-marks-last-standalone-4k-blu-ray-player-as-discontinued-playstation-5-now-the-only-blu-ray-player-left-in-sonys-lineup",
+   "source": "Tom's Hardware",
+   "published": "2026-10-22T14:04:08Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "68f16a561406",
+   "title": "Thanks, Apple: Variable aperture and curved displays could be coming back to Android",
+   "url": "https://www.androidauthority.com/android-apple-variable-aperture-200mp-camera-3726620/",
+   "source": "Android Authority",
+   "published": "2026-10-22T14:00:55Z",
+   "categories": [
+    "android",
+    "apple"
+   ],
+   "rumor": true
+  },
+  {
+   "id": "86dec4044d46",
+   "title": "I built my own alarm system with Home Assistant and it beats anything we had before it",
+   "url": "https://www.xda-developers.com/i-built-my-own-alarm-system-with-home-assistant-and-it-kicks-ass/",
+   "source": "XDA Developers",
+   "published": "2026-10-22T14:00:18Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "6342bafe68a9",
+   "title": "Tesla (TSLA) quietly cuts 2026 capex guidance to $20B",
+   "url": "https://electrek.co/2026/10/22/tesla-cuts-2026-capex-guidance-q3-cash-flow/",
+   "source": "Electrek",
+   "published": "2026-10-22T14:00:01Z",
+   "categories": [
+    "evs"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "fea43cc69b3b",
+   "title": "Durability tests reveal how the iPhone Duo handles thousands of continuous folds",
+   "url": "https://www.androidauthority.com/apple-iphone-duo-foldable-display-crease-durability-tests-3726691/",
+   "source": "Android Authority",
+   "published": "2026-10-22T13:59:27Z",
+   "categories": [
+    "android",
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "907a2480cb86",
+   "title": "The Galaxy Z Fold 8 has better app support than the iPhone Duo right now",
+   "url": "https://www.sammobile.com/news/galaxy-z-fold-8-better-app-support-than-iphone-duo/",
+   "source": "SamMobile",
+   "published": "2026-10-22T13:55:30Z",
+   "categories": [
+    "android",
+    "apple",
+    "samsung"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "1b0d8a1305b9",
+   "title": "Fitbit Edge doesn’t have Google Wallet because ‘less than 1%’ of Charge owners used it",
+   "url": "https://9to5google.com/2026/10/22/fitbit-edge-google-wallet-nfc-explanation/",
+   "source": "9to5Google",
+   "published": "2026-10-22T13:55:00Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "ed916bd9639e",
+   "title": "'What we were cooking was really cool': An award-winning science fiction author was working on Mass Effect 5's story",
+   "url": "https://www.pcgamer.com/gaming-industry/what-we-were-cooking-was-really-cool-an-award-winning-science-fiction-author-was-working-on-mass-effect-5s-story/",
+   "source": "PC Gamer",
+   "published": "2026-10-22T13:54:53Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "6aa970c38b49",
+   "title": "Claude Duet app is Anthropic’s bet on agents",
+   "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+   "source": "TechCrunch",
+   "published": "2026-10-22T13:53:26Z",
+   "categories": [
+    "ai"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "f7fa8dff3d5a",
+   "title": "The Nintendo Switch 2 has been jailbroken for the first time with a lot of help from AI",
+   "url": "https://www.xda-developers.com/nintendo-switch-2-jailbroken-for-first-time-with-help-from-ai/",
+   "source": "XDA Developers",
+   "published": "2026-10-22T13:52:54Z",
+   "categories": [
+    "ai",
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
    "id": "cfd785413fdd",
    "title": "First iPhone Duo pre-orders now say ‘shipped’ ahead of launch",
    "url": "https://9to5mac.com/2026/10/22/first-iphone-duo-pre-orders-now-say-shipped-ahead-of-launch/",
@@ -31,7 +187,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Apple has started marking launch-day iPhone Duo pre-orders as shipped ahead of Friday's in-store debut."
   },
   {
    "id": "9aa254014865",
@@ -42,7 +199,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Apple named more than 50 third-party apps that are or soon will be optimized for the iPhone Duo's layouts and poses."
   },
   {
    "id": "e84f471e3bbb",
@@ -84,7 +242,8 @@
    "categories": [
     "android"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "A tipster says Huawei is adding a Pura 90 Plus with a 1-inch-type variable-aperture main camera and a 6.8-inch 1.5K screen."
   },
   {
    "id": "e5a10b0e85c8",
@@ -141,7 +300,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "Supply-chain reports say Apple raised iPhone Duo orders by more than 40% on strong demand."
   },
   {
    "id": "41e972ad32e5",
@@ -149,6 +309,17 @@
    "url": "https://www.pcgamer.com/games/third-person-shooter/over-30-million-rounds-of-pve-were-played-over-the-last-week-in-arc-raiders-but-embark-still-needs-a-bit-of-time-to-understand-what-the-data-is-telling-us/",
    "source": "PC Gamer",
    "published": "2026-10-22T13:26:25Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "ed38b2280061",
+   "title": "You Can Now Buy GTA 6 Burgers And Fried Chicken IRL, But It’s Not Cheap",
+   "url": "https://www.gamespot.com/articles/you-can-now-buy-gta-6-burgers-and-fried-chicken-irl-but-its-not-cheap/",
+   "source": "GameSpot",
+   "published": "2026-10-22T13:26:08Z",
    "categories": [
     "gaming"
    ],
@@ -178,6 +349,17 @@
    "rumor": false
   },
   {
+   "id": "134e1671e227",
+   "title": "Xbox’s Hardware Problem: September Sales Drop To New Low Amid Sony’s Market Dominance",
+   "url": "https://www.gamespot.com/articles/xbox-hardware-problem-september-sales-drop-to-new-low-amid-sonys-market-dominance/",
+   "source": "GameSpot",
+   "published": "2026-10-22T13:23:48Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
    "id": "6345851b91d0",
    "title": "Mass Effect TV Show Still Going Ahead After EA Cancels Mass Effect 5 And Closes BioWare, Report Says",
    "url": "https://www.gamespot.com/articles/mass-effect-tv-show-still-going-ahead-after-ea-cancels-mass-effect-5-and-closes-bioware-report-says/",
@@ -185,6 +367,17 @@
    "published": "2026-10-22T13:22:59Z",
    "categories": [
     "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "12686626013b",
+   "title": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
+   "url": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
+   "source": "The Verge",
+   "published": "2026-10-22T13:20:55Z",
+   "categories": [
+    "ai"
    ],
    "rumor": false
   },
@@ -197,7 +390,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "The App Store will badge apps optimized for the foldable, starting with names like Netflix, Prime Video, Word and Instagram."
   },
   {
    "id": "729d2384799b",
@@ -206,7 +400,8 @@
    "source": "The Verge",
    "published": "2026-10-22T13:17:59Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "Atari will close the VCS software store in early 2027, though the console will keep playing installed games."
   },
   {
    "id": "463549f8fb84",
@@ -238,7 +433,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "Bloomberg reports DeepSeek raised about $15 billion, two days after US civilian agencies were told to remove its AI."
   },
   {
    "id": "146865e70a89",
@@ -340,7 +536,8 @@
    "categories": [
     "evs"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Ford opened orders for the 2027 Mustang Mach-E, now with an extended-range battery as standard for under $40,000."
   },
   {
    "id": "e41f72b5ee34",
@@ -373,7 +570,8 @@
    "categories": [
     "evs"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Tesla says Optimus is in early production in Fremont, but Musk concedes the hands, durability and AI still need work."
   },
   {
    "id": "3a401f82fbe4",
@@ -429,7 +627,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "vivo's budget Y600 launches in China on Oct 30 with a 10,000mAh battery."
   },
   {
    "id": "0d04a3a15e15",
@@ -472,7 +671,8 @@
     "android",
     "samsung"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "Leaked images show Samsung's Galaxy Fit 4 tracker in black, green and white with a bigger screen than the Fit 3."
   },
   {
    "id": "a182c232d727",
@@ -642,7 +842,8 @@
    "source": "Tom's Hardware",
    "published": "2026-10-22T11:30:00Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "EA is shutting BioWare after 31 years and has dropped early work on the next Mass Effect to focus on Battlefield, Iron Man and Fight Night."
   },
   {
    "id": "06a6b90f9f72",
@@ -817,7 +1018,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Gurman says Apple is testing under-display Face ID on iPhone Duo 2 prototypes but hasn't decided whether it will ship."
   },
   {
    "id": "1dbfe56bc926",
@@ -895,7 +1097,8 @@
    "source": "GSMArena",
    "published": "2026-10-22T10:24:03Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "Bose is buying Skullcandy, which stays a separate brand in Park City, Utah; the price wasn't disclosed."
   },
   {
    "id": "eabaa7623b4d",
@@ -1018,7 +1221,8 @@
     "android",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "A leaked image appears to show Samsung's W27, a China-only, more premium Galaxy Z Fold 8 Ultra in blue and gold."
   },
   {
    "id": "f1cbcd9ad93c",
@@ -1210,7 +1414,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "OnePlus set Oct 29 for the Ace 7 and Ace 7 Pro China launch and confirmed both use Snapdragon 8 Elite Gen 5 chips."
   },
   {
    "id": "19ad52a8fc67",
@@ -1330,7 +1535,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "An Australian court ordered Apple to allow rival app stores, direct downloads and alternative payments from March 1, 2027."
   },
   {
    "id": "f7a35397c959",
@@ -1430,7 +1636,8 @@
    "source": "GSMArena",
    "published": "2026-10-22T04:02:02Z",
    "categories": [],
-   "rumor": true
+   "rumor": true,
+   "summary": "The iQOO 16R showed up in Indonesia's TKDN database, pointing to an early-2027 global version of the Z12 Turbo."
   },
   {
    "id": "9edbc89a7aa9",
@@ -1580,7 +1787,8 @@
    "categories": [
     "evs"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Tesla plans to start selling Cybercabs to customers by year-end, even as NHTSA probes whether the car meets safety rules."
   },
   {
    "id": "7f5ae0541ad5",
@@ -1677,7 +1885,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Lenovo's Snapdragon IdeaPad Vibe went on sale a month early, but at $799.99 instead of the promised $699.99."
   },
   {
    "id": "9bdc6dffc3e1",
@@ -1797,7 +2006,8 @@
    "source": "Engadget",
    "published": "2026-10-21T22:36:03Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "Zuckerberg says over 10 million people have tried Meta's Muse agent and Meta is now working out how to make money from it."
   },
   {
    "id": "eaa3fbf80042",
@@ -1858,7 +2068,8 @@
    "categories": [
     "evs"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Tesla now targets Q2 2027 for unsupervised FSD in owners' cars, and only by adding them to its Robotaxi fleet inside its zones."
   },
   {
    "id": "7edb1a939aec",
@@ -1898,7 +2109,8 @@
    "categories": [
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Xbox Insiders can now buy cloud streaming time for games they own, from $4 for 10 hours to $12 for 50 hours."
   },
   {
    "id": "523bccf636b7",
@@ -2016,7 +2228,8 @@
    "categories": [
     "evs"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Tesla's Q3 net profit fell 43% to $787 million on flat revenue of about $28 billion, and energy storage sales shrank 16%."
   },
   {
    "id": "d437696ef5ef",
@@ -2114,7 +2327,8 @@
    "categories": [
     "evs"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "BYD's Denza is expected to launch the N8 EV, a five-seat SUV rated for up to 1,003 km (CLTC), on Oct 26."
   },
   {
    "id": "d755be10153e",
@@ -2136,7 +2350,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Anthropic's Claude Duet, a proactive personal agent running on Opus 5.5, opens as a waitlist for US Claude subscribers."
   },
   {
    "id": "53d71304e5d4",
@@ -6417,189 +6632,6 @@
    "published": "2026-10-20T19:50:00Z",
    "categories": [
     "ai"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "cd17d628776a",
-   "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
-   "url": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
-   "source": "Ars Technica",
-   "published": "2026-10-20T19:47:35Z",
-   "categories": [],
-   "rumor": false
-  },
-  {
-   "id": "eec858dab248",
-   "title": "T-Mobile retains 5G crown as AT&T falls massively behind Verizon in standalone access",
-   "url": "https://www.androidauthority.com/5g-coverage-tmobile-att-verizon-3725626/",
-   "source": "Android Authority",
-   "published": "2026-10-20T19:47:04Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "e5d2f7766798",
-   "title": "UK wants Apple to open up iPhone contactless tech and charge lower fees",
-   "url": "https://www.gsmarena.com/uk_wants_apple_to_open_up_iphone_contactless_tech_and_charge_lower_fees-news-75134.php",
-   "source": "GSMArena",
-   "published": "2026-10-20T19:40:02Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "3432a362f7f8",
-   "title": "iPad Mini 8 Expected Next Week With These 10 New Features",
-   "url": "https://www.macrumors.com/2026/10/20/ipad-mini-8-10-rumored-features/",
-   "source": "MacRumors",
-   "published": "2026-10-20T19:35:00Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "ee7642f3ff57",
-   "title": "Next-Gen Xbox Could Be $1,800 And Launch In 2028 – Report",
-   "url": "https://www.gamespot.com/articles/next-gen-xbox-could-be-1800-and-launch-in-2028-report/",
-   "source": "GameSpot",
-   "published": "2026-10-20T19:29:33Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": true
-  },
-  {
-   "id": "3390b0f4412a",
-   "title": "Employees warned TikTok about child exploitation, court documents show",
-   "url": "https://www.engadget.com/2292225/employees-warned-tiktok-about-child-exploitation-court-documents-show/",
-   "source": "Engadget",
-   "published": "2026-10-20T19:25:38Z",
-   "categories": [],
-   "rumor": false
-  },
-  {
-   "id": "eaf3821d0893",
-   "title": "TP-Link tries to appease Trump admin with pledge to assemble routers in US",
-   "url": "https://arstechnica.com/tech-policy/2026/10/tp-link-tries-to-appease-trump-admin-with-pledge-to-assemble-routers-in-us/",
-   "source": "Ars Technica",
-   "published": "2026-10-20T19:25:14Z",
-   "categories": [],
-   "rumor": false
-  },
-  {
-   "id": "943d99608ea1",
-   "title": "Does anyone actually want to win the medium-lift race in the United States?",
-   "url": "https://arstechnica.com/space/2026/10/does-anyone-actually-want-to-win-the-medium-lift-race-in-the-united-states/",
-   "source": "Ars Technica",
-   "published": "2026-10-20T19:13:31Z",
-   "categories": [],
-   "rumor": false
-  },
-  {
-   "id": "595c0ee832a7",
-   "title": "Samsung goes global with Fold 5 and Flip 5 stable One UI 9 rollout",
-   "url": "https://www.androidauthority.com/galaxy-z-fold-5-flip-5-one-ui-9-global-rollout-3725729/",
-   "source": "Android Authority",
-   "published": "2026-10-20T19:12:21Z",
-   "categories": [
-    "android",
-    "samsung"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "cad348a092c5",
-   "title": "Telegram tops Google Maps on group road trips by combining live location tracking with chat",
-   "url": "https://www.androidpolice.com/telegram-replaces-google-maps-on-road-trips-by-combining-live-location-tracking-with-chat/",
-   "source": "Android Police",
-   "published": "2026-10-20T19:00:10Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "886134aca54d",
-   "title": "iOS 27 adds scam-prevention feature to iPhone, here’s how to enable it",
-   "url": "https://9to5mac.com/2026/10/20/ios-27-adds-scam-prevention-feature-to-iphone-heres-how-to-enable-it/",
-   "source": "9to5Mac",
-   "published": "2026-10-20T18:56:15Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "fa6199a05f11",
-   "title": "Waymo Plans To Have 20,000 Cars By The End Of 2027",
-   "url": "https://insideevs.com/news/812642/waymo-quintuple-fleet-5000-robotaxis/",
-   "source": "InsideEVs",
-   "published": "2026-10-20T18:55:10Z",
-   "categories": [
-    "evs"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "d1ce3ec50dbe",
-   "title": "Founder of bankrupt Samson studio mulls how to use AI for his next attempt: 'Cutting corners in game development has a habit of coming back to bite you in the ass'",
-   "url": "https://www.pcgamer.com/gaming-industry/founder-of-bankrupt-samson-studio-mulls-how-to-use-ai-for-his-next-attempt-cutting-corners-in-game-development-has-a-habit-of-coming-back-to-bite-you-in-the-ass/",
-   "source": "PC Gamer",
-   "published": "2026-10-20T18:43:15Z",
-   "categories": [
-    "ai",
-    "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "45cc8f588659",
-   "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
-   "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
-   "source": "TechCrunch",
-   "published": "2026-10-20T18:38:24Z",
-   "categories": [
-    "ai",
-    "android",
-    "chips"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "5936cf185489",
-   "title": "9to5Mac Daily: October 20, 2026 – Apple announces ‘Pro and tell’ experience",
-   "url": "https://9to5mac.com/2026/10/20/daily-october-20-2026/",
-   "source": "9to5Mac",
-   "published": "2026-10-20T18:37:40Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "6f64ba14f44d",
-   "title": "ChatGPT now lets you lock your chats",
-   "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
-   "source": "TechCrunch",
-   "published": "2026-10-20T18:36:53Z",
-   "categories": [
-    "ai"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "b68ae15f31b2",
-   "title": "How long can you expect your original Steam Deck to last?",
-   "url": "https://www.engadget.com/2289277/how-long-steam-deck-last-lifespan-support/",
-   "source": "Engadget",
-   "published": "2026-10-20T18:30:00Z",
-   "categories": [
-    "gaming"
    ],
    "rumor": false
   }

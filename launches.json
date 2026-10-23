@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22",
+ "updated": "2026-10-23",
  "items": [
   {
    "id": "gtc-berlin-2026",
@@ -16,7 +16,7 @@
    "status": "Confirmed",
    "price": "Free livestream",
    "summary": "NVIDIA's Europe AI conference runs Oct 20-22; Jensen Huang's Oct 21 keynote focused on AI factories, agent security and open models.",
-   "details": "Virtual viewing is free with no registration. In the Oct 21 keynote (briefly interrupted by Greenpeace protesters) Huang announced DSX POD, a factory-built, containerized Vera Rubin AI data center that NVIDIA says partners will deliver from early 2027; the OpenShell reference architecture for running AI agents safely; a reference humanoid robot, Agile ONE SN; and new open models, including Nemotron 3.5 Super VL and Nemotron 3.5 Bolt 74B-A9B (both available now) and the 4GB Nemotron 3.5 Bolt E4B (due Oct 23). No consumer GeForce GPUs were announced.",
+   "details": "Virtual viewing is free with no registration. In the Oct 21 keynote (briefly interrupted by Greenpeace protesters) Huang announced DSX POD, a factory-built, containerized Vera Rubin AI data center that NVIDIA says partners will deliver from early 2027; the OpenShell reference architecture for running AI agents safely; a reference humanoid robot, Agile ONE SN; and new open models, including Nemotron 3.5 Super VL and Nemotron 3.5 Bolt 74B-A9B (both available now) and the 4GB Nemotron 3.5 Bolt E4B, due Oct 23 (as of 14:00 UTC on Oct 23 it was not yet listed on NVIDIA's Hugging Face page). No consumer GeForce GPUs were announced.",
    "sources": [
     {
      "name": "NVIDIA GTC Berlin FAQ",
@@ -236,40 +236,36 @@
    ],
    "type": "Phone",
    "date": "2026-10-23",
-   "date_label": "Oct 23, 2026",
+   "date_label": "Oct 23, 2026 (on sale; 28 more countries Oct 30)",
    "precision": "day",
-   "status": "Confirmed",
+   "status": "Released",
    "price": "From $1,999",
-   "summary": "Apple's first foldable iPhone goes on sale Oct 23 in the US and 70+ other markets; 28 more follow Oct 30.",
-   "details": "Pre-orders opened Oct 16 at 5 a.m. PT. It has a 7.6-inch folding screen, a 5.4-inch outer screen and the A20 Pro chip, in Star White and Night Sky. Demand is heavy: Apple called it 'extraordinary', and new orders now quote ship dates in January 2027, so check store stock if you want one sooner. On Oct 19 some buyers, mostly in Japan, reported Apple moving their delivery dates earlier, in some cases to launch day; Apple has not commented. Reviews went live Oct 21: The Verge called it fun but messy and expensive, citing a small cover screen, heat and only-OK cameras, while Engadget scored it 8.8/10 for its hinge, matte inner display and battery life. Apple Pencil (USB-C) support arrives with iOS 27.2, expected around Oct 26, and Apple says Reachability comes in a later update this year.",
+   "summary": "Apple's first foldable iPhone went on sale Oct 23 in the US and 70+ other markets from $1,999; 28 more follow Oct 30.",
+   "details": "Launch-day pre-orders began arriving on Oct 23 (Australia and New Zealand first), and Apple Stores opened with limited walk-in stock in the US, UK, Canada, Australia, Mexico and several European countries; in China, France, Hong Kong, India, Japan, South Korea and a few other markets buyers need an online pickup reservation. Apple limits US purchases to two per customer. New online orders still quote late January 2027, so store pickup slots (Apple says to check back from Oct 24) are the best bet this year. It has a 7.6-inch folding screen, a 5.4-inch outer screen and the A20 Pro chip, in Star White and Night Sky; storage runs from 256GB ($1,999) to 2TB ($3,199). Reviews were mixed to positive (The Verge: fun but messy and expensive; Engadget: 8.8/10). Apple Pencil (USB-C) support arrives with iOS 27.2, expected around Oct 26.",
    "sources": [
     {
-     "name": "Apple Newsroom",
+     "name": "Apple Newsroom (launch day)",
+     "url": "https://www.apple.com/newsroom/2026/10/iphone-duo-arrives-at-apple-store-locations-worldwide/"
+    },
+    {
+     "name": "Apple Newsroom (announcement)",
      "url": "https://www.apple.com/newsroom/2026/10/open-up-to-new-possibilities-with-iphone-duo/"
     },
     {
-     "name": "MacRumors",
-     "url": "https://www.macrumors.com/2026/10/15/iphone-duo-pre-orders-and-release-date/"
+     "name": "MacRumors: where to buy today",
+     "url": "https://www.macrumors.com/2026/10/23/iphone-duo-apple-store-pickup-available-today/"
     },
     {
-     "name": "Macworld",
-     "url": "https://www.macworld.com/article/3262078/iphone-duo-pre-order-live-blog-how-quickly-will-apples-folding-phone-sell-out.html"
-    },
-    {
-     "name": "MacRumors: sold out for Christmas",
-     "url": "https://www.macrumors.com/2026/10/16/iphone-duo-sold-out-for-christmas/"
-    },
-    {
-     "name": "9to5Mac: earlier delivery dates",
-     "url": "https://9to5mac.com/2026/10/19/some-iphone-duo-orders-getting-moved-up-to-earlier-dates/"
-    },
-    {
-     "name": "9to5Mac (Apple Pencil in iOS 27.2)",
-     "url": "https://9to5mac.com/2026/10/21/iphone-duo-adding-apple-pencil-support-next-week-with-ios-27-2/"
+     "name": "9to5Mac: walk-in availability",
+     "url": "https://9to5mac.com/2026/10/21/heres-where-apple-says-iphone-duo-will-and-wont-be-available-for-walk-ins/"
     },
     {
      "name": "MacRumors (review roundup)",
      "url": "https://www.macrumors.com/review/iphone-duo/"
+    },
+    {
+     "name": "9to5Mac (Apple Pencil in iOS 27.2)",
+     "url": "https://9to5mac.com/2026/10/21/iphone-duo-adding-apple-pencil-support-next-week-with-ios-27-2/"
     }
    ]
   },
@@ -284,11 +280,15 @@
    "date": "2026-10-23",
    "date_label": "Oct 23, 2026",
    "precision": "day",
-   "status": "Confirmed",
+   "status": "Released",
    "price": "",
-   "summary": "Call of Duty: Modern Warfare 4 launches in full Oct 23 at midnight local time; digital pre-order early access is already live.",
-   "details": "Activision says the game launches worldwide on Oct 23 on Xbox Series X|S, Xbox on PC, PS5, Battle.net, Steam and Nintendo Switch 2. Digital pre-orders got Campaign Early Access from Oct 16 and DMZ Early Access from Oct 20. It is a standalone purchase and will not join Game Pass until holiday 2027. PC Gamer reports a midnight local-time release and a 115GB install.",
+   "summary": "Call of Duty: Modern Warfare 4 launched in full on Oct 23 at midnight local time on PS5, Xbox, PC and Switch 2.",
+   "details": "Activision released the game worldwide on Oct 23 on Xbox Series X|S, Xbox on PC, PS5, Battle.net, Steam and Nintendo Switch 2, with multiplayer and DMZ servers going live at launch and launch patch notes posted. Digital pre-orders had Campaign Early Access from Oct 16 and DMZ Early Access from Oct 20. It is a standalone purchase and will not join Game Pass until holiday 2027. PC Gamer reports a 115GB install. Season 1 follows shortly after launch and brings MW4 content into Warzone.",
    "sources": [
+    {
+     "name": "Call of Duty (launch patch notes)",
+     "url": "https://www.callofduty.com/patchnotes/2026/10/call-of-duty-modern-warfare-4-launch-patch-notes"
+    },
     {
      "name": "Activision (editions, early access)",
      "url": "https://support.activision.com/modern-warfare-4/articles/modern-warfare-4-editions"
@@ -304,6 +304,28 @@
     {
      "name": "Video Games Chronicle",
      "url": "https://www.videogameschronicle.com/guide/upcoming-game-release-dates-schedule/"
+    }
+   ]
+  },
+  {
+   "id": "byd-qin-plus-3rd-gen",
+   "name": "BYD Qin Plus (3rd generation, China)",
+   "brand": "BYD",
+   "categories": [
+    "evs"
+   ],
+   "type": "Car",
+   "date": "2026-10-27",
+   "date_label": "Oct 27, 2026 (China, reported)",
+   "precision": "day",
+   "status": "Expected",
+   "price": "",
+   "summary": "BYD's redesigned third-generation Qin Plus family sedan, in plug-in hybrid and battery-electric versions, is reported to launch Oct 27.",
+   "details": "Autohome reported the date citing official information; BYD has shown exterior and interior images but had not announced the date on its own channels as of Oct 23. The car grows to 4,840 mm long on a 2,800 mm wheelbase, adds roof-mounted LiDAR on some trims and gets the Dynasty line's new cabin design. Filings list a plug-in hybrid with a 1.5-liter engine (74 kW) and a 120 kW motor, and an EV version with a 100 kW motor. Prices are not out; the outgoing Qin Plus starts at 79,800 yuan.",
+   "sources": [
+    {
+     "name": "CnEVPost",
+     "url": "https://cnevpost.com/2026/10/23/byd-3rd-gen-qin-plus-launch-oct-27/"
     }
    ]
   },
@@ -425,6 +447,50 @@
    ]
   },
   {
+   "id": "huawei-pura-90-plus",
+   "name": "Huawei Pura 90 Plus (China)",
+   "brand": "Huawei",
+   "categories": [
+    "android"
+   ],
+   "type": "Phone",
+   "date": "2026-10-28",
+   "date_label": "Oct 28, 2026 (China, on sale)",
+   "precision": "day",
+   "status": "Confirmed",
+   "price": "",
+   "summary": "Huawei has confirmed a Pura 90 Plus and opened pre-orders in China; it goes on sale Oct 28.",
+   "details": "Huawei's online store shows curved sides (the other Pura 90 models are flat), the familiar triangular camera module, four colors (Dawn Gold, Obsidian Black, Sunset Purple, Snowy White) and up to 12GB of RAM and 1TB of storage. Huawei has not published specs; a tipster's claim of a 1-inch-type variable-aperture main camera and a 6.8-inch 1.5K screen is tracked on our rumor page.",
+   "sources": [
+    {
+     "name": "GSMArena",
+     "url": "https://www.gsmarena.com/huawei_pura_90_plus_to_launch_next_week_design_and_color_options_revealed-news-75181.php"
+    }
+   ]
+  },
+  {
+   "id": "huawei-enjoy-100",
+   "name": "Huawei Enjoy 100 series (China)",
+   "brand": "Huawei",
+   "categories": [
+    "android"
+   ],
+   "type": "Phone",
+   "date": "2026-10-28",
+   "date_label": "Oct 28, 2026, 14:30 (China)",
+   "precision": "day",
+   "status": "Confirmed",
+   "price": "",
+   "summary": "Huawei unveils four budget Enjoy 100 phones on Oct 28 in China, with Kirin 8-series chips and big batteries; pre-orders are open.",
+   "details": "Huawei's poster names the Enjoy 100 Pro Max (Kirin 8020 on 512GB, Kirin 8020A on 256GB and 128GB), the Enjoy 100 Pro (Kirin 8020A), and the Enjoy 100 and Enjoy 100m (Kirin 8000S), with a large 'Giant Whale' battery and HarmonyOS anti-fraud features. Earlier reports point to an 8,800mAh battery, a flat 6.84-inch 1.5K screen and BeiDou satellite messaging on the Pro Max and HarmonyOS 7 across the lineup; prices come at launch.",
+   "sources": [
+    {
+     "name": "GSMArena",
+     "url": "https://www.gsmarena.com/huawei_enjoy_100_series_launch_date_confirmed_preorders_open-news-75187.php"
+    }
+   ]
+  },
+  {
    "id": "phantom-blade-zero",
    "name": "Phantom Blade Zero",
    "brand": "S-Game",
@@ -443,6 +509,37 @@
     {
      "name": "Video Games Chronicle",
      "url": "https://www.videogameschronicle.com/guide/upcoming-game-release-dates-schedule/"
+    }
+   ]
+  },
+  {
+   "id": "samsung-w27-china",
+   "name": "Samsung W-series foldable (expected W27, China)",
+   "brand": "Samsung",
+   "categories": [
+    "samsung",
+    "android"
+   ],
+   "type": "Phone",
+   "date": "2026-10-29",
+   "date_label": "Oct 29, 2026 (China)",
+   "precision": "day",
+   "status": "Confirmed",
+   "price": "",
+   "summary": "Samsung China will launch a new gold-framed book-style foldable on Oct 29, widely expected to be the China-only W27.",
+   "details": "Samsung confirmed the Oct 29 date on Weibo with an image of a gold-framed book-style foldable, and its linked page references 'W2026' and the W series. Samsung has not named the phone. Tipster Ice Universe says it is the W27 with the same specs as the Galaxy Z Fold 8 Ultra (Snapdragon 8 Elite Gen 5 for Galaxy, 5,000mAh, 45W, 200MP main camera), plus the usual W-series extras. W models are normally sold only in China.",
+   "sources": [
+    {
+     "name": "Android Authority",
+     "url": "https://www.androidauthority.com/samsung-next-foldable-phone-october-29-3727071/"
+    },
+    {
+     "name": "9to5Google",
+     "url": "https://9to5google.com/2026/10/23/samsung-galaxy-w27-foldable-leak/"
+    },
+    {
+     "name": "GSMArena",
+     "url": "https://www.gsmarena.com/this_is_samsungs_next_foldable_and_its_launching_in_just_a_few_days-news-75178.php"
     }
    ]
   },
@@ -1452,13 +1549,21 @@
    ],
    "type": "Handheld",
    "date": "2026-10-23",
-   "date_label": "Oct 23, 2026",
+   "date_label": "Oct 23, 2026 (orders open; ships early Nov)",
    "precision": "day",
-   "status": "Confirmed",
-   "price": "$419-579 ($399-549 launch promo)",
-   "summary": "AYN's OLED Android handheld with a Snapdragon 8 Elite-class chip launches Oct 23 from $399 with a launch discount.",
-   "details": "AYN confirmed the date on its Discord. It uses the Dragonwing Q8 (effectively a Snapdragon 8 Elite without a modem) with active cooling, a 7-inch 120Hz OLED, a 9,000mAh battery with 60W charging, Wi-Fi 7, Bluetooth 6.0, DisplayPort output, rear paddles and microSD, running Android 15; it weighs 450g. Base (12/128GB) $419, Pro (12/256GB) $499 and Max (16/512GB) $579, each $20 less during the launch promotion. Colors: Black, White and Cold Gray.",
+   "status": "Released",
+   "price": "$419-699 ($399-669 launch promo)",
+   "summary": "AYN opened orders for its OLED Android handheld on Oct 23 from $399 (launch promo); shipping starts in early November.",
+   "details": "Orders opened on AYN's store at 6:30 p.m. PT on Oct 22 (Oct 23 in Asia and Europe), and the base 12/128GB Black model was already backordered on launch day. AYN added a fourth configuration at launch: Max 16GB/1TB at $699 ($669 promo), alongside Base 12/128GB $419 ($399), Pro 12/256GB $499 ($479) and Max 16/512GB $579 ($549). Shipping starts in early November. It uses the Dragonwing Q8 (effectively a Snapdragon 8 Elite without a modem) with active cooling, a 7-inch 120Hz OLED, a 9,000mAh battery with 60W charging, Wi-Fi 7, DisplayPort output, rear paddles and microSD, running Android 15; it weighs 450g. Colors: Black, White and Cold Gray.",
    "sources": [
+    {
+     "name": "AYN store",
+     "url": "https://www.ayntec.com/products/odin3-portal"
+    },
+    {
+     "name": "Time Extension (orders live, 1TB model)",
+     "url": "https://www.timeextension.com/news/2026/10/ayn-odin-3-portal-pre-orders-are-live-new-1tb-model-added-to-the-range-prices-start-at-usd399"
+    },
     {
      "name": "Android Authority",
      "url": "https://www.androidauthority.com/ayn-odin-3-portal-launch-pricing-3726007/"
@@ -1479,7 +1584,7 @@
    "status": "Expected",
    "price": "Free",
    "summary": "Apple's next iPhone update, now at release candidate, is expected around Oct 26 and brings Apple Pencil support to the iPhone Duo.",
-   "details": "Apple released the iOS 27.2 release candidate on Oct 19, which usually means a public release about a week later; 9to5Mac expects it on or around Monday, Oct 26. Apple has not announced the date. Besides Apple Pencil (USB-C) support on the iPhone Duo, it adds features across six built-in apps and a new HomePod setting; tvOS 27.2 is expected alongside.",
+   "details": "Apple released the iOS 27.2 release candidate on Oct 19, which usually means a public release about a week later; 9to5Mac expects it on or around Monday, Oct 26. Apple has not announced the date. Besides Apple Pencil (USB-C) support on the iPhone Duo, it adds features across six built-in apps and a new HomePod setting; tvOS 27.2 is expected alongside. As of Oct 23 Apple still had not announced the date.",
    "sources": [
     {
      "name": "9to5Mac (release timing, Pencil)",
@@ -1488,6 +1593,14 @@
     {
      "name": "9to5Mac (what's new)",
      "url": "https://9to5mac.com/2026/10/20/ios-27-2-adds-new-features-in-six-iphone-apps-heres-whats-coming/"
+    },
+    {
+     "name": "9to5Mac (Oct 23 preview)",
+     "url": "https://9to5mac.com/2026/10/23/ios-27-2-three-new-features-coming-soon-to-your-iphone/"
+    },
+    {
+     "name": "Cult of Mac (release timing)",
+     "url": "https://www.cultofmac.com/news/ios-27-2-release-date-launch"
     }
    ]
   },
@@ -1522,13 +1635,25 @@
    ],
    "type": "Car",
    "date": "2026-10-26",
-   "date_label": "Oct 26, 2026 (China, reported)",
+   "date_label": "Pre-sales Oct 26, 2026; market launch in Nov (China)",
    "precision": "day",
-   "status": "Expected",
+   "status": "Confirmed",
    "price": "",
-   "summary": "BYD's luxury brand Denza is expected to launch an all-electric N8 SUV with up to 1,003 km (CLTC) of range on Oct 26.",
-   "details": "Denza says the five-seat SUV uses BYD's second-generation Blade battery (130.15 kWh) and Flash Charging. Electrek, citing MIIT filings and Autohome, lists single-motor RWD versions (320 or 370 kW) and a tri-motor AWD version with 890 kW combined. The Oct 26 date comes from Chinese media; Denza has said 'next week' but we have not seen an official day.",
+   "summary": "BYD's Denza opens pre-sales for the all-electric five-seat N8 SUV on Oct 26, with the official launch following in November.",
+   "details": "Denza general manager Li Hui announced the timeline on Weibo on Oct 22: reservations open Oct 26 and the car officially goes on sale in November, with no launch day, prices or delivery plans yet. MIIT filings show single-motor RWD versions (320 or 370 kW) and a tri-motor AWD version with 890 kW combined; it is 5,150 mm long on a 3,075 mm wheelbase, 50 mm shorter than the six-seat N8L. Denza says it uses BYD's second-generation Blade battery with Flash Charging, and Electrek cites up to 1,003 km of CLTC range. Earlier reports had treated Oct 26 as the launch itself.",
    "sources": [
+    {
+     "name": "CnEVPost (pre-sales Oct 26)",
+     "url": "https://cnevpost.com/2026/10/22/byd-denza-pre-sales-refreshed-n8-oct-26/"
+    },
+    {
+     "name": "CarNewsChina",
+     "url": "https://carnewschina.com/2026/10/22/byds-denza-n8-ev-opens-reservations-on-october-26-ahead-of-november-launch/"
+    },
+    {
+     "name": "IT之家 (Chinese)",
+     "url": "https://www.ithome.com/1/016/676.htm"
+    },
     {
      "name": "Electrek",
      "url": "https://electrek.co/2026/10/21/byd-launch-luxury-ev-suv-with-623-miles-range/"
@@ -1550,7 +1675,7 @@
    "status": "Estimated",
    "price": "",
    "summary": "Tesla said on its Q3 earnings call that it will start selling the steering-wheel-free Cybercab to customers by the end of 2026.",
-   "details": "Tesla engineering VP Lars Moravy said current Cybercab production goes to Tesla's own robotaxi fleet, with customer deliveries starting small later. Musk said most Cybercabs will still be Tesla-owned and sold as transport-as-a-service. NHTSA opened an investigation in September into whether the Cybercab meets federal safety standards, which could affect the plan. Treat Tesla timelines with caution.",
+   "details": "Tesla engineering VP Lars Moravy said current Cybercab production goes to Tesla's own robotaxi fleet, with customer deliveries starting small later. Musk said most Cybercabs will still be Tesla-owned and sold as transport-as-a-service. NHTSA opened an investigation in September into whether the Cybercab meets federal safety standards, which could affect the plan. On the same call CFO Vaibhav Taneja said Cybercab robotaxi service expands from Austin to Dallas next month and to more cities by year-end. Treat Tesla timelines with caution.",
    "sources": [
     {
      "name": "TechCrunch",
@@ -1559,6 +1684,10 @@
     {
      "name": "Engadget",
      "url": "https://www.engadget.com/2293810/tesla-plans-selling-cybercabs-by-end-of-2026/"
+    },
+    {
+     "name": "TechCrunch (Dallas expansion)",
+     "url": "https://techcrunch.com/2026/10/22/tesla-is-prepping-a-cybercab-onslaught/"
     }
    ]
   },

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T13:49:55Z",
+ "updated": "2026-10-23T14:06:29Z",
  "sources": [
   "9to5Google",
   "9to5Mac",
@@ -23,6 +23,57 @@
  "count": 600,
  "items": [
   {
+   "id": "534de33e0835",
+   "title": "Tired of rebuilding patched APKs? These Morphe community projects handle them for you",
+   "url": "https://www.androidauthority.com/morphe-community-projects-patched-apks-automation-3727286/",
+   "source": "Android Authority",
+   "published": "2026-10-23T14:00:33Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "18efd4742d7c",
+   "title": "I archive my favorite YouTube channels to my NAS with Pinchflat-NGX, and it's better than the original",
+   "url": "https://www.xda-developers.com/archive-favorite-youtube-channels-nas-pinchflat-ngx-better-original/",
+   "source": "XDA Developers",
+   "published": "2026-10-23T14:00:21Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "ef72088b5110",
+   "title": "OLED on a budget, save $50 now on the Acer Predator XB27OU at Best Buy",
+   "url": "https://www.tomshardware.com/monitors/gaming-monitors/oled-on-a-budget-save-usd50-now-on-the-acer-predator-xb27ou-at-best-buy-only-usd329-for-a-stunning-qd-oled-gaming-monitor-with-a-superfast-240hz-refresh-rate",
+   "source": "Tom's Hardware",
+   "published": "2026-10-23T14:00:00Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "dfad3e7f96f4",
+   "title": "Here’s how to get fastest iPhone Duo charging",
+   "url": "https://9to5mac.com/2026/10/23/heres-how-to-get-fastest-iphone-duo-charging/",
+   "source": "9to5Mac",
+   "published": "2026-10-23T13:56:33Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "f17e581eceac",
+   "title": "vivo Y600 carrier listing reveals key specs ahead of launch",
+   "url": "https://www.gsmarena.com/vivo_y600_carrier_listing_reveals_key_specs_ahead_of_launch-news-75186.php",
+   "source": "GSMArena",
+   "published": "2026-10-23T13:56:02Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
    "id": "bf569f93b843",
    "title": "It’s not just you: Galaxy S24 and S25 owners report excess battery drain after One UI 9",
    "url": "https://www.androidauthority.com/samsung-galaxy-s24-s25-one-ui-9-battery-drain-3727166/",
@@ -32,6 +83,16 @@
     "android",
     "samsung"
    ],
+   "rumor": false,
+   "summary": "Galaxy S24 and S25 owners are reporting faster battery drain since installing the One UI 9 update."
+  },
+  {
+   "id": "a39371ef5d6b",
+   "title": "The reactor meant to showcase nuclear’s comeback keeps hitting problems",
+   "url": "https://arstechnica.com/tech-policy/2026/10/safety-concerns-cloud-americas-flagship-nuclear-restart/",
+   "source": "Ars Technica",
+   "published": "2026-10-23T13:43:21Z",
+   "categories": [],
    "rumor": false
   },
   {
@@ -44,7 +105,8 @@
     "apple",
     "chips"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Apple passed Nvidia to become the world's most valuable company on the day the iPhone Duo went on sale."
   },
   {
    "id": "f44700f76649",
@@ -67,7 +129,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Queues formed outside Apple Stores for the iPhone Duo's debut, but only a limited number of units were set aside for walk-in buyers."
   },
   {
    "id": "6f504097e9ea",
@@ -77,6 +140,19 @@
    "published": "2026-10-23T13:36:50Z",
    "categories": [
     "ai"
+   ],
+   "rumor": false,
+   "summary": "After local opposition, Amazon dropped four planned AI data centers in Northern Virginia and will turn the land into mixed-use and housing."
+  },
+  {
+   "id": "87fe91de06a5",
+   "title": "Graphics card wholesale prices are on the rise once again in China, so it's time to brace yourself for even more GPU pricing pain",
+   "url": "https://www.pcgamer.com/hardware/graphics-cards/graphics-card-wholesale-prices-are-on-the-rise-once-again-in-china-so-its-time-to-brace-yourself-for-even-more-gpu-pricing-pain/",
+   "source": "PC Gamer",
+   "published": "2026-10-23T13:36:34Z",
+   "categories": [
+    "chips",
+    "gaming"
    ],
    "rumor": false
   },
@@ -100,7 +176,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "iOS 27.2, expected next week, brings a handful of new iPhone features, including Apple Pencil support on the iPhone Duo."
   },
   {
    "id": "824398b0282d",
@@ -147,6 +224,15 @@
    "rumor": false
   },
   {
+   "id": "365296a7335e",
+   "title": "Netflix can’t fire its way out of this downward spiral",
+   "url": "https://www.theverge.com/streaming/1017304/netflix-layoffs-bela-bajaria-peter-rice-dan-lin-doug-belgrad",
+   "source": "The Verge",
+   "published": "2026-10-23T13:14:38Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
    "id": "9c35393fc45c",
    "title": "Greece enacts social media ban for kids under 15",
    "url": "https://www.engadget.com/2295143/greece-enacts-social-media-ban-for-kids-under-15/",
@@ -164,6 +250,15 @@
    "categories": [
     "gaming"
    ],
+   "rumor": false
+  },
+  {
+   "id": "d28dfc1dfecb",
+   "title": "People are vibe coding their way to better TVs",
+   "url": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os",
+   "source": "The Verge",
+   "published": "2026-10-23T13:03:51Z",
+   "categories": [],
    "rumor": false
   },
   {
@@ -195,7 +290,8 @@
    "source": "Tom's Hardware",
    "published": "2026-10-23T13:00:00Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "Bambu Lab's H3C, a nine-tool tool-changing 3D printer with a drop-down rack, launches Nov 3."
   },
   {
    "id": "44fa5972a3c5",
@@ -206,7 +302,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Huawei's four-model Enjoy 100 budget lineup, running Kirin 8000S and 8020 chips, debuts in China on Oct 28."
   },
   {
    "id": "4d1e49d83029",
@@ -296,7 +393,8 @@
     "ai",
     "chips"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Export-banned Nvidia B300 GPUs were found in China Telecom's network; Nvidia says smuggling is a negligible share of its sales."
   },
   {
    "id": "d3c36a712fd8",
@@ -319,7 +417,8 @@
     "android",
     "samsung"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "Samsung's China-only W27, a dressed-up Galaxy Z Fold 8 Ultra, leaked days before its Oct 29 launch."
   },
   {
    "id": "6aabdb6b018a",
@@ -330,7 +429,8 @@
    "categories": [
     "chips"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "The FCC blocked its first two devices under a new rule that looks at the chips inside, including one using a Huawei subsidiary's silicon."
   },
   {
    "id": "dc1458215a45",
@@ -422,7 +522,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "DeepSeek's V4.1 Flash 1017 update is cheap and scores well on coding tasks, but benchmarks show it hallucinates more than frontier models."
   },
   {
    "id": "18399efb32a9",
@@ -507,7 +608,8 @@
    "categories": [
     "evs"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Tesla told Australian and New Zealand reservation holders it has dropped plans to sell the Cybertruck there and will refund their deposits."
   },
   {
    "id": "2b8ad21b8cd6",
@@ -560,7 +662,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Online iPhone Duo orders still quote late January, so a store visit or a pickup slot is the realistic way to get one this year; the US limit is two per person."
   },
   {
    "id": "d163dcdd8b1c",
@@ -951,7 +1054,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Huawei made the Pura 90 Plus official with China pre-orders, four colors and an Oct 28 sale date, though specs are still under wraps."
   },
   {
    "id": "034bda0ae3d7",
@@ -1020,7 +1124,8 @@
    "categories": [
     "android"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "A global vivo X500 Ultra and a Brazil-bound Jovi version turned up in an IMEI database, so the 2027 flagship should leave China."
   },
   {
    "id": "dfad69546b79",
@@ -1043,7 +1148,8 @@
     "android",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Batteries for the Galaxy S27 Pro and S27 Ultra cleared Safety Korea, pointing to roughly 5,200mAh and 5,800mAh rated capacities."
   },
   {
    "id": "c2c3f8e9bc01",
@@ -1079,7 +1185,8 @@
     "android",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Samsung China confirmed an Oct 29 launch for a gold-framed book-style foldable that looks like the W27."
   },
   {
    "id": "be684c5c7da1",
@@ -1102,7 +1209,8 @@
    "categories": [
     "android"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "A tipster says the vivo X500 Ultra's 35mm main camera switches to a 50MP Sony LYT910, fewer pixels than the X300 Ultra's 200MP but larger ones."
   },
   {
    "id": "d1e12f468087",
@@ -1474,7 +1582,8 @@
    "categories": [
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Hackers found a software exploit that opens the Switch 2 to homebrew apps and game mods."
   },
   {
    "id": "0a07b7ffbe03",
@@ -1527,7 +1636,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "OpenAI is reportedly seeking another $30 billion at a $1.25 trillion valuation ahead of a planned IPO."
   },
   {
    "id": "b9b5912c1c6b",
@@ -1683,7 +1793,8 @@
    "categories": [
     "chips"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Global PC shipments fell more than 20 percent in Q3 as rising RAM prices pushed up the cost of new machines."
   },
   {
    "id": "174807817832",
@@ -1961,7 +2072,8 @@
    "categories": [
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "A Valve composer mentioned the 'HLX' codename on a conference panel, reviving hopes of a new Half-Life game."
   },
   {
    "id": "47d84be06181",
@@ -1994,7 +2106,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Gurman says Apple is weighing a future iPhone Duo with an inner screen about half an inch larger, replacing today's size rather than adding a Max."
   },
   {
    "id": "2683dd10a5eb",
@@ -2034,7 +2147,8 @@
    "categories": [
     "evs"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Tesla's AI chief said the company is building its own AI-based maps for FSD, starting with trip starts and ends in FSD v15."
   },
   {
    "id": "df6d8a1f1353",
@@ -2061,7 +2175,8 @@
    "source": "Engadget",
    "published": "2026-10-22T19:55:13Z",
    "categories": [],
-   "rumor": true
+   "rumor": true,
+   "summary": "A trailer for the next Mass Effect leaked online just after EA said it is closing BioWare and shelving the project."
   },
   {
    "id": "b34ee8a24002",
@@ -2361,7 +2476,8 @@
    "source": "Engadget",
    "published": "2026-10-22T18:52:43Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "The Browser Company will shut down Arc on Dec 22, giving users two months to move elsewhere."
   },
   {
    "id": "4ea5c6700787",
@@ -3174,7 +3290,8 @@
    "categories": [
     "evs"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Tesla says Cybercab robotaxis expand from Austin to Dallas next month and to more cities by year-end, while NHTSA's safety probe continues."
   },
   {
    "id": "59f03d2a8c4a",
@@ -6513,103 +6630,6 @@
    "published": "2026-10-21T18:20:23Z",
    "categories": [
     "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "9da4d464e9b5",
-   "title": "Photographer Tyler Stalman reviews iPhone Duo’s new cameras",
-   "url": "https://9to5mac.com/2026/10/21/photographer-tyler-stalman-reviews-iphone-duos-new-cameras/",
-   "source": "9to5Mac",
-   "published": "2026-10-21T18:17:11Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "00948ce0d1dc",
-   "title": "iPhone Duo Tips Over on MagSafe Stands When Unfolded",
-   "url": "https://www.macrumors.com/2026/10/21/iphone-duo-magsafe-charging/",
-   "source": "MacRumors",
-   "published": "2026-10-21T18:16:14Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "e241a2360656",
-   "title": "Chinese Cars Cost Way Less To Build Than European Ones. Here’s Why",
-   "url": "https://insideevs.com/news/812811/china-compete-build-structural-advantage/",
-   "source": "InsideEVs",
-   "published": "2026-10-21T18:02:57Z",
-   "categories": [
-    "evs"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "e32b5193b302",
-   "title": "GM's Next-Generation EV Platform Has 30% Less Wiring And 20% Less Battery",
-   "url": "https://insideevs.com/news/812810/gm-fourth-generation-ev-platform-lmr-battery/",
-   "source": "InsideEVs",
-   "published": "2026-10-21T18:02:35Z",
-   "categories": [
-    "evs"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "10313fbe210e",
-   "title": "Rayman Legends Retold’s New Baguette Costumes Are A Tip Of The Beret To Expedition 33",
-   "url": "https://www.gamespot.com/articles/rayman-legends-retold-new-baguette-costumes-are-a-tip-of-the-beret-to-expedition-33/",
-   "source": "GameSpot",
-   "published": "2026-10-21T18:02:00Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "f03d75dce031",
-   "title": "Amazon Fire HD 10 tablet hits a new low price with $82 off",
-   "url": "https://www.androidauthority.com/fire-hd-10-tablet-deal-3726294/",
-   "source": "Android Authority",
-   "published": "2026-10-21T18:01:05Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "a8fc29d639f4",
-   "title": "Does opting out of smart TV tracking work? Research finds “suspicious” traffic.",
-   "url": "https://arstechnica.com/gadgets/2026/10/does-opting-out-of-smart-tv-tracking-work-research-finds-suspicious-traffic/",
-   "source": "Ars Technica",
-   "published": "2026-10-21T18:00:37Z",
-   "categories": [],
-   "rumor": false
-  },
-  {
-   "id": "9a91589c0012",
-   "title": "GM is giving OnStar an AI makeover",
-   "url": "https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/",
-   "source": "TechCrunch",
-   "published": "2026-10-21T18:00:00Z",
-   "categories": [
-    "ai"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "c1bb16cca120",
-   "title": "Save up to $389 on Heybike Mars 2.5 + Ranger S 2.0 e-bikes at exclusive new lows from $799, Segway E2 Pro e-scooter, more",
-   "url": "https://electrek.co/2026/10/21/heybike-mars-2-5-ranger-s-2-0-e-bikes-segway-e2-pro-electric-scooter-more/",
-   "source": "Electrek",
-   "published": "2026-10-21T18:00:00Z",
-   "categories": [
-    "evs"
    ],
    "rumor": false
   }

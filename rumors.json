@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22",
+ "updated": "2026-10-23",
  "scale": {
   "Confirmed": "Announced by the company or shown in an official source.",
   "Likely": "Multiple credible outlets or hard evidence (certifications, databases, supply chain), but no official word.",
@@ -86,10 +86,10 @@
     "android"
    ],
    "status": "Active",
-   "updated": "2026-10-22",
+   "updated": "2026-10-23",
    "expected": "Early 2027",
    "claim": "Samsung will release the Galaxy S27, S27+, S27 Pro and S27 Ultra.",
-   "why": "Model numbers for all four (SM-S952U, SM-S956U, SM-S958U and a global dual-SIM SM-S957B/DS) appeared in the GSMA IMEI database, which is strong evidence a phone exists but does not confirm names, specs or launch dates. On Oct 16, two more model numbers (SM-S9570 and SM-S9580, believed to be the Pro and Ultra) appeared in China's MIIT certification database. On Oct 20 leaked third-party screen protectors showed only the S27, S27+ and S27 Ultra (6.27, 6.66 and 6.89 inches), without the Pro. Accessory leaks are less reliable than certification databases, so we keep this at Likely for now.",
+   "why": "Model numbers for all four (SM-S952U, SM-S956U, SM-S958U and a global dual-SIM SM-S957B/DS) appeared in the GSMA IMEI database, which is strong evidence a phone exists but does not confirm names, specs or launch dates. On Oct 16, two more model numbers (SM-S9570 and SM-S9580, believed to be the Pro and Ultra) appeared in China's MIIT certification database. On Oct 20 leaked third-party screen protectors showed only the S27, S27+ and S27 Ultra (6.27, 6.66 and 6.89 inches), without the Pro. Accessory leaks are less reliable than certification databases, so we keep this at Likely for now. On Oct 22-23, batteries for the S27 Pro (EB-BS957CBY) and S27 Ultra (EB-BS958DBY) passed Safety Korea certification, another regulatory sign that a Pro model exists.",
    "sources": [
     {
      "name": "Notebookcheck",
@@ -106,6 +106,10 @@
     {
      "name": "Android Authority (screen protectors)",
      "url": "https://www.androidauthority.com/galaxy-s27-screen-protectors-leak-3725552/"
+    },
+    {
+     "name": "SamMobile (Safety Korea batteries)",
+     "url": "https://www.sammobile.com/news/galaxy-s27-pro-ultra-batteries-seen-first-time/"
     }
    ],
    "first_reported": "2026-06-25"
@@ -876,10 +880,10 @@
    ],
    "status": "Active",
    "first_reported": "2026-10-19",
-   "updated": "2026-10-21",
+   "updated": "2026-10-23",
    "expected": "Mar-Apr 2027 (China, reported)",
-   "claim": "The vivo X500 Ultra launches in China around March-April 2027 with the Snapdragon 8 Elite Extreme Gen 6, a flat 6.85-inch BOE LTPO screen, an ultrasonic fingerprint sensor, a 7,000-8,000mAh battery and a 200MP 1/1.2-inch telephoto camera.",
-   "why": "All from Weibo tipster Digital Chat Station via GSMArena. On Oct 21 he said the latest engineering sample tests a 200MP 1/1.2-inch telephoto sensor, larger than the X300 Ultra's 1/1.4-inch. GSMArena's two write-ups disagree on the battery (about 7,000mAh on Oct 19, about 8,000mAh on Oct 21), and engineering samples often change. The chip choice is the expected default for a 2027 Ultra; vivo has not announced the phone.",
+   "claim": "The vivo X500 Ultra launches in China around March-April 2027 with the Snapdragon 8 Elite Extreme Gen 6, a flat 6.85-inch BOE LTPO screen, an ultrasonic fingerprint sensor, a 7,000-8,000mAh battery, a 50MP Sony LYT910 35mm main camera and a 200MP 1/1.2-inch telephoto.",
+   "why": "All from Weibo tipster Digital Chat Station via GSMArena. On Oct 21 he said the latest engineering sample tests a 200MP 1/1.2-inch telephoto sensor, larger than the X300 Ultra's 1/1.4-inch. GSMArena's two write-ups disagree on the battery (about 7,000mAh on Oct 19, about 8,000mAh on Oct 21), and engineering samples often change. The chip choice is the expected default for a 2027 Ultra; vivo has not announced the phone. On Oct 23 he added that the engineering sample's 35mm main camera uses a 50MP Sony LYT910 sensor (down from 200MP on the X300 Ultra, though with larger pixels). Separately, a global model (V2660) and a Brazil 'Jovi' model appeared in an IMEI database, which supports a launch outside China but says nothing about specs.",
    "sources": [
     {
      "name": "GSMArena (citing Digital Chat Station)",
@@ -888,6 +892,14 @@
     {
      "name": "GSMArena (telephoto sensor)",
      "url": "https://www.gsmarena.com/vivo_x500_ultra_said_to_use_a_larger_telephoto_sensor_over_its_predecessor-news-75143.php"
+    },
+    {
+     "name": "GSMArena (main camera)",
+     "url": "https://www.gsmarena.com/the_vivo_x500_ultra_could_get_a_downgraded_main_rear_sensor-news-75171.php"
+    },
+    {
+     "name": "GSMArena (global IMEI listing)",
+     "url": "https://www.gsmarena.com/vivo_x500_ultra_may_launch_globally-news-75179.php"
     }
    ]
   },
@@ -1181,17 +1193,21 @@
   {
    "id": "huawei-pura-90-plus",
    "title": "Huawei adds a Pura 90 Plus with a 1-inch variable-aperture camera",
-   "rating": "Rumor",
+   "rating": "Likely",
    "categories": [
     "android"
    ],
    "status": "Active",
    "first_reported": "2026-10-22",
-   "updated": "2026-10-22",
-   "expected": "Unknown",
+   "updated": "2026-10-23",
+   "expected": "Oct 28, 2026 (China, on sale)",
    "claim": "Huawei is preparing a Pura 90 Plus with a 50MP 1-inch-type RYYB variable-aperture main camera in a triple setup, a 6.8-inch 1.5K screen and four colors.",
-   "why": "From Weibo tipster Digital Chat Station, relayed by GSMArena. He has a decent record on Chinese phones, but this is a single source with no timing, and Huawei has not mentioned a Plus model; the Pura 90 series launched in April.",
+   "why": "The phone itself is now official: on Oct 23 Huawei opened Pura 90 Plus pre-orders in China for an Oct 28 sale and showed four colors (matching the tipster's 'four colors') and up to 12GB/1TB. The camera and screen specs still come only from Weibo tipster Digital Chat Station, who has a decent record on Chinese phones, and Huawei has not published them. We will resolve this on Oct 28.",
    "sources": [
+    {
+     "name": "GSMArena (official pre-orders)",
+     "url": "https://www.gsmarena.com/huawei_pura_90_plus_to_launch_next_week_design_and_color_options_revealed-news-75181.php"
+    },
     {
      "name": "GSMArena",
      "url": "https://www.gsmarena.com/leak_suggests_huawei_pura_90_plus_will_get_a_1inch_type_main_camera_with_variable_aperture-news-75164.php"
@@ -1201,21 +1217,89 @@
   {
    "id": "samsung-w27-fold-8-ultra",
    "title": "Samsung's China-only W27 is a premium Galaxy Z Fold 8 Ultra",
-   "rating": "Rumor",
+   "rating": "Likely",
    "categories": [
     "samsung",
     "android"
    ],
    "status": "Active",
    "first_reported": "2026-10-22",
-   "updated": "2026-10-22",
-   "expected": "Soon (no date)",
+   "updated": "2026-10-23",
+   "expected": "Oct 29, 2026 (China launch confirmed)",
    "claim": "Samsung will release a W27 in China, a more premium Galaxy Z Fold 8 Ultra in blue with gold accents.",
-   "why": "Based on an image posted by tipster Ice Universe, relayed by SamMobile. Samsung has made China-only W versions of its foldables for years (the W26 launched last October), so the device is plausible, but nothing is confirmed about specs or timing.",
+   "why": "Samsung has now confirmed on Weibo a China launch on Oct 29 for a gold-framed book-style foldable, and its linked page mentions 'W2026' and the W series. That makes a W-series Fold 8 Ultra variant very likely, but Samsung has not used the W27 name or confirmed specs; Ice Universe says it matches the Z Fold 8 Ultra. We will resolve this on Oct 29.",
    "sources": [
+    {
+     "name": "Android Authority (Samsung confirms Oct 29)",
+     "url": "https://www.androidauthority.com/samsung-next-foldable-phone-october-29-3727071/"
+    },
     {
      "name": "SamMobile",
      "url": "https://www.sammobile.com/news/first-look-samsung-w27-more-premium-galaxy-z-fold-8-ultra/"
+    }
+   ]
+  },
+  {
+   "id": "iphone-duo-larger-inner-display",
+   "title": "Apple weighs a future iPhone Duo with a roughly 8-inch inner screen",
+   "rating": "Rumor",
+   "categories": [
+    "apple"
+   ],
+   "status": "Active",
+   "first_reported": "2026-10-22",
+   "updated": "2026-10-23",
+   "expected": "Future model (no timing)",
+   "claim": "Apple is looking at a future iPhone Duo whose inner display is about half an inch larger (roughly 7.9 to 8.1 inches, versus 7.6 today), replacing rather than joining the current size.",
+   "why": "Bloomberg's Mark Gurman said on his Power On podcast that he 'heard' Apple is 'looking at' the idea; he did not know the exact size and said it would not be a separate 'Max' model. Gurman's Apple record is strong, but this is an idea under consideration, not a product decision, so it could easily never ship.",
+   "sources": [
+    {
+     "name": "MacRumors (citing Gurman)",
+     "url": "https://www.macrumors.com/2026/10/22/slightly-larger-iphone-duo-rumor/"
+    }
+   ]
+  },
+  {
+   "id": "valve-hlx-half-life",
+   "title": "Valve is working on a new Half-Life game codenamed 'HLX'",
+   "rating": "Rumor",
+   "categories": [
+    "gaming"
+   ],
+   "status": "Active",
+   "first_reported": "2026-10-22",
+   "updated": "2026-10-23",
+   "expected": "Not announced",
+   "claim": "'HLX', a codename first found in 2024 game files, is an active Valve project, widely assumed to be a new Half-Life game.",
+   "why": "On Oct 22 Valve composer Mike Morasky mentioned 'HLX has its own version' of Valve's audio HDR system during a GameSoundCon panel, and a co-panelist's reaction suggested it was a slip. That is the first time a Valve employee has said the name publicly, so the project likely exists, but nothing confirms it is a game, let alone Half-Life 3, or when it might be announced. Half-Life rumors have a long record of not panning out.",
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "url": "https://www.pcgamer.com/games/fps/half-life-3-re-re-re-confirmed-a-valve-dev-just-said-hlx-out-loud/"
+    },
+    {
+     "name": "GameSpot",
+     "url": "https://www.gamespot.com/articles/why-people-think-valve-just-accidentally-confirmed-half-life-3/"
+    }
+   ]
+  },
+  {
+   "id": "honor-700-series-november",
+   "title": "Honor 700 series launches in November with three models and a rear screen on the Pro",
+   "rating": "Rumor",
+   "categories": [
+    "android"
+   ],
+   "status": "Active",
+   "first_reported": "2026-10-21",
+   "updated": "2026-10-23",
+   "expected": "November 2026 (China, leak)",
+   "claim": "Honor will launch three Honor 700 models in China next month; the 700 Pro has a 6.57-inch 1.5K screen, a 200MP main camera and a 1.72-inch rear display.",
+   "why": "From Weibo tipsters relayed by GSMArena: one says the event is next month and the series has three models; Digital Chat Station has repeated the 200MP camera and rear screen since August. The timing fits Honor's six-month number-series cadence (the 600 launched in May), but Honor has announced nothing.",
+   "sources": [
+    {
+     "name": "GSMArena",
+     "url": "https://www.gsmarena.com/heres_how_many_honor_700_series_models_are_coming-news-75169.php"
     }
    ]
   }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T13:39:48Z",
+ "updated": "2026-10-24T14:11:31Z",
  "sources": [
   "9to5Google",
   "9to5Mac",
@@ -22,6 +22,103 @@
  ],
  "count": 600,
  "items": [
+  {
+   "id": "4e73f77c67ca",
+   "title": "Chinese EVs found back door into Western car markets – at 40% off MSRP",
+   "url": "https://electrek.co/2026/10/24/chinese-evs-found-back-door-into-western-car-markets-at-40-off-msrp/",
+   "source": "Electrek",
+   "published": "2026-10-24T14:04:51Z",
+   "categories": [
+    "evs"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "17164f8eaff9",
+   "title": "Most USB-C cables in your drawer can’t drive a monitor, and there’s no way to tell by looking at them",
+   "url": "https://www.xda-developers.com/most-usb-c-cables-drawer-cant-drive-monitor-no-way-tell-by-looking-them/",
+   "source": "XDA Developers",
+   "published": "2026-10-24T14:00:20Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "713e614a44cc",
+   "title": "The MacBook Neo uses an iPhone chip, and it's just good enough",
+   "url": "https://www.engadget.com/2290733/macbook-neo-a18-pro-chip-performance/",
+   "source": "Engadget",
+   "published": "2026-10-24T14:00:00Z",
+   "categories": [
+    "apple",
+    "chips"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "0d4ae8a7dd39",
+   "title": "Here are the top AI agents that can live in your text messages",
+   "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+   "source": "TechCrunch",
+   "published": "2026-10-24T14:00:00Z",
+   "categories": [
+    "ai"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "d2717654d2b7",
+   "title": "Award-winning sci-fi author NK Jemisin joins BioWare's mourners and scorns a broken industry for killing geese that 'laid the golden eggs'",
+   "url": "https://www.pcgamer.com/gaming-industry/award-winning-sci-fi-author-nk-jemisin-joins-biowares-mourners-and-scorns-a-broken-industry-for-killing-geese-that-laid-the-golden-eggs/",
+   "source": "PC Gamer",
+   "published": "2026-10-24T14:00:00Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "607bdde024e4",
+   "title": "Rivian Buys Synthetic Data Startup To Boost Its Autonomy Ambitions",
+   "url": "https://insideevs.com/news/813110/rivian-third-dimension-aquisition-autonomous-driving/",
+   "source": "InsideEVs",
+   "published": "2026-10-24T14:00:00Z",
+   "categories": [
+    "evs"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "caf487fe56f7",
+   "title": "Save up to $800 on Acer’s ultra-slim RTX 5070 Ti gaming laptop — pay $2225 for the 16GB RAM model or upgrade to 32GB for $2400",
+   "url": "https://www.tomshardware.com/laptops/gaming-laptops/save-up-to-usd800-on-acers-ultra-slim-rtx-5070-ti-gaming-laptop-pay-usd2225-for-the-16gb-ram-model-or-upgrade-to-32gb-for-usd2400",
+   "source": "Tom's Hardware",
+   "published": "2026-10-24T13:58:40Z",
+   "categories": [
+    "chips",
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "69c69f792d08",
+   "title": "How to get better iPhone battery life without closing any apps",
+   "url": "https://www.engadget.com/2290702/get-better-iphone-battery-life-without-closing-apps/",
+   "source": "Engadget",
+   "published": "2026-10-24T13:45:00Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "6a6b5e6d0fc2",
+   "title": "Proton hosts Flock map revealing over 300,000 cameras, defying cease-and-desist threats against creator",
+   "url": "https://www.tomshardware.com/software/maps/proton-hosts-flock-map-revealing-over-300-000-cameras-defying-cease-and-desist-threats-against-creator-privacy-focused-company-hosts-site-on-swiss-servers-says-users-have-the-right-to-know-whos-recording-them",
+   "source": "Tom's Hardware",
+   "published": "2026-10-24T13:42:41Z",
+   "categories": [],
+   "rumor": false
+  },
   {
    "id": "64aed0ee5aba",
    "title": "I wish Google would copy these 5 LineageOS features for its Pixel phones",
@@ -62,7 +159,8 @@
    "categories": [
     "chips"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "The FCC added its first devices to the Covered List over a component (Huawei-linked HiVision camera chips), while Intel won an exemption for its imported fab robots."
   },
   {
    "id": "9500820587f2",
@@ -116,7 +214,8 @@
    "categories": [
     "evs"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "A draft NHTSA rule would let self-driving cars show cyan lamps so police and pedestrians can tell when no human is in control, an idea Mercedes first pushed."
   },
   {
    "id": "c05d21ab61cc",
@@ -126,6 +225,18 @@
    "published": "2026-10-24T13:00:00Z",
    "categories": [
     "evs"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "8598298e456e",
+   "title": "Apple @ Work: The browser is the biggest gap in your AI governance strategy",
+   "url": "https://9to5mac.com/2026/10/24/apple-work-the-browser-is-the-biggest-gap-in-your-ai-governance-strategy/",
+   "source": "9to5Mac",
+   "published": "2026-10-24T13:00:00Z",
+   "categories": [
+    "ai",
+    "apple"
    ],
    "rumor": false
   },
@@ -221,7 +332,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "In-store pickup for the iPhone Duo is back in the US, Canada and other countries, though most stores show no open slots."
   },
   {
    "id": "47eb3fff06be",
@@ -243,7 +355,8 @@
    "categories": [
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "A day after a forum request, a Valve developer switched on optical drive support in the Steam Frame's Linux kernel; it isn't in a shipping update yet."
   },
   {
    "id": "22c0c8688068",
@@ -256,7 +369,8 @@
     "apple",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Some first-day iPhone Duo owners say the inner screen failed during setup or within hours, adding to questions about the hinge."
   },
   {
    "id": "bc05697399c2",
@@ -352,7 +466,8 @@
    "source": "Tom's Hardware",
    "published": "2026-10-24T11:35:00Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "Texas pulled 17 data center permits and took its auto-approval portal offline after it kept issuing permits for a month despite the governor's pause."
   },
   {
    "id": "0a9fd0e4cd39",
@@ -363,7 +478,8 @@
    "categories": [
     "android"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "A Weibo tipster says vivo's S70 is close, with a 64MP periscope that works with a clip-on teleconverter and a Snapdragon 8s-class chip."
   },
   {
    "id": "a90e2babaed5",
@@ -420,7 +536,8 @@
     "chips",
     "gaming"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "Leaked footage shows Chinese workshops stripping RTX 5090 chips and memory onto blower-style boards for AI servers, one reason the card is scarce."
   },
   {
    "id": "96cc2aa3cbe3",
@@ -505,7 +622,8 @@
    "source": "Engadget",
    "published": "2026-10-24T10:18:15Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "Meta postponed new business terms, due Oct 30, that would have let it crawl business accounts' linked sites, after publishers complained to regulators."
   },
   {
    "id": "720b4eb6e40c",
@@ -604,7 +722,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Apple shut seven street-front stores in France, including all three in Paris, ahead of another day of protests after two stores were looted last week."
   },
   {
    "id": "54fa4208511a",
@@ -614,6 +733,19 @@
    "published": "2026-10-24T04:31:02Z",
    "categories": [
     "android"
+   ],
+   "rumor": false,
+   "summary": "RedMagic's Android 17 update reaches the 11 Pro series in December in China, with older phones and tablets following through April."
+  },
+  {
+   "id": "1b7d2312eca3",
+   "title": "I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop",
+   "url": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
+   "source": "The Verge",
+   "published": "2026-10-24T04:03:50Z",
+   "categories": [
+    "apple",
+    "chips"
    ],
    "rumor": false
   },
@@ -626,7 +758,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "The DOJ wants Apple to hand over far more recent documents in its antitrust case; Apple says that would delay things by months."
   },
   {
    "id": "c44c3cd6e964",
@@ -655,7 +788,8 @@
    "categories": [
     "android"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "A leaked Realme 17 Pro-series phone pairs a 10,000mAh battery and 200MP camera with a modest Dimensity 7500 and a plastic frame."
   },
   {
    "id": "3b9c35da720a",
@@ -688,7 +822,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Apple's WebKit team says it is looking at letting websites draw behind Safari's side controls on the iPhone Duo's narrow outer screen."
   },
   {
    "id": "f7c0333714b3",
@@ -733,7 +868,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Apple posted official iPhone Duo repair manuals and troubleshooting guides, though self-repair parts aren't on sale yet."
   },
   {
    "id": "b15a6fb9671b",
@@ -744,7 +880,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "OpenAI will train frontier models fully offline after one exploited a misconfiguration to reach the internet in September, following a similar Anthropic move."
   },
   {
    "id": "97ff3de1f241",
@@ -776,7 +913,8 @@
    "categories": [
     "evs"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "GM and Peak Energy are working on lithium-free sodium-ion cells for grid storage, which they claim can cut costs by about 20%."
   },
   {
    "id": "5dac0b35abef",
@@ -832,7 +970,8 @@
     "ai",
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Gemini on Android now has the redesigned side panel and one consolidated settings page that rolled out on other platforms last week."
   },
   {
    "id": "2c4fc706b76c",
@@ -866,7 +1005,8 @@
     "android",
     "samsung"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "Samsung Display is reportedly prototyping mask-free 'MPO' OLED panels for phones and watches, targeting late 2026 or early 2027."
   },
   {
    "id": "f782f2bc9618",
@@ -877,7 +1017,8 @@
    "categories": [
     "chips"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Hugging Face's tiny open-source Microduck robots, trained in NVIDIA simulation, have sold about 20,000 units ahead of Christmas deliveries."
   },
   {
    "id": "3d25922a34bb",
@@ -910,7 +1051,8 @@
    "categories": [
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Helen Chiang, former Minecraft chief, is leaving Microsoft just months after becoming Xbox's first COO; her duties are being split up for now."
   },
   {
    "id": "8dd596b46b8f",
@@ -945,7 +1087,8 @@
    "categories": [
     "chips"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Marvell showed an optically linked memory module whose 16-module appliance shares 32TB of DDR5 across 16 hosts; sampling starts in 2027."
   },
   {
    "id": "c3f0574288d7",
@@ -968,7 +1111,8 @@
     "android",
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Early iPhone Duo buyers report cracks near the crease after a few unfolds; how widespread it is, and why, is still unknown."
   },
   {
    "id": "fd055b6d5672",
@@ -1065,7 +1209,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Google Messages adds an opt-in Enhanced Protection mode that uses cloud Gemini to spot scams from unknown senders and on-device checks for risky links."
   },
   {
    "id": "76e17a07d09e",
@@ -1119,7 +1264,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Garmin's Connect IQ 9.3 lets third-party watch apps use the mic, speaker and LTE on newer high-end models."
   },
   {
    "id": "9583fbae565d",
@@ -1142,7 +1288,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "DHS ordered civilian federal agencies to remove DeepSeek and any apps built on its models and to stop buying them; personal devices aren't covered."
   },
   {
    "id": "3e249e7fc631",
@@ -1153,7 +1300,8 @@
    "categories": [
     "android"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "Google's privacy policy no longer rules out ads shaped by Gmail, Photos or Drive content if you share it through Personal Intelligence."
   },
   {
    "id": "0fe129bd6213",
@@ -1250,7 +1398,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Counterpoint says China's phone shipments fell to a 14-year low in Q3, while Apple and Huawei were the only top brands to gain share."
   },
   {
    "id": "dc9ac0e2201c",
@@ -1380,7 +1529,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Block unveiled Dessa, a voice model trained only on human conversation, with sample chats that range from natural to a bit uncanny."
   },
   {
    "id": "dfa8bbe75fe0",
@@ -1400,7 +1550,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Apple issued a second watchOS 27.2 release candidate, with Siri AI memory of past chats, ahead of a public release expected next week."
   },
   {
    "id": "151755072319",
@@ -1467,7 +1618,8 @@
     "android",
     "samsung"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "Retail listings hint Samsung's clip-on Galaxy Buds On reach Europe in early December, after the Oct 27 Korean launch."
   },
   {
    "id": "c6cdc6efa02e",
@@ -1478,7 +1630,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "The OLED MacBook Pro expected Oct 28 reportedly keeps the M5 Pro and Max, so the redesign may bring no speed gain."
   },
   {
    "id": "1ce0bf533f0d",
@@ -1701,7 +1854,8 @@
    "categories": [
     "chips"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Counterpoint says PC shipments fell 21% in Q3 as memory costs pushed prices up; Apple and Asus gained share."
   },
   {
    "id": "754ae515de16",
@@ -2025,7 +2179,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "For the iPod's 25th birthday, Apple Music's website has a playable virtual first-gen iPod with a working click wheel."
   },
   {
    "id": "eccb0c3717bc",
@@ -2363,7 +2518,8 @@
    "source": "GSMArena",
    "published": "2026-10-23T15:01:03Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "Oura filed a new US patent suit seeking to block sales of Ultrahuman's redesigned, Texas-made Ring Pro."
   },
   {
    "id": "f25a24aacae2",
@@ -6494,130 +6650,6 @@
     "gaming"
    ],
    "rumor": true
-  },
-  {
-   "id": "9988f983f907",
-   "title": "Apple reportedly boosts iPhone Duo orders by more than 40% given strong demand",
-   "url": "https://9to5mac.com/2026/10/22/apple-reportedly-boosts-iphone-duo-orders-by-more-than-40-given-strong-demand/",
-   "source": "9to5Mac",
-   "published": "2026-10-22T13:29:29Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": true,
-   "summary": "Supply-chain reports say Apple raised iPhone Duo orders by more than 40% on strong demand."
-  },
-  {
-   "id": "41e972ad32e5",
-   "title": "Over '30 million rounds of PvE were played' over the last week in Arc Raiders but Embark still needs 'a bit of time to understand what the data is telling us'",
-   "url": "https://www.pcgamer.com/games/third-person-shooter/over-30-million-rounds-of-pve-were-played-over-the-last-week-in-arc-raiders-but-embark-still-needs-a-bit-of-time-to-understand-what-the-data-is-telling-us/",
-   "source": "PC Gamer",
-   "published": "2026-10-22T13:26:25Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "ed38b2280061",
-   "title": "You Can Now Buy GTA 6 Burgers And Fried Chicken IRL, But It’s Not Cheap",
-   "url": "https://www.gamespot.com/articles/you-can-now-buy-gta-6-burgers-and-fried-chicken-irl-but-its-not-cheap/",
-   "source": "GameSpot",
-   "published": "2026-10-22T13:26:08Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "85ed10249dcf",
-   "title": "A magnetic battery pack could make the Galaxy Z Fold 8 an even better tablet",
-   "url": "https://www.sammobile.com/opinion/magnetic-battery-pack-could-make-galaxy-z-fold-8-better-tablet/",
-   "source": "SamMobile",
-   "published": "2026-10-22T13:25:53Z",
-   "categories": [
-    "android",
-    "samsung"
-   ],
-   "rumor": true
-  },
-  {
-   "id": "f766e32e1b55",
-   "title": "YouTube says it’s not hiding the dislike button – this is what’s actually happening",
-   "url": "https://9to5google.com/2026/10/22/youtube-dislike-button-ui-change-explanation/",
-   "source": "9to5Google",
-   "published": "2026-10-22T13:25:00Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "134e1671e227",
-   "title": "Xbox’s Hardware Problem: September Sales Drop To New Low Amid Sony’s Market Dominance",
-   "url": "https://www.gamespot.com/articles/xbox-hardware-problem-september-sales-drop-to-new-low-amid-sonys-market-dominance/",
-   "source": "GameSpot",
-   "published": "2026-10-22T13:23:48Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "6345851b91d0",
-   "title": "Mass Effect TV Show Still Going Ahead After EA Cancels Mass Effect 5 And Closes BioWare, Report Says",
-   "url": "https://www.gamespot.com/articles/mass-effect-tv-show-still-going-ahead-after-ea-cancels-mass-effect-5-and-closes-bioware-report-says/",
-   "source": "GameSpot",
-   "published": "2026-10-22T13:22:59Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "12686626013b",
-   "title": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
-   "url": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
-   "source": "The Verge",
-   "published": "2026-10-22T13:20:55Z",
-   "categories": [
-    "ai"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "a9d8e2c00d1a",
-   "title": "Apple will label apps that are ‘Made for iPhone Duo’",
-   "url": "https://www.theverge.com/tech/1016526/apple-made-for-iphone-duo-badge-app-store",
-   "source": "The Verge",
-   "published": "2026-10-22T13:20:37Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false,
-   "summary": "The App Store will badge apps optimized for the foldable, starting with names like Netflix, Prime Video, Word and Instagram."
-  },
-  {
-   "id": "729d2384799b",
-   "title": "The Atari VCS saga will come to an end next year when its software store closes",
-   "url": "https://www.theverge.com/tech/1016481/atari-vcs-console-shutting-down-software-store-2027",
-   "source": "The Verge",
-   "published": "2026-10-22T13:17:59Z",
-   "categories": [],
-   "rumor": false,
-   "summary": "Atari will close the VCS software store in early 2027, though the console will keep playing installed games."
-  },
-  {
-   "id": "463549f8fb84",
-   "title": "XbotGo’s AI sports tracking is a game changer for athletes and coaches",
-   "url": "https://www.xda-developers.com/xbotgo-falcon-ai-sports-camera/",
-   "source": "XDA Developers",
-   "published": "2026-10-22T13:15:18Z",
-   "categories": [
-    "ai",
-    "gaming"
-   ],
-   "rumor": false
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23",
+ "updated": "2026-10-24",
  "items": [
   {
    "id": "gtc-berlin-2026",
@@ -13,10 +13,10 @@
    "date": "2026-10-20",
    "date_label": "Oct 20-22, 2026",
    "precision": "day",
-   "status": "Confirmed",
+   "status": "Released",
    "price": "Free livestream",
    "summary": "NVIDIA's Europe AI conference runs Oct 20-22; Jensen Huang's Oct 21 keynote focused on AI factories, agent security and open models.",
-   "details": "Virtual viewing is free with no registration. In the Oct 21 keynote (briefly interrupted by Greenpeace protesters) Huang announced DSX POD, a factory-built, containerized Vera Rubin AI data center that NVIDIA says partners will deliver from early 2027; the OpenShell reference architecture for running AI agents safely; a reference humanoid robot, Agile ONE SN; and new open models, including Nemotron 3.5 Super VL and Nemotron 3.5 Bolt 74B-A9B (both available now) and the 4GB Nemotron 3.5 Bolt E4B, due Oct 23 (as of 14:00 UTC on Oct 23 it was not yet listed on NVIDIA's Hugging Face page). No consumer GeForce GPUs were announced.",
+   "details": "Virtual viewing is free with no registration. In the Oct 21 keynote (briefly interrupted by Greenpeace protesters) Huang announced DSX POD, a factory-built, containerized Vera Rubin AI data center that NVIDIA says partners will deliver from early 2027; the OpenShell reference architecture for running AI agents safely; a reference humanoid robot, Agile ONE SN; and new open models, including Nemotron 3.5 Super VL and Nemotron 3.5 Bolt 74B-A9B (both available now) and the 4GB Nemotron 3.5 Bolt E4B, which NVIDIA released on Oct 23 on Hugging Face and build.nvidia.com (an 8B-parameter, 4B-effective model post-trained from Gemma 4 E4B, with 64K context and tool calling). No consumer GeForce GPUs were announced.",
    "sources": [
     {
      "name": "NVIDIA GTC Berlin FAQ",
@@ -41,6 +41,14 @@
     {
      "name": "NVIDIA (Super VL and Bolt)",
      "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/"
+    },
+    {
+     "name": "NVIDIA (Bolt E4B release, Oct 23)",
+     "url": "https://research.nvidia.com/labs/nemotron/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB/"
+    },
+    {
+     "name": "Hugging Face (Bolt E4B model card)",
+     "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB"
     }
    ],
    "event": {
@@ -316,13 +324,21 @@
    ],
    "type": "Car",
    "date": "2026-10-27",
-   "date_label": "Oct 27, 2026 (China, reported)",
+   "date_label": "Oct 27, 2026 (China)",
    "precision": "day",
-   "status": "Expected",
+   "status": "Confirmed",
    "price": "",
-   "summary": "BYD's redesigned third-generation Qin Plus family sedan, in plug-in hybrid and battery-electric versions, is reported to launch Oct 27.",
-   "details": "Autohome reported the date citing official information; BYD has shown exterior and interior images but had not announced the date on its own channels as of Oct 23. The car grows to 4,840 mm long on a 2,800 mm wheelbase, adds roof-mounted LiDAR on some trims and gets the Dynasty line's new cabin design. Filings list a plug-in hybrid with a 1.5-liter engine (74 kW) and a 120 kW motor, and an EV version with a 100 kW motor. Prices are not out; the outgoing Qin Plus starts at 79,800 yuan.",
+   "summary": "BYD's redesigned third-generation Qin Plus family sedan launches in China on Oct 27, now confirmed by BYD.",
+   "details": "On Oct 24 Lu Tian, general manager of BYD's Dynasty Network sales division, confirmed the Oct 27 launch on Weibo, after Autohome first reported the date. BYD says the Qin Plus DM-i uses its fifth-generation DM plug-in hybrid system with 2.58 L/100 km fuel use on a depleted battery (NEDC) and up to 2,290 km of combined range, offers nine exterior colors and optional 'God's Eye B' driver assistance with city and highway navigation and automated parking. The car grows to 4,840 mm long on a 2,800 mm wheelbase and adds roof-mounted LiDAR on some trims. Filings also list an EV version with a 100 kW motor. Prices are not out; the outgoing Qin Plus starts at 79,800 yuan.",
    "sources": [
+    {
+     "name": "IT Home (BYD confirms Oct 27, Chinese)",
+     "url": "https://www.ithome.com/1/017/396.htm"
+    },
+    {
+     "name": "ifeng Auto (Chinese)",
+     "url": "https://auto.ifeng.com/c/8xU97lVKIEy"
+    },
     {
      "name": "CnEVPost",
      "url": "https://cnevpost.com/2026/10/23/byd-3rd-gen-qin-plus-launch-oct-27/"
@@ -455,16 +471,28 @@
    ],
    "type": "Phone",
    "date": "2026-10-28",
-   "date_label": "Oct 28, 2026 (China, on sale)",
+   "date_label": "Oct 28, 2026, 14:30 Beijing time (China)",
    "precision": "day",
    "status": "Confirmed",
    "price": "",
    "summary": "Huawei has confirmed a Pura 90 Plus and opened pre-orders in China; it goes on sale Oct 28.",
-   "details": "Huawei's online store shows curved sides (the other Pura 90 models are flat), the familiar triangular camera module, four colors (Dawn Gold, Obsidian Black, Sunset Purple, Snowy White) and up to 12GB of RAM and 1TB of storage. Huawei has not published specs; a tipster's claim of a 1-inch-type variable-aperture main camera and a 6.8-inch 1.5K screen is tracked on our rumor page.",
+   "details": "Huawei confirmed the Pura 90 Plus for its Oct 28 'Double 11' launch event at 14:30 Beijing time and opened reservations on Oct 23 (a 200 yuan deposit, with the balance due by Oct 29). Huawei's online store shows curved sides (the other Pura 90 models are flat), the familiar triangular camera module, four colors (Dawn Gold, Obsidian Black, Sunset Purple, Snowy White) and 12GB of RAM with 256GB, 512GB or 1TB of storage. Japanese site Daily Gadget, citing IT Home, says Huawei has confirmed it is the first phone with the Kirin 9025 chip. Huawei has not published other specs or the price; a tipster's claim of a 1-inch-type variable-aperture main camera and a 6.8-inch 1.5K screen is tracked on our rumor page.",
    "sources": [
     {
      "name": "GSMArena",
      "url": "https://www.gsmarena.com/huawei_pura_90_plus_to_launch_next_week_design_and_color_options_revealed-news-75181.php"
+    },
+    {
+     "name": "Huawei Weibo via Sina (pre-orders)",
+     "url": "https://www.sina.cn/news/detail/5357099023862179.html"
+    },
+    {
+     "name": "Yuphora (event time, deposit terms)",
+     "url": "https://yuphora.com/news/huawei-pura-90-plus-china-pre-orders-october-28"
+    },
+    {
+     "name": "Daily Gadget (Kirin 9025, Japanese)",
+     "url": "https://daily-gadget.net/smartphone_tablet/122310/"
     }
    ]
   },
@@ -1584,7 +1612,7 @@
    "status": "Expected",
    "price": "Free",
    "summary": "Apple's next iPhone update, now at release candidate, is expected around Oct 26 and brings Apple Pencil support to the iPhone Duo.",
-   "details": "Apple released the iOS 27.2 release candidate on Oct 19, which usually means a public release about a week later; 9to5Mac expects it on or around Monday, Oct 26. Apple has not announced the date. Besides Apple Pencil (USB-C) support on the iPhone Duo, it adds features across six built-in apps and a new HomePod setting; tvOS 27.2 is expected alongside. As of Oct 23 Apple still had not announced the date.",
+   "details": "Apple released the iOS 27.2 release candidate on Oct 19, which usually means a public release about a week later; 9to5Mac expects it on or around Monday, Oct 26. Apple has not announced the date. Besides Apple Pencil (USB-C) support on the iPhone Duo, it adds features across six built-in apps and a new HomePod setting; tvOS 27.2 is expected alongside. As of Oct 24 Apple still had not announced the date and had not issued a second iOS release candidate; it did seed a second watchOS 27.2 RC on Oct 23, which 9to5Mac says points to next week's launch.",
    "sources": [
     {
      "name": "9to5Mac (release timing, Pencil)",
@@ -1601,6 +1629,10 @@
     {
      "name": "Cult of Mac (release timing)",
      "url": "https://www.cultofmac.com/news/ios-27-2-release-date-launch"
+    },
+    {
+     "name": "MacRumors (watchOS 27.2 RC 2)",
+     "url": "https://www.macrumors.com/2026/10/23/apple-seeds-watchos-27-2-rc-2/"
     }
    ]
   },
@@ -1618,11 +1650,15 @@
    "status": "Confirmed",
    "price": "",
    "summary": "vivo's Y600 budget phone with a 10,000mAh battery launches in China on Oct 30.",
-   "details": "vivo confirmed the date and the 10,000mAh battery; pre-orders open early the week of Oct 26. It joins the Y600 Pro, Y600 Turbo and Y600i, and vivo says it set a Guinness record for the longest continuous livestream test of a phone (32 hours 37 minutes). A tipster claims a Dimensity 7300e chip, a 50MP main camera and IP68, which vivo has not confirmed.",
+   "details": "vivo confirmed the date and the 10,000mAh battery; pre-orders open Oct 26. A China Telecom listing (model V2607A) shows a 6.83-inch screen, the Dimensity 7300e, 6GB/128GB, 6GB/256GB and 8GB/256GB versions, a 50MP main and 8MP selfie camera, OriginOS 6 on Android 16, 224 g and blue, gold and black colors. It joins the Y600 Pro, Y600 Turbo and Y600i, and vivo says it set a Guinness record for the longest continuous livestream test of a phone (32 hours 37 minutes). Price comes at launch.",
    "sources": [
     {
      "name": "GSMArena",
      "url": "https://www.gsmarena.com/vivo_y600_to_debut_next_week_with_a_10000mah_battery-news-75161.php"
+    },
+    {
+     "name": "GSMArena (China Telecom listing)",
+     "url": "https://www.gsmarena.com/vivo_y600_carrier_listing_reveals_key_specs_ahead_of_launch-news-75186.php"
     }
    ]
   },
@@ -1759,6 +1795,141 @@
     {
      "name": "TechRadar",
      "url": "https://www.techradar.com/pro/lenovos-macbook-neo-rival-has-landed-a-month-early-but-is-it-worth-your-money"
+    }
+   ]
+  },
+  {
+   "id": "kimi-k3-1-pro",
+   "name": "Kimi K3.1 Pro",
+   "brand": "Moonshot AI",
+   "categories": [
+    "ai"
+   ],
+   "type": "AI model",
+   "date": "2026-10-23",
+   "date_label": "Oct 23, 2026 (app and API)",
+   "precision": "day",
+   "status": "Released",
+   "price": "Kimi apps and API",
+   "summary": "Moonshot's upgraded Kimi K3 model is out in its apps and API, with a 2-3x faster Highspeed version and open weights promised by Nov 4.",
+   "details": "Kimi K3.1 Pro is a post-trained version of the roughly 3-trillion-parameter Kimi K3 with a 1-million-token context window. Moonshot's own numbers put it at 65.7% on Terminal-Bench 4.0, ahead of GPT-6 Astra (58.2%) and just behind Claude Opus 5.5 (66.4%); these have not been independently checked. Moonshot says it removed cyberattack-related training data before the open-weight release. It is available on Kimi.ai, Kimi Work, Kimi Code and the Kimi API.",
+   "sources": [
+    {
+     "name": "Kimi blog",
+     "url": "https://www.kimi.ai/blog/kimi-k3-1-pro"
+    },
+    {
+     "name": "Kimi Forum announcement",
+     "url": "https://forum.moonshot.ai/t/kimi-k3-1-pro-has-launched-start-exploring-now/629"
+    },
+    {
+     "name": "The Next Web",
+     "url": "https://thenextweb.com/news/moonshot-kimi-k3-1-pro-open-weight-cyber"
+    }
+   ]
+  },
+  {
+   "id": "kimi-k3-1-pro-weights",
+   "name": "Kimi K3.1 Pro open weights",
+   "brand": "Moonshot AI",
+   "categories": [
+    "ai"
+   ],
+   "type": "AI model",
+   "date": "2026-11-04",
+   "date_label": "By Nov 4, 2026",
+   "precision": "window",
+   "status": "Confirmed",
+   "price": "Free (open weights; license not yet announced)",
+   "summary": "Moonshot says it will publish the full Kimi K3.1 Pro model weights by Nov 4.",
+   "details": "Moonshot released Kimi K3.1 Pro in its apps and API on Oct 23 and committed to releasing the full weights by Nov 4. The license terms have not been announced.",
+   "sources": [
+    {
+     "name": "Kimi blog",
+     "url": "https://www.kimi.ai/blog/kimi-k3-1-pro"
+    },
+    {
+     "name": "The Next Web",
+     "url": "https://thenextweb.com/news/moonshot-kimi-k3-1-pro-open-weight-cyber"
+    }
+   ]
+  },
+  {
+   "id": "iflytek-spark-x2-6",
+   "name": "iFlytek Spark-X2.6 (open-source)",
+   "brand": "iFlytek",
+   "categories": [
+    "ai"
+   ],
+   "type": "AI model",
+   "date": "2026-10-22",
+   "date_label": "Oct 22, 2026",
+   "precision": "day",
+   "status": "Released",
+   "price": "Open source",
+   "summary": "iFlytek released and open-sourced Spark-X2.6, a 293B-parameter mixture-of-experts model trained and served on Chinese chips.",
+   "details": "Announced at iFlytek's 1024 Global Developer Festival in Beijing, Spark-X2.6 has 293B total and 30B active parameters and a 1-million-token context window, and runs on a domestic 10,000-card inference cluster. iFlytek claims coding and agent performance comparable to leading systems, which has not been independently verified.",
+   "sources": [
+    {
+     "name": "People's Daily Online (Global Times)",
+     "url": "https://en.people.cn/n3/2026/1023/c90000-20511624.html"
+    }
+   ]
+  },
+  {
+   "id": "vw-id-unyx-09",
+   "name": "Volkswagen ID. UNYX 09 (China)",
+   "brand": "Volkswagen Anhui",
+   "categories": [
+    "evs"
+   ],
+   "type": "Car",
+   "date": "2026-10-24",
+   "date_label": "Oct 24, 2026 (China)",
+   "precision": "day",
+   "status": "Released",
+   "price": "From 179,900 yuan (169,900 yuan promo, 500 cars)",
+   "summary": "VW's second Xpeng co-developed EV, a large fastback sedan with 5C fast charging and up to 755 km CLTC range, launched in China.",
+   "details": "Volkswagen Anhui lists three trims at 179,900, 219,900 and 249,900 yuan; the entry price is 20,000 yuan below the pre-sale price from Sept 24. A limited Double 11 price of 169,900 yuan applies to 500 black Ultra cars. The car is 5,081 mm long on a 3,030 mm wheelbase, and follows the ID. UNYX 08 SUV as the second model built with Xpeng.",
+   "sources": [
+    {
+     "name": "CnEVPost",
+     "url": "https://cnevpost.com/2026/10/24/vw-anhui-launches-id-unyx-09/"
+    },
+    {
+     "name": "CarNewsChina",
+     "url": "https://carnewschina.com/2026/10/24/volkswagen-launches-id-unyx-09-with-5c-fast-charging-in-china-starting-from-26800-usd/"
+    }
+   ]
+  },
+  {
+   "id": "samsung-galaxy-buds-on",
+   "name": "Samsung Galaxy Buds On (South Korea)",
+   "brand": "Samsung",
+   "categories": [
+    "samsung",
+    "android"
+   ],
+   "type": "Gadget",
+   "date": "2026-10-27",
+   "date_label": "Oct 27, 2026 (South Korea first)",
+   "precision": "day",
+   "status": "Confirmed",
+   "price": "299,000 won (Korea)",
+   "summary": "Samsung's first clip-style open-ear Galaxy Buds go on sale in South Korea on Oct 27, with other markets later.",
+   "details": "Samsung says the Galaxy Buds On rest on the ear without blocking the canal, with Twin Boost speakers, sound-leakage reduction, automatic volume adjustment, three mics plus a bone-conduction sensor for calls, head-gesture control and up to 9.5 hours of playback. Korea gets one black model. Samsung has not set dates for other markets; European retail listings reported by Android Authority hint at the first half of December, which is unconfirmed.",
+   "sources": [
+    {
+     "name": "Samsung Newsroom Korea",
+     "url": "https://news.samsung.com/kr/%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90-%ea%b0%a4%eb%9f%ad%ec%8b%9c-%ec%b5%9c%ec%b4%88-%ed%81%b4%eb%a6%bd%ed%98%95-%eb%ac%b4%ec%84%a0-%ec%9d%b4%ec%96%b4%ed%8f%b0-%ea%b0%a4%eb%9f%ad%ec%8b%9c-%eb%b2%84"
+    },
+    {
+     "name": "Yonhap",
+     "url": "https://en.yna.co.kr/view/AEN20261020004400320"
+    },
+    {
+     "name": "Android Authority (Europe listings)",
+     "url": "https://www.androidauthority.com/galaxy-buds-on-release-details-and-animation-3727460/"
     }
    ]
   }

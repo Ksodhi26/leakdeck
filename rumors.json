@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23",
+ "updated": "2026-10-24",
  "scale": {
   "Confirmed": "Announced by the company or shown in an official source.",
   "Likely": "Multiple credible outlets or hard evidence (certifications, databases, supply chain), but no official word.",
@@ -1175,10 +1175,10 @@
    ],
    "status": "Active",
    "first_reported": "2026-10-22",
-   "updated": "2026-10-22",
+   "updated": "2026-10-24",
    "expected": "Fall 2027 (if it ships)",
    "claim": "Apple's second-generation iPhone Duo, expected next fall, adds Face ID under the outer display, and Apple is also considering an Action button.",
-   "why": "From Bloomberg's Mark Gurman on his Power On podcast, relayed by MacRumors and 9to5Mac. Gurman has a strong Apple record, but he says Apple is only testing Face ID on prototypes and has not decided whether it will ship, so this stays a Rumor. The first iPhone Duo uses Touch ID in the side button.",
+   "why": "From Bloomberg's Mark Gurman on his Power On podcast, relayed by MacRumors and 9to5Mac. Gurman has a strong Apple record, but he says Apple is only testing Face ID on prototypes and has not decided whether it will ship, so this stays a Rumor. The first iPhone Duo uses Touch ID in the side button. Early iPhone Duo reviews criticized the Touch ID placement, which makes Face ID a likely priority, but there is still no second source beyond Gurman.",
    "sources": [
     {
      "name": "MacRumors (citing Bloomberg)",
@@ -1187,6 +1187,10 @@
     {
      "name": "9to5Mac",
      "url": "https://9to5mac.com/2026/10/22/gurman-iphone-duo-2-face-id/"
+    },
+    {
+     "name": "GSMArena",
+     "url": "https://www.gsmarena.com/apple_is_testing_iphone_duo_2_prototype_with_this_key_upgrade-news-75176.php"
     }
    ]
   },
@@ -1292,14 +1296,58 @@
    ],
    "status": "Active",
    "first_reported": "2026-10-21",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "expected": "November 2026 (China, leak)",
-   "claim": "Honor will launch three Honor 700 models in China next month; the 700 Pro has a 6.57-inch 1.5K screen, a 200MP main camera and a 1.72-inch rear display.",
-   "why": "From Weibo tipsters relayed by GSMArena: one says the event is next month and the series has three models; Digital Chat Station has repeated the 200MP camera and rear screen since August. The timing fits Honor's six-month number-series cadence (the 600 launched in May), but Honor has announced nothing.",
+   "claim": "Honor will launch three Honor 700 models in China in November; the 700 Pro has a 6.57-inch 1.5K screen, a 200MP main camera, a 50MP periscope telephoto, a 1.72-inch built-in rear display and a battery of about 9,000mAh.",
+   "why": "From Weibo tipsters relayed by GSMArena: one says the event is next month and the series has three models; Digital Chat Station has repeated the 200MP camera and rear screen since August. The timing fits Honor's six-month number-series cadence (the 600 launched in May), but Honor has announced nothing. On Oct 24 Digital Chat Station added details he says come from an engineering prototype (codename 'Flora'): a roughly 9,000mAh battery, a 50MP periscope on the Pro and four test colors, while calling the November timing tentative. More detail from the same tipster, so it stays a Rumor.",
    "sources": [
     {
      "name": "GSMArena",
      "url": "https://www.gsmarena.com/heres_how_many_honor_700_series_models_are_coming-news-75169.php"
+    },
+    {
+     "name": "Gizmochina (Oct 24 leak)",
+     "url": "https://www.gizmochina.com/2026/10/24/honor-700-series-leak-200mp-camera-rear-screen-9000mah-battery/"
+    }
+   ]
+  },
+  {
+   "id": "vivo-s70-periscope-teleconverter",
+   "title": "vivo S70 launches soon with a 64MP periscope that supports a teleconverter",
+   "rating": "Rumor",
+   "categories": [
+    "android"
+   ],
+   "status": "Active",
+   "first_reported": "2026-10-24",
+   "updated": "2026-10-24",
+   "expected": "Soon (China, leak; no date)",
+   "claim": "vivo's next S-series phone, the S70, has a 64MP Sony LYT610 periscope telephoto with teleconverter support, a 6.59-inch 1.5K LTPS OLED screen and a Snapdragon 8s-series chip.",
+   "why": "From tipster Digital Chat Station on Weibo, relayed by GSMArena; he says it is based on an engineering sample and that vivo tested, then dropped, a rear screen. DCS has a good record on Chinese phones, but this is a single source and vivo has said nothing. The S60 launched in May, so a late-2026 successor fits vivo's cadence.",
+   "sources": [
+    {
+     "name": "GSMArena",
+     "url": "https://www.gsmarena.com/vivo_s70_tipped_to_launch_soon_with_teleconverter_support-news-75195.php"
+    }
+   ]
+  },
+  {
+   "id": "realme-17-pro-10000mah",
+   "title": "Realme 17 Pro series gets a 10,000mAh battery, 200MP camera and 3.5x telephoto",
+   "rating": "Rumor",
+   "categories": [
+    "android"
+   ],
+   "status": "Active",
+   "first_reported": "2026-10-24",
+   "updated": "2026-10-24",
+   "expected": "Unknown (the 16 Pro series launched in January)",
+   "claim": "An upcoming Realme 17 Pro or 17 Pro+ has a flat 1.5K 120Hz OLED (165Hz in some games), the Dimensity 7500, a 200MP main camera, a 50MP 3.5x telephoto, a 10,000mAh battery and a plastic frame.",
+   "why": "From a single tipster on X, relayed by GSMArena, which notes it is unclear whether this is the Pro or the Pro+. Realme has announced nothing; the leak is plausible given rivals' move to 10,000mAh batteries, but unverified.",
+   "sources": [
+    {
+     "name": "GSMArena",
+     "url": "https://www.gsmarena.com/upcoming_realme_17_pro_series_phones_key_specs_leak-news-75192.php"
     }
    ]
   }

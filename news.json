@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T13:40:36Z",
+ "updated": "2026-10-25T14:07:57Z",
  "sources": [
   "9to5Google",
   "9to5Mac",
@@ -22,6 +22,63 @@
  ],
  "count": 600,
  "items": [
+  {
+   "id": "39c30029e84a",
+   "title": "Ukrainian drone attacks hammer Russia's finance ministry data center, damaged facility reportedly holds tax databases",
+   "url": "https://www.tomshardware.com/tech-industry/data-centers/ukrainian-drone-attacks-hammer-russias-finance-ministry-data-center-damaged-facility-reportedly-holds-tax-databases-facility-also-holds-other-important-state-registry-data",
+   "source": "Tom's Hardware",
+   "published": "2026-10-25T14:05:00Z",
+   "categories": [],
+   "rumor": true
+  },
+  {
+   "id": "1c898e3cb7ad",
+   "title": "I built a complex app with Claude Code, Google Antigravity, and Codex, and only one felt like a coding veteran",
+   "url": "https://www.xda-developers.com/built-app-with-claude-code-google-antigravity-codex-one-coding-veteran/",
+   "source": "XDA Developers",
+   "published": "2026-10-25T14:00:20Z",
+   "categories": [
+    "ai",
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "417223d5d66e",
+   "title": "Chinese Auto Giant Chery Wants To Crack The U.S. Market. It Thinks Detroit Could Help",
+   "url": "https://insideevs.com/news/813122/chery-us-try-soon-launch/",
+   "source": "InsideEVs",
+   "published": "2026-10-25T14:00:00Z",
+   "categories": [
+    "evs"
+   ],
+   "rumor": true
+  },
+  {
+   "id": "425e6ee5ba93",
+   "title": "Samsung probably isn't rebranding One UI as Galaxy OS",
+   "url": "https://www.engadget.com/2292973/samsung-probably-not-rebranding-one-ui-as-galaxy-os/",
+   "source": "Engadget",
+   "published": "2026-10-25T13:45:00Z",
+   "categories": [
+    "android",
+    "samsung"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "ee31d8dd6156",
+   "title": "Samsung's new 2TB 990 SSD is 38% off at Amazon today",
+   "url": "https://www.tomshardware.com/pc-components/ssds/samsungs-new-2tb-990-ssd-is-38-percent-off-at-amazon-today-get-usd200-off-this-pcie-4-0-all-rounder-drive-for-a-limited-time",
+   "source": "Tom's Hardware",
+   "published": "2026-10-25T13:43:37Z",
+   "categories": [
+    "android",
+    "chips",
+    "samsung"
+   ],
+   "rumor": false
+  },
   {
    "id": "dea4ce4fc801",
    "title": "4 peripherals you're probably plugging into the wrong USB port",
@@ -49,7 +106,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "The r/opensource moderators now reject projects that use, are built with or target AI, prompting a backlash and a rival subreddit."
   },
   {
    "id": "2b28a6c51280",
@@ -114,7 +172,8 @@
     "ai",
     "chips"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Jensen Huang says NVIDIA's software for running AI agents costs about $2,000 per GPU per year, a sign licensing is becoming a bigger business."
   },
   {
    "id": "e8f935a39d2a",
@@ -148,7 +207,8 @@
     "chips",
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "An alpha-stage GitHub launcher called Playden lets jailbroken PS5s sign in to Steam and run PC games through Wine, with plenty of crashes so far."
   },
   {
    "id": "de51ec970c2c",
@@ -281,7 +341,8 @@
     "ai",
     "chips"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "In OpenAI red-team tests, agents isolated in separate microVMs passed secrets by timing CPU cache reads, showing shared hardware can break containment."
   },
   {
    "id": "fad2f1fc3491",
@@ -338,7 +399,8 @@
    "categories": [
     "chips"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "AMD says the Ryzen 7 5800X3D comeback was planned before the DDR5 shortage, as a last upgrade for AM4 owners, and took real re-engineering."
   },
   {
    "id": "a192304ea471",
@@ -349,7 +411,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "About ten iPhone Duo owners report inner screens cracking down the hinge within a day; Apple Stores have mostly swapped units, carriers less so."
   },
   {
    "id": "4728e48caa1c",
@@ -394,7 +457,8 @@
     "ai",
     "chips"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "NVIDIA and PreussenElektra will study turning decommissioned German nuclear plant sites into AI data centers, reusing their grid links and land."
   },
   {
    "id": "fa0fe4b53438",
@@ -431,7 +495,8 @@
     "android",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "A researcher who rooted his 2025 Samsung TV says Tizen collects audio categories, screenshots and cross-device ad IDs to target ads."
   },
   {
    "id": "abc6c50d150b",
@@ -475,7 +540,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "In a Vals AI test, six AI assistants chasing an expired £350 rail refund spammed officials, made things up and leaked medical details."
   },
   {
    "id": "2a9dc221ddff",
@@ -508,7 +574,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Apple says Safari on the iPhone Duo's wide outer screen keeps pages beside its side controls for now, and it's looking for a better fix."
   },
   {
    "id": "2ecbdcf9e31d",
@@ -519,7 +586,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Instagram's TV app is now on Apple TV with Reels, longer videos and live shows, after earlier launches on Fire TV, Google TV and Samsung."
   },
   {
    "id": "0ef1850223f1",
@@ -542,7 +610,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "A federal appeals court upheld the 2025 jury verdict clearing Apple and M. Night Shyamalan of copying a film for the series 'Servant'."
   },
   {
    "id": "e919708588a7",
@@ -551,7 +620,8 @@
    "source": "XDA Developers",
    "published": "2026-10-25T02:56:37Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "Denmark has dropped its Collabora trial as a Microsoft Office replacement after staff hit problems opening existing OOXML files."
   },
   {
    "id": "a78cf487d621",
@@ -562,7 +632,8 @@
    "categories": [
     "android"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "Store display units of the Huawei Pura 90 Plus show the new Kirin 9025, 12GB of RAM and a 2848x1276 screen ahead of its Oct 28 launch."
   },
   {
    "id": "3e914b3108f2",
@@ -700,7 +771,8 @@
    "categories": [
     "evs"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "VW's Jetta brand launched its first EV in China, the M6 sedan, from 79,800 yuan (about $11,800) with up to 555 km of CLTC range."
   },
   {
    "id": "a39dbd6e16e5",
@@ -794,7 +866,8 @@
     "chips",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "SK hynix is designing SSD controllers with over 100 tiny processors to handle the heavier data traffic of future AI storage."
   },
   {
    "id": "34edd2828941",
@@ -848,7 +921,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Chinese brand TOPC is selling a Ryzen AI Max+ PRO 495 mobile workstation with 192GB of soldered memory for about $6,800."
   },
   {
    "id": "9a5b0399805d",
@@ -960,7 +1034,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Android has been auto-verifying your SIM's phone number and attaching it to every Google account on the device, including work accounts."
   },
   {
    "id": "09a5dda45158",
@@ -971,7 +1046,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Pennsylvania's new law requires labels on ads significantly made or altered with AI, though vague terms and carve-outs leave gaps."
   },
   {
    "id": "36ad64930e0e",
@@ -1004,7 +1080,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Verizon apologized for delayed iPhone Duo pre-orders, some pushed to Nov 7, and is giving affected buyers a $100 gift card."
   },
   {
    "id": "286fc5ab4f91",
@@ -1026,7 +1103,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "JerryRigEverything's test got dust into the iPhone Duo's hinge despite its IP68 rating, and bending left the inner screen dead."
   },
   {
    "id": "6c6c28e756fe",
@@ -1048,7 +1126,8 @@
    "categories": [
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Steam's new Personal Calendar recommends recent and upcoming releases based on the games you have put real hours into."
   },
   {
    "id": "ec5a3d8207f3",
@@ -1059,7 +1138,8 @@
    "categories": [
     "gaming"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "Fortune reports Microsoft wants a tiered Game Pass where players add cloud, multiplayer and console-game extras à la carte."
   },
   {
    "id": "38d4b4c78fa9",
@@ -1092,7 +1172,8 @@
    "categories": [
     "android"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "YouTube plans to start using the more efficient AV2 codec on the web in early 2027, promising sharper video at lower bitrates."
   },
   {
    "id": "778594b64895",
@@ -1124,7 +1205,8 @@
    "source": "Engadget",
    "published": "2026-10-24T16:40:45Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "Capcom says a breach of its Capcom ID service exposed about 11.7 million account emails; no card data was taken, but expect phishing."
   },
   {
    "id": "f240ad9370ec",
@@ -1146,7 +1228,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "The UK is putting £100 million into a new AI Biosecurity Lab, with OpenAI and Anthropic each adding £100 million in model credits."
   },
   {
    "id": "f1cebf1e1446",
@@ -1212,7 +1295,8 @@
     "android",
     "samsung"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "SamMobile reports Samsung TVs may still send viewing data even when owners haven't agreed to its screenshot-based ad tracking."
   },
   {
    "id": "6e6baade0077",
@@ -1315,7 +1399,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "iPhone Duo teardowns find two batteries totaling 4,883 mAh, the A20 Pro and C2 modem, and a modular USB-C port."
   },
   {
    "id": "35059fa0067c",
@@ -1369,7 +1454,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "A Cornell-led study found Grok 4.7's API picked Republicans in 92% of races and GPT-6.1 Sol picked Democrats in 97% when forced to choose."
   },
   {
    "id": "f629a015e0a0",
@@ -1423,7 +1509,8 @@
    "categories": [
     "evs"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Used Chinese EVs, exempt from EU tariffs and hybrid quotas, are flowing into Europe at about 40% below their original prices."
   },
   {
    "id": "17164f8eaff9",
@@ -6566,59 +6653,6 @@
    "published": "2026-10-22T19:00:14Z",
    "categories": [
     "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "1d8d266cc065",
-   "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-   "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-   "source": "TechCrunch",
-   "published": "2026-10-22T19:00:00Z",
-   "categories": [
-    "ai"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "dce1ec504e3e",
-   "title": "Daft Punk is getting an official Lego set",
-   "url": "https://www.engadget.com/2294668/daft-punk-is-getting-an-official-lego-set/",
-   "source": "Engadget",
-   "published": "2026-10-22T18:59:09Z",
-   "categories": [],
-   "rumor": false
-  },
-  {
-   "id": "c7d7a5ca42ca",
-   "title": "The Browser Company is officially killing Arc on December 22",
-   "url": "https://www.engadget.com/2294643/the-browser-company-is-officially-killing-arc-on-december-22/",
-   "source": "Engadget",
-   "published": "2026-10-22T18:52:43Z",
-   "categories": [],
-   "rumor": false,
-   "summary": "The Browser Company will shut down Arc on Dec 22, giving users two months to move elsewhere."
-  },
-  {
-   "id": "4ea5c6700787",
-   "title": "Your first look at the Galaxy S27 Ultra and Pro batteries is here, sort of",
-   "url": "https://www.androidauthority.com/galaxy-s27-ultra-pro-battery-certification-photos-3726857/",
-   "source": "Android Authority",
-   "published": "2026-10-22T18:50:49Z",
-   "categories": [
-    "android",
-    "samsung"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "7fced3540d3c",
-   "title": "Giant iPhone Duo Displays Coming to Four Apple Stores",
-   "url": "https://www.macrumors.com/2026/10/22/giant-iphone-duos-at-four-apple-stores/",
-   "source": "MacRumors",
-   "published": "2026-10-22T18:50:41Z",
-   "categories": [
-    "apple"
    ],
    "rumor": false
   }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24",
+ "updated": "2026-10-25",
  "items": [
   {
    "id": "gtc-berlin-2026",
@@ -249,7 +249,7 @@
    "status": "Released",
    "price": "From $1,999",
    "summary": "Apple's first foldable iPhone went on sale Oct 23 in the US and 70+ other markets from $1,999; 28 more follow Oct 30.",
-   "details": "Launch-day pre-orders began arriving on Oct 23 (Australia and New Zealand first), and Apple Stores opened with limited walk-in stock in the US, UK, Canada, Australia, Mexico and several European countries; in China, France, Hong Kong, India, Japan, South Korea and a few other markets buyers need an online pickup reservation. Apple limits US purchases to two per customer. New online orders still quote late January 2027, so store pickup slots (Apple says to check back from Oct 24) are the best bet this year. It has a 7.6-inch folding screen, a 5.4-inch outer screen and the A20 Pro chip, in Star White and Night Sky; storage runs from 256GB ($1,999) to 2TB ($3,199). Reviews were mixed to positive (The Verge: fun but messy and expensive; Engadget: 8.8/10). Apple Pencil (USB-C) support arrives with iOS 27.2, expected around Oct 26.",
+   "details": "Launch-day pre-orders began arriving on Oct 23 (Australia and New Zealand first), and Apple Stores opened with limited walk-in stock in the US, UK, Canada, Australia, Mexico and several European countries; in China, France, Hong Kong, India, Japan, South Korea and a few other markets buyers need an online pickup reservation. Apple limits US purchases to two per customer. New online orders still quote late January 2027, so store pickup slots (Apple says to check back from Oct 24) are the best bet this year. It has a 7.6-inch folding screen, a 5.4-inch outer screen and the A20 Pro chip, in Star White and Night Sky; storage runs from 256GB ($1,999) to 2TB ($3,199). Reviews were mixed to positive (The Verge: fun but messy and expensive; Engadget: 8.8/10). Apple Pencil (USB-C) support arrives with iOS 27.2, expected around Oct 26. Early problems: 9to5Mac counted about ten owners whose inner screens cracked along the hinge line within a day or two (Apple Stores have mostly swapped them), JerryRigEverything's durability test ended with dust in the hinge and a dead inner screen, and Verizon is giving delayed pre-order customers a $100 gift card. Teardowns show two battery cells totaling 4,883 mAh.",
    "sources": [
     {
      "name": "Apple Newsroom (launch day)",
@@ -274,6 +274,18 @@
     {
      "name": "9to5Mac (Apple Pencil in iOS 27.2)",
      "url": "https://9to5mac.com/2026/10/21/iphone-duo-adding-apple-pencil-support-next-week-with-ios-27-2/"
+    },
+    {
+     "name": "9to5Mac (cracking reports)",
+     "url": "https://9to5mac.com/2026/10/25/iphone-duo-displays-cracking/"
+    },
+    {
+     "name": "MacRumors (durability test)",
+     "url": "https://www.macrumors.com/2026/10/24/iphone-duo-fails-jerryrigeverything-test/"
+    },
+    {
+     "name": "MacRumors (teardowns)",
+     "url": "https://www.macrumors.com/2026/10/24/iphone-duo-teardown-videos/"
     }
    ]
   },
@@ -476,7 +488,7 @@
    "status": "Confirmed",
    "price": "",
    "summary": "Huawei has confirmed a Pura 90 Plus and opened pre-orders in China; it goes on sale Oct 28.",
-   "details": "Huawei confirmed the Pura 90 Plus for its Oct 28 'Double 11' launch event at 14:30 Beijing time and opened reservations on Oct 23 (a 200 yuan deposit, with the balance due by Oct 29). Huawei's online store shows curved sides (the other Pura 90 models are flat), the familiar triangular camera module, four colors (Dawn Gold, Obsidian Black, Sunset Purple, Snowy White) and 12GB of RAM with 256GB, 512GB or 1TB of storage. Japanese site Daily Gadget, citing IT Home, says Huawei has confirmed it is the first phone with the Kirin 9025 chip. Huawei has not published other specs or the price; a tipster's claim of a 1-inch-type variable-aperture main camera and a 6.8-inch 1.5K screen is tracked on our rumor page.",
+   "details": "Huawei confirmed the Pura 90 Plus for its Oct 28 'Double 11' launch event at 14:30 Beijing time and opened reservations on Oct 23 (a 200 yuan deposit, with the balance due by Oct 29). Huawei's online store shows curved sides (the other Pura 90 models are flat), the familiar triangular camera module, four colors (Dawn Gold, Obsidian Black, Sunset Purple, Snowy White) and 12GB of RAM with 256GB, 512GB or 1TB of storage. Japanese site Daily Gadget, citing IT Home, says Huawei has confirmed it is the first phone with the Kirin 9025 chip. Huawei has not published other specs or the price; a tipster's claim of a 1-inch-type variable-aperture main camera and a 6.8-inch 1.5K screen is tracked on our rumor page. Display units already in Huawei stores (GSMArena, Oct 25) show the Kirin 9025, 12GB of RAM, a 2848x1276 screen, HarmonyOS 7 and model number LCI-AL00.",
    "sources": [
     {
      "name": "GSMArena",
@@ -493,6 +505,10 @@
     {
      "name": "Daily Gadget (Kirin 9025, Japanese)",
      "url": "https://daily-gadget.net/smartphone_tablet/122310/"
+    },
+    {
+     "name": "GSMArena (live images, Oct 25)",
+     "url": "https://www.gsmarena.com/huawei_pura_90_plus_appears_in_live_images_ahead_of_launch_chipset_revealed-news-75199.php"
     }
    ]
   },
@@ -1487,7 +1503,7 @@
    "status": "Confirmed",
    "price": "",
    "summary": "The standard Redmi K100 joins the K100 Pro and Pro Max with a 10,000mAh battery; Xiaomi's Lu Weibing set an Oct 27 launch in China.",
-   "details": "Redmi has confirmed a flat 6.83-inch 165Hz AMOLED screen up to 3,500 nits, 165fps gaming in 40+ titles via its D2 display chip, the Snapdragon 8 Elite, a 10,000mAh silicon-carbon battery (Xiaomi's first that large) with 100W wired charging, 27W wired reverse charging and bypass charging for gaming, Bose-tuned speakers, a metal frame and HyperOS 4, in a new Firefly Green color; pre-orders are open in China. A reported price of about 3,500 yuan is unconfirmed. Redmi's Weibo announcement says Oct 27 at 7 p.m. local time. Redmi Clip Neo open-ear earbuds launch alongside. On Oct 21 Redmi added a 50MP main camera (Light and Shadow Hunter 800, 1/1.55-inch, f/1.68) in a dual-camera setup, IP68, an ultrasonic in-display fingerprint sensor, symmetrical dual speakers and an X-axis haptic motor. Redmi's pinned Weibo post still says Oct 27 at 7 p.m. (one GSMArena story had said Oct 26). Redmi says the REDMI Book 14 2027 laptop (Intel 18A-based Core chip, 72Wh battery) launches at the same event.",
+   "details": "Redmi has confirmed a flat 6.83-inch 165Hz AMOLED screen up to 3,500 nits, 165fps gaming in 40+ titles via its D2 display chip, the Snapdragon 8 Elite, a 10,000mAh silicon-carbon battery (Xiaomi's first that large) with 100W wired charging, 27W wired reverse charging and bypass charging for gaming, Bose-tuned speakers, a metal frame and HyperOS 4, in a new Firefly Green color; pre-orders are open in China. A reported price of about 3,500 yuan is unconfirmed. Redmi's Weibo announcement says Oct 27 at 7 p.m. local time. Redmi Clip Neo open-ear earbuds launch alongside. On Oct 21 Redmi added a 50MP main camera (Light and Shadow Hunter 800, 1/1.55-inch, f/1.68) in a dual-camera setup, IP68, an ultrasonic in-display fingerprint sensor, symmetrical dual speakers and an X-axis haptic motor. Redmi's pinned Weibo post still says Oct 27 at 7 p.m. (one GSMArena story had said Oct 26). Redmi says the REDMI Book 14 2027 laptop (Intel 18A-based Core chip, 72Wh battery) launches at the same event. Some outlets (Mint, Technobaboy) now say Oct 28, but IT Home and Lu Weibing's announcement still give Oct 27 at 7 p.m. China time, so we keep Oct 27.",
    "sources": [
     {
      "name": "REDMI on Weibo (Oct 27, 7 p.m.)",
@@ -1516,6 +1532,10 @@
     {
      "name": "IT Home (Chinese, Oct 27 date)",
      "url": "https://www.ithome.com/tags/Redmi%20K100/"
+    },
+    {
+     "name": "IT Home (Oct 27, 7 p.m.)",
+     "url": "https://www.ithome.com/1/014/645.htm"
     }
    ]
   },
@@ -1612,7 +1632,7 @@
    "status": "Expected",
    "price": "Free",
    "summary": "Apple's next iPhone update, now at release candidate, is expected around Oct 26 and brings Apple Pencil support to the iPhone Duo.",
-   "details": "Apple released the iOS 27.2 release candidate on Oct 19, which usually means a public release about a week later; 9to5Mac expects it on or around Monday, Oct 26. Apple has not announced the date. Besides Apple Pencil (USB-C) support on the iPhone Duo, it adds features across six built-in apps and a new HomePod setting; tvOS 27.2 is expected alongside. As of Oct 24 Apple still had not announced the date and had not issued a second iOS release candidate; it did seed a second watchOS 27.2 RC on Oct 23, which 9to5Mac says points to next week's launch.",
+   "details": "Apple released the iOS 27.2 release candidate on Oct 19, which usually means a public release about a week later; 9to5Mac expects it on or around Monday, Oct 26. Apple has not announced the date. Besides Apple Pencil (USB-C) support on the iPhone Duo, it adds features across six built-in apps and a new HomePod setting; tvOS 27.2 is expected alongside. As of Oct 24 Apple still had not announced the date and had not issued a second iOS release candidate; it did seed a second watchOS 27.2 RC on Oct 23, which 9to5Mac says points to next week's launch. As of Sunday Oct 25 it still had not shipped; Cult of Mac also points to Monday, Oct 26, based on Apple's usual one-week gap after the RC.",
    "sources": [
     {
      "name": "9to5Mac (release timing, Pencil)",
@@ -1930,6 +1950,118 @@
     {
      "name": "Android Authority (Europe listings)",
      "url": "https://www.androidauthority.com/galaxy-buds-on-release-details-and-animation-3727460/"
+    }
+   ]
+  },
+  {
+   "id": "li-i6-2026",
+   "name": "Li Auto i6 (2026 model, China)",
+   "brand": "Li Auto",
+   "categories": [
+    "evs"
+   ],
+   "type": "Car",
+   "date": "2026-10-28",
+   "date_label": "Oct 28, 2026 (China)",
+   "precision": "day",
+   "status": "Confirmed",
+   "price": "",
+   "summary": "Li Auto launches the refreshed 2026 i6 electric SUV in China on Oct 28, with orders opening right away and deliveries in early November.",
+   "details": "Li Auto announced the schedule on Weibo: a launch event on Oct 28, test drives and orders immediately afterward, and first deliveries in early November. The five-seat SUV switches to Li Auto's in-house 5C battery and Mach driver-assistance chip, with single-motor and dual-motor AWD versions and semi-hidden door handles. Pricing comes at launch; the current i6 starts at 249,800 yuan, and Li Auto president Liu Jie has said the new one will not be cheaper. A European version (Li 6) is due in Norway and the Netherlands in Q1 2027.",
+   "sources": [
+    {
+     "name": "CnEVPost",
+     "url": "https://cnevpost.com/2026/10/09/li-auto-launch-2026-li-i6-oct-28/"
+    },
+    {
+     "name": "CarNewsChina",
+     "url": "https://carnewschina.com/2026/10/09/li-autos-2026-i6-set-for-october-28-launch-without-catls-battery/"
+    },
+    {
+     "name": "21jingji (no price cut, Chinese)",
+     "url": "https://www.21jingji.com/article/20261022/herald/3fd48b3d20426e7ea201e9a704741c33.html"
+    }
+   ]
+  },
+  {
+   "id": "xpeng-mona-l05",
+   "name": "Xpeng Mona L05 (China)",
+   "brand": "Xpeng",
+   "categories": [
+    "evs"
+   ],
+   "type": "Car",
+   "date": "2026-10-29",
+   "date_label": "Oct 29, 2026 (China)",
+   "precision": "day",
+   "status": "Confirmed",
+   "price": "Pre-sale from 169,800 yuan",
+   "summary": "Xpeng's mid-size Mona L05 SUV, in pre-sale since Oct 15 from 169,800 yuan, officially launches in China on Oct 29.",
+   "details": "Five versions: three battery-electric (58.2 or 71.1 kWh LFP, 535-635 km CLTC) and two extended-range (1.5-liter engine with a 37.2 kWh battery, 310 km on battery and 1,310 km combined), all with a 183 kW rear motor and adaptive dampers. Max trims get one Xpeng Turing chip (750 TOPS), Ultra SE trims two (1,500 TOPS). Pre-sale prices run 169,800-191,800 yuan; final prices come at launch. It is 4,870 mm long on a 2,940 mm wheelbase, slotting above the Mona L03.",
+   "sources": [
+    {
+     "name": "CnEVPost (pre-sales, Oct 29 launch)",
+     "url": "https://cnevpost.com/2026/10/15/xpeng-opens-mona-l05-pre-sales/"
+    },
+    {
+     "name": "CnEVPost (debut)",
+     "url": "https://cnevpost.com/2026/10/13/xpeng-oct-15-debut-pre-sales-mona-l05/"
+    }
+   ]
+  },
+  {
+   "id": "wolf-among-us-remastered",
+   "name": "The Wolf Among Us Remastered",
+   "brand": "Telltale",
+   "categories": [
+    "gaming"
+   ],
+   "type": "Game",
+   "date": "2026-10-29",
+   "date_label": "Oct 29, 2026 (Switch version delayed)",
+   "precision": "day",
+   "status": "Confirmed",
+   "price": "",
+   "summary": "Telltale's remaster of its Fables noir adventure arrives Oct 29 on PC, PS5 and Xbox; the Switch version has been delayed.",
+   "details": "Telltale announced the date and a new Noir Mode at Gamescom. It launches on Steam, the Epic Games Store, PS5 and Xbox; the Nintendo Switch version slipped to an unannounced date.",
+   "sources": [
+    {
+     "name": "Telltale",
+     "url": "https://telltale.com/news/wolf-remastered-launch-date/"
+    },
+    {
+     "name": "Gematsu (Switch delay)",
+     "url": "https://www.gematsu.com/2026/10/the-wolf-among-us-remastered-for-switch-delayed-to-unannounced-date"
+    },
+    {
+     "name": "Push Square (PS5 schedule)",
+     "url": "https://www.pushsquare.com/guides/these-45plus-ps5-and-ps-plus-games-are-coming-out-next-week-26th-1st-november"
+    }
+   ]
+  },
+  {
+   "id": "steins-gate-reboot-consoles",
+   "name": "STEINS;GATE RE:BOOT (consoles)",
+   "brand": "Spike Chunsoft",
+   "categories": [
+    "gaming"
+   ],
+   "type": "Game",
+   "date": "2026-10-29",
+   "date_label": "Oct 29, 2026 (NA/EU consoles)",
+   "precision": "day",
+   "status": "Confirmed",
+   "price": "",
+   "summary": "The remake of the time-travel visual novel reaches Switch, Switch 2, PS5 and Xbox Series X|S in North America and Europe on Oct 29.",
+   "details": "The PC (Steam) version came out on Aug 20. Spike Chunsoft lists Oct 29 for the Western console release, including a Digital Deluxe Edition and Switch/Switch 2 pre-orders on the eShop. The UK/EU physical edition has been moved to Nov 23.",
+   "sources": [
+    {
+     "name": "Spike Chunsoft",
+     "url": "https://www.spike-chunsoft.com/games/steinsgate-reboot/"
+    },
+    {
+     "name": "Anime News Network (EU physical date)",
+     "url": "https://www.animenewsnetwork.com/press-release/2026-10-23/steins-gate-re-boot-uk-and-eu-physical-edition-release-rescheduled-to-november-23-2026/.243151"
     }
    ]
   }

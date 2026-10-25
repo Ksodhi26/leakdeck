@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24",
+ "updated": "2026-10-25",
  "scale": {
   "Confirmed": "Announced by the company or shown in an official source.",
   "Likely": "Multiple credible outlets or hard evidence (certifications, databases, supply chain), but no official word.",
@@ -1203,10 +1203,10 @@
    ],
    "status": "Active",
    "first_reported": "2026-10-22",
-   "updated": "2026-10-23",
+   "updated": "2026-10-25",
    "expected": "Oct 28, 2026 (China, on sale)",
    "claim": "Huawei is preparing a Pura 90 Plus with a 50MP 1-inch-type RYYB variable-aperture main camera in a triple setup, a 6.8-inch 1.5K screen and four colors.",
-   "why": "The phone itself is now official: on Oct 23 Huawei opened Pura 90 Plus pre-orders in China for an Oct 28 sale and showed four colors (matching the tipster's 'four colors') and up to 12GB/1TB. The camera and screen specs still come only from Weibo tipster Digital Chat Station, who has a decent record on Chinese phones, and Huawei has not published them. We will resolve this on Oct 28.",
+   "why": "The phone itself is now official: on Oct 23 Huawei opened Pura 90 Plus pre-orders in China for an Oct 28 sale and showed four colors (matching the tipster's 'four colors') and up to 12GB/1TB. The camera and screen specs still come only from Weibo tipster Digital Chat Station, who has a decent record on Chinese phones, and Huawei has not published them. On Oct 25 live images of store display units showed a 2848x1276 (1.5K-class) screen and the Kirin 9025, matching the tipster's screen claim; the 1-inch variable-aperture camera is still unconfirmed. We will resolve this on Oct 28.",
    "sources": [
     {
      "name": "GSMArena (official pre-orders)",
@@ -1215,6 +1215,10 @@
     {
      "name": "GSMArena",
      "url": "https://www.gsmarena.com/leak_suggests_huawei_pura_90_plus_will_get_a_1inch_type_main_camera_with_variable_aperture-news-75164.php"
+    },
+    {
+     "name": "GSMArena (live images)",
+     "url": "https://www.gsmarena.com/huawei_pura_90_plus_appears_in_live_images_ahead_of_launch_chipset_revealed-news-75199.php"
     }
    ]
   },
@@ -1348,6 +1352,110 @@
     {
      "name": "GSMArena",
      "url": "https://www.gsmarena.com/upcoming_realme_17_pro_series_phones_key_specs_leak-news-75192.php"
+    }
+   ]
+  },
+  {
+   "id": "gpt-6-1-terra",
+   "title": "OpenAI releases a cheaper GPT-6.1 Terra model that beats GPT-6.1 Sol",
+   "rating": "Likely",
+   "categories": [
+    "ai"
+   ],
+   "status": "Active",
+   "first_reported": "2026-10-19",
+   "updated": "2026-10-25",
+   "expected": "Late Oct-Nov 2026 (reported)",
+   "claim": "OpenAI is about to release GPT-6.1 Terra, a new model in its Terra tier that outperforms GPT-6.1 Sol while costing less.",
+   "why": "Two separate signals: a Microsoft pull request switched 18 evaluation configs from GPT-5.6 Terra to GPT-6.1 Terra, and The Information reported a new Terra model is coming. The model's existence is well supported, but the 'better than Sol for less' part comes only from The Information's paywalled report, and its reporter said some launches may slip into November. OpenAI has said nothing.",
+   "sources": [
+    {
+     "name": "TestingCatalog",
+     "url": "https://www.testingcatalog.com/openai-prepares-gpt-6-1-terra-microsoft-code/"
+    },
+    {
+     "name": "LuminaBench",
+     "url": "https://luminabench.com/journal/gpt-6-1-terra-microsoft-pr/"
+    }
+   ]
+  },
+  {
+   "id": "gemini-4-carbon-release",
+   "title": "Google releases Gemini 4 Carbon, the successor to Argon, within weeks",
+   "rating": "Likely",
+   "categories": [
+    "ai"
+   ],
+   "status": "Active",
+   "first_reported": "2026-10-19",
+   "updated": "2026-10-25",
+   "expected": "Late Oct-Nov 2026 (reported)",
+   "claim": "Google's next Gemini 4 checkpoint, Carbon, is in partner early access and will be released publicly soon.",
+   "why": "Business Insider first reported Carbon inside Google's internal coding tool, The Information said it is coming this month, testers report it on LMArena under Google's early access program, and Carbon 'teamfood' model IDs showed up in a Google server archive. That is strong evidence it exists and is close, but Google has not announced it and the date could slip into November. Early testers say it is better than Argon at 3D work but much slower.",
+   "sources": [
+    {
+     "name": "TestingCatalog (early tests)",
+     "url": "https://www.testingcatalog.com/gemini-4-carbon-early-test-results/"
+    },
+    {
+     "name": "The Information",
+     "url": "https://www.theinformation.com/articles/google-nears-release-flagship-gemini-4-ai-model"
+    },
+    {
+     "name": "NPowerUser (teamfood IDs)",
+     "url": "https://nokiapoweruser.com/google-gemini-4-carbon-argon-max-mode-teamfooding-leak/"
+    }
+   ]
+  },
+  {
+   "id": "xbox-game-pass-a-la-carte",
+   "title": "Xbox turns Game Pass into a pick-your-features subscription",
+   "rating": "Rumor",
+   "categories": [
+    "gaming"
+   ],
+   "status": "Active",
+   "first_reported": "2026-10-21",
+   "updated": "2026-10-25",
+   "expected": "Not announced",
+   "claim": "Microsoft will overhaul Game Pass into a tiered base plan with à la carte add-ons for console-only games, cloud gaming and multiplayer.",
+   "why": "Reported by Fortune from people familiar with the plans and relayed by GameSpot, Engadget and others. It fits an April report of a 'pick-your-own' Game Pass and CEO Asha Sharma's public goal of a 'more flexible system', but there is no timing, pricing or official confirmation, and the same Fortune story's other claims (the $1,200-1,800 next Xbox) are tracked separately.",
+   "sources": [
+    {
+     "name": "GameSpot (citing Fortune)",
+     "url": "https://www.gamespot.com/articles/xbox-game-pass-heading-for-a-massive-shakeup-report-says/"
+    },
+    {
+     "name": "Engadget",
+     "url": "https://www.engadget.com/2296222/xbox-game-pass-pick-which-features/"
+    }
+   ]
+  },
+  {
+   "id": "galaxy-fit4",
+   "title": "Samsung readies a Galaxy Fit 4 that looks just like the Fit 3",
+   "rating": "Likely",
+   "categories": [
+    "samsung"
+   ],
+   "status": "Active",
+   "first_reported": "2026-08-01",
+   "updated": "2026-10-25",
+   "expected": "Late 2026 or early 2027 (unconfirmed)",
+   "claim": "Samsung will launch a Galaxy Fit 4 (SM-R391) fitness band with a near-identical design to the Fit 3, in black, white and light blue, at a similar low price.",
+   "why": "Android Authority obtained 360-degree videos of the band in three colors and earlier found Samsung documents naming SM-R391 as 'FIT4'; a Samsung app teardown also showed renders. The hardware is well evidenced, but specs beyond Bluetooth LE and a Goodix optical sensor, the price (the Fit 3 was about $60) and the launch date are unknown; reports range from late 2026 to early 2027.",
+   "sources": [
+    {
+     "name": "Android Authority (exclusive videos)",
+     "url": "https://www.androidauthority.com/samsung-galaxy-fit-4-first-look-3726577/"
+    },
+    {
+     "name": "Notebookcheck (app teardown)",
+     "url": "https://www.notebookcheck.net/Samsung-app-teardown-reveals-Galaxy-Fit4-renders-in-three-colors.1430934.0.html"
+    },
+    {
+     "name": "SamMobile (timing)",
+     "url": "https://www.sammobile.com/news/galaxy-fit-4-launch-date-late-2026/"
     }
    ]
   }

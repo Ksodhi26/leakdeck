@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25",
+ "updated": "2026-10-26",
  "scale": {
   "Confirmed": "Announced by the company or shown in an official source.",
   "Likely": "Multiple credible outlets or hard evidence (certifications, databases, supply chain), but no official word.",
@@ -17,11 +17,19 @@
     "chips"
    ],
    "status": "Active",
-   "updated": "2026-10-20",
+   "updated": "2026-10-26",
    "expected": "Oct 28, 2026 (Apple 'Pro and tell'); on sale Nov 6 (reported)",
    "claim": "At its Oct 28 launch Apple will announce OLED touchscreen 14- and 16-inch MacBook Pros (M5 Pro/Max), an OLED iPad mini, a 14-inch M6 MacBook Pro and an M6 iMac, with sales from Nov 6.",
-   "why": "The date is now official: on Oct 19 Apple's Greg Joswiak posted the invite for a 'Pro and tell' media experience in Los Angeles on Oct 28 at 10 a.m. PT, one day after Bloomberg's 'on or around Oct 27'. The tagline points to the MacBook Pro, but Apple has not named any product, so the line-up remains a Bloomberg report. Supporting evidence: Bloomberg called the Oct 13 launch correctly; an unreleased iPad mini Smart Folio (A3632) appeared on Apple's French regulatory site; and Gurman says Apple Stores plan an overnight reset on Nov 5-6. The chip question has largely settled: Gurman, 9to5Mac and MacRumors now all say the OLED models use the existing M5 Pro/Max, with M6 only in the entry 14-inch MacBook Pro and iMac. We will resolve this on Oct 28.",
+   "why": "The date is now official: on Oct 19 Apple's Greg Joswiak posted the invite for a 'Pro and tell' media experience in Los Angeles on Oct 28 at 10 a.m. PT, one day after Bloomberg's 'on or around Oct 27'. The tagline points to the MacBook Pro, but Apple has not named any product, so the line-up remains a Bloomberg report. Supporting evidence: Bloomberg called the Oct 13 launch correctly; an unreleased iPad mini Smart Folio (A3632) appeared on Apple's French regulatory site; and Gurman says Apple Stores plan an overnight reset on Nov 5-6. The chip question has largely settled: Gurman, 9to5Mac and MacRumors now all say the OLED models use the existing M5 Pro/Max, with M6 only in the entry 14-inch MacBook Pro and iMac. Update Oct 26: part of the claim is already confirmed. Apple announced the OLED iPad mini (8.5-inch, A20 Pro) by press release, with pre-orders Oct 28 and availability Nov 6, matching the reported Nov 6 sales date. Greg Joswiak then teased an 'exciting week', and Gurman's Oct 25 newsletter repeats that the touchscreen MacBook Pros come Wednesday. The MacBook Pro and iMac parts are still unannounced. We will resolve this on Oct 28.",
    "sources": [
+    {
+     "name": "Apple Newsroom (iPad mini)",
+     "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/"
+    },
+    {
+     "name": "MacRumors (Gurman, Oct 25)",
+     "url": "https://www.macrumors.com/2026/10/25/macbook-pro-with-touchscreen-on-wednesday/"
+    },
     {
      "name": "9to5Mac (event announced)",
      "url": "https://9to5mac.com/2026/10/19/apple-announces-special-event-for-october-28/"
@@ -799,16 +807,20 @@
   {
    "id": "oneplus-ace-7-200mp",
    "title": "OnePlus Ace 7 and Ace 7 Pro both get 200MP main cameras",
-   "rating": "Rumor",
+   "rating": "Likely",
    "categories": [
     "android"
    ],
    "status": "Active",
-   "updated": "2026-10-22",
+   "updated": "2026-10-26",
    "expected": "Oct 29, 2026 (launch date confirmed)",
    "claim": "Both OnePlus Ace 7 models will use a 200MP main camera, and the Pro adds a 50MP 3.5x periscope.",
-   "why": "From Weibo tipster Digital Chat Station, relayed by GSMArena. OnePlus has now set the launch for Oct 29 and confirmed the chips (Snapdragon 8 Elite Gen 5 'V series' for the Ace 7, standard 8 Elite Gen 5 for the Pro) and the cooling fan, but it still has not confirmed camera specs. We will resolve this at launch.",
+   "why": "From Weibo tipster Digital Chat Station, relayed by GSMArena. OnePlus has now set the launch for Oct 29 and confirmed the chips (Snapdragon 8 Elite Gen 5 'V series' for the Ace 7, standard 8 Elite Gen 5 for the Pro) and the cooling fan, and on Oct 26 it confirmed the Pro half of the claim: a 200MP main camera plus a 3.5x periscope telephoto on the Ace 7 Pro (it did not state the periscope's resolution). The standard Ace 7's camera is still unconfirmed. We will resolve this at launch.",
    "sources": [
+    {
+     "name": "GSMArena (Ace 7 Pro cameras official)",
+     "url": "https://www.gsmarena.com/oneplus_ace_7_pro_camera_specs_and_samples_revealed_ahead_of_launch-news-75208.php"
+    },
     {
      "name": "GSMArena (Oct 29 date)",
      "url": "https://www.gsmarena.com/heres_when_the_oneplus_ace_7_series_is_launching-news-75160.php"
@@ -1456,6 +1468,48 @@
     {
      "name": "SamMobile (timing)",
      "url": "https://www.sammobile.com/news/galaxy-fit-4-launch-date-late-2026/"
+    }
+   ]
+  },
+  {
+   "id": "exynos-2700-beats-snapdragon",
+   "title": "Samsung's Exynos 2700 beats Snapdragon 8 Elite Gen 6 phones in internal tests",
+   "rating": "Rumor",
+   "categories": [
+    "samsung",
+    "chips"
+   ],
+   "status": "Active",
+   "first_reported": "2026-10-26",
+   "updated": "2026-10-26",
+   "expected": "Galaxy S27 launch, early 2027",
+   "claim": "In Samsung's internal tests the Exynos 2700 for the Galaxy S27 beat the Xiaomi 18 Pro Max (Snapdragon 8 Elite Extreme Gen 6) by about 20% in Geekbench 6.5 multi-core and posted 5-20% higher GPU results.",
+   "why": "A single report from Korea's Chosun Biz, relayed by Android Authority. It covers only multi-core CPU and unnamed peak GPU tests against one Xiaomi phone, with nothing on single-core speed, sustained performance, heat or battery life, and the numbers come from Samsung's own testing. A 10-core Exynos winning multi-core against an 8-core chip is plausible, but the headline 'beats Snapdragon' needs independent benchmarks.",
+   "sources": [
+    {
+     "name": "Android Authority (citing Chosun Biz)",
+     "url": "https://www.androidauthority.com/samsung-galaxy-s27-exynos-snapdragon-benchmark-comparison-leak-3727752/"
+    }
+   ]
+  },
+  {
+   "id": "samsung-galaxy-a-production-cut",
+   "title": "Samsung cuts Galaxy A phone production by about 20% to protect flagships",
+   "rating": "Rumor",
+   "categories": [
+    "samsung",
+    "android"
+   ],
+   "status": "Active",
+   "first_reported": "2026-10-26",
+   "updated": "2026-10-26",
+   "expected": "Q4 2026, with further cuts in 2027",
+   "claim": "Samsung has cut fourth-quarter Galaxy A component orders by about 20% versus its plan, about 10 million phones a year, and plans to cut Galaxy A output by more than 10% again in 2027, shifting resources to flagships as memory costs soar.",
+   "why": "Reported by Korea's ETNews and relayed by 9to5Google; Samsung has not commented. It fits the wider memory-price squeeze: ETNews says memory and chips now make up about half of a mid-range phone's cost and that Samsung's mobile division is losing money this year. But it rests on one outlet's supply-chain sourcing, and production plans are hard to verify from outside.",
+   "sources": [
+    {
+     "name": "9to5Google (citing ETNews)",
+     "url": "https://9to5google.com/2026/10/26/samsung-report-production-cuts-mid-range-galaxy-phones/"
     }
    ]
   }

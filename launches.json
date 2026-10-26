@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25",
+ "updated": "2026-10-26",
  "items": [
   {
    "id": "gtc-berlin-2026",
@@ -359,7 +359,7 @@
   },
   {
    "id": "apple-oled-macbook-pro-oct-28",
-   "name": "Apple 'Pro and tell' launch: OLED touchscreen MacBook Pro, OLED iPad mini, M6 MacBook Pro and iMac (expected)",
+   "name": "Apple 'Pro and tell' launch: OLED touchscreen MacBook Pro, M6 MacBook Pro and iMac (expected)",
    "brand": "Apple",
    "categories": [
     "apple",
@@ -371,9 +371,17 @@
    "precision": "day",
    "status": "Confirmed",
    "price": "",
-   "summary": "Apple has confirmed a 'Pro and tell' launch on Oct 28; Bloomberg expects OLED touchscreen MacBook Pros, an OLED iPad mini and M6 Macs, with sales from Nov 6.",
-   "details": "Apple's Greg Joswiak posted the invite on Oct 19: a media experience in Los Angeles on Wednesday, Oct 28 at 10 a.m. PT, like the Oct 13 'Welcome home' launch, so expect press releases rather than a keynote. Apple has not named the products. Per Mark Gurman: 14- and 16-inch OLED touchscreen MacBook Pros with a Dynamic Island, 'significantly lighter' but not much thinner, using the existing M5 Pro and M5 Max (no M6 Pro/Max); an M6 14-inch MacBook Pro and M6 iMac with unchanged designs; and an OLED iPad mini. Pre-orders could open Oct 28, and Gurman says Apple Stores plan an overnight reset on Nov 5-6, pointing to a Nov 6 release.",
+   "summary": "Apple's 'Pro and tell' launch is Oct 28; the OLED iPad mini already came on Oct 26, and Bloomberg expects OLED touchscreen MacBook Pros and M6 Macs, with sales from Nov 6.",
+   "details": "Apple's Greg Joswiak posted the invite on Oct 19: a media experience in Los Angeles on Wednesday, Oct 28 at 10 a.m. PT, like the Oct 13 'Welcome home' launch, so expect press releases rather than a keynote. Apple has not named the products. Per Mark Gurman: 14- and 16-inch OLED touchscreen MacBook Pros with a Dynamic Island, 'significantly lighter' but not much thinner, using the existing M5 Pro and M5 Max (no M6 Pro/Max); an M6 14-inch MacBook Pro and M6 iMac with unchanged designs; and an OLED iPad mini. Pre-orders could open Oct 28, and Gurman says Apple Stores plan an overnight reset on Nov 5-6, pointing to a Nov 6 release. Update Oct 26: Apple announced the OLED iPad mini by press release two days early (see its own entry), and marketing chief Greg Joswiak teased an 'exciting week' ahead. In his Oct 25 newsletter Gurman reiterated that the touchscreen 14- and 16-inch MacBook Pros arrive Wednesday, may cost up to $500 more than today's mini-LED models, and that macOS Golden Gate adapts its controls to touch; the mini-LED models stay on sale for now.",
    "sources": [
+    {
+     "name": "MacRumors (Joswiak teases 'exciting week')",
+     "url": "https://www.macrumors.com/2026/10/26/apple-teases-exciting-week-ahead/"
+    },
+    {
+     "name": "MacRumors (Gurman, Oct 25)",
+     "url": "https://www.macrumors.com/2026/10/25/macbook-pro-with-touchscreen-on-wednesday/"
+    },
     {
      "name": "9to5Mac (event announced)",
      "url": "https://9to5mac.com/2026/10/19/apple-announces-special-event-for-october-28/"
@@ -690,8 +698,12 @@
    "status": "Confirmed",
    "price": "",
    "summary": "OnePlus has set Oct 29 for the China launch of its fan-cooled Ace 7 and Ace 7 Pro; pre-orders are open.",
-   "details": "OnePlus confirmed the Oct 29 date and the chips on Oct 22: the Ace 7 uses a Snapdragon 8 Elite Gen 5 'V series' variant and the Ace 7 Pro the standard Snapdragon 8 Elite Gen 5. Both get OnePlus's Wind-Chaser gaming engine and a built-in cooling fan with two airflow paths, one aimed at the chip and one across the back panel. Pre-orders are open on OPPO's online store in China. Leaked specs (a 9,000mAh battery, a 6.78-inch 185Hz screen, 200MP main cameras) are not confirmed; see the rumor tracker. Prices have not been announced.",
+   "details": "OnePlus confirmed the Oct 29 date and the chips on Oct 22: the Ace 7 uses a Snapdragon 8 Elite Gen 5 'V series' variant and the Ace 7 Pro the standard Snapdragon 8 Elite Gen 5. Both get OnePlus's Wind-Chaser gaming engine and a built-in cooling fan with two airflow paths, one aimed at the chip and one across the back panel. Pre-orders are open on OPPO's online store in China. On Oct 26 OnePlus confirmed a 200MP main camera and a 3.5x periscope telephoto on the Ace 7 Pro and BOE displays on both. Other leaked specs (a 9,000mAh battery, a 6.78-inch 185Hz screen, a 200MP camera on the standard Ace 7) are not confirmed; see the rumor tracker. Prices have not been announced.",
    "sources": [
+    {
+     "name": "GSMArena (Ace 7 Pro cameras)",
+     "url": "https://www.gsmarena.com/oneplus_ace_7_pro_camera_specs_and_samples_revealed_ahead_of_launch-news-75208.php"
+    },
     {
      "name": "GSMArena (launch date, chips)",
      "url": "https://www.gsmarena.com/heres_when_the_oneplus_ace_7_series_is_launching-news-75160.php"
@@ -1632,7 +1644,7 @@
    "status": "Expected",
    "price": "Free",
    "summary": "Apple's next iPhone update, now at release candidate, is expected around Oct 26 and brings Apple Pencil support to the iPhone Duo.",
-   "details": "Apple released the iOS 27.2 release candidate on Oct 19, which usually means a public release about a week later; 9to5Mac expects it on or around Monday, Oct 26. Apple has not announced the date. Besides Apple Pencil (USB-C) support on the iPhone Duo, it adds features across six built-in apps and a new HomePod setting; tvOS 27.2 is expected alongside. As of Oct 24 Apple still had not announced the date and had not issued a second iOS release candidate; it did seed a second watchOS 27.2 RC on Oct 23, which 9to5Mac says points to next week's launch. As of Sunday Oct 25 it still had not shipped; Cult of Mac also points to Monday, Oct 26, based on Apple's usual one-week gap after the RC.",
+   "details": "Apple released the iOS 27.2 release candidate on Oct 19, which usually means a public release about a week later; 9to5Mac expects it on or around Monday, Oct 26. Apple has not announced the date. Besides Apple Pencil (USB-C) support on the iPhone Duo, it adds features across six built-in apps and a new HomePod setting; tvOS 27.2 is expected alongside. As of Oct 24 Apple still had not announced the date and had not issued a second iOS release candidate; it did seed a second watchOS 27.2 RC on Oct 23, which 9to5Mac says points to next week's launch. As of Sunday Oct 25 it still had not shipped; Cult of Mac also points to Monday, Oct 26, based on Apple's usual one-week gap after the RC. As of mid-morning Oct 26 (about 14:30 UTC) it still had not shipped; Apple usually posts updates around 10 a.m. PT. Apple's Oct 26 iPad mini press release refers to iPadOS 27.2 features, which fits an imminent release.",
    "sources": [
     {
      "name": "9to5Mac (release timing, Pencil)",
@@ -1653,6 +1665,10 @@
     {
      "name": "MacRumors (watchOS 27.2 RC 2)",
      "url": "https://www.macrumors.com/2026/10/23/apple-seeds-watchos-27-2-rc-2/"
+    },
+    {
+     "name": "Apple Newsroom (iPad mini, mentions iPadOS 27.2)",
+     "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/"
     }
    ]
   },
@@ -1690,14 +1706,22 @@
     "evs"
    ],
    "type": "Car",
-   "date": "2026-10-26",
-   "date_label": "Pre-sales Oct 26, 2026; market launch in Nov (China)",
-   "precision": "day",
+   "date": "2026-11-01",
+   "date_label": "November 2026 (China launch); reservations opened Oct 26",
+   "precision": "window",
    "status": "Confirmed",
    "price": "",
-   "summary": "BYD's Denza opens pre-sales for the all-electric five-seat N8 SUV on Oct 26, with the official launch following in November.",
-   "details": "Denza general manager Li Hui announced the timeline on Weibo on Oct 22: reservations open Oct 26 and the car officially goes on sale in November, with no launch day, prices or delivery plans yet. MIIT filings show single-motor RWD versions (320 or 370 kW) and a tri-motor AWD version with 890 kW combined; it is 5,150 mm long on a 3,075 mm wheelbase, 50 mm shorter than the six-seat N8L. Denza says it uses BYD's second-generation Blade battery with Flash Charging, and Electrek cites up to 1,003 km of CLTC range. Earlier reports had treated Oct 26 as the launch itself.",
+   "summary": "BYD's Denza opened reservations for the all-electric five-seat N8 SUV on Oct 26; the official launch and pricing follow in November.",
+   "details": "Denza general manager Li Hui announced the timeline on Weibo on Oct 22: reservations open Oct 26 and the car officially goes on sale in November, with no launch day, prices or delivery plans yet. MIIT filings show single-motor RWD versions (320 or 370 kW) and a tri-motor AWD version with 890 kW combined; it is 5,150 mm long on a 3,075 mm wheelbase, 50 mm shorter than the six-seat N8L. Denza says it uses BYD's second-generation Blade battery with Flash Charging, and Electrek cites up to 1,003 km of CLTC range. Reservations opened on schedule on Oct 26: a 2,000-yuan deposit earns a 5,000-yuan option credit, but Denza has still not given a pre-sale price. For reference, the six-seat N8L starts at 299,800 yuan. Earlier reports had treated Oct 26 as the launch itself.",
    "sources": [
+    {
+     "name": "CnEVPost (reservations open)",
+     "url": "https://cnevpost.com/2026/10/26/byd-denza-opens-reservations-revamped-n8/"
+    },
+    {
+     "name": "CarNewsChina (pre-orders open)",
+     "url": "https://carnewschina.com/2026/10/26/byds-new-denza-n8-ev-pre-orders-open-in-china-1003-km-cltc-range-1193-hp-and-flash-charging/"
+    },
     {
      "name": "CnEVPost (pre-sales Oct 26)",
      "url": "https://cnevpost.com/2026/10/22/byd-denza-pre-sales-refreshed-n8-oct-26/"
@@ -1997,8 +2021,12 @@
    "status": "Confirmed",
    "price": "Pre-sale from 169,800 yuan",
    "summary": "Xpeng's mid-size Mona L05 SUV, in pre-sale since Oct 15 from 169,800 yuan, officially launches in China on Oct 29.",
-   "details": "Five versions: three battery-electric (58.2 or 71.1 kWh LFP, 535-635 km CLTC) and two extended-range (1.5-liter engine with a 37.2 kWh battery, 310 km on battery and 1,310 km combined), all with a 183 kW rear motor and adaptive dampers. Max trims get one Xpeng Turing chip (750 TOPS), Ultra SE trims two (1,500 TOPS). Pre-sale prices run 169,800-191,800 yuan; final prices come at launch. It is 4,870 mm long on a 2,940 mm wheelbase, slotting above the Mona L03.",
+   "details": "Five versions: three battery-electric (58.2 or 71.1 kWh LFP, 535-635 km CLTC) and two extended-range (1.5-liter engine with a 37.2 kWh battery, 310 km on battery and 1,310 km combined), all with a 183 kW rear motor and adaptive dampers. Max trims get one Xpeng Turing chip (750 TOPS), Ultra SE trims two (1,500 TOPS). Pre-sale prices run 169,800-191,800 yuan; final prices come at launch. It is 4,870 mm long on a 2,940 mm wheelbase, slotting above the Mona L03. On Oct 26 Xpeng said global shipments have started ahead of the China launch, targeting 65 countries and regions; it gave no volumes, destinations or overseas delivery dates.",
    "sources": [
+    {
+     "name": "CnEVPost (global shipments)",
+     "url": "https://cnevpost.com/2026/10/26/xpeng-starts-global-shipments-mona-l05/"
+    },
     {
      "name": "CnEVPost (pre-sales, Oct 29 launch)",
      "url": "https://cnevpost.com/2026/10/15/xpeng-opens-mona-l05-pre-sales/"
@@ -2062,6 +2090,85 @@
     {
      "name": "Anime News Network (EU physical date)",
      "url": "https://www.animenewsnetwork.com/press-release/2026-10-23/steins-gate-re-boot-uk-and-eu-physical-edition-release-rescheduled-to-november-23-2026/.243151"
+    }
+   ]
+  },
+  {
+   "id": "ipad-mini-oled-a20-pro",
+   "name": "iPad mini (A20 Pro, OLED)",
+   "brand": "Apple",
+   "categories": [
+    "apple"
+   ],
+   "type": "Tablet",
+   "date": "2026-11-06",
+   "date_label": "Nov 6, 2026 (pre-orders Oct 28)",
+   "precision": "day",
+   "status": "Confirmed",
+   "price": "From $699 (Wi-Fi), $849 (Wi-Fi + Cellular)",
+   "summary": "Apple's first OLED iPad mini, announced Oct 26 with an 8.5-inch screen, A20 Pro and IP67 water resistance, opens for pre-order Oct 28 and ships Nov 6.",
+   "details": "Apple calls it the iPad mini's biggest update: an 8.5-inch OLED display (up to 1,200 nits peak, optional nano-texture on 256GB and 512GB models for $100 more), a 5.4 mm body with 24% thinner bezels, the 2nm A20 Pro, IP67 water and dust resistance (a first for an iPad), an 'Acoustic Display' speaker system, a landscape 12MP Center Stage front camera, Apple's N1 chip (Wi-Fi 7, Bluetooth 6) and C2 modem on cellular models. The 512GB model gets a 6-core CPU and a dual 16-core Neural Engine; 128GB and 256GB models get a 5-core CPU. There is still no ProMotion. Colors are midnight and starlight. The $699 start is $100 above the previous model. Pre-orders open Oct 28 at 10:10 a.m. PT in 36 countries and regions.",
+   "sources": [
+    {
+     "name": "Apple Newsroom",
+     "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/"
+    },
+    {
+     "name": "MacRumors (pre-orders and release date)",
+     "url": "https://www.macrumors.com/2026/10/26/oled-ipad-mini-pre-orders-launch-date/"
+    },
+    {
+     "name": "MacRumors (512GB chip differences)",
+     "url": "https://www.macrumors.com/2026/10/26/512gb-oled-ipad-mini-extra-cpu-core/"
+    }
+   ]
+  },
+  {
+   "id": "poco-x8s",
+   "name": "Poco X8s (global)",
+   "brand": "Poco",
+   "categories": [
+    "android"
+   ],
+   "type": "Phone",
+   "date": "2026-10-26",
+   "date_label": "Oct 26, 2026 (global)",
+   "precision": "day",
+   "status": "Released",
+   "price": "Early-bird $399 (8GB/256GB), $499 (12GB/512GB)",
+   "summary": "Poco's compact X8s, with a 6.35-inch LTPO OLED screen and Snapdragon 7 Gen 4, launched globally on Oct 26.",
+   "details": "The 1.5K 120Hz panel reaches 3,500 nits. Cameras are a 50MP main, a 50MP telephoto and an 8MP ultrawide, plus a 20MP selfie camera. It has a 6,330mAh battery with 100W charging, an ultrasonic fingerprint sensor, IP68 and Android 16-based HyperOS 3, in blue, black and white. Prices quoted are early-bird offers.",
+   "sources": [
+    {
+     "name": "GSMArena",
+     "url": "https://www.gsmarena.com/poco_x8s_debuts_with_a_635inch_oled_display_snapdragon_7_gen_4_chipset-news-75204.php"
+    }
+   ]
+  },
+  {
+   "id": "infinix-gt-50-pro-india",
+   "name": "Infinix GT 50 Pro (India)",
+   "brand": "Infinix",
+   "categories": [
+    "android",
+    "gaming"
+   ],
+   "type": "Phone",
+   "date": "2026-10-27",
+   "date_label": "Oct 27, 2026 (India, Flipkart)",
+   "precision": "day",
+   "status": "Confirmed",
+   "price": "",
+   "summary": "Infinix's liquid-cooled gaming phone with the Dimensity 8400 Ultimate launches in India on Oct 27 via Flipkart.",
+   "details": "Infinix has confirmed a 6.78-inch 1.5K 144Hz AMOLED screen (up to 4,500 nits), the Dimensity 8400 Ultimate with LPDDR5X and UFS 4.1, a HydroFlow liquid-cooling system with a micro-pump, pressure-sensitive shoulder triggers and a 6,500mAh battery with 45W wired and 30W wireless charging. A GT MagCharge Cooler 2.0 accessory comes in the box in India. The phone first launched in some markets in April; India pricing is not out yet.",
+   "sources": [
+    {
+     "name": "NDTV Profit",
+     "url": "https://www.ndtvprofit.com/technology/infinix-gt-50-pro-india-launch-on-october-27-key-specifications-revealed-12179336"
+    },
+    {
+     "name": "Beebom (week's launches)",
+     "url": "https://gadgets.beebom.com/news/all-upcoming-phones-launching-this-week-october-26-november-1"
     }
    ]
   }

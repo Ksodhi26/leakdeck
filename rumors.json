@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26",
+ "updated": "2026-10-27",
  "scale": {
   "Confirmed": "Announced by the company or shown in an official source.",
   "Likely": "Multiple credible outlets or hard evidence (certifications, databases, supply chain), but no official word.",
@@ -17,11 +17,19 @@
     "chips"
    ],
    "status": "Active",
-   "updated": "2026-10-26",
+   "updated": "2026-10-27",
    "expected": "Oct 28, 2026 (Apple 'Pro and tell'); on sale Nov 6 (reported)",
    "claim": "At its Oct 28 launch Apple will announce OLED touchscreen 14- and 16-inch MacBook Pros (M5 Pro/Max), an OLED iPad mini, a 14-inch M6 MacBook Pro and an M6 iMac, with sales from Nov 6.",
-   "why": "The date is now official: on Oct 19 Apple's Greg Joswiak posted the invite for a 'Pro and tell' media experience in Los Angeles on Oct 28 at 10 a.m. PT, one day after Bloomberg's 'on or around Oct 27'. The tagline points to the MacBook Pro, but Apple has not named any product, so the line-up remains a Bloomberg report. Supporting evidence: Bloomberg called the Oct 13 launch correctly; an unreleased iPad mini Smart Folio (A3632) appeared on Apple's French regulatory site; and Gurman says Apple Stores plan an overnight reset on Nov 5-6. The chip question has largely settled: Gurman, 9to5Mac and MacRumors now all say the OLED models use the existing M5 Pro/Max, with M6 only in the entry 14-inch MacBook Pro and iMac. Update Oct 26: part of the claim is already confirmed. Apple announced the OLED iPad mini (8.5-inch, A20 Pro) by press release, with pre-orders Oct 28 and availability Nov 6, matching the reported Nov 6 sales date. Greg Joswiak then teased an 'exciting week', and Gurman's Oct 25 newsletter repeats that the touchscreen MacBook Pros come Wednesday. The MacBook Pro and iMac parts are still unannounced. We will resolve this on Oct 28.",
+   "why": "The date is now official: on Oct 19 Apple's Greg Joswiak posted the invite for a 'Pro and tell' media experience in Los Angeles on Oct 28 at 10 a.m. PT, one day after Bloomberg's 'on or around Oct 27'. The tagline points to the MacBook Pro, but Apple has not named any product, so the line-up remains a Bloomberg report. Supporting evidence: Bloomberg called the Oct 13 launch correctly; an unreleased iPad mini Smart Folio (A3632) appeared on Apple's French regulatory site; and Gurman says Apple Stores plan an overnight reset on Nov 5-6. The chip question has largely settled: Gurman, 9to5Mac and MacRumors now all say the OLED models use the existing M5 Pro/Max, with M6 only in the entry 14-inch MacBook Pro and iMac. Update Oct 26: part of the claim is already confirmed. Apple announced the OLED iPad mini (8.5-inch, A20 Pro) by press release, with pre-orders Oct 28 and availability Nov 6, matching the reported Nov 6 sales date. Greg Joswiak then teased an 'exciting week', and Gurman's Oct 25 newsletter repeats that the touchscreen MacBook Pros come Wednesday. The MacBook Pro and iMac parts are still unannounced. We will resolve this on Oct 28. Update Oct 27: more of the claim is now confirmed, a day early. Apple announced the 14-inch MacBook Pro with M6 ($1,999) and the iMac with M6 ($1,499) by press release, both with pre-orders Oct 28 and availability Nov 6, matching Gurman's line-up and the Nov 6 sales date. Only the OLED touchscreen 14- and 16-inch MacBook Pros remain unannounced; Gurman still expects them Wednesday. We keep this at Likely and will resolve it on Oct 28.",
    "sources": [
+    {
+     "name": "Apple Newsroom (14-inch MacBook Pro with M6)",
+     "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/"
+    },
+    {
+     "name": "Apple Newsroom (iMac with M6)",
+     "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/"
+    },
     {
      "name": "Apple Newsroom (iPad mini)",
      "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/"
@@ -1072,17 +1080,21 @@
   {
    "id": "xiaomi-18-pro-europe-prices",
    "title": "Xiaomi 18 Pro and Pro Max cost EUR 1,449-1,849 in Europe with smaller batteries",
-   "rating": "Rumor",
+   "rating": "Likely",
    "categories": [
     "android"
    ],
    "status": "Active",
    "first_reported": "2026-10-19",
-   "updated": "2026-10-20",
+   "updated": "2026-10-27",
    "expected": "European launch soon (date not announced)",
    "claim": "The European Xiaomi 18 Pro will cost EUR 1,449 (256GB) or EUR 1,649 (512GB) with a 6,000mAh-rated battery and 90W charging, and the 18 Pro Max EUR 1,849 (512GB) with a 7,050mAh-rated battery and 100W, both smaller than the Chinese versions' 7,000mAh and 8,500mAh.",
-   "why": "Prices come from a single unnamed report relayed by GSMArena. The battery figures are more solid: Xiaomi's EU energy labels are already published, which also means a European launch is close. Xiaomi has not confirmed prices or a date.",
+   "why": "Prices first came from a single unnamed report relayed by GSMArena, and the battery figures matched Xiaomi's published EU energy labels. Update Oct 26: Italian retailer Epto listed both phones with the same smaller batteries (6,000mAh/90W on the Pro, 7,050mAh/100W on the Pro Max) and prices close to the leak: EUR 1,398.90 and 1,591.90 for the 18 Pro (256GB/512GB) and EUR 1,783.90 for the 18 Pro Max, about EUR 50-65 under the leaked figures. Epto's prices are often slightly off the official ones, so we move this to Likely: the batteries look settled, the price range is roughly right, but the exact euro figures and launch date still await Xiaomi.",
    "sources": [
+    {
+     "name": "GSMArena (Epto retailer listing)",
+     "url": "https://www.gsmarena.com/xiaomi_18_pro_and_18_pro_max_get_listed_by_european_retailer_before_their_global_launch-news-75215.php"
+    },
     {
      "name": "GSMArena",
      "url": "https://www.gsmarena.com/xiaomi_18_pro_and_xiaomi_18_pro_max_european_prices_and_battery_capacities_leak-news-75114.php"
@@ -1370,17 +1382,25 @@
   {
    "id": "gpt-6-1-terra",
    "title": "OpenAI releases a cheaper GPT-6.1 Terra model that beats GPT-6.1 Sol",
-   "rating": "Likely",
+   "rating": "Confirmed",
    "categories": [
     "ai"
    ],
-   "status": "Active",
+   "status": "Resolved",
    "first_reported": "2026-10-19",
-   "updated": "2026-10-25",
-   "expected": "Late Oct-Nov 2026 (reported)",
+   "updated": "2026-10-27",
+   "expected": "Oct 26, 2026 (released)",
    "claim": "OpenAI is about to release GPT-6.1 Terra, a new model in its Terra tier that outperforms GPT-6.1 Sol while costing less.",
-   "why": "Two separate signals: a Microsoft pull request switched 18 evaluation configs from GPT-5.6 Terra to GPT-6.1 Terra, and The Information reported a new Terra model is coming. The model's existence is well supported, but the 'better than Sol for less' part comes only from The Information's paywalled report, and its reporter said some launches may slip into November. OpenAI has said nothing.",
+   "why": "Two separate signals: a Microsoft pull request switched 18 evaluation configs from GPT-5.6 Terra to GPT-6.1 Terra, and The Information reported a new Terra model is coming. The model's existence is well supported, but the 'better than Sol for less' part comes only from The Information's paywalled report, and its reporter said some launches may slip into November. OpenAI has said nothing. Update Oct 26-27: OpenAI announced GPT-6.1 Terra on Oct 26. It is available to Plus, Pro, Enterprise and Edu users and in the API as gpt-6.1-terra at $1 per million input and $5 per million output tokens, 50% below GPT-6.1 Sol. OpenAI pitches it on computer use, saying it is over three times faster than Sol and GPT-6 Astra on its task benchmark, nearly matches them on MMMU-Pro and surpasses Sol on Terminal-Bench-Science, but recommends Sol or Astra for the most complex coding.",
    "sources": [
+    {
+     "name": "OpenAI (announcement)",
+     "url": "https://openai.com/index/introducing-gpt-6-1-terra"
+    },
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1018854/gpt-6-1-terra-is-very-good-at-computer-use-openai-says"
+    },
     {
      "name": "TestingCatalog",
      "url": "https://www.testingcatalog.com/openai-prepares-gpt-6-1-terra-microsoft-code/"
@@ -1389,7 +1409,8 @@
      "name": "LuminaBench",
      "url": "https://luminabench.com/journal/gpt-6-1-terra-microsoft-pr/"
     }
-   ]
+   ],
+   "outcome": "Mostly true. OpenAI released GPT-6.1 Terra on Oct 26 in ChatGPT Work, Codex and the API at half the API price of GPT-6.1 Sol. OpenAI's own benchmarks show it beating Sol on some tests (Terminal-Bench-Science) and nearly matching it on others, but OpenAI says Sol remains the better pick for the hardest coding work, so 'beats Sol' was only partly right."
   },
   {
    "id": "gemini-4-carbon-release",
@@ -1510,6 +1531,122 @@
     {
      "name": "9to5Google (citing ETNews)",
      "url": "https://9to5google.com/2026/10/26/samsung-report-production-cuts-mid-range-galaxy-phones/"
+    }
+   ]
+  },
+  {
+   "id": "yangwang-altior-nov-5-solid-state",
+   "title": "BYD's Yangwang Altior luxury sedan debuts in Dubai around Nov 5 with solid-state batteries",
+   "rating": "Rumor",
+   "categories": [
+    "evs"
+   ],
+   "status": "Active",
+   "first_reported": "2026-10-26",
+   "updated": "2026-10-27",
+   "expected": "Around Nov 5, 2026 (Dubai, reported)",
+   "claim": "BYD will unveil its 5.5-meter Yangwang Altior executive sedan in Dubai around Nov 5, as the first car with BYD's solid-state batteries, priced around 2 million yuan.",
+   "why": "The name is official: on Oct 27 BYD revealed the sedan as the Yangwang Altior (DingYao in China) with a teaser, and Yangwang's Hu Xiaoqing had already said the global launch will be in the UAE. The Nov 5 date comes from CarNewsChina citing people familiar with the project; BYD has not announced a date. The solid-state battery and the roughly 2 million yuan price are reports only, and BYD's Stella Li has said its first solid-state car debuts in 2027, so that part is the weakest. Rear-hinged coach doors are visible in teasers and prototype photos.",
+   "sources": [
+    {
+     "name": "Electrek (name revealed)",
+     "url": "https://electrek.co/2026/10/27/byd-names-ultra-luxury-ev-could-be-game-changer/"
+    },
+    {
+     "name": "CarNewsChina (Nov 5, Dubai)",
+     "url": "https://carnewschina.com/2026/10/27/byd-teases-yangwang-altior-high-end-sedan-to-rival-rolls-royce/"
+    },
+    {
+     "name": "Electrek (solid-state report)",
+     "url": "https://electrek.co/2026/10/26/byds-ultra-luxury-ev-may-debut-next-week-with-solid-state-batteries/"
+    }
+   ]
+  },
+  {
+   "id": "oppo-find-x10-ultra-cameras",
+   "title": "Oppo Find X10 Ultra gets a LOFIC 200MP main camera, two periscopes and a 100MP selfie camera",
+   "rating": "Rumor",
+   "categories": [
+    "android"
+   ],
+   "status": "Active",
+   "first_reported": "2026-10-26",
+   "updated": "2026-10-27",
+   "expected": "First half of 2027 (expected)",
+   "claim": "The Find X10 Ultra will have a 200MP 1/1.12-inch main camera with LOFIC, a 200MP periscope, a 50MP 10x periscope and a 100MP square-sensor selfie camera.",
+   "why": "From Weibo tipster Digital Chat Station, who has a decent record on Oppo, relayed by GSMArena. By the leak's own account two sensors (the 200MP periscope and the 10x periscope) are not finalized, and the 10x camera could fall back to a smaller 1/2.76-inch sensor if the preferred 1/1.95-inch part is delayed. The phone is months away and Oppo has said nothing.",
+   "sources": [
+    {
+     "name": "GSMArena (citing Digital Chat Station)",
+     "url": "https://www.gsmarena.com/oppo_find_x10_ultras_full_camera_setup_leaks-news-75206.php"
+    }
+   ]
+  },
+  {
+   "id": "motorola-edge-70-neo-specs",
+   "title": "Motorola Edge 70 Neo has a Snapdragon 7s Gen 3, 7,000mAh battery and 144Hz screen",
+   "rating": "Rumor",
+   "categories": [
+    "android"
+   ],
+   "status": "Active",
+   "first_reported": "2026-10-26",
+   "updated": "2026-10-27",
+   "expected": "Soon (no date)",
+   "claim": "The Edge 70 Neo will have a 6.78-inch 144Hz AMOLED, Snapdragon 7s Gen 3, 50MP Sony LYTIA 710 main camera, 32MP selfie camera, 7,000mAh battery with 45W charging and IP64.",
+   "why": "The phone itself is real: Motorola accidentally teased it in August and renders followed. The spec list comes from a single leak reported by GSMArena with no certification or official backing yet. Motorola has not announced a launch date.",
+   "sources": [
+    {
+     "name": "GSMArena",
+     "url": "https://www.gsmarena.com/motorola_edge_70_neo_key_specifications_leak-news-75214.php"
+    }
+   ]
+  },
+  {
+   "id": "silent-hill-remake-2027",
+   "title": "Bloober Team's Silent Hill remake targets a 2027 release",
+   "rating": "Rumor",
+   "categories": [
+    "gaming"
+   ],
+   "status": "Active",
+   "first_reported": "2026-10-27",
+   "updated": "2026-10-27",
+   "expected": "2027 (reported target)",
+   "claim": "Bloober Team's remake of the first Silent Hill, cast under the codename 'Project Noise', is aiming for a 2027 release.",
+   "why": "Konami announced the remake in mid-2025, about eight months after Bloober's well-received Silent Hill 2 remake, but has given no date. The 2027 window and the first two cast names come from a single MP1st report, which VGC and IGN have relayed; MP1st itself says it is an internal target that can move.",
+   "sources": [
+    {
+     "name": "MP1st",
+     "url": "https://mp1st.com/news/report-silent-hill-1-remake-targeting-2027-release-first-cast-details-revealed"
+    },
+    {
+     "name": "VGC",
+     "url": "https://www.videogameschronicle.com/news/bloober-teams-silent-hill-remake-is-set-for-a-2027-release-with-the-first-two-actors-named-report-claims/"
+    }
+   ]
+  },
+  {
+   "id": "iphone-18e-specs",
+   "title": "iPhone 18e keeps a 60Hz screen but gets the A20 and possibly a 24MP selfie camera",
+   "rating": "Rumor",
+   "categories": [
+    "apple"
+   ],
+   "status": "Active",
+   "first_reported": "2026-10-27",
+   "updated": "2026-10-27",
+   "expected": "Spring 2027 (expected)",
+   "claim": "The iPhone 18e will have a 6.12-inch 60Hz LTPS OLED screen, the 2nm A20 chip, a single 48MP rear camera and maybe a 24MP front camera.",
+   "why": "From Weibo tipster Digital Chat Station, relayed by MacRumors and Android Authority. The 60Hz display repeats this leaker's earlier claim and fits Apple's pattern for the 16e and 17e, and the A20 matches what is expected for the standard iPhone 18. The leaker hedged on the front camera, and MacRumors notes 24MP may be a mix-up with the 18MP Center Stage camera. Apple has not announced the phone.",
+   "sources": [
+    {
+     "name": "MacRumors",
+     "url": "https://www.macrumors.com/2026/10/27/iphone-18e-could-get-two-key-upgrades/"
+    },
+    {
+     "name": "Android Authority",
+     "url": "https://www.androidauthority.com/apple-iphone-18e-leaked-specs-3728368/"
     }
    ]
   }

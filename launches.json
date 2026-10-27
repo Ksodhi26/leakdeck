@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26",
+ "updated": "2026-10-27",
  "items": [
   {
    "id": "gtc-berlin-2026",
@@ -338,11 +338,23 @@
    "date": "2026-10-27",
    "date_label": "Oct 27, 2026 (China)",
    "precision": "day",
-   "status": "Confirmed",
-   "price": "",
-   "summary": "BYD's redesigned third-generation Qin Plus family sedan launches in China on Oct 27, now confirmed by BYD.",
-   "details": "On Oct 24 Lu Tian, general manager of BYD's Dynasty Network sales division, confirmed the Oct 27 launch on Weibo, after Autohome first reported the date. BYD says the Qin Plus DM-i uses its fifth-generation DM plug-in hybrid system with 2.58 L/100 km fuel use on a depleted battery (NEDC) and up to 2,290 km of combined range, offers nine exterior colors and optional 'God's Eye B' driver assistance with city and highway navigation and automated parking. The car grows to 4,840 mm long on a 2,800 mm wheelbase and adds roof-mounted LiDAR on some trims. Filings also list an EV version with a 100 kW motor. Prices are not out; the outgoing Qin Plus starts at 79,800 yuan.",
+   "status": "Released",
+   "price": "79,900-100,900 yuan (limited-time 76,900-97,900 yuan)",
+   "summary": "BYD launched the third-generation Qin Plus DM-i plug-in hybrid sedan in China on Oct 27 from 79,900 yuan, with up to 220 km of electric range.",
+   "details": "Three DM-i versions went on sale Oct 27: 140 km Leading (79,900 yuan), 220 km Beyond/Superior (90,900 yuan) and 220 km Excellence (100,900 yuan), each 3,000 yuan cheaper for a limited time, so the effective start is 76,900 yuan. It keeps BYD's fifth-generation DM hybrid system, raises CLTC electric range to 220 km (210 km before), claims up to 2,290 km of combined range and offers God's Eye B driver assistance with roof LiDAR on some trims. The body grows to 4,840 mm on a 2,800 mm wheelbase. CnEVPost notes Qin family sales were down about 55% year on year in the first nine months. Filings also list a pure-EV version, which has not launched yet.",
    "sources": [
+    {
+     "name": "CnEVPost (launch, prices)",
+     "url": "https://cnevpost.com/2026/10/27/byd-launches-3rd-gen-qin-plus-dm-i/"
+    },
+    {
+     "name": "CarNewsChina",
+     "url": "https://carnewschina.com/2026/10/27/new-byd-qin-plus-dm-i-sedan-launched-in-china-with-220-km-of-ev-range/"
+    },
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/10/27/byd-launches-third-generation-qin-plus-dm-i/"
+    },
     {
      "name": "IT Home (BYD confirms Oct 27, Chinese)",
      "url": "https://www.ithome.com/1/017/396.htm"
@@ -359,7 +371,7 @@
   },
   {
    "id": "apple-oled-macbook-pro-oct-28",
-   "name": "Apple 'Pro and tell' launch: OLED touchscreen MacBook Pro, M6 MacBook Pro and iMac (expected)",
+   "name": "Apple 'Pro and tell' launch: OLED touchscreen MacBook Pro (expected)",
    "brand": "Apple",
    "categories": [
     "apple",
@@ -371,9 +383,17 @@
    "precision": "day",
    "status": "Confirmed",
    "price": "",
-   "summary": "Apple's 'Pro and tell' launch is Oct 28; the OLED iPad mini already came on Oct 26, and Bloomberg expects OLED touchscreen MacBook Pros and M6 Macs, with sales from Nov 6.",
-   "details": "Apple's Greg Joswiak posted the invite on Oct 19: a media experience in Los Angeles on Wednesday, Oct 28 at 10 a.m. PT, like the Oct 13 'Welcome home' launch, so expect press releases rather than a keynote. Apple has not named the products. Per Mark Gurman: 14- and 16-inch OLED touchscreen MacBook Pros with a Dynamic Island, 'significantly lighter' but not much thinner, using the existing M5 Pro and M5 Max (no M6 Pro/Max); an M6 14-inch MacBook Pro and M6 iMac with unchanged designs; and an OLED iPad mini. Pre-orders could open Oct 28, and Gurman says Apple Stores plan an overnight reset on Nov 5-6, pointing to a Nov 6 release. Update Oct 26: Apple announced the OLED iPad mini by press release two days early (see its own entry), and marketing chief Greg Joswiak teased an 'exciting week' ahead. In his Oct 25 newsletter Gurman reiterated that the touchscreen 14- and 16-inch MacBook Pros arrive Wednesday, may cost up to $500 more than today's mini-LED models, and that macOS Golden Gate adapts its controls to touch; the mini-LED models stay on sale for now.",
+   "summary": "Apple's 'Pro and tell' launch is Oct 28; the OLED iPad mini, M6 MacBook Pro and M6 iMac already came by press release, leaving the reported OLED touchscreen MacBook Pros for Wednesday.",
+   "details": "Apple's Greg Joswiak posted the invite on Oct 19: a media experience in Los Angeles on Wednesday, Oct 28 at 10 a.m. PT, so expect press releases and hands-on sessions rather than a keynote. Apple has spent the week announcing products early: the OLED iPad mini on Oct 26, then on Oct 27 the 14-inch MacBook Pro with M6 and the iMac with M6 (see their own entries; all three open for pre-order Oct 28 and ship Nov 6). What is left is Mark Gurman's main claim: 14- and 16-inch OLED touchscreen MacBook Pros with a Dynamic Island, 'significantly lighter' but not much thinner, using the existing M5 Pro and M5 Max, and possibly up to $500 more than today's mini-LED models, which stay on sale. Apple has not confirmed these. Gurman says Apple Stores plan an overnight reset on Nov 5-6, pointing to a Nov 6 release.",
    "sources": [
+    {
+     "name": "Apple Newsroom (14-inch MacBook Pro with M6)",
+     "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/"
+    },
+    {
+     "name": "Apple Newsroom (iMac with M6)",
+     "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/"
+    },
     {
      "name": "MacRumors (Joswiak teases 'exciting week')",
      "url": "https://www.macrumors.com/2026/10/26/apple-teases-exciting-week-ahead/"
@@ -441,11 +461,19 @@
    "date": "2026-10-27",
    "date_label": "Oct 27, 2026",
    "precision": "day",
-   "status": "Confirmed",
+   "status": "Released",
    "price": "From $179.99 ($219.99 Stephen Curry edition)",
-   "summary": "Google's new screen-equipped Fitbit tracker, slotted between the Fitbit Air and Pixel Watch 5, ships Oct 27.",
-   "details": "Pre-orders opened Oct 12. It has a larger OLED display, built-in GPS, ECG and skin-temperature sensors, up to seven days of battery life and Fitbit's first replaceable battery. There is no NFC payments, microphone or speaker, and it uses a new band system that doesn't fit older Fitbit or Pixel Watch bands.",
+   "summary": "Google's screen-equipped Fitbit Edge tracker went on sale on Oct 27 at $179.99, with GPS and Fitbit's first user-replaceable battery.",
+   "details": "Pre-orders opened Oct 12. It has a larger OLED display, built-in GPS, ECG and skin-temperature sensors, up to seven days of battery life and Fitbit's first replaceable battery. There is no NFC payments, microphone or speaker, and it uses a new band system that doesn't fit older Fitbit or Pixel Watch bands. Update Oct 27: it is now on shelves at the Google Store and Best Buy, with three months of Google Health Premium included ($9.99 a month after). Google's design post lists four finishes: Obsidian, Olive, Canyon and Fog.",
    "sources": [
+    {
+     "name": "Google blog (design, Oct 27)",
+     "url": "https://blog.google/products-and-platforms/devices/fitbit/fitbit-edge-design/"
+    },
+    {
+     "name": "al.com (on sale Oct 27)",
+     "url": "https://www.al.com/shopping/2026/10/fitbit-edge-launches-with-a-bigger-screen-and-replaceable-battery.html"
+    },
     {
      "name": "Google Store",
      "url": "https://store.google.com/us/product/google_fitbit_edge?hl=en-US"
@@ -471,11 +499,23 @@
    "date": "2026-10-27",
    "date_label": "Oct 27, 2026",
    "precision": "day",
-   "status": "Confirmed",
+   "status": "Released",
    "price": "",
-   "summary": "An enhanced Switch 2 version of Minecraft with Vibrant Visuals support arrives Oct 27.",
-   "details": "Listed in Nintendo's October 2026 release roundup.",
+   "summary": "Minecraft's native Switch 2 version, with Vibrant Visuals, came out on Oct 27; it's a free upgrade for digital owners of the Switch version until Jan 31, 2027.",
+   "details": "Listed in Nintendo's October 2026 release roundup and out on Oct 27. It runs natively on Switch 2 with the Vibrant Visuals graphics mode, carries over worlds from the original Switch version and includes the Super Mario Mash-Up Pack. Players who own the original Switch version digitally can claim the Standard Edition for free through Jan 31, 2027; owners of the physical cartridge have to buy it.",
    "sources": [
+    {
+     "name": "Nintendo (store page)",
+     "url": "https://www.nintendo.com/us/store/products/minecraft-switch-2/"
+    },
+    {
+     "name": "Nintendo (arrives Oct 27)",
+     "url": "https://www.nintendo.com/us/whatsnew/minecraft-for-nintendo-switch-2-arrives-oct-27/"
+    },
+    {
+     "name": "Polygon (upgrade digital only)",
+     "url": "https://www.polygon.com/minecraft-nintendo-switch-2-upgrade-digital-only/"
+    },
     {
      "name": "Nintendo UK",
      "url": "https://www.nintendo.com/en-gb/News/2026/October/Upcoming-Games-October-2026-3208377.html"
@@ -1510,13 +1550,25 @@
    ],
    "type": "Phone",
    "date": "2026-10-27",
-   "date_label": "Oct 27, 2026 (China, 7 p.m.)",
+   "date_label": "Oct 27, 2026 (China; sales from Oct 31)",
    "precision": "day",
-   "status": "Confirmed",
-   "price": "",
-   "summary": "The standard Redmi K100 joins the K100 Pro and Pro Max with a 10,000mAh battery; Xiaomi's Lu Weibing set an Oct 27 launch in China.",
-   "details": "Redmi has confirmed a flat 6.83-inch 165Hz AMOLED screen up to 3,500 nits, 165fps gaming in 40+ titles via its D2 display chip, the Snapdragon 8 Elite, a 10,000mAh silicon-carbon battery (Xiaomi's first that large) with 100W wired charging, 27W wired reverse charging and bypass charging for gaming, Bose-tuned speakers, a metal frame and HyperOS 4, in a new Firefly Green color; pre-orders are open in China. A reported price of about 3,500 yuan is unconfirmed. Redmi's Weibo announcement says Oct 27 at 7 p.m. local time. Redmi Clip Neo open-ear earbuds launch alongside. On Oct 21 Redmi added a 50MP main camera (Light and Shadow Hunter 800, 1/1.55-inch, f/1.68) in a dual-camera setup, IP68, an ultrasonic in-display fingerprint sensor, symmetrical dual speakers and an X-axis haptic motor. Redmi's pinned Weibo post still says Oct 27 at 7 p.m. (one GSMArena story had said Oct 26). Redmi says the REDMI Book 14 2027 laptop (Intel 18A-based Core chip, 72Wh battery) launches at the same event. Some outlets (Mint, Technobaboy) now say Oct 28, but IT Home and Lu Weibing's announcement still give Oct 27 at 7 p.m. China time, so we keep Oct 27.",
+   "status": "Released",
+   "price": "3,499 yuan (12GB/256GB); Double 11 offer from 2,999 yuan",
+   "summary": "Redmi launched the standard K100 in China on Oct 27 with a 10,000mAh battery and Snapdragon 8 Elite, from 3,499 yuan; sales start Oct 31.",
+   "details": "List prices are 3,499 yuan (12GB/256GB), 4,099 yuan (12GB/512GB) and 4,499 yuan (16GB/512GB); Double 11 offers cut each by 500-600 yuan until Nov 11 (from 2,999 yuan), and China's national subsidy lowers it further in eligible regions. Pre-sales opened at launch and open sales start Oct 31 at 10 a.m. It pairs the Snapdragon 8 Elite with Redmi's D2 display chip (a first for a standard K model), a 10,000mAh silicon-carbon battery with 100W wired charging, a flat 6.83-inch 165Hz AMOLED screen, a 50MP main camera, IP68 and HyperOS 4. Earlier reports had suggested about 3,500 yuan, which matched the list price.",
    "sources": [
+    {
+     "name": "IT Home (launch, prices, Chinese)",
+     "url": "https://www.ithome.com/1/018/635.htm"
+    },
+    {
+     "name": "ifeng / CNMO (Chinese)",
+     "url": "https://feng.ifeng.com/c/8xZN3Wia0Qe"
+    },
+    {
+     "name": "PingWest (Chinese)",
+     "url": "https://www.pingwest.com/w/318842"
+    },
     {
      "name": "REDMI on Weibo (Oct 27, 7 p.m.)",
      "url": "https://weibo.com/3021514657/RnlToooDd"
@@ -1528,26 +1580,6 @@
     {
      "name": "Gizchina (charging confirmed)",
      "url": "https://www.gizchina.com/redmi-phones/redmi-k100-officially-gets-a-huge-10000mah-battery-and-100w-charging"
-    },
-    {
-     "name": "Gadgets 360",
-     "url": "https://www.gadgets360.com/mobiles/news/redmi-k100-launch-date-announced-colour-option-design-display-specifications-features-12205507"
-    },
-    {
-     "name": "Sina / Weibo (Chinese)",
-     "url": "https://www.sina.cn/weibo/detail/5355667556665604.html"
-    },
-    {
-     "name": "GSMArena",
-     "url": "https://www.gsmarena.com/redmi_k100_with_10000mah_battery_and_683inch_display_is_launching_next_week-news-75105.php"
-    },
-    {
-     "name": "IT Home (Chinese, Oct 27 date)",
-     "url": "https://www.ithome.com/tags/Redmi%20K100/"
-    },
-    {
-     "name": "IT Home (Oct 27, 7 p.m.)",
-     "url": "https://www.ithome.com/1/014/645.htm"
     }
    ]
   },
@@ -1639,13 +1671,29 @@
    ],
    "type": "Software",
    "date": "2026-10-26",
-   "date_label": "Around Oct 26, 2026 (expected)",
-   "precision": "window",
-   "status": "Expected",
+   "date_label": "Oct 26, 2026",
+   "precision": "day",
+   "status": "Released",
    "price": "Free",
-   "summary": "Apple's next iPhone update, now at release candidate, is expected around Oct 26 and brings Apple Pencil support to the iPhone Duo.",
-   "details": "Apple released the iOS 27.2 release candidate on Oct 19, which usually means a public release about a week later; 9to5Mac expects it on or around Monday, Oct 26. Apple has not announced the date. Besides Apple Pencil (USB-C) support on the iPhone Duo, it adds features across six built-in apps and a new HomePod setting; tvOS 27.2 is expected alongside. As of Oct 24 Apple still had not announced the date and had not issued a second iOS release candidate; it did seed a second watchOS 27.2 RC on Oct 23, which 9to5Mac says points to next week's launch. As of Sunday Oct 25 it still had not shipped; Cult of Mac also points to Monday, Oct 26, based on Apple's usual one-week gap after the RC. As of mid-morning Oct 26 (about 14:30 UTC) it still had not shipped; Apple usually posts updates around 10 a.m. PT. Apple's Oct 26 iPad mini press release refers to iPadOS 27.2 features, which fits an imminent release.",
+   "summary": "Apple's first big iOS 27 update came out on Oct 26, adding Apple Pencil support on the iPhone Duo and Siri AI in more languages.",
+   "details": "Apple released iOS 27.2 and iPadOS 27.2 on Monday, Oct 26, a week after the release candidate. It runs on every iPhone that supports iOS 27, including the iPhone Duo, which moves onto the same version as other iPhones (build 24B91020 on the Duo, 24B119 elsewhere). Highlights: Siri AI now works in French, Japanese, Korean, Portuguese and Spanish; AI suggestions in Messages that can create Calendar events or Reminders; Apple TV app profiles; a new Apple Music icon and look; FaceTime Dual Capture; and Apple Pencil (USB-C) support on the iPhone Duo. The rumored Apple Health redesign is not in it. Apple also shipped visionOS 27.2 and iOS 26.7.2 security fixes for older iPhones.",
    "sources": [
+    {
+     "name": "Apple Support (security content, released Oct 26)",
+     "url": "https://support.apple.com/en-us/149230"
+    },
+    {
+     "name": "MacRumors (release)",
+     "url": "https://www.macrumors.com/2026/10/26/apple-releases-ios-27-2/"
+    },
+    {
+     "name": "9to5Mac (what's new)",
+     "url": "https://9to5mac.com/2026/10/26/apple-releases-ios-27-2-heres-whats-new/"
+    },
+    {
+     "name": "AppleInsider (builds, no Health revamp)",
+     "url": "https://appleinsider.com/articles/26/10/26/ios-272-is-out-without-the-apple-health-revamp"
+    },
     {
      "name": "9to5Mac (release timing, Pencil)",
      "url": "https://9to5mac.com/2026/10/21/iphone-duo-adding-apple-pencil-support-next-week-with-ios-27-2/"
@@ -1653,22 +1701,6 @@
     {
      "name": "9to5Mac (what's new)",
      "url": "https://9to5mac.com/2026/10/20/ios-27-2-adds-new-features-in-six-iphone-apps-heres-whats-coming/"
-    },
-    {
-     "name": "9to5Mac (Oct 23 preview)",
-     "url": "https://9to5mac.com/2026/10/23/ios-27-2-three-new-features-coming-soon-to-your-iphone/"
-    },
-    {
-     "name": "Cult of Mac (release timing)",
-     "url": "https://www.cultofmac.com/news/ios-27-2-release-date-launch"
-    },
-    {
-     "name": "MacRumors (watchOS 27.2 RC 2)",
-     "url": "https://www.macrumors.com/2026/10/23/apple-seeds-watchos-27-2-rc-2/"
-    },
-    {
-     "name": "Apple Newsroom (iPad mini, mentions iPadOS 27.2)",
-     "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/"
     }
    ]
   },
@@ -1958,11 +1990,19 @@
    "date": "2026-10-27",
    "date_label": "Oct 27, 2026 (South Korea first)",
    "precision": "day",
-   "status": "Confirmed",
+   "status": "Released",
    "price": "299,000 won (Korea)",
-   "summary": "Samsung's first clip-style open-ear Galaxy Buds go on sale in South Korea on Oct 27, with other markets later.",
-   "details": "Samsung says the Galaxy Buds On rest on the ear without blocking the canal, with Twin Boost speakers, sound-leakage reduction, automatic volume adjustment, three mics plus a bone-conduction sensor for calls, head-gesture control and up to 9.5 hours of playback. Korea gets one black model. Samsung has not set dates for other markets; European retail listings reported by Android Authority hint at the first half of December, which is unconfirmed.",
+   "summary": "Samsung's first clip-style open-ear Galaxy Buds went on sale in South Korea on Oct 27 for 299,000 won; other markets come later.",
+   "details": "Samsung says the Galaxy Buds On rest on the ear without blocking the canal, with Twin Boost speakers, sound-leakage reduction, automatic volume adjustment, three mics plus a bone-conduction sensor for calls, head-gesture control and up to 9.5 hours of playback. Korea gets one black model. Samsung has not set dates for other markets; European retail listings reported by Android Authority hint at the first half of December, which is unconfirmed. Update Oct 27: sales started on schedule via Samsung.com, online marketplaces and Samsung Stores; buyers through Nov 30 get two 30%-off accessory coupons.",
    "sources": [
+    {
+     "name": "Samsung Korea store",
+     "url": "https://www.samsung.com/sec/buds/galaxy-buds-on-u600/SM-U600NZKAKOO/"
+    },
+    {
+     "name": "News1 (on sale, Korean)",
+     "url": "https://www.news1.kr/it-science/mobile/6331314"
+    },
     {
      "name": "Samsung Newsroom Korea",
      "url": "https://news.samsung.com/kr/%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90-%ea%b0%a4%eb%9f%ad%ec%8b%9c-%ec%b5%9c%ec%b4%88-%ed%81%b4%eb%a6%bd%ed%98%95-%eb%ac%b4%ec%84%a0-%ec%9d%b4%ec%96%b4%ed%8f%b0-%ea%b0%a4%eb%9f%ad%ec%8b%9c-%eb%b2%84"
@@ -2155,13 +2195,25 @@
    ],
    "type": "Phone",
    "date": "2026-10-27",
-   "date_label": "Oct 27, 2026 (India, Flipkart)",
+   "date_label": "Oct 27, 2026 (India; sale from Oct 30)",
    "precision": "day",
-   "status": "Confirmed",
-   "price": "",
-   "summary": "Infinix's liquid-cooled gaming phone with the Dimensity 8400 Ultimate launches in India on Oct 27 via Flipkart.",
-   "details": "Infinix has confirmed a 6.78-inch 1.5K 144Hz AMOLED screen (up to 4,500 nits), the Dimensity 8400 Ultimate with LPDDR5X and UFS 4.1, a HydroFlow liquid-cooling system with a micro-pump, pressure-sensitive shoulder triggers and a 6,500mAh battery with 45W wired and 30W wireless charging. A GT MagCharge Cooler 2.0 accessory comes in the box in India. The phone first launched in some markets in April; India pricing is not out yet.",
+   "status": "Released",
+   "price": "Rs 69,999 (12GB/256GB)",
+   "summary": "Infinix launched its liquid-cooled GT 50 Pro gaming phone in India on Oct 27 at Rs 69,999, with a gaming accessory bundle thrown in for early buyers.",
+   "details": "The single 12GB/256GB model costs Rs 69,999 (a Rs 5,000 bank discount brings it to Rs 64,999), in Black Abyss and Red Blaze. Pre-orders are open on Flipkart and Infinix's store and sales start Oct 30. Early buyers get a bundle Infinix values at Rs 24,999 (GT NX Controller, GT NX Station dock, GT MagCharge Cooler 2.0 and a MagSafe cover). Specs: 6.78-inch 1.5K 144Hz AMOLED (up to 4,500 nits), Dimensity 8400 Ultimate with LPDDR5X and UFS 4.1, HydroFlow liquid cooling with a micro-pump, pressure-sensitive GT Triggers 2.0 and a 6,500mAh battery with 45W wired and 30W wireless charging. Digit notes the price is almost triple the GT 30 Pro's Rs 24,999 launch price and links it to the memory shortage. The phone first launched in other markets in April.",
    "sources": [
+    {
+     "name": "Gadgets 360 (India launch, price)",
+     "url": "https://www.gadgets360.com/mobiles/news/infinix-gt-50-pro-price-in-india-launch-specifications-features-12241358"
+    },
+    {
+     "name": "My Mobile India (sale date Oct 30)",
+     "url": "https://www.mymobileindia.com/infinix-gt-50-pro-launched-in-india-at-rs-63499-with-liquid-cooling-gaming-bundle/"
+    },
+    {
+     "name": "Digit",
+     "url": "https://www.digit.in/news/mobile-phones/infinix-gt-50-pro-with-gaming-accessories-launched-in-india-check-price-specs-and-other-details.html"
+    },
     {
      "name": "NDTV Profit",
      "url": "https://www.ndtvprofit.com/technology/infinix-gt-50-pro-india-launch-on-october-27-key-specifications-revealed-12179336"
@@ -2169,6 +2221,121 @@
     {
      "name": "Beebom (week's launches)",
      "url": "https://gadgets.beebom.com/news/all-upcoming-phones-launching-this-week-october-26-november-1"
+    }
+   ]
+  },
+  {
+   "id": "macbook-pro-14-m6",
+   "name": "14-inch MacBook Pro (M6)",
+   "brand": "Apple",
+   "categories": [
+    "apple",
+    "chips"
+   ],
+   "type": "Laptop",
+   "date": "2026-11-06",
+   "date_label": "Nov 6, 2026 (pre-orders Oct 28)",
+   "precision": "day",
+   "status": "Confirmed",
+   "price": "From $1,999",
+   "summary": "Apple announced the entry 14-inch MacBook Pro with the new M6 chip on Oct 27; pre-orders open Oct 28 and it ships Nov 6 from $1,999.",
+   "details": "Announced by press release a day before Apple's Oct 28 'Pro and tell' launch. The M6 has a 12-core CPU (2 super cores, 4 performance, 6 efficiency) and a 12-core GPU, up from 10 and 10 on the M5, plus a dual 16-core Neural Engine; Apple claims up to 30% faster graphics and 25% faster AI work than M5. Memory bandwidth rises to 170GB/s, but MacRumors reports that applies only to 24GB and 32GB configurations, not the base 16GB. It adds Apple's N1 chip (Wi-Fi 7, Bluetooth 6), drives two external 4K displays at up to 165Hz, and Apple rates battery life at up to 24 hours. The design is unchanged (mini-LED Liquid Retina XDR, space black and silver), and it still starts with 1TB of storage. Pre-orders open Oct 28 in 35 countries and regions.",
+   "sources": [
+    {
+     "name": "Apple Newsroom",
+     "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/"
+    },
+    {
+     "name": "MacRumors",
+     "url": "https://www.macrumors.com/2026/10/27/14-inch-macbook-pro-with-m6-chip/"
+    },
+    {
+     "name": "MacRumors (memory bandwidth split)",
+     "url": "https://www.macrumors.com/2026/10/27/m6-14-inch-macbook-pro-memory-bandwidth-split/"
+    }
+   ]
+  },
+  {
+   "id": "imac-m6",
+   "name": "iMac (M6)",
+   "brand": "Apple",
+   "categories": [
+    "apple",
+    "chips"
+   ],
+   "type": "Gadget",
+   "date": "2026-11-06",
+   "date_label": "Nov 6, 2026 (pre-orders Oct 28)",
+   "precision": "day",
+   "status": "Confirmed",
+   "price": "From $1,499 (10-core), $1,699 (12-core)",
+   "summary": "Apple's first iMac update in two years brings the M6 chip, Wi-Fi 7 and faster storage; pre-orders open Oct 28 and it ships Nov 6 from $1,499.",
+   "details": "Announced Oct 27 by press release. The 24-inch 4.5K design and seven colors are unchanged. The M6 brings up to a 12-core CPU and 12-core GPU (two more cores each than M4) with Neural Accelerators in the GPU, a dual 16-core Neural Engine and up to 170GB/s memory bandwidth; Apple claims up to 5x faster on-device AI than M4. It adds Wi-Fi 7 and Bluetooth 6, up to 2x faster SSDs, and 2.5Gb Ethernet as an option on the 12-core model, which also gets four Thunderbolt 4 ports. Both base models have 16GB of memory and 256GB of storage. Pre-orders open Oct 28 at 10:10 a.m. PT in 35 countries and regions.",
+   "sources": [
+    {
+     "name": "Apple Newsroom",
+     "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/"
+    },
+    {
+     "name": "MacRumors",
+     "url": "https://www.macrumors.com/2026/10/27/m6-imac-pre-orders-release-date/"
+    }
+   ]
+  },
+  {
+   "id": "gpt-6-1-terra",
+   "name": "GPT-6.1 Terra",
+   "brand": "OpenAI",
+   "categories": [
+    "ai"
+   ],
+   "type": "AI model",
+   "date": "2026-10-26",
+   "date_label": "Oct 26, 2026 (ChatGPT Work, Codex, API)",
+   "precision": "day",
+   "status": "Released",
+   "price": "API $1 / $5 per million input/output tokens",
+   "summary": "OpenAI's new mid-tier model, aimed at fast and cheap computer use, launched Oct 26 at half the API price of GPT-6.1 Sol.",
+   "details": "Available to Plus, Pro, Enterprise and Edu users in ChatGPT Work and Codex, and in the API as gpt-6.1-terra ($1 per million input tokens, $0.05 cached, $5 output). OpenAI says it is a big step up from GPT-5.6 Terra in visual reasoning, computer use, factual accuracy and coding (50.3% on Terminal-Bench 4.0 at max effort versus 21.5%), finishes computer-use tasks over three times faster than GPT-6.1 Sol and GPT-6 Astra, and beats Sol on Terminal-Bench-Science, though Sol and Astra remain the better choice for the hardest coding. OpenAI rates it at the Critical cybersecurity threshold under its Preparedness Framework. These are OpenAI's own benchmark figures.",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/index/introducing-gpt-6-1-terra"
+    },
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1018854/gpt-6-1-terra-is-very-good-at-computer-use-openai-says"
+    }
+   ]
+  },
+  {
+   "id": "acer-predator-atlas-8-us",
+   "name": "Acer Predator Atlas 8 (US launch)",
+   "brand": "Acer",
+   "categories": [
+    "gaming",
+    "chips"
+   ],
+   "type": "Handheld",
+   "date": "2026-11-01",
+   "date_label": "Nov 1, 2026 (US, Best Buy)",
+   "precision": "day",
+   "status": "Confirmed",
+   "price": "$1,299.99",
+   "summary": "Acer's 8-inch Windows gaming handheld with Intel's Arc G3 Extreme comes to the US on Nov 1 as a $1,299.99 Best Buy exclusive.",
+   "details": "Acer unveiled the Atlas 8 in May; the US gets only the more powerful Intel Arc G3 Extreme version, with Arc B390 graphics (12 Xe3 GPU cores), 24GB of LPDDR5X, an 8-inch 120Hz screen, TMR sticks, dual-mode triggers and Windows 11. It is Acer's first handheld sold officially in the US and costs the same as the Xbox Ally X20. Best Buy's pre-orders, opened last week, are sold out; Acer says online orders reopen Nov 1 alongside in-store sales.",
+   "sources": [
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/games/1019245/acer-predator-atlas-8-launch-price"
+    },
+    {
+     "name": "Engadget",
+     "url": "https://www.engadget.com/2298013/acer-predator-atlas-8-gaming-handheld-comes-to-best-buy-on-november-1-for-1300/"
+    },
+    {
+     "name": "Android Authority",
+     "url": "https://www.androidauthority.com/acer-predator-atlas-8-us-pricing-availability-3728356/"
     }
    ]
   }

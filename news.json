@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T13:58:37Z",
+ "updated": "2026-10-27T14:08:56Z",
  "sources": [
   "9to5Google",
   "9to5Mac",
@@ -23,6 +23,62 @@
  "count": 600,
  "items": [
   {
+   "id": "13f58d8751cc",
+   "title": "You just can't win—despite Ghost of Yōtei selling millions of copies, 24 people are reportedly being let go from Sucker Punch",
+   "url": "https://www.pcgamer.com/gaming-industry/you-just-cant-win-despite-ghost-of-yotei-selling-millions-of-copies-24-people-are-reportedly-being-let-go-from-sucker-punch/",
+   "source": "PC Gamer",
+   "published": "2026-10-27T14:01:58Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": true
+  },
+  {
+   "id": "68ff0752d7d0",
+   "title": "Most home labs don't need a Proxmox cluster, and Proxmox's own Datacenter Manager is the reason",
+   "url": "https://www.xda-developers.com/most-home-labs-dont-need-a-proxmox-cluster-datacenter-manager-is-the-reason/",
+   "source": "XDA Developers",
+   "published": "2026-10-27T14:00:21Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "6d202f2bec8e",
+   "title": "Samsung Portable SSD P9 review: speedy USB4 in a slim, pricey package",
+   "url": "https://www.tomshardware.com/pc-components/external-ssds/samsung-portable-ssd-p9-review",
+   "source": "Tom's Hardware",
+   "published": "2026-10-27T14:00:00Z",
+   "categories": [
+    "android",
+    "chips",
+    "samsung"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "1b963514a89d",
+   "title": "We’ve had touchscreen laptops for years. Can Apple make them better?",
+   "url": "https://www.theverge.com/tech/1019288/apple-event-la-macbook-pro-touchscreen-questions",
+   "source": "The Verge",
+   "published": "2026-10-27T13:59:35Z",
+   "categories": [
+    "apple",
+    "chips"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "751cbc84db6e",
+   "title": "Watch the vivo X500 series European launch here",
+   "url": "https://www.gsmarena.com/watch_the_vivo_x500_series_european_launch_here-news-75223.php",
+   "source": "GSMArena",
+   "published": "2026-10-27T13:59:02Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
    "id": "f30b576c412f",
    "title": "M6 MacBook Pro's 170GB/s Memory Bandwidth Skips Base 16GB Model",
    "url": "https://www.macrumors.com/2026/10/27/m6-14-inch-macbook-pro-memory-bandwidth-split/",
@@ -32,7 +88,8 @@
     "apple",
     "chips"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "MacRumors reports the M6 MacBook Pro's faster 170GB/s memory bandwidth applies only to 24GB and 32GB configurations, not the base 16GB model."
   },
   {
    "id": "dc9067f5c826",
@@ -43,7 +100,8 @@
    "categories": [
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Microsoft says Call of Duty has now earned more than $40 billion over its lifetime, putting it among gaming's highest-grossing franchises."
   },
   {
    "id": "437a78e8d00f",
@@ -54,6 +112,18 @@
    "categories": [
     "ai",
     "apple"
+   ],
+   "rumor": false,
+   "summary": "iOS 27.2 is out for every iOS 27 iPhone, including the Duo, adding Siri AI in five more languages along with a batch of security fixes."
+  },
+  {
+   "id": "241afa5f9023",
+   "title": "Nintendo Announces Indie World Showcase For October 28",
+   "url": "https://www.gamespot.com/articles/nintendo-announces-indie-world-showcase-for-october-28/",
+   "source": "GameSpot",
+   "published": "2026-10-27T13:54:50Z",
+   "categories": [
+    "gaming"
    ],
    "rumor": false
   },
@@ -78,7 +148,8 @@
     "ai",
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Apple is adding a context-aware AI assistant to Pages, Keynote and Numbers that can carry out tasks inside the document you're working on."
   },
   {
    "id": "da9f45e1cbb1",
@@ -110,7 +181,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Apple's M6 iMac keeps the 24-inch design and seven colors, opens for pre-order Oct 28 and ships Nov 6 from $1,499."
   },
   {
    "id": "1b3117a12e36",
@@ -179,7 +251,8 @@
     "apple",
     "chips"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Apple's entry 14-inch MacBook Pro moves to the M6 chip with more CPU and GPU cores, Wi-Fi 7 and a $1,999 starting price."
   },
   {
    "id": "17402f54fc91",
@@ -191,7 +264,8 @@
     "ai",
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Apple's Creator Studio app suite gets new tools and AI features across Mac, iPad and iPhone, some powered by OpenAI models."
   },
   {
    "id": "12e5bdb8a8e8",
@@ -212,7 +286,8 @@
     "evs",
     "gaming"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "BYD has named its Rolls-Royce rival the Yangwang Altior; a Dubai debut is reported for around Nov 5, possibly with solid-state batteries."
   },
   {
    "id": "99949cd2f2c5",
@@ -237,7 +312,8 @@
     "apple",
     "samsung"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "Apple acknowledges iPhone Duo inner-screen damage reports linked to a stiff hinge; the root cause is still unclear."
   },
   {
    "id": "e18a2efb7e54",
@@ -272,7 +348,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "The M6 lands in the 14-inch MacBook Pro and iMac a day before Apple's Oct 28 launch, with prices starting at $1,999 and $1,499."
   },
   {
    "id": "5eb7ad3c7c7e",
@@ -283,7 +360,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Apple's M6 MacBook Pro and iMac keep the same starting prices as the models they replace."
   },
   {
    "id": "06b78d004f6e",
@@ -353,7 +431,8 @@
    "categories": [
     "evs"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Ford's sub-$30K Fathom pickup builds the bidirectional-charging inverter into the truck, making home backup power cheaper to set up."
   },
   {
    "id": "da6d01b698de",
@@ -364,7 +443,8 @@
    "categories": [
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Sony paid a $50K bug bounty for the hypervisor flaw behind a PS5 Linux exploit, angering jailbreakers who wanted it kept quiet."
   },
   {
    "id": "af14d2e019a0",
@@ -466,7 +546,8 @@
    "categories": [
     "chips"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Anduril and Qualcomm unveiled BlueChip, a rugged US-built laptop line for government and defense buyers; orders start in 2027."
   },
   {
    "id": "c3f55709f5e3",
@@ -477,7 +558,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Opera is proposing WebAI, a web standard that lets sites tap AI models running locally in the browser; Opera One has a preview now."
   },
   {
    "id": "133a5a70eecd",
@@ -495,6 +577,17 @@
    "title": "Ford’s new sub-$30K electric truck can power your home for a lot less",
    "url": "https://electrek.co/2026/10/27/fords-new-sub-30k-electric-truck-can-power-your-home-for-a-lot-less/",
    "source": "Electrek",
+   "published": "2026-10-27T13:00:00Z",
+   "categories": [
+    "evs"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "c3916bfb8599",
+   "title": "The Ford Fathom's Home Backup System Will Be Way Cheaper Than The F-150 Lightning's",
+   "url": "https://insideevs.com/news/813326/ford-fathom-bidirectional-vehicle-to-home-charging/",
+   "source": "InsideEVs",
    "published": "2026-10-27T13:00:00Z",
    "categories": [
     "evs"
@@ -541,7 +634,8 @@
    "source": "The Verge",
    "published": "2026-10-27T12:31:33Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "Fujifilm's Instax Mini Evo 2 hybrid instant camera adds a touchscreen and video recording."
   },
   {
    "id": "661885089bc1",
@@ -630,7 +724,8 @@
    "categories": [
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Pokémon Unite, the free-to-play MOBA, is shutting down after nearly six years."
   },
   {
    "id": "f8f3867cb3c3",
@@ -641,7 +736,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Apple patched a CoreGraphics flaw that may have been exploited, in a security update for older iPhones that stay on iOS 26."
   },
   {
    "id": "a47031595935",
@@ -715,7 +811,8 @@
    "categories": [
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Warhorse Studios, maker of Kingdom Come: Deliverance, says it has been hit by a cyberattack."
   },
   {
    "id": "5232999a46a5",
@@ -724,7 +821,8 @@
    "source": "GSMArena",
    "published": "2026-10-27T11:51:01Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "Instagram is testing 'Features', horizontal videos up to 90 minutes long, with select US creators."
   },
   {
    "id": "8e8a1460ad36",
@@ -735,7 +833,8 @@
    "categories": [
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Acer's Predator Atlas 8 handheld comes to the US on Nov 1 as a $1,299.99 Best Buy exclusive."
   },
   {
    "id": "05590df87e0f",
@@ -835,7 +934,21 @@
    "categories": [
     "ai"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "Microsoft has offered voluntary buyouts to about 60,000 employees, roughly a quarter of its workforce, as AI spending climbs."
+  },
+  {
+   "id": "41572ea494f0",
+   "title": "Galaxy Z Fold 8 is still $200 off as iPhone Duo displays crack",
+   "url": "https://9to5google.com/2026/10/27/galaxy-z-fold-8-discount-iphone-duo-displays/",
+   "source": "9to5Google",
+   "published": "2026-10-27T11:30:00Z",
+   "categories": [
+    "android",
+    "apple",
+    "samsung"
+   ],
+   "rumor": false
   },
   {
    "id": "36e216cdbe75",
@@ -992,7 +1105,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Xiaomi's Smart Band 11 is now on sale in Europe for EUR 60, or EUR 80 with NFC."
   },
   {
    "id": "275727595e90",
@@ -1003,7 +1117,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "Leaker Digital Chat Station says the iPhone 18e keeps a 60Hz display but moves to the A20 chip and may get a better selfie camera."
   },
   {
    "id": "879665fd4780",
@@ -1026,7 +1141,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Android Police's review calls the Fitbit Edge the best Charge-style tracker Fitbit has made."
   },
   {
    "id": "d5158845f8cf",
@@ -1059,7 +1175,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "The Dutch government plans to cut 25,000 civil service jobs using AI, part of a plan to save EUR 3.5 billion by 2035."
   },
   {
    "id": "7033e47ab23f",
@@ -1070,7 +1187,8 @@
    "categories": [
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Emberville's early access launch has been pushed to 2027 just one day before it was due."
   },
   {
    "id": "9d2a31468baa",
@@ -1147,7 +1265,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Anthropic is reportedly eyeing a valuation of up to $2 trillion in its IPO, and its filing warns AI could pose catastrophic risks."
   },
   {
    "id": "4103d6bc510a",
@@ -1188,7 +1307,8 @@
    "source": "Tom's Hardware",
    "published": "2026-10-27T09:20:00Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "Musk says SpaceX closed $40 billion in debt financing for GPUs due in the first half of 2027."
   },
   {
    "id": "59ac810434b0",
@@ -1283,7 +1403,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "OpenAI says its models produced new results in math, computer science and physics, including a claimed disproof of the Exponential Time Hypothesis."
   },
   {
    "id": "6930088d3302",
@@ -1318,7 +1439,8 @@
     "gaming",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "South Korea's FTC fined Samsung $15 million over the Game Optimizing Service throttling on Galaxy S21 and S22 phones."
   },
   {
    "id": "474d45c579ed",
@@ -1331,7 +1453,8 @@
     "chips",
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Acer's Intel Arc-powered Predator Atlas 8 handheld finally has a US price and date: $1,299.99 on Nov 1."
   },
   {
    "id": "82af750aa80d",
@@ -6583,96 +6706,6 @@
     "gaming"
    ],
    "rumor": false
-  },
-  {
-   "id": "5e672030fb36",
-   "title": "Don't throw away your old Chromebook (even if you're getting a Googlebook)",
-   "url": "https://www.engadget.com/2292939/dont-throw-away-old-chromebook-even-if-getting-googlebook/",
-   "source": "Engadget",
-   "published": "2026-10-25T13:15:00Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "bcc964123c60",
-   "title": "Weekly poll results: the OnePlus 16 could have been a global hit",
-   "url": "https://www.gsmarena.com/weekly_poll_results_the_oneplus_16_could_have_been_a_global_hit-news-75170.php",
-   "source": "GSMArena",
-   "published": "2026-10-25T13:02:02Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": true
-  },
-  {
-   "id": "e75438b8c5a1",
-   "title": "Lightweight Linux distros make your old hardware useful again, and they're not the nightmare you remember",
-   "url": "https://www.xda-developers.com/lightweight-linux-distros-make-old-hardware-useful-again-not-nightmare-they-used-be/",
-   "source": "XDA Developers",
-   "published": "2026-10-25T13:00:20Z",
-   "categories": [],
-   "rumor": false
-  },
-  {
-   "id": "a46dbab478f4",
-   "title": "What tech is making you happy?",
-   "url": "https://9to5google.com/2026/10/25/what-tech-is-making-you-happy/",
-   "source": "9to5Google",
-   "published": "2026-10-25T13:00:00Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "dc08ad2034f5",
-   "title": "Nvidia discusses $2,000-per-GPU annual fee for software that 'runs agents on AI factories'",
-   "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-discusses-usd2-000-per-gpu-annual-software-fee-for-running-agents-on-ai-infrastructure-firm-already-charges-more-than-twice-that-amount-for-its-ai-enterprise-software-platform",
-   "source": "Tom's Hardware",
-   "published": "2026-10-25T13:00:00Z",
-   "categories": [
-    "ai",
-    "chips"
-   ],
-   "rumor": false,
-   "summary": "Jensen Huang says NVIDIA's software for running AI agents costs about $2,000 per GPU per year, a sign licensing is becoming a bigger business."
-  },
-  {
-   "id": "e8f935a39d2a",
-   "title": "Seal is the best app to download videos from YouTube and Instagram; it's open source",
-   "url": "https://www.androidpolice.com/seal-youtube-instagram-tik-tok-downloader/",
-   "source": "Android Police",
-   "published": "2026-10-25T12:45:13Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "fd55d38192cc",
-   "title": "When AI glasses could be a worthy headphones replacement",
-   "url": "https://www.engadget.com/2292076/when-ai-glasses-worth-headphones-replacement/",
-   "source": "Engadget",
-   "published": "2026-10-25T12:45:00Z",
-   "categories": [
-    "ai"
-   ],
-   "rumor": true
-  },
-  {
-   "id": "96bdff5a59c0",
-   "title": "Jailbroken PS5s can now run Steam PC games",
-   "url": "https://www.tomshardware.com/video-games/playstation/jailbroken-ps5s-can-now-run-steam-pc-games-you-can-now-sign-in-with-your-steam-account-and-install-games-from-your-library-directly-to-the-console",
-   "source": "Tom's Hardware",
-   "published": "2026-10-25T12:40:11Z",
-   "categories": [
-    "chips",
-    "gaming"
-   ],
-   "rumor": false,
-   "summary": "An alpha-stage GitHub launcher called Playden lets jailbroken PS5s sign in to Steam and run PC games through Wine, with plenty of crashes so far."
   }
  ]
 }

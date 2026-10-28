@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27",
+ "updated": "2026-10-28",
  "scale": {
   "Confirmed": "Announced by the company or shown in an official source.",
   "Likely": "Multiple credible outlets or hard evidence (certifications, databases, supply chain), but no official word.",
@@ -17,11 +17,15 @@
     "chips"
    ],
    "status": "Active",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "expected": "Oct 28, 2026 (Apple 'Pro and tell'); on sale Nov 6 (reported)",
    "claim": "At its Oct 28 launch Apple will announce OLED touchscreen 14- and 16-inch MacBook Pros (M5 Pro/Max), an OLED iPad mini, a 14-inch M6 MacBook Pro and an M6 iMac, with sales from Nov 6.",
-   "why": "The date is now official: on Oct 19 Apple's Greg Joswiak posted the invite for a 'Pro and tell' media experience in Los Angeles on Oct 28 at 10 a.m. PT, one day after Bloomberg's 'on or around Oct 27'. The tagline points to the MacBook Pro, but Apple has not named any product, so the line-up remains a Bloomberg report. Supporting evidence: Bloomberg called the Oct 13 launch correctly; an unreleased iPad mini Smart Folio (A3632) appeared on Apple's French regulatory site; and Gurman says Apple Stores plan an overnight reset on Nov 5-6. The chip question has largely settled: Gurman, 9to5Mac and MacRumors now all say the OLED models use the existing M5 Pro/Max, with M6 only in the entry 14-inch MacBook Pro and iMac. Update Oct 26: part of the claim is already confirmed. Apple announced the OLED iPad mini (8.5-inch, A20 Pro) by press release, with pre-orders Oct 28 and availability Nov 6, matching the reported Nov 6 sales date. Greg Joswiak then teased an 'exciting week', and Gurman's Oct 25 newsletter repeats that the touchscreen MacBook Pros come Wednesday. The MacBook Pro and iMac parts are still unannounced. We will resolve this on Oct 28. Update Oct 27: more of the claim is now confirmed, a day early. Apple announced the 14-inch MacBook Pro with M6 ($1,999) and the iMac with M6 ($1,499) by press release, both with pre-orders Oct 28 and availability Nov 6, matching Gurman's line-up and the Nov 6 sales date. Only the OLED touchscreen 14- and 16-inch MacBook Pros remain unannounced; Gurman still expects them Wednesday. We keep this at Likely and will resolve it on Oct 28.",
+   "why": "The date is now official: on Oct 19 Apple's Greg Joswiak posted the invite for a 'Pro and tell' media experience in Los Angeles on Oct 28 at 10 a.m. PT, one day after Bloomberg's 'on or around Oct 27'. The tagline points to the MacBook Pro, but Apple has not named any product, so the line-up remains a Bloomberg report. Supporting evidence: Bloomberg called the Oct 13 launch correctly; an unreleased iPad mini Smart Folio (A3632) appeared on Apple's French regulatory site; and Gurman says Apple Stores plan an overnight reset on Nov 5-6. The chip question has largely settled: Gurman, 9to5Mac and MacRumors now all say the OLED models use the existing M5 Pro/Max, with M6 only in the entry 14-inch MacBook Pro and iMac. Update Oct 26: part of the claim is already confirmed. Apple announced the OLED iPad mini (8.5-inch, A20 Pro) by press release, with pre-orders Oct 28 and availability Nov 6, matching the reported Nov 6 sales date. Greg Joswiak then teased an 'exciting week', and Gurman's Oct 25 newsletter repeats that the touchscreen MacBook Pros come Wednesday. The MacBook Pro and iMac parts are still unannounced. We will resolve this on Oct 28. Update Oct 27: more of the claim is now confirmed, a day early. Apple announced the 14-inch MacBook Pro with M6 ($1,999) and the iMac with M6 ($1,499) by press release, both with pre-orders Oct 28 and availability Nov 6, matching Gurman's line-up and the Nov 6 sales date. Only the OLED touchscreen 14- and 16-inch MacBook Pros remain unannounced; Gurman still expects them Wednesday. We keep this at Likely and will resolve it on Oct 28. Update Oct 28 (before the 10 a.m. PT event): Apple CEO John Ternus posted a teaser video on X this morning, and a leaker found Dynamic Island assets in macOS 27. Bloomberg adds that Apple has discussed $2,899 for the 14-inch OLED model ($400 more than the current M5 Pro model). Apple has still not confirmed the OLED models, so this stays Likely until the announcement.",
    "sources": [
+    {
+     "name": "MacRumors (Ternus teaser, Oct 28)",
+     "url": "https://www.macrumors.com/2026/10/28/apple-ceo-john-ternus-teases-touchscreen-macbook/"
+    },
     {
      "name": "Apple Newsroom (14-inch MacBook Pro with M6)",
      "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/"
@@ -61,6 +65,10 @@
     {
      "name": "9to5Mac",
      "url": "https://9to5mac.com/2026/10/18/new-macbook-pro-with-touchscreen-and-oled-november-6-release/"
+    },
+    {
+     "name": "9to5Mac (macOS 27 Dynamic Island assets)",
+     "url": "https://9to5mac.com/2026/10/28/on-the-day-of-the-touchscreen-mac-launch-dynamic-island-elements-found-in-macos-27/"
     }
    ],
    "first_reported": "2026-10-08"
@@ -1221,17 +1229,25 @@
   {
    "id": "huawei-pura-90-plus",
    "title": "Huawei adds a Pura 90 Plus with a 1-inch variable-aperture camera",
-   "rating": "Likely",
+   "rating": "Confirmed",
    "categories": [
     "android"
    ],
-   "status": "Active",
+   "status": "Resolved",
    "first_reported": "2026-10-22",
-   "updated": "2026-10-25",
-   "expected": "Oct 28, 2026 (China, on sale)",
+   "updated": "2026-10-28",
+   "expected": "Oct 28, 2026 (launched)",
    "claim": "Huawei is preparing a Pura 90 Plus with a 50MP 1-inch-type RYYB variable-aperture main camera in a triple setup, a 6.8-inch 1.5K screen and four colors.",
-   "why": "The phone itself is now official: on Oct 23 Huawei opened Pura 90 Plus pre-orders in China for an Oct 28 sale and showed four colors (matching the tipster's 'four colors') and up to 12GB/1TB. The camera and screen specs still come only from Weibo tipster Digital Chat Station, who has a decent record on Chinese phones, and Huawei has not published them. On Oct 25 live images of store display units showed a 2848x1276 (1.5K-class) screen and the Kirin 9025, matching the tipster's screen claim; the 1-inch variable-aperture camera is still unconfirmed. We will resolve this on Oct 28.",
+   "why": "The phone itself is now official: on Oct 23 Huawei opened Pura 90 Plus pre-orders in China for an Oct 28 sale and showed four colors (matching the tipster's 'four colors') and up to 12GB/1TB. The camera and screen specs still come only from Weibo tipster Digital Chat Station, who has a decent record on Chinese phones, and Huawei has not published them. On Oct 25 live images of store display units showed a 2848x1276 (1.5K-class) screen and the Kirin 9025, matching the tipster's screen claim; the 1-inch variable-aperture camera is still unconfirmed. We will resolve this on Oct 28. Update Oct 28: Huawei launched the Pura 90 Plus with a 50MP 1-inch-type main camera with an f/1.4-4.0 variable aperture (RYYB, per Sina), a triple rear camera, a 6.8-inch 2848x1276 LTPO screen and four colors.",
    "sources": [
+    {
+     "name": "GSMArena (launch)",
+     "url": "https://www.gsmarena.com/huawei_pura_90_plus_launched_with_kirin_9025_and_1inch_type_main_sensor_with_variable_aperture_-news-75242.php"
+    },
+    {
+     "name": "Sina Tech (launch, Chinese)",
+     "url": "https://finance.sina.com.cn/jjxw/2026-10-28/doc-iniwukpx9488741.shtml"
+    },
     {
      "name": "GSMArena (official pre-orders)",
      "url": "https://www.gsmarena.com/huawei_pura_90_plus_to_launch_next_week_design_and_color_options_revealed-news-75181.php"
@@ -1244,7 +1260,8 @@
      "name": "GSMArena (live images)",
      "url": "https://www.gsmarena.com/huawei_pura_90_plus_appears_in_live_images_ahead_of_launch_chipset_revealed-news-75199.php"
     }
-   ]
+   ],
+   "outcome": "True. Huawei launched the Pura 90 Plus on Oct 28 with a 50MP 1-inch-type variable-aperture main camera in a triple camera setup, a 6.8-inch 1.5K-class screen and four colors, matching every part of the claim."
   },
   {
    "id": "samsung-w27-fold-8-ultra",
@@ -1256,11 +1273,15 @@
    ],
    "status": "Active",
    "first_reported": "2026-10-22",
-   "updated": "2026-10-23",
+   "updated": "2026-10-28",
    "expected": "Oct 29, 2026 (China launch confirmed)",
    "claim": "Samsung will release a W27 in China, a more premium Galaxy Z Fold 8 Ultra in blue with gold accents.",
-   "why": "Samsung has now confirmed on Weibo a China launch on Oct 29 for a gold-framed book-style foldable, and its linked page mentions 'W2026' and the W series. That makes a W-series Fold 8 Ultra variant very likely, but Samsung has not used the W27 name or confirmed specs; Ice Universe says it matches the Z Fold 8 Ultra. We will resolve this on Oct 29.",
+   "why": "Samsung has now confirmed on Weibo a China launch on Oct 29 for a gold-framed book-style foldable, and its linked page mentions 'W2026' and the W series. That makes a W-series Fold 8 Ultra variant very likely, but Samsung has not used the W27 name or confirmed specs; Ice Universe says it matches the Z Fold 8 Ultra. We will resolve this on Oct 29. Update Oct 28: Evan Blass, who has a strong record, posted official-looking renders on Oct 27 showing a dark blue Fold 8-style phone with gold accents and the W-series gold logo. Samsung still has not named it; launch is Oct 29.",
    "sources": [
+    {
+     "name": "GSMArena (Evan Blass renders)",
+     "url": "https://www.gsmarena.com/samsungs_next_foldable_leaks_in_officiallooking_renders-news-75227.php"
+    },
     {
      "name": "Android Authority (Samsung confirms Oct 29)",
      "url": "https://www.androidauthority.com/samsung-next-foldable-phone-october-29-3727071/"
@@ -1647,6 +1668,67 @@
     {
      "name": "Android Authority",
      "url": "https://www.androidauthority.com/apple-iphone-18e-leaked-specs-3728368/"
+    }
+   ]
+  },
+  {
+   "id": "galaxy-z-fold-9-plus-or-fe",
+   "title": "Samsung adds a Galaxy Z Fold 9 Plus or Fold 9 FE next to the wide Fold 9",
+   "rating": "Rumor",
+   "categories": [
+    "samsung",
+    "android"
+   ],
+   "status": "Active",
+   "first_reported": "2026-10-28",
+   "updated": "2026-10-28",
+   "expected": "Mid-2027 at the earliest",
+   "claim": "Samsung is testing two extra wide-format Fold 9 variants, a larger 'Plus' and a cheaper, spec-trimmed 'FE', and will pick one to sell alongside the Galaxy Z Fold 9.",
+   "why": "A single leaker, Lanzuk (yeux1122) on Naver, citing unnamed display supply-chain sources. The leaker says Samsung will choose only one of the two and the plan is in early testing, so it could easily change before mid-2027. Samsung has not commented.",
+   "sources": [
+    {
+     "name": "Android Authority",
+     "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-9-plus-fe-leak-3728941/"
+    }
+   ]
+  },
+  {
+   "id": "motorola-signature-27-europe-price",
+   "title": "Motorola Signature 27 costs about €1,595 in Europe, and a Razr Flex 27 about €1,511",
+   "rating": "Rumor",
+   "categories": [
+    "android"
+   ],
+   "status": "Active",
+   "first_reported": "2026-10-28",
+   "updated": "2026-10-28",
+   "expected": "Signature 27 US launch date not set; Razr Flex reportedly December",
+   "claim": "The Motorola Signature 27 (12GB/512GB) will cost €1,594.90 in Europe, up nearly 60% from the first Signature's €999, and the unannounced Razr Flex 27 (12GB/256GB) will cost €1,510.90.",
+   "why": "The prices come from listings on Portuguese retailer MegaPC. Retailer listings are real evidence but often use placeholder prices: the Razr Flex listings have no photos, one wrongly describes a clamshell, and all are out of stock with no ship date. Motorola has not confirmed European or US pricing.",
+   "sources": [
+    {
+     "name": "Android Authority",
+     "url": "https://www.androidauthority.com/motorola-signature-27-razr-flex-27-price-leak-3728825/"
+    }
+   ]
+  },
+  {
+   "id": "vivo-x500s-screen",
+   "title": "vivo is testing an X500s with a 6.85-inch flat 2K 144Hz screen",
+   "rating": "Rumor",
+   "categories": [
+    "android"
+   ],
+   "status": "Active",
+   "first_reported": "2026-10-28",
+   "updated": "2026-10-28",
+   "expected": "Possibly with the X500 Ultra, rumored for Mar-Apr 2027 (China)",
+   "claim": "vivo has a 'small s iteration' of the X500 series in testing with a 6.85-inch flat screen, 2K+ resolution, 144Hz and equal bezels, likely the X500s.",
+   "why": "Weibo tipster Digital Chat Station, who has a good record on Chinese phones, described the engineering sample but did not name it; the X500s label is readers' and GSMArena's inference. The X300s launched with the X300 Ultra in March, so a spring 2027 debut alongside the X500 Ultra is a guess based on that pattern.",
+   "sources": [
+    {
+     "name": "GSMArena",
+     "url": "https://www.gsmarena.com/vivo_x500s_screen_details_leak_testing_is_already_underway-news-75234.php"
     }
    ]
   }

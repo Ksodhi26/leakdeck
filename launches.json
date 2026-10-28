@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27",
+ "updated": "2026-10-28",
  "items": [
   {
    "id": "gtc-berlin-2026",
@@ -383,9 +383,13 @@
    "precision": "day",
    "status": "Confirmed",
    "price": "",
-   "summary": "Apple's 'Pro and tell' launch is Oct 28; the OLED iPad mini, M6 MacBook Pro and M6 iMac already came by press release, leaving the reported OLED touchscreen MacBook Pros for Wednesday.",
-   "details": "Apple's Greg Joswiak posted the invite on Oct 19: a media experience in Los Angeles on Wednesday, Oct 28 at 10 a.m. PT, so expect press releases and hands-on sessions rather than a keynote. Apple has spent the week announcing products early: the OLED iPad mini on Oct 26, then on Oct 27 the 14-inch MacBook Pro with M6 and the iMac with M6 (see their own entries; all three open for pre-order Oct 28 and ship Nov 6). What is left is Mark Gurman's main claim: 14- and 16-inch OLED touchscreen MacBook Pros with a Dynamic Island, 'significantly lighter' but not much thinner, using the existing M5 Pro and M5 Max, and possibly up to $500 more than today's mini-LED models, which stay on sale. Apple has not confirmed these. Gurman says Apple Stores plan an overnight reset on Nov 5-6, pointing to a Nov 6 release.",
+   "summary": "Apple's 'Pro and tell' launch is today, Oct 28 at 10 a.m. PT; the reported OLED touchscreen MacBook Pros are the one big product not yet announced.",
+   "details": "Apple's Greg Joswiak posted the invite on Oct 19: a media experience in Los Angeles on Wednesday, Oct 28 at 10 a.m. PT, so expect press releases and hands-on sessions rather than a keynote. Apple has spent the week announcing products early: the OLED iPad mini on Oct 26, then on Oct 27 the 14-inch MacBook Pro with M6 and the iMac with M6 (see their own entries; all three open for pre-order Oct 28 and ship Nov 6). What is left is Mark Gurman's main claim: 14- and 16-inch OLED touchscreen MacBook Pros with a Dynamic Island, 'significantly lighter' but not much thinner, using the existing M5 Pro and M5 Max, and possibly up to $500 more than today's mini-LED models, which stay on sale. Apple has not confirmed these. Gurman says Apple Stores plan an overnight reset on Nov 5-6, pointing to a Nov 6 release. Update Oct 28 (morning PT, before the event): Apple CEO John Ternus posted a short teaser video on X, and leaker pdfu found Dynamic Island assets in macOS 27. Bloomberg reports Apple has discussed $2,899 for the 14-inch OLED model (M5 Pro), $400 above today's model, with the 16-inch expected at $3,399 or more, and MacRumors expects pre-orders to open at 10:10 a.m. PT. The final name is also unknown. Pre-orders for the OLED iPad mini, M6 iMac and M6 14-inch MacBook Pro open today at 10:10 a.m. PT. We will update this entry after Apple's announcement.",
    "sources": [
+    {
+     "name": "MacRumors (Ternus teaser, Oct 28)",
+     "url": "https://www.macrumors.com/2026/10/28/apple-ceo-john-ternus-teases-touchscreen-macbook/"
+    },
     {
      "name": "Apple Newsroom (14-inch MacBook Pro with M6)",
      "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/"
@@ -421,6 +425,10 @@
     {
      "name": "heise (Nov 6 availability)",
      "url": "https://www.heise.de/en/news/OLED-MacBook-Pro-Available-Nov-6-with-chip-details-11492775.html"
+    },
+    {
+     "name": "The Verge (Bloomberg price report)",
+     "url": "https://www.theverge.com/tech/1020223/apples-oled-touchscreen-macbook-pro-could-cost-at-least-2899"
     }
    ]
   },
@@ -433,13 +441,17 @@
    ],
    "type": "Phone",
    "date": "2026-10-27",
-   "date_label": "Oct 27, 2026 (Europe, 16:00 CET)",
+   "date_label": "Oct 27, 2026 (Europe)",
    "precision": "day",
-   "status": "Confirmed",
-   "price": "",
-   "summary": "vivo's ZEISS camera flagships, already out in China, launch in Europe at an event on Oct 27.",
-   "details": "Both run MediaTek's 2nm Dimensity 9600 Pro. The Pro Max has a 200MP ZEISS APO telephoto camera and supports a 400mm-equivalent clip-on teleconverter; the smaller Pro has a 6.36-inch screen. vivo says prices, configurations and regional availability come at the event. The standard X500 is not part of the European launch.",
+   "status": "Released",
+   "price": "X500 Pro from €1,399; X500 Pro Max from €1,599",
+   "summary": "vivo launched the X500 Pro and X500 Pro Max in Europe on Oct 27, from €1,399 and €1,599, with launch discounts and free extras until Nov 30.",
+   "details": "Both run MediaTek's 2nm Dimensity 9600 Pro. The Pro Max has a 200MP ZEISS APO telephoto camera and supports a 400mm-equivalent clip-on teleconverter; the smaller Pro has a 6.36-inch screen. The standard X500 is not part of the European launch. It launched at an event in Tenerife on Oct 27. List prices: X500 Pro 12GB/256GB €1,399 and 12GB/512GB €1,599; X500 Pro Max 12GB/256GB €1,599, 12GB/512GB €1,799 and 12GB/1TB €2,199 (1TB only through vivo's own store). European models all have 12GB of RAM. Early-bird offers (lower launch prices in some countries, a registration voucher, the camera grip with the Pro Max or vivo Headphones Studio with the Pro) run until Nov 30; exact deals vary by country.",
    "sources": [
+    {
+     "name": "MobiArabia (European prices)",
+     "url": "https://mobiarabia.com/en/news/vivo-x500-pro-pro-max-europe-launch/"
+    },
     {
      "name": "vivo Austria newsroom",
      "url": "https://www.vivo.com/at/about-vivo/news/x500-series"
@@ -447,6 +459,14 @@
     {
      "name": "tech-ish",
      "url": "https://tech-ish.com/2026/10/13/vivo-x500-pro-and-x500-pro-max-launch-in-europe-on-27th-october/"
+    },
+    {
+     "name": "Xataka (Spain prices, Spanish)",
+     "url": "https://www.xataka.com/seleccion/vivo-x500-pro-x500-pro-max-dos-nuevos-moviles-que-apuestan-fuerte-zoom-video"
+    },
+    {
+     "name": "vivo official store (DE)",
+     "url": "https://vivo-official.com/de/pages/x500"
     }
    ]
   },
@@ -531,13 +551,25 @@
    ],
    "type": "Phone",
    "date": "2026-10-28",
-   "date_label": "Oct 28, 2026, 14:30 Beijing time (China)",
+   "date_label": "Oct 28, 2026 (China; open sales Oct 31)",
    "precision": "day",
-   "status": "Confirmed",
-   "price": "",
-   "summary": "Huawei has confirmed a Pura 90 Plus and opened pre-orders in China; it goes on sale Oct 28.",
-   "details": "Huawei confirmed the Pura 90 Plus for its Oct 28 'Double 11' launch event at 14:30 Beijing time and opened reservations on Oct 23 (a 200 yuan deposit, with the balance due by Oct 29). Huawei's online store shows curved sides (the other Pura 90 models are flat), the familiar triangular camera module, four colors (Dawn Gold, Obsidian Black, Sunset Purple, Snowy White) and 12GB of RAM with 256GB, 512GB or 1TB of storage. Japanese site Daily Gadget, citing IT Home, says Huawei has confirmed it is the first phone with the Kirin 9025 chip. Huawei has not published other specs or the price; a tipster's claim of a 1-inch-type variable-aperture main camera and a 6.8-inch 1.5K screen is tracked on our rumor page. Display units already in Huawei stores (GSMArena, Oct 25) show the Kirin 9025, 12GB of RAM, a 2848x1276 screen, HarmonyOS 7 and model number LCI-AL00.",
+   "status": "Released",
+   "price": "From 5,499 yuan (12GB/256GB)",
+   "summary": "Huawei launched the Pura 90 Plus in China on Oct 28 with the Kirin 9025 and a 1-inch-type variable-aperture main camera, from 5,499 yuan; open sales start Oct 31.",
+   "details": "Launched at Huawei's 'Double 11' event on Oct 28. Prices: 5,499 yuan (12GB/256GB), 5,999 yuan (512GB) and 6,999 yuan (1TB), with up to 300 yuan off during the Double 11 promotion (from 5,199 yuan) until Nov 30; open sales start Oct 31 at 10:08. It sits between the Pura 90 and Pura 90 Pro. Specs per Huawei and GSMArena: Kirin 9025 (Huawei claims about 20% faster than the Kirin 9020), a 6.8-inch LTPO OLED (2848x1276, 1-120Hz) with curved sides and second-gen Kunlun Glass, a 50MP 1-inch-type main camera with f/1.4-4.0 variable aperture, a 48MP 4x telephoto that doubles as macro, a 40MP ultrawide, a 13MP selfie camera, a 5,700mAh battery with 100W wired and 80W wireless charging, IP68/69, satellite connectivity and HarmonyOS 7. Colors: Sunset Purple, Dawn Gold, Snowy White and Obsidian Black.",
    "sources": [
+    {
+     "name": "GSMArena (launch)",
+     "url": "https://www.gsmarena.com/huawei_pura_90_plus_launched_with_kirin_9025_and_1inch_type_main_sensor_with_variable_aperture_-news-75242.php"
+    },
+    {
+     "name": "Sina Tech (launch, Chinese)",
+     "url": "https://finance.sina.com.cn/jjxw/2026-10-28/doc-iniwukpx9488741.shtml"
+    },
+    {
+     "name": "ijiwei (prices, Chinese)",
+     "url": "https://ijiwei.com/n/1126149"
+    },
     {
      "name": "GSMArena",
      "url": "https://www.gsmarena.com/huawei_pura_90_plus_to_launch_next_week_design_and_color_options_revealed-news-75181.php"
@@ -569,13 +601,25 @@
    ],
    "type": "Phone",
    "date": "2026-10-28",
-   "date_label": "Oct 28, 2026, 14:30 (China)",
+   "date_label": "Oct 28, 2026 (China; Enjoy 100 sales Oct 31)",
    "precision": "day",
-   "status": "Confirmed",
-   "price": "",
-   "summary": "Huawei unveils four budget Enjoy 100 phones on Oct 28 in China, with Kirin 8-series chips and big batteries; pre-orders are open.",
-   "details": "Huawei's poster names the Enjoy 100 Pro Max (Kirin 8020 on 512GB, Kirin 8020A on 256GB and 128GB), the Enjoy 100 Pro (Kirin 8020A), and the Enjoy 100 and Enjoy 100m (Kirin 8000S), with a large 'Giant Whale' battery and HarmonyOS anti-fraud features. Earlier reports point to an 8,800mAh battery, a flat 6.84-inch 1.5K screen and BeiDou satellite messaging on the Pro Max and HarmonyOS 7 across the lineup; prices come at launch.",
+   "status": "Released",
+   "price": "Enjoy 100 from 1,399 yuan; Pro from 1,799; Pro Max from 1,999",
+   "summary": "Huawei launched the Enjoy 100, 100 Pro and 100 Pro Max budget phones in China on Oct 28, from 1,399 yuan, with Kirin 8-series chips and big batteries.",
+   "details": "Launched at Huawei's Oct 28 'Double 11' event with HarmonyOS 7. Enjoy 100: Kirin 8000S, 6,100mAh battery, 128GB (1,399 yuan) or 256GB (1,699 yuan), on sale Oct 31. Enjoy 100 Pro (from 1,799 yuan): 6.7-inch 120Hz OLED, Kirin 8020A, 50MP RYYB main camera, 32MP selfie camera, 6,100mAh with 40W charging. Enjoy 100 Pro Max (from 1,999 yuan): 6.84-inch 120Hz OLED rated up to 8,000 nits peak, 8,800mAh battery with 40W charging, Kirin 8020A on 128GB/256GB and Kirin 8020 on 512GB, 8MP selfie camera. The Pro models are on sale now. Earlier reports also named an Enjoy 100m; we have not seen its launch details.",
    "sources": [
+    {
+     "name": "GSMArena (Pro, Pro Max)",
+     "url": "https://www.gsmarena.com/huawei_enjoy_100_and_enjoy_100_pro_are_official-news-75243.php"
+    },
+    {
+     "name": "IT Home (Enjoy 100 prices, Chinese)",
+     "url": "https://www.ithome.com/1/018/922.htm"
+    },
+    {
+     "name": "Gizmochina",
+     "url": "https://www.gizmochina.com/2026/10/28/huawei-enjoy-100-launches-with-kirin-8000s-and-6100mah-battery/"
+    },
     {
      "name": "GSMArena",
      "url": "https://www.gsmarena.com/huawei_enjoy_100_series_launch_date_confirmed_preorders_open-news-75187.php"
@@ -632,6 +676,10 @@
     {
      "name": "GSMArena",
      "url": "https://www.gsmarena.com/this_is_samsungs_next_foldable_and_its_launching_in_just_a_few_days-news-75178.php"
+    },
+    {
+     "name": "GSMArena (Evan Blass renders)",
+     "url": "https://www.gsmarena.com/samsungs_next_foldable_leaks_in_officiallooking_renders-news-75227.php"
     }
    ]
   },
@@ -704,11 +752,19 @@
    "date": "2026-10-28",
    "date_label": "Oct 28, 2026 (China)",
    "precision": "day",
-   "status": "Confirmed",
-   "price": "",
-   "summary": "iQOO's fan-cooled gaming flagship launches in China on Oct 28; pre-orders are already open.",
-   "details": "iQOO has confirmed the Snapdragon 8 Elite Gen 5 chip with its own Q3 gaming chip, a 2K 185Hz AMOLED screen (2,200 nits in high-brightness mode), a 9,000mAh battery, an Ice-Dome cooling system with a built-in fan in the camera module, a polished metal frame and a 3D ultrasonic fingerprint sensor. It goes on sale the same day it launches. Colors: Fierce Edge, Shadow Black and Frost Blade Blue. Camera, charging and pricing details come at launch. A report says it could reach some global markets as the iQOO 16R, which iQOO has not confirmed.",
+   "status": "Released",
+   "price": "From 4,399 yuan (12GB/256GB)",
+   "summary": "iQOO launched the fan-cooled Neo12 in China on Oct 28 with the Snapdragon 8 Elite Gen 5 and a 9,000mAh battery, from 4,399 yuan; sales started right away.",
+   "details": "Prices: 4,399 yuan (12GB/256GB), 4,799 (16/256), 5,099 (12/512), 5,499 (16/512) and 6,499 (16GB/1TB); launch and platform discounts until Nov 3 plus China's national subsidy cut the entry price to 3,149 yuan where eligible. Specs: Snapdragon 8 Elite Gen 5 with iQOO's Q3 gaming chip, an active cooling fan plus vapor chamber, a 6.83-inch 2K 185Hz AMOLED (up to 2,200 nits), a 9,000mAh battery with 100W wired charging, a 50MP main camera (Sony IMX921, OIS), 8MP ultrawide, 16MP selfie camera, 3D ultrasonic fingerprint sensor and OriginOS 7 (Android 17). iQOO has not confirmed a global version.",
    "sources": [
+    {
+     "name": "IT Home (prices, Chinese)",
+     "url": "https://www.ithome.com/1/019/165.htm"
+    },
+    {
+     "name": "Gadgets360 (prices, specs)",
+     "url": "https://www.gadgets360.com/mobiles/news/iqoo-neo-12-price-launch-sale-date-specifications-features-12248820"
+    },
     {
      "name": "Fone Arena",
      "url": "https://www.fonearena.com/blog/495123/iqoo-neo12-display-battery-teaser.html"
@@ -1993,7 +2049,7 @@
    "status": "Released",
    "price": "299,000 won (Korea)",
    "summary": "Samsung's first clip-style open-ear Galaxy Buds went on sale in South Korea on Oct 27 for 299,000 won; other markets come later.",
-   "details": "Samsung says the Galaxy Buds On rest on the ear without blocking the canal, with Twin Boost speakers, sound-leakage reduction, automatic volume adjustment, three mics plus a bone-conduction sensor for calls, head-gesture control and up to 9.5 hours of playback. Korea gets one black model. Samsung has not set dates for other markets; European retail listings reported by Android Authority hint at the first half of December, which is unconfirmed. Update Oct 27: sales started on schedule via Samsung.com, online marketplaces and Samsung Stores; buyers through Nov 30 get two 30%-off accessory coupons.",
+   "details": "Samsung says the Galaxy Buds On rest on the ear without blocking the canal, with Twin Boost speakers, sound-leakage reduction, automatic volume adjustment, three mics plus a bone-conduction sensor for calls, head-gesture control and up to 9.5 hours of playback. Korea gets one black model. Samsung has not set dates for other markets; European retail listings reported by Android Authority hint at the first half of December, which is unconfirmed. Update Oct 27: sales started on schedule via Samsung.com, online marketplaces and Samsung Stores; buyers through Nov 30 get two 30%-off accessory coupons. Update Oct 28: Samsung announced US availability in early November at $229 (black only); see the separate US entry.",
    "sources": [
     {
      "name": "Samsung Korea store",
@@ -2028,11 +2084,15 @@
    "date": "2026-10-28",
    "date_label": "Oct 28, 2026 (China)",
    "precision": "day",
-   "status": "Confirmed",
-   "price": "",
-   "summary": "Li Auto launches the refreshed 2026 i6 electric SUV in China on Oct 28, with orders opening right away and deliveries in early November.",
-   "details": "Li Auto announced the schedule on Weibo: a launch event on Oct 28, test drives and orders immediately afterward, and first deliveries in early November. The five-seat SUV switches to Li Auto's in-house 5C battery and Mach driver-assistance chip, with single-motor and dual-motor AWD versions and semi-hidden door handles. Pricing comes at launch; the current i6 starts at 249,800 yuan, and Li Auto president Liu Jie has said the new one will not be cheaper. A European version (Li 6) is due in Norway and the Netherlands in Q1 2027.",
+   "status": "Released",
+   "price": "249,800 yuan (239,800 yuan launch offer until Nov 30)",
+   "summary": "Li Auto launched the 2026 i6 in China on Oct 28 at an unchanged 249,800 yuan, with its own M100 chip, a 96kWh in-house battery and deliveries from early November.",
+   "details": "The five-seat electric SUV keeps the 2025 model's 249,800-yuan price, with a 10,000-yuan launch offer until Nov 30. Li Auto's in-house Mach M100 driver-assistance chip (1,280 TOPS) replaces Nvidia's Thor-U, with a dual-M100 option that adds three more lidars. The in-house Lianshan 5C LFP battery grows to 96kWh, raising CLTC range to 780 km (RWD) and 710 km (AWD). Inside, a 29-inch 6K panoramic screen replaces the twin 15.7-inch displays. Orders are open with deliveries in as little as 1-2 weeks. A European version (Li 6) is due in Norway and the Netherlands in Q1 2027.",
    "sources": [
+    {
+     "name": "CnEVPost (launch)",
+     "url": "https://cnevpost.com/2026/10/28/li-auto-launches-2026-i6/"
+    },
     {
      "name": "CnEVPost",
      "url": "https://cnevpost.com/2026/10/09/li-auto-launch-2026-li-i6-oct-28/"
@@ -2044,6 +2104,10 @@
     {
      "name": "21jingji (no price cut, Chinese)",
      "url": "https://www.21jingji.com/article/20261022/herald/3fd48b3d20426e7ea201e9a704741c33.html"
+    },
+    {
+     "name": "Li Auto via GlobeNewswire",
+     "url": "https://www.globenewswire.com/news-release/2026/10/28/3390284/0/en/li-auto-inc-launches-2026-li-i6-a-pioneering-five-seat-suv.html"
     }
    ]
   },
@@ -2336,6 +2400,107 @@
     {
      "name": "Android Authority",
      "url": "https://www.androidauthority.com/acer-predator-atlas-8-us-pricing-availability-3728356/"
+    }
+   ]
+  },
+  {
+   "id": "samsung-galaxy-buds-on-us",
+   "name": "Samsung Galaxy Buds On (US)",
+   "brand": "Samsung",
+   "categories": [
+    "samsung",
+    "android"
+   ],
+   "type": "Gadget",
+   "date": "2026-11-01",
+   "date_label": "Early Nov 2026 (US)",
+   "precision": "window",
+   "status": "Confirmed",
+   "price": "$229",
+   "summary": "Samsung's clip-on open-ear Galaxy Buds On come to the US in early November for $229, in black only.",
+   "details": "Announced Oct 28, a day after Korean sales began. Samsung lists a TwinBoost speaker with sound-leakage reduction, automatic volume (a Labs feature), three mics plus a voice pickup sensor for calls, head gestures, Gemini Live and Bixby voice access, IP54 earbuds weighing 6.65g each, Bluetooth 6.2 and up to 9.5 hours of playback (38 hours with the case). Samsung has not given an exact US date.",
+   "sources": [
+    {
+     "name": "Samsung Mobile Press",
+     "url": "https://www.samsungmobilepress.com/articles/galaxy-buds-on-comfortable-open-ear-listening-us"
+    }
+   ]
+  },
+  {
+   "id": "amazon-echo-lineup-oct-2026",
+   "name": "Amazon Echo Dot, Echo Studio with Home Camera, Echo Time and Alexa Photo Frame",
+   "brand": "Amazon",
+   "categories": [
+    "ai"
+   ],
+   "type": "Gadget",
+   "date": "2026-10-28",
+   "date_label": "Oct 28, 2026 (US, on sale now)",
+   "precision": "day",
+   "status": "Released",
+   "price": "",
+   "summary": "Amazon launched a redesigned Echo Dot, a screenless Echo Studio with Home Camera, the Echo Time alarm clock and its first Alexa Photo Frame on Oct 28, all on sale now.",
+   "details": "Built around Alexa Plus, which became available to everyone in the US in February. The new Echo Dot claims 50% more bass, faster on-device processing, an extra mic and Omnisense presence and temperature sensing. The Alexa Photo Frame has a 10-inch anti-glare touchscreen, works with Amazon Photos and doubles as an Alexa speaker, with voice notes attached to photos. The Echo Show 16 announced alongside them ships later (see its own entry). We have not listed prices here.",
+   "sources": [
+    {
+     "name": "The Verge (everything announced)",
+     "url": "https://www.theverge.com/tech/1020403/everything-announced-at-amazons-october-2026-hardware-launch"
+    },
+    {
+     "name": "The Verge (availability)",
+     "url": "https://www.theverge.com/gadgets/1019686/amazon-echo-dot-studio-camera-frame-show-16-buy"
+    },
+    {
+     "name": "Amazon (Alexa Photo Frame)",
+     "url": "https://www.aboutamazon.com/news/devices/amazon-alexa-photo-frame"
+    }
+   ]
+  },
+  {
+   "id": "amazon-echo-show-16",
+   "name": "Amazon Echo Show 16",
+   "brand": "Amazon",
+   "categories": [
+    "ai"
+   ],
+   "type": "Gadget",
+   "date": "2026-12-16",
+   "date_label": "Dec 16, 2026 (pre-orders open)",
+   "precision": "day",
+   "status": "Confirmed",
+   "price": "",
+   "summary": "Amazon's biggest smart display, the Echo Show 16, ships Dec 16; pre-orders opened Oct 28 with an early discount.",
+   "details": "Amazon calls it its most powerful and best-sounding smart display: eight woofers and two tweeters, a VESA-compatible design, an optional pricier nanomatte screen, and the full Fire TV experience by touch. The Verge reports a $100 pre-order discount.",
+   "sources": [
+    {
+     "name": "The Verge (availability)",
+     "url": "https://www.theverge.com/gadgets/1019686/amazon-echo-dot-studio-camera-frame-show-16-buy"
+    },
+    {
+     "name": "The Verge (everything announced)",
+     "url": "https://www.theverge.com/tech/1020403/everything-announced-at-amazons-october-2026-hardware-launch"
+    }
+   ]
+  },
+  {
+   "id": "google-genie-4",
+   "name": "Google Genie 4 world model (research preview)",
+   "brand": "Google",
+   "categories": [
+    "ai"
+   ],
+   "type": "AI model",
+   "date": "2026-10-28",
+   "date_label": "Oct 28, 2026 (trusted testers; AI Ultra in the coming weeks)",
+   "precision": "day",
+   "status": "Released",
+   "price": "",
+   "summary": "Google DeepMind announced Genie 4, a real-time world model that adds generated sound and dialogue; it is a limited research preview for now.",
+   "details": "Google says Genie 4 builds on Gemini Omni, keeps scenes consistent for up to two minutes (double Genie 3), lets users change weather, camera and objects with text prompts, simulates physics and human movement more realistically, and is its first real-time world model with native audio, including dialogue. Gemini 3.8 Flash can act as a guiding agent for multi-step prompts. Output is watermarked with SynthID. Access is limited to trusted testers; Google says it will reach Google AI Ultra subscribers in Project Genie and early-access Gemini API and AI Studio partners in the coming weeks.",
+   "sources": [
+    {
+     "name": "Android Authority",
+     "url": "https://www.androidauthority.com/google-genie-4-ai-world-model-launched-3728951/"
     }
    ]
   }

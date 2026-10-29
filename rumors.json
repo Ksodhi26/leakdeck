@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28",
+ "updated": "2026-10-29",
  "scale": {
   "Confirmed": "Announced by the company or shown in an official source.",
   "Likely": "Multiple credible outlets or hard evidence (certifications, databases, supply chain), but no official word.",
@@ -11,17 +11,25 @@
   {
    "id": "apple-oled-macbook-pro-launch",
    "title": "Apple launches OLED touchscreen MacBook Pros and an M6 lineup at its Oct 28 launch",
-   "rating": "Likely",
+   "rating": "Confirmed",
    "categories": [
     "apple",
     "chips"
    ],
-   "status": "Active",
-   "updated": "2026-10-28",
-   "expected": "Oct 28, 2026 (Apple 'Pro and tell'); on sale Nov 6 (reported)",
+   "status": "Resolved",
+   "updated": "2026-10-29",
+   "expected": "Oct 28, 2026 (announced); on sale Nov 6",
    "claim": "At its Oct 28 launch Apple will announce OLED touchscreen 14- and 16-inch MacBook Pros (M5 Pro/Max), an OLED iPad mini, a 14-inch M6 MacBook Pro and an M6 iMac, with sales from Nov 6.",
-   "why": "The date is now official: on Oct 19 Apple's Greg Joswiak posted the invite for a 'Pro and tell' media experience in Los Angeles on Oct 28 at 10 a.m. PT, one day after Bloomberg's 'on or around Oct 27'. The tagline points to the MacBook Pro, but Apple has not named any product, so the line-up remains a Bloomberg report. Supporting evidence: Bloomberg called the Oct 13 launch correctly; an unreleased iPad mini Smart Folio (A3632) appeared on Apple's French regulatory site; and Gurman says Apple Stores plan an overnight reset on Nov 5-6. The chip question has largely settled: Gurman, 9to5Mac and MacRumors now all say the OLED models use the existing M5 Pro/Max, with M6 only in the entry 14-inch MacBook Pro and iMac. Update Oct 26: part of the claim is already confirmed. Apple announced the OLED iPad mini (8.5-inch, A20 Pro) by press release, with pre-orders Oct 28 and availability Nov 6, matching the reported Nov 6 sales date. Greg Joswiak then teased an 'exciting week', and Gurman's Oct 25 newsletter repeats that the touchscreen MacBook Pros come Wednesday. The MacBook Pro and iMac parts are still unannounced. We will resolve this on Oct 28. Update Oct 27: more of the claim is now confirmed, a day early. Apple announced the 14-inch MacBook Pro with M6 ($1,999) and the iMac with M6 ($1,499) by press release, both with pre-orders Oct 28 and availability Nov 6, matching Gurman's line-up and the Nov 6 sales date. Only the OLED touchscreen 14- and 16-inch MacBook Pros remain unannounced; Gurman still expects them Wednesday. We keep this at Likely and will resolve it on Oct 28. Update Oct 28 (before the 10 a.m. PT event): Apple CEO John Ternus posted a teaser video on X this morning, and a leaker found Dynamic Island assets in macOS 27. Bloomberg adds that Apple has discussed $2,899 for the 14-inch OLED model ($400 more than the current M5 Pro model). Apple has still not confirmed the OLED models, so this stays Likely until the announcement.",
+   "why": "The date is now official: on Oct 19 Apple's Greg Joswiak posted the invite for a 'Pro and tell' media experience in Los Angeles on Oct 28 at 10 a.m. PT, one day after Bloomberg's 'on or around Oct 27'. The tagline points to the MacBook Pro, but Apple has not named any product, so the line-up remains a Bloomberg report. Supporting evidence: Bloomberg called the Oct 13 launch correctly; an unreleased iPad mini Smart Folio (A3632) appeared on Apple's French regulatory site; and Gurman says Apple Stores plan an overnight reset on Nov 5-6. The chip question has largely settled: Gurman, 9to5Mac and MacRumors now all say the OLED models use the existing M5 Pro/Max, with M6 only in the entry 14-inch MacBook Pro and iMac. Update Oct 26: part of the claim is already confirmed. Apple announced the OLED iPad mini (8.5-inch, A20 Pro) by press release, with pre-orders Oct 28 and availability Nov 6, matching the reported Nov 6 sales date. Greg Joswiak then teased an 'exciting week', and Gurman's Oct 25 newsletter repeats that the touchscreen MacBook Pros come Wednesday. The MacBook Pro and iMac parts are still unannounced. We will resolve this on Oct 28. Update Oct 27: more of the claim is now confirmed, a day early. Apple announced the 14-inch MacBook Pro with M6 ($1,999) and the iMac with M6 ($1,499) by press release, both with pre-orders Oct 28 and availability Nov 6, matching Gurman's line-up and the Nov 6 sales date. Only the OLED touchscreen 14- and 16-inch MacBook Pros remain unannounced; Gurman still expects them Wednesday. We keep this at Likely and will resolve it on Oct 28. Update Oct 28 (before the 10 a.m. PT event): Apple CEO John Ternus posted a teaser video on X this morning, and a leaker found Dynamic Island assets in macOS 27. Bloomberg adds that Apple has discussed $2,899 for the 14-inch OLED model ($400 more than the current M5 Pro model). Apple has still not confirmed the OLED models, so this stays Likely until the announcement. Update Oct 29: Apple announced the 14- and 16-inch MacBook Pro with PROLED XDR Display (tandem OLED, touch, Dynamic Island) on Oct 28 with M5 Pro and M5 Max, from $2,899 and $3,399, with pre-orders that day and availability Nov 6.",
    "sources": [
+    {
+     "name": "Apple Newsroom (MacBook Pro with PROLED XDR Display)",
+     "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/"
+    },
+    {
+     "name": "MacRumors (announcement)",
+     "url": "https://www.macrumors.com/2026/10/28/apple-new-macbook-pro/"
+    },
     {
      "name": "MacRumors (Ternus teaser, Oct 28)",
      "url": "https://www.macrumors.com/2026/10/28/apple-ceo-john-ternus-teases-touchscreen-macbook/"
@@ -71,7 +79,8 @@
      "url": "https://9to5mac.com/2026/10/28/on-the-day-of-the-touchscreen-mac-launch-dynamic-island-elements-found-in-macos-27/"
     }
    ],
-   "first_reported": "2026-10-08"
+   "first_reported": "2026-10-08",
+   "outcome": "True. Every part of the claim happened: Apple announced OLED touchscreen 14- and 16-inch MacBook Pros with M5 Pro/Max on Oct 28 (Bloomberg's $2,899 price was also right), and the OLED iPad mini, M6 14-inch MacBook Pro and M6 iMac all go on sale Nov 6. One detail differed in timing: those three were announced by press release on Oct 26-27, ahead of the event. Apple calls the new display 'PROLED XDR', and the mini-LED models stay on sale."
   },
   {
    "id": "iphone-18-spring-2027",
@@ -823,16 +832,20 @@
   {
    "id": "oneplus-ace-7-200mp",
    "title": "OnePlus Ace 7 and Ace 7 Pro both get 200MP main cameras",
-   "rating": "Likely",
+   "rating": "Confirmed",
    "categories": [
     "android"
    ],
-   "status": "Active",
-   "updated": "2026-10-26",
-   "expected": "Oct 29, 2026 (launch date confirmed)",
+   "status": "Resolved",
+   "updated": "2026-10-29",
+   "expected": "Oct 29, 2026 (launched)",
    "claim": "Both OnePlus Ace 7 models will use a 200MP main camera, and the Pro adds a 50MP 3.5x periscope.",
-   "why": "From Weibo tipster Digital Chat Station, relayed by GSMArena. OnePlus has now set the launch for Oct 29 and confirmed the chips (Snapdragon 8 Elite Gen 5 'V series' for the Ace 7, standard 8 Elite Gen 5 for the Pro) and the cooling fan, and on Oct 26 it confirmed the Pro half of the claim: a 200MP main camera plus a 3.5x periscope telephoto on the Ace 7 Pro (it did not state the periscope's resolution). The standard Ace 7's camera is still unconfirmed. We will resolve this at launch.",
+   "why": "From Weibo tipster Digital Chat Station, relayed by GSMArena. OnePlus has now set the launch for Oct 29 and confirmed the chips (Snapdragon 8 Elite Gen 5 'V series' for the Ace 7, standard 8 Elite Gen 5 for the Pro) and the cooling fan, and on Oct 26 it confirmed the Pro half of the claim: a 200MP main camera plus a 3.5x periscope telephoto on the Ace 7 Pro (it did not state the periscope's resolution). The standard Ace 7's camera is still unconfirmed. We will resolve this at launch. Update Oct 29: OnePlus launched both phones with a 200MP main camera; the Pro adds a 50MP 3.5x periscope.",
    "sources": [
+    {
+     "name": "Gizmochina (launch)",
+     "url": "https://www.gizmochina.com/2026/10/29/oneplus-ace-7-and-ace-7-pro-debuts-with-snapdragon-8-elite-gen-5-series-9000mah-battery/"
+    },
     {
      "name": "GSMArena (Ace 7 Pro cameras official)",
      "url": "https://www.gsmarena.com/oneplus_ace_7_pro_camera_specs_and_samples_revealed_ahead_of_launch-news-75208.php"
@@ -850,7 +863,8 @@
      "url": "https://www.oppojia.com/news/18391.html"
     }
    ],
-   "first_reported": "2026-10-16"
+   "first_reported": "2026-10-16",
+   "outcome": "True. Both the Ace 7 and Ace 7 Pro launched on Oct 29 with 200MP main cameras, and the Pro has a 50MP 3.5x periscope telephoto, exactly as Digital Chat Station said."
   },
   {
    "id": "galaxy-s27-early-january",
@@ -1266,18 +1280,26 @@
   {
    "id": "samsung-w27-fold-8-ultra",
    "title": "Samsung's China-only W27 is a premium Galaxy Z Fold 8 Ultra",
-   "rating": "Likely",
+   "rating": "Confirmed",
    "categories": [
     "samsung",
     "android"
    ],
-   "status": "Active",
+   "status": "Resolved",
    "first_reported": "2026-10-22",
-   "updated": "2026-10-28",
-   "expected": "Oct 29, 2026 (China launch confirmed)",
+   "updated": "2026-10-29",
+   "expected": "Oct 29, 2026 (launched)",
    "claim": "Samsung will release a W27 in China, a more premium Galaxy Z Fold 8 Ultra in blue with gold accents.",
-   "why": "Samsung has now confirmed on Weibo a China launch on Oct 29 for a gold-framed book-style foldable, and its linked page mentions 'W2026' and the W series. That makes a W-series Fold 8 Ultra variant very likely, but Samsung has not used the W27 name or confirmed specs; Ice Universe says it matches the Z Fold 8 Ultra. We will resolve this on Oct 29. Update Oct 28: Evan Blass, who has a strong record, posted official-looking renders on Oct 27 showing a dark blue Fold 8-style phone with gold accents and the W-series gold logo. Samsung still has not named it; launch is Oct 29.",
+   "why": "Samsung has now confirmed on Weibo a China launch on Oct 29 for a gold-framed book-style foldable, and its linked page mentions 'W2026' and the W series. That makes a W-series Fold 8 Ultra variant very likely, but Samsung has not used the W27 name or confirmed specs; Ice Universe says it matches the Z Fold 8 Ultra. We will resolve this on Oct 29. Update Oct 28: Evan Blass, who has a strong record, posted official-looking renders on Oct 27 showing a dark blue Fold 8-style phone with gold accents and the W-series gold logo. Samsung still has not named it; launch is Oct 29. Update Oct 29: Samsung launched the W27 in China, based on the Galaxy Z Fold 8 Ultra with a gold-finished frame, in blue and red, from 18,999 yuan.",
    "sources": [
+    {
+     "name": "IT之家 (launch, Chinese)",
+     "url": "https://www.ithome.com/1/019/588.htm"
+    },
+    {
+     "name": "Gadgets 360 (launch)",
+     "url": "https://www.gadgets360.com/mobiles/news/samsung-w27-price-launch-sale-date-specifications-features-12253584"
+    },
     {
      "name": "GSMArena (Evan Blass renders)",
      "url": "https://www.gsmarena.com/samsungs_next_foldable_leaks_in_officiallooking_renders-news-75227.php"
@@ -1290,7 +1312,8 @@
      "name": "SamMobile",
      "url": "https://www.sammobile.com/news/first-look-samsung-w27-more-premium-galaxy-z-fold-8-ultra/"
     }
-   ]
+   ],
+   "outcome": "True. Samsung launched the China-only W27 on Oct 29 as a premium Galaxy Z Fold 8 Ultra with gold accents and a blue color, as claimed. It also comes in red, which the leak did not mention."
   },
   {
    "id": "iphone-duo-larger-inner-display",
@@ -1436,17 +1459,21 @@
   {
    "id": "gemini-4-carbon-release",
    "title": "Google releases Gemini 4 Carbon, the successor to Argon, within weeks",
-   "rating": "Likely",
+   "rating": "Confirmed",
    "categories": [
     "ai"
    ],
    "status": "Active",
    "first_reported": "2026-10-19",
-   "updated": "2026-10-25",
-   "expected": "Late Oct-Nov 2026 (reported)",
+   "updated": "2026-10-29",
+   "expected": "Announced Oct 28; public release date not set",
    "claim": "Google's next Gemini 4 checkpoint, Carbon, is in partner early access and will be released publicly soon.",
-   "why": "Business Insider first reported Carbon inside Google's internal coding tool, The Information said it is coming this month, testers report it on LMArena under Google's early access program, and Carbon 'teamfood' model IDs showed up in a Google server archive. That is strong evidence it exists and is close, but Google has not announced it and the date could slip into November. Early testers say it is better than Argon at 3D work but much slower.",
+   "why": "Business Insider first reported Carbon inside Google's internal coding tool, The Information said it is coming this month, testers report it on LMArena under Google's early access program, and Carbon 'teamfood' model IDs showed up in a Google server archive. That is strong evidence it exists and is close, but Google has not announced it and the date could slip into November. Early testers say it is better than Argon at 3D work but much slower. Update Oct 29: Google announced Gemini 4 Carbon on Oct 28, confirming it is real and in early access, but only for selected cyber defenders. Public access for developers and consumers is promised 'as soon as possible' with no date, so we keep this open until it is broadly available.",
    "sources": [
+    {
+     "name": "Google blog (announcement)",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+    },
     {
      "name": "TestingCatalog (early tests)",
      "url": "https://www.testingcatalog.com/gemini-4-carbon-early-test-results/"
@@ -1701,14 +1728,18 @@
    ],
    "status": "Active",
    "first_reported": "2026-10-28",
-   "updated": "2026-10-28",
-   "expected": "Signature 27 US launch date not set; Razr Flex reportedly December",
+   "updated": "2026-10-29",
+   "expected": "Signature 27 US launch in November (Motorola); Razr Flex reportedly December",
    "claim": "The Motorola Signature 27 (12GB/512GB) will cost €1,594.90 in Europe, up nearly 60% from the first Signature's €999, and the unannounced Razr Flex 27 (12GB/256GB) will cost €1,510.90.",
-   "why": "The prices come from listings on Portuguese retailer MegaPC. Retailer listings are real evidence but often use placeholder prices: the Razr Flex listings have no photos, one wrongly describes a clamshell, and all are out of stock with no ship date. Motorola has not confirmed European or US pricing.",
+   "why": "The prices come from listings on Portuguese retailer MegaPC. Retailer listings are real evidence but often use placeholder prices: the Razr Flex listings have no photos, one wrongly describes a clamshell, and all are out of stock with no ship date. Motorola has not confirmed European or US pricing. Update Oct 29: Motorola's US and India pages say the Signature 27 arrives in November, which fits the retailer timing, but it still has not confirmed any price.",
    "sources": [
     {
      "name": "Android Authority",
      "url": "https://www.androidauthority.com/motorola-signature-27-razr-flex-27-price-leak-3728825/"
+    },
+    {
+     "name": "9to5Google (November launch)",
+     "url": "https://9to5google.com/2026/10/29/motorola-signature-27-november-launch-date/"
     }
    ]
   },
@@ -1729,6 +1760,55 @@
     {
      "name": "GSMArena",
      "url": "https://www.gsmarena.com/vivo_x500s_screen_details_leak_testing_is_already_underway-news-75234.php"
+    }
+   ]
+  },
+  {
+   "id": "iphone-duo-qa-relaxed",
+   "title": "Apple relaxed iPhone Duo quality checks to ship more units",
+   "rating": "Shaky",
+   "categories": [
+    "apple"
+   ],
+   "status": "Active",
+   "first_reported": "2026-10-27",
+   "updated": "2026-10-29",
+   "expected": "Holiday 2026 supply (no confirmation expected)",
+   "claim": "Apple lowered quality inspection standards for the iPhone Duo to get more units to stores before the holidays, as it targets 7.5 million shipments by year end.",
+   "why": "The claim comes from one unnamed Foxconn employee quoted by China's Jiemian News and relayed by GSMArena. Sina reports another supply-chain source who denies Apple lowered its yield standards, and the reports themselves say a batch of components was replaced. Apple has acknowledged inner-display damage on 'a small number' of units and offers replacements, but has said nothing about inspection standards. A single anonymous source with a direct denial makes this Shaky.",
+   "sources": [
+    {
+     "name": "GSMArena",
+     "url": "https://www.gsmarena.com/apple_reportedly_lowered_its_iphone_duo_qa_standards_to_get_more_units_out_in_time-news-75262.php"
+    },
+    {
+     "name": "Sina Tech (denial, Chinese)",
+     "url": "https://finance.sina.com.cn/tech/roll/2026-10-27/doc-iniwrqsz1546609.shtml"
+    }
+   ]
+  },
+  {
+   "id": "galaxy-s27-25w-charging",
+   "title": "The base Galaxy S27 stays at 25W wired charging",
+   "rating": "Likely",
+   "categories": [
+    "samsung",
+    "android"
+   ],
+   "status": "Active",
+   "first_reported": "2026-09-30",
+   "updated": "2026-10-29",
+   "expected": "Galaxy S27 launch (early 2027)",
+   "claim": "The standard Galaxy S27 will charge at 25W wired, the same as the Galaxy S26, while the S27 Pro and Ultra get 60W.",
+   "why": "Hard evidence from certifications: a China 3C listing for model SM-S9520 last month showed 25W, and on Oct 29 GSMArena reported UL Solutions (Demko) certificates for several variants rated 9V/2.77A (24.93W). The 60W figure for the Pro and Ultra comes from separate 3C filings reported by smaller sites. Certifications are reliable on charging limits, but Samsung has not announced the phones.",
+   "sources": [
+    {
+     "name": "GSMArena",
+     "url": "https://www.gsmarena.com/samsung_galaxy_s27_charging_speed_corroborated-news-75261.php"
+    },
+    {
+     "name": "SammyGuru (Pro/Ultra 60W)",
+     "url": "https://sammyguru.com/galaxy-s27-pro-s27-ultra-charging-speed-leak/"
     }
    ]
   }

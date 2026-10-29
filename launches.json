@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28",
+ "updated": "2026-10-29",
  "items": [
   {
    "id": "gtc-berlin-2026",
@@ -371,64 +371,44 @@
   },
   {
    "id": "apple-oled-macbook-pro-oct-28",
-   "name": "Apple 'Pro and tell' launch: OLED touchscreen MacBook Pro (expected)",
+   "name": "MacBook Pro with PROLED XDR Display (14- and 16-inch, OLED touchscreen)",
    "brand": "Apple",
    "categories": [
     "apple",
     "chips"
    ],
    "type": "Laptop",
-   "date": "2026-10-28",
-   "date_label": "Oct 28, 2026, 10 a.m. PT (Apple); on sale Nov 6?",
+   "date": "2026-11-06",
+   "date_label": "Nov 6, 2026 (pre-orders Oct 28)",
    "precision": "day",
    "status": "Confirmed",
-   "price": "",
-   "summary": "Apple's 'Pro and tell' launch is today, Oct 28 at 10 a.m. PT; the reported OLED touchscreen MacBook Pros are the one big product not yet announced.",
-   "details": "Apple's Greg Joswiak posted the invite on Oct 19: a media experience in Los Angeles on Wednesday, Oct 28 at 10 a.m. PT, so expect press releases and hands-on sessions rather than a keynote. Apple has spent the week announcing products early: the OLED iPad mini on Oct 26, then on Oct 27 the 14-inch MacBook Pro with M6 and the iMac with M6 (see their own entries; all three open for pre-order Oct 28 and ship Nov 6). What is left is Mark Gurman's main claim: 14- and 16-inch OLED touchscreen MacBook Pros with a Dynamic Island, 'significantly lighter' but not much thinner, using the existing M5 Pro and M5 Max, and possibly up to $500 more than today's mini-LED models, which stay on sale. Apple has not confirmed these. Gurman says Apple Stores plan an overnight reset on Nov 5-6, pointing to a Nov 6 release. Update Oct 28 (morning PT, before the event): Apple CEO John Ternus posted a short teaser video on X, and leaker pdfu found Dynamic Island assets in macOS 27. Bloomberg reports Apple has discussed $2,899 for the 14-inch OLED model (M5 Pro), $400 above today's model, with the 16-inch expected at $3,399 or more, and MacRumors expects pre-orders to open at 10:10 a.m. PT. The final name is also unknown. Pre-orders for the OLED iPad mini, M6 iMac and M6 14-inch MacBook Pro open today at 10:10 a.m. PT. We will update this entry after Apple's announcement.",
+   "price": "From $2,899 (14-inch), $3,399 (16-inch)",
+   "summary": "Apple's first touchscreen Mac: 14- and 16-inch MacBook Pros with a tandem OLED 'PROLED XDR' display, Dynamic Island and M5 Pro/M5 Max, announced Oct 28 and shipping Nov 6 from $2,899.",
+   "details": "Unveiled by CEO John Ternus at Apple's 'Pro and tell' event in Los Angeles on Oct 28. The tandem OLED panel offers up to 2,000 nits peak brightness, a 10,000,000:1 contrast ratio, 10-120Hz ProMotion and P3 plus Adobe RGB color, with the touch sensor built into the panel; macOS 27 adds touch gestures and a Dynamic Island for Spotlight, Live Activities and Siri AI. It uses the existing M5 Pro and M5 Max (not M6), with up to 128GB of memory and storage now up to 16TB, a six-speaker system Apple says has 50% deeper bass, a new hinge for touch, and the glowing Apple logo returns on the lid. The 14-inch weighs about 3 pounds and the 16-inch about 4; Apple rates battery life at up to 24 hours. Base models start with 24GB of memory and 1TB of storage. Reuters says the 16-inch M5 Max starts at $4,799, and a fully specced model costs $14,549 (The Verge). Pre-orders opened Oct 28 in 30 countries and regions, with availability from Friday, Nov 6. The mini-LED MacBook Pros stay on sale. This settles the rumor in our tracker, which resolved true.",
    "sources": [
     {
-     "name": "MacRumors (Ternus teaser, Oct 28)",
-     "url": "https://www.macrumors.com/2026/10/28/apple-ceo-john-ternus-teases-touchscreen-macbook/"
+     "name": "Apple Newsroom",
+     "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/"
     },
     {
-     "name": "Apple Newsroom (14-inch MacBook Pro with M6)",
-     "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/"
+     "name": "Apple tech specs",
+     "url": "https://www.apple.com/macbook-pro/proled-xdr-display/specs/"
     },
     {
-     "name": "Apple Newsroom (iMac with M6)",
-     "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/"
+     "name": "MacRumors",
+     "url": "https://www.macrumors.com/2026/10/28/apple-new-macbook-pro/"
     },
     {
-     "name": "MacRumors (Joswiak teases 'exciting week')",
-     "url": "https://www.macrumors.com/2026/10/26/apple-teases-exciting-week-ahead/"
+     "name": "The Verge",
+     "url": "https://www.theverge.com/gadgets/1019554/apple-touchscreen-macbook-pro-and-tell"
     },
     {
-     "name": "MacRumors (Gurman, Oct 25)",
-     "url": "https://www.macrumors.com/2026/10/25/macbook-pro-with-touchscreen-on-wednesday/"
+     "name": "Reuters via Investing.com",
+     "url": "https://ca.investing.com/news/stock-market-news/apple-expected-to-show-first-touchscreen-laptops-amid-product-blitz-4908753"
     },
     {
-     "name": "9to5Mac (event announced)",
-     "url": "https://9to5mac.com/2026/10/19/apple-announces-special-event-for-october-28/"
-    },
-    {
-     "name": "MacRumors: what's coming",
-     "url": "https://www.macrumors.com/2026/10/19/apple-october-28-product-launch/"
-    },
-    {
-     "name": "Engadget",
-     "url": "https://www.engadget.com/2290401/apple-pro-and-tell-event-october-28-announcement/"
-    },
-    {
-     "name": "MacRumors (citing Bloomberg)",
-     "url": "https://www.macrumors.com/2026/10/08/apple-october-27-macbook-pro/"
-    },
-    {
-     "name": "heise (Nov 6 availability)",
-     "url": "https://www.heise.de/en/news/OLED-MacBook-Pro-Available-Nov-6-with-chip-details-11492775.html"
-    },
-    {
-     "name": "The Verge (Bloomberg price report)",
-     "url": "https://www.theverge.com/tech/1020223/apples-oled-touchscreen-macbook-pro-could-cost-at-least-2899"
+     "name": "9to5Mac",
+     "url": "https://9to5mac.com/2026/10/28/apple-announces-redesigned-macbook-pro-its-first-touchscreen-mac/"
     }
    ]
   },
@@ -637,11 +617,23 @@
    "date": "2026-10-29",
    "date_label": "Oct 29, 2026",
    "precision": "day",
-   "status": "Confirmed",
+   "status": "Released",
    "price": "",
-   "summary": "The martial-arts action game is scheduled for Oct 29 on PS5 and PC.",
-   "details": "Date taken from VGC's release schedule.",
+   "summary": "S-Game's martial-arts action game launched Oct 29 on PS5 and PC to strong reviews.",
+   "details": "Out Oct 29 on PS5 and PC (Steam). Reviews are positive, praising the combat, bosses and visuals, with complaints about technical issues on PC; the developer has advised NVIDIA users not to install the latest GeForce driver. Digital Foundry recommends Performance mode on PS5.",
    "sources": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/4115450/Phantom_Blade_Zero/"
+    },
+    {
+     "name": "Metacritic",
+     "url": "https://www.metacritic.com/game/phantom-blade-zero/"
+    },
+    {
+     "name": "Digital Foundry",
+     "url": "https://www.digitalfoundry.net/reviews/phantom-blade-zero-excels-on-ps5-with-great-animation-and-visuals-at-60fps"
+    },
     {
      "name": "Video Games Chronicle",
      "url": "https://www.videogameschronicle.com/guide/upcoming-game-release-dates-schedule/"
@@ -650,7 +642,7 @@
   },
   {
    "id": "samsung-w27-china",
-   "name": "Samsung W-series foldable (expected W27, China)",
+   "name": "Samsung W27 (China)",
    "brand": "Samsung",
    "categories": [
     "samsung",
@@ -658,28 +650,32 @@
    ],
    "type": "Phone",
    "date": "2026-10-29",
-   "date_label": "Oct 29, 2026 (China)",
+   "date_label": "Oct 29, 2026 (China; sales from Nov 13)",
    "precision": "day",
-   "status": "Confirmed",
-   "price": "",
-   "summary": "Samsung China will launch a new gold-framed book-style foldable on Oct 29, widely expected to be the China-only W27.",
-   "details": "Samsung confirmed the Oct 29 date on Weibo with an image of a gold-framed book-style foldable, and its linked page references 'W2026' and the W series. Samsung has not named the phone. Tipster Ice Universe says it is the W27 with the same specs as the Galaxy Z Fold 8 Ultra (Snapdragon 8 Elite Gen 5 for Galaxy, 5,000mAh, 45W, 200MP main camera), plus the usual W-series extras. W models are normally sold only in China.",
+   "status": "Released",
+   "price": "From 18,999 yuan (16GB/512GB); 21,999 yuan (16GB/1TB)",
+   "summary": "Samsung and China Telecom launched the China-only W27, a luxury Galaxy Z Fold 8 Ultra, on Oct 29 from 18,999 yuan; sales start Nov 13.",
+   "details": "Launched Oct 29 at Samsung and China Telecom's annual W-series ('Heart of the World') event. IT Home says it is built on the Galaxy Z Fold 8 Ultra: Snapdragon 8 Elite Gen 5 for Galaxy, an 8-inch inner and 6.5-inch outer screen, a triple rear camera with a 200MP main sensor and a 5,000mAh battery, in a two-tone design with a gold-finished frame, in blue and red. Ifeng lists 215 g and 4.1 mm unfolded. Prices are 18,999 yuan for 16GB/512GB and 21,999 yuan for 16GB/1TB. Registration opened Oct 29 and sales start on all channels on Nov 13. It is sold only in China.",
    "sources": [
+    {
+     "name": "IT之家 (Chinese, price)",
+     "url": "https://www.ithome.com/1/019/588.htm"
+    },
+    {
+     "name": "Sina Tech (Chinese)",
+     "url": "https://finance.sina.com.cn/tech/mobile/n/n/2026-10-29/doc-iniwwyas2753546.shtml"
+    },
+    {
+     "name": "Gadgets 360",
+     "url": "https://www.gadgets360.com/mobiles/news/samsung-w27-price-launch-sale-date-specifications-features-12253584"
+    },
+    {
+     "name": "凤凰网 (Chinese, weight and thickness)",
+     "url": "https://pingce.ifeng.com/c/8xcibZ3mzl8"
+    },
     {
      "name": "Android Authority",
      "url": "https://www.androidauthority.com/samsung-next-foldable-phone-october-29-3727071/"
-    },
-    {
-     "name": "9to5Google",
-     "url": "https://9to5google.com/2026/10/23/samsung-galaxy-w27-foldable-leak/"
-    },
-    {
-     "name": "GSMArena",
-     "url": "https://www.gsmarena.com/this_is_samsungs_next_foldable_and_its_launching_in_just_a_few_days-news-75178.php"
-    },
-    {
-     "name": "GSMArena (Evan Blass renders)",
-     "url": "https://www.gsmarena.com/samsungs_next_foldable_leaks_in_officiallooking_renders-news-75227.php"
     }
    ]
   },
@@ -724,7 +720,7 @@
    "status": "Confirmed",
    "price": "Free",
    "summary": "Tim Cook says a beta of Apple Intelligence reaches users in China later in October, without the new Siri.",
-   "details": "Cook said on Oct 15 that the first features (live translation, writing tools and photo cleanup) and the Alibaba Qwen models behind them have regulatory approval. He did not give an exact day. Bloomberg reports a wider launch with iOS 27.3 in December.",
+   "details": "Cook said on Oct 15 that the first features (live translation, writing tools and photo cleanup) and the Alibaba Qwen models behind them have regulatory approval. He did not give an exact day. Bloomberg reports a wider launch with iOS 27.3 in December. As of Oct 29 no rollout has been reported; Apple has two days left to meet the October timing.",
    "sources": [
     {
      "name": "TechNode",
@@ -791,11 +787,23 @@
    "date": "2026-10-29",
    "date_label": "Oct 29, 2026 (China)",
    "precision": "day",
-   "status": "Confirmed",
-   "price": "",
-   "summary": "OnePlus has set Oct 29 for the China launch of its fan-cooled Ace 7 and Ace 7 Pro; pre-orders are open.",
-   "details": "OnePlus confirmed the Oct 29 date and the chips on Oct 22: the Ace 7 uses a Snapdragon 8 Elite Gen 5 'V series' variant and the Ace 7 Pro the standard Snapdragon 8 Elite Gen 5. Both get OnePlus's Wind-Chaser gaming engine and a built-in cooling fan with two airflow paths, one aimed at the chip and one across the back panel. Pre-orders are open on OPPO's online store in China. On Oct 26 OnePlus confirmed a 200MP main camera and a 3.5x periscope telephoto on the Ace 7 Pro and BOE displays on both. Other leaked specs (a 9,000mAh battery, a 6.78-inch 185Hz screen, a 200MP camera on the standard Ace 7) are not confirmed; see the rumor tracker. Prices have not been announced.",
+   "status": "Released",
+   "price": "Ace 7 from 4,399 yuan; Ace 7 Pro from 4,799 yuan",
+   "summary": "OnePlus launched the fan-cooled Ace 7 (from 4,399 yuan) and Ace 7 Pro (from 4,799 yuan) in China on Oct 29, both with 9,000mAh batteries and 200MP main cameras.",
+   "details": "Launched and on sale in China on Oct 29. The Ace 7 uses a Snapdragon 8 Elite Gen 5 'V series' chip and the Ace 7 Pro the full Snapdragon 8 Elite Gen 5. Both have a 6.78-inch 1.5K LTPO screen (165Hz system-wide, 185Hz in games), a built-in dual-airflow fan, a 9,000mAh battery with 100W charging and bypass charging, a 200MP main camera, a 16MP selfie camera, IP66/68/69/69K ratings and ColorOS 17. The Pro adds a 50MP 3.5x periscope telephoto; the standard model gets an 8MP ultrawide instead. Ace 7 prices: 4,399 yuan (12GB/256GB) to 5,699 yuan (16GB/512GB). Ace 7 Pro: 4,799 yuan (12GB/256GB) to 7,299 yuan (16GB/1TB). China's national subsidy lowers the starting price to 2,761.65 yuan for the Ace 7 and 3,149 yuan for the Pro.",
    "sources": [
+    {
+     "name": "IT之家 (Chinese, prices)",
+     "url": "https://www.ithome.com/1/019/744.htm"
+    },
+    {
+     "name": "Gizmochina",
+     "url": "https://www.gizmochina.com/2026/10/29/oneplus-ace-7-and-ace-7-pro-debuts-with-snapdragon-8-elite-gen-5-series-9000mah-battery/"
+    },
+    {
+     "name": "Gadgets 360",
+     "url": "https://www.gadgets360.com/mobiles/news/oneplus-ace-7-pro-price-launch-sale-date-specifications-features-12254174"
+    },
     {
      "name": "GSMArena (Ace 7 Pro cameras)",
      "url": "https://www.gsmarena.com/oneplus_ace_7_pro_camera_specs_and_samples_revealed_ahead_of_launch-news-75208.php"
@@ -803,18 +811,6 @@
     {
      "name": "GSMArena (launch date, chips)",
      "url": "https://www.gsmarena.com/heres_when_the_oneplus_ace_7_series_is_launching-news-75160.php"
-    },
-    {
-     "name": "OPPO之家 (Chinese)",
-     "url": "https://www.oppojia.com/news/18391.html"
-    },
-    {
-     "name": "GSMArena (fan design)",
-     "url": "https://www.gsmarena.com/oneplus_details_the_dualairflow_fan_design_on_the_upcoming_ace_7_series-news-75123.php"
-    },
-    {
-     "name": "Gizmochina (names)",
-     "url": "https://www.gizmochina.com/2026/10/15/oneplus-ace-7-ace-7-pro-names-revealed/"
     }
    ]
   },
@@ -826,21 +822,29 @@
     "ai"
    ],
    "type": "Software",
-   "date": "2026-10-31",
-   "date_label": "Oct 31, 2026 (Hugging Face ETA)",
+   "date": "2026-10-29",
+   "date_label": "Oct 29, 2026",
    "precision": "day",
-   "status": "Expected",
-   "price": "Open weights (preview API on Mistral Studio now)",
-   "summary": "Mistral's 1-trillion-parameter Large 4 open weights have an Oct 31 ETA on Hugging Face.",
-   "details": "Previewed Oct 6 as a natively multimodal mixture-of-experts model (49B active parameters per token, 52B counting embeddings and output layers), trained on 3,800 NVIDIA Grace Blackwell GPUs in Mistral's own European data centers. Mistral's Hugging Face page shows a countdown with Oct 31, 2026 as the 'current ETA', so the date could still move. Until then it is available only through a preview API. Licence and benchmark details have not been published.",
+   "status": "Released",
+   "price": "Free (open weights); API pricing not published",
+   "summary": "Mistral released the open weights for Large 4 ('Le Chonk'), its 1-trillion-parameter model, on Oct 29, two days ahead of its ETA.",
+   "details": "Previewed Oct 6 as a natively multimodal mixture-of-experts model (49B active parameters per token, 52B counting embeddings and output layers), trained on 3,800 NVIDIA Grace Blackwell GPUs in Mistral's European data centers. Mistral announced the weights release on Oct 29. The Next Web reports three more weeks of reinforcement learning since the preview (Terminal-Bench 4.0 up from 28% to 41%), new low and medium reasoning modes, and a quantized version that runs on four NVIDIA B200 or B300 GPUs. It is on Hugging Face, Mistral's API and for some Vibe users. Smaller distilled versions, including one for laptops, are planned with no dates.",
    "sources": [
     {
-     "name": "Mistral AI",
-     "url": "https://mistral.ai/news/mistral-large-4"
+     "name": "Mistral news (Oct 29)",
+     "url": "https://mistral.ai/news/"
     },
     {
-     "name": "Hugging Face (release countdown)",
-     "url": "https://huggingface.co/mistralai/Mistral-Large-4.0-1T05-A52B"
+     "name": "The Next Web",
+     "url": "https://thenextweb.com/news/mistral-large-4-open-weights-release"
+    },
+    {
+     "name": "Hugging Face",
+     "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B"
+    },
+    {
+     "name": "Mistral AI (preview)",
+     "url": "https://mistral.ai/news/mistral-large-4/"
     }
    ]
   },
@@ -1974,7 +1978,7 @@
    "status": "Confirmed",
    "price": "Free (open weights; license not yet announced)",
    "summary": "Moonshot says it will publish the full Kimi K3.1 Pro model weights by Nov 4.",
-   "details": "Moonshot released Kimi K3.1 Pro in its apps and API on Oct 23 and committed to releasing the full weights by Nov 4. The license terms have not been announced.",
+   "details": "Moonshot released Kimi K3.1 Pro in its apps and API on Oct 23 and committed to releasing the full weights by Nov 4. The license terms have not been announced. As of Oct 29 the weights were not yet on Hugging Face.",
    "sources": [
     {
      "name": "Kimi blog",
@@ -2122,11 +2126,19 @@
    "date": "2026-10-29",
    "date_label": "Oct 29, 2026 (China)",
    "precision": "day",
-   "status": "Confirmed",
-   "price": "Pre-sale from 169,800 yuan",
-   "summary": "Xpeng's mid-size Mona L05 SUV, in pre-sale since Oct 15 from 169,800 yuan, officially launches in China on Oct 29.",
-   "details": "Five versions: three battery-electric (58.2 or 71.1 kWh LFP, 535-635 km CLTC) and two extended-range (1.5-liter engine with a 37.2 kWh battery, 310 km on battery and 1,310 km combined), all with a 183 kW rear motor and adaptive dampers. Max trims get one Xpeng Turing chip (750 TOPS), Ultra SE trims two (1,500 TOPS). Pre-sale prices run 169,800-191,800 yuan; final prices come at launch. It is 4,870 mm long on a 2,940 mm wheelbase, slotting above the Mona L03. On Oct 26 Xpeng said global shipments have started ahead of the China launch, targeting 65 countries and regions; it gave no volumes, destinations or overseas delivery dates.",
+   "status": "Released",
+   "price": "From 144,800 yuan (139,800 yuan limited-time offer)",
+   "summary": "Xpeng launched the Mona L05 SUV in China on Oct 29 with a limited-time starting price of 139,800 yuan, below its pre-sale price.",
+   "details": "Six versions at launch: four battery-electric (up to 635 km CLTC) and two extended-range (310 km on battery, 1,310 km combined). Official guide prices run 144,800-176,800 yuan; buyers who pay a 5,000 yuan deposit by Dec 15 get 5,000 yuan off, for 139,800-171,800 yuan. Launch added a new entry 560 Plus BEV version, and the five pre-sale versions are each 15,000 yuan cheaper than their Oct 15 pre-sale prices. Max trims get one Xpeng Turing chip (750 TOPS) and the second-gen VLA Lite driver-assist model; Ultra SE trims get two chips (1,500 TOPS) and the full VLA model. It is 4,870 mm long on a 2,940 mm wheelbase, slotting above the Mona L03. Global shipments started Oct 26 for 65 countries and regions; overseas delivery dates are not set.",
    "sources": [
+    {
+     "name": "CnEVPost (launch)",
+     "url": "https://cnevpost.com/2026/10/29/xpeng-launches-mona-l05/"
+    },
+    {
+     "name": "IT之家 (Chinese)",
+     "url": "https://www.ithome.com/1/019/750.htm"
+    },
     {
      "name": "CnEVPost (global shipments)",
      "url": "https://cnevpost.com/2026/10/26/xpeng-starts-global-shipments-mona-l05/"
@@ -2134,10 +2146,6 @@
     {
      "name": "CnEVPost (pre-sales, Oct 29 launch)",
      "url": "https://cnevpost.com/2026/10/15/xpeng-opens-mona-l05-pre-sales/"
-    },
-    {
-     "name": "CnEVPost (debut)",
-     "url": "https://cnevpost.com/2026/10/13/xpeng-oct-15-debut-pre-sales-mona-l05/"
     }
    ]
   },
@@ -2152,11 +2160,19 @@
    "date": "2026-10-29",
    "date_label": "Oct 29, 2026 (Switch version delayed)",
    "precision": "day",
-   "status": "Confirmed",
-   "price": "",
-   "summary": "Telltale's remaster of its Fables noir adventure arrives Oct 29 on PC, PS5 and Xbox; the Switch version has been delayed.",
-   "details": "Telltale announced the date and a new Noir Mode at Gamescom. It launches on Steam, the Epic Games Store, PS5 and Xbox; the Nintendo Switch version slipped to an unannounced date.",
+   "status": "Released",
+   "price": "$24.99",
+   "summary": "Telltale's remaster of its Fables noir adventure launched Oct 29 on PC, PS5 and Xbox; the Switch version is still delayed.",
+   "details": "Telltale announced the date and a new Noir Mode at Gamescom. It launches on Steam, the Epic Games Store, PS5 and Xbox; the Nintendo Switch version slipped to an unannounced date. It launched as scheduled on Oct 29 at $24.99.",
    "sources": [
+    {
+     "name": "Games Press (launch release)",
+     "url": "https://www.gamespress.com/THE-BIG-BAD-WOLF-IS-BACK-AND-HES-GOT-UNFINISHED-BUSINESSTHE-WOLF-AMONG"
+    },
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/3884860/The_Wolf_Among_Us_Remastered/"
+    },
     {
      "name": "Telltale",
      "url": "https://telltale.com/news/wolf-remastered-launch-date/"
@@ -2182,18 +2198,22 @@
    "date": "2026-10-29",
    "date_label": "Oct 29, 2026 (NA/EU consoles)",
    "precision": "day",
-   "status": "Confirmed",
-   "price": "",
-   "summary": "The remake of the time-travel visual novel reaches Switch, Switch 2, PS5 and Xbox Series X|S in North America and Europe on Oct 29.",
-   "details": "The PC (Steam) version came out on Aug 20. Spike Chunsoft lists Oct 29 for the Western console release, including a Digital Deluxe Edition and Switch/Switch 2 pre-orders on the eShop. The UK/EU physical edition has been moved to Nov 23.",
+   "status": "Released",
+   "price": "$59.99 (Standard); $79.99 (Digital Deluxe)",
+   "summary": "The time-travel visual novel remake launched Oct 29 on Switch, Switch 2, PS5 and Xbox Series X|S in North America and Europe.",
+   "details": "The PC (Steam) version came out on Aug 20. The console versions launched Oct 29, physical and digital in North America and digital in Europe. Correction: the UK/EU physical Standard and SteelBook editions for Switch 2 and PS5 move to Nov 3 (we previously listed Nov 23 in error). Prices are $59.99 for the Standard Edition, $69.99 for the SteelBook and $79.99 for the Digital Deluxe Edition.",
    "sources": [
+    {
+     "name": "Anime News Network (UK/EU physical Nov 3)",
+     "url": "https://www.animenewsnetwork.com/press-release/2026-10-23/steins-gate-re-boot-uk-and-eu-physical-edition-release-rescheduled-to-november-3-2026/.243151"
+    },
+    {
+     "name": "Official site",
+     "url": "https://steinsgate.jp/reboot/en-us/"
+    },
     {
      "name": "Spike Chunsoft",
      "url": "https://www.spike-chunsoft.com/games/steinsgate-reboot/"
-    },
-    {
-     "name": "Anime News Network (EU physical date)",
-     "url": "https://www.animenewsnetwork.com/press-release/2026-10-23/steins-gate-re-boot-uk-and-eu-physical-edition-release-rescheduled-to-november-23-2026/.243151"
     }
    ]
   },
@@ -2501,6 +2521,92 @@
     {
      "name": "Android Authority",
      "url": "https://www.androidauthority.com/google-genie-4-ai-world-model-launched-3728951/"
+    }
+   ]
+  },
+  {
+   "id": "gemini-4-carbon",
+   "name": "Gemini 4 Carbon (limited access)",
+   "brand": "Google",
+   "categories": [
+    "ai"
+   ],
+   "type": "AI model",
+   "date": "2026-10-28",
+   "date_label": "Oct 28, 2026 (cyber defenders first; wider release not dated)",
+   "precision": "day",
+   "status": "Released",
+   "price": "$2/$10 per million input/output tokens (introductory), later $4/$20",
+   "summary": "Google announced Gemini 4 Carbon, its new top model for coding and cybersecurity, on Oct 28, but only selected cyber defenders can use it so far.",
+   "details": "Google says Carbon ranks first on the Artificial Analysis Intelligence Index v5.0 (59) and leads on vulnerability-finding, exploitation and patching benchmarks. Access starts this week with a subset of cyber defenders and expands through Google's Fairwind Program before reaching developers, businesses and consumers 'as soon as possible'; no date is set. Its introductory price matches Argon at $2 per million input tokens and $10 per million output tokens, rising to $4 and $20 later. Argon went from defenders-only to public in 13 days, but Google has not promised the same for Carbon.",
+   "sources": [
+    {
+     "name": "Google blog",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+    },
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"
+    },
+    {
+     "name": "VentureBeat",
+     "url": "https://venturebeat.com/technology/google-unveils-gemini-4-carbon-retaking-the-worlds-no-1-spot-on-updated-harder-benchmarks-but-access-is-limited"
+    }
+   ]
+  },
+  {
+   "id": "xreal-aura",
+   "name": "XREAL Aura (Android XR glasses)",
+   "brand": "XREAL / Google",
+   "categories": [
+    "android"
+   ],
+   "type": "Wearable",
+   "date": "2026-11-15",
+   "date_label": "Mid-Nov 2026 shipping (orders open Oct 28; Japan sale Nov 2)",
+   "precision": "window",
+   "status": "Confirmed",
+   "price": "$1,099 (12GB/256GB), $1,299 (16GB/512GB) through 2026",
+   "summary": "The first Android XR glasses, XREAL's tethered Aura, went on sale Oct 28 for $1,099 and start shipping in mid-November.",
+   "details": "The 95-gram transparent glasses connect by cable to a compute puck running Android XR, with a 70-degree field of view, multiple virtual screens and Gemini. Orders are open in the US, Canada and South Korea; Japan sales start Nov 2 and wider availability comes next year. The launch prices of $1,099 and $1,299 run through the end of 2026 (regular prices $1,279 and $1,499), and XREAL says earlier pre-order buyers get the difference refunded.",
+   "sources": [
+    {
+     "name": "Google blog",
+     "url": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/"
+    },
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/tech/1020960/google-xreal-glasses-debut-meta-vr-glasses-price-release-date"
+    },
+    {
+     "name": "PR Newswire",
+     "url": "https://www.prnewswire.com/news-releases/xreal-aura-launches-as-the-first-wired-xr-glasses-powered-by-android-xr-302921776.html"
+    }
+   ]
+  },
+  {
+   "id": "motorola-signature-27-us",
+   "name": "Motorola Signature 27 (US)",
+   "brand": "Motorola",
+   "categories": [
+    "android"
+   ],
+   "type": "Phone",
+   "date": "2026-11-30",
+   "date_label": "November 2026 (US; exact date not announced)",
+   "precision": "window",
+   "status": "Confirmed",
+   "price": "",
+   "summary": "Motorola's US site says its Snapdragon flagship, the Signature 27, is coming in November; the exact date and price are not out.",
+   "details": "Unveiled at Qualcomm's Snapdragon Summit in September with the Snapdragon 8 Elite Gen 6 (Motorola's page calls it 'Extreme'). Motorola's US landing page says 'coming this November', and an India page now says the same. European retailer listings point to about EUR 1,595 (see the rumor tracker); Motorola has not given US pricing.",
+   "sources": [
+    {
+     "name": "Motorola US",
+     "url": "https://www.motorola.com/us/en/motorola-signature-2027"
+    },
+    {
+     "name": "9to5Google",
+     "url": "https://9to5google.com/2026/10/29/motorola-signature-27-november-launch-date/"
     }
    ]
   }

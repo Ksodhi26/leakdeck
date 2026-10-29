@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T14:07:11Z",
+ "updated": "2026-10-29T02:02:52Z",
  "sources": [
   "9to5Google",
   "9to5Mac",
@@ -23,6 +23,2516 @@
  "count": 600,
  "items": [
   {
+   "id": "be96399902dc",
+   "title": "Russia now requires Apple to store user communications and hand them over if requested",
+   "url": "https://9to5mac.com/2026/10/28/russia-now-requires-apple-to-store-user-communications-and-hand-them-over-if-requested/",
+   "source": "9to5Mac",
+   "published": "2026-10-29T01:24:17Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "914b5360b3d5",
+   "title": "When one door closes: Polestar 2 production ends, and what might come next",
+   "url": "https://electrek.co/2026/10/28/when-one-door-closes-polestar-2-production-ends-and-what-might-come-next/",
+   "source": "Electrek",
+   "published": "2026-10-29T01:20:27Z",
+   "categories": [
+    "evs"
+   ],
+   "rumor": true
+  },
+  {
+   "id": "2c53d8c6ab63",
+   "title": "Nvidia wants to turn old nuclear power plants into huge AI data centers — but says it draws the line at turning them back on",
+   "url": "https://www.techradar.com/pro/nvidia-wants-to-turn-old-nuclear-power-plants-into-huge-ai-data-centers-but-says-it-draws-the-line-at-turning-them-back-on",
+   "source": "TechRadar",
+   "published": "2026-10-29T01:05:00Z",
+   "categories": [
+    "ai",
+    "chips"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "76b6537bf805",
+   "title": "SK hynix reports record Q3 numbers, warns that the memory shortage will last through 2030",
+   "url": "https://www.gsmarena.com/sk_hynix_reports_record_q3_numbers_warns_that_the_memory_shortage_will_last_through_2030-news-75249.php",
+   "source": "GSMArena",
+   "published": "2026-10-29T01:02:02Z",
+   "categories": [
+    "chips"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "b762a07cbcaa",
+   "title": "GTA 6's NPCs have about 600,000 animations, as well as personality traits that take 'demographic and professional' variables into account",
+   "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-npcs-have-about-600-000-animations-as-well-as-personality-traits-that-take-demographic-and-professional-variables-into-account/",
+   "source": "PC Gamer",
+   "published": "2026-10-29T00:52:16Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "85f13e707929",
+   "title": "BYD now has 1.02 million workers, more than Toyota, GM, Ford, and Tesla combined",
+   "url": "https://electrek.co/2026/10/28/byd-1-million-employees-more-than-toyota-gm-ford-tesla/",
+   "source": "Electrek",
+   "published": "2026-10-29T00:41:17Z",
+   "categories": [
+    "evs"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "8bbbb124bf47",
+   "title": "'I feel like we've built a pyramid on Everest' says Rockstar of GTA 6 meeting impossible expectations",
+   "url": "https://www.pcgamer.com/games/grand-theft-auto/i-feel-like-weve-built-a-pyramid-on-everest-says-rockstar-of-gta-6-meeting-impossible-expectations/",
+   "source": "PC Gamer",
+   "published": "2026-10-29T00:35:52Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "a1a8c90483b3",
+   "title": "You can now buy your own pair of Android XR smart glasses",
+   "url": "https://www.androidpolice.com/you-can-now-buy-your-own-pair-of-android-xr-smart-glasses/",
+   "source": "Android Police",
+   "published": "2026-10-29T00:33:13Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "5e55b246f8d6",
+   "title": "Apple and OpenAI trade secrets lawsuit now has an official trial date",
+   "url": "https://9to5mac.com/2026/10/28/apple-and-openai-trade-secrets-lawsuit-now-has-an-official-trial-date/",
+   "source": "9to5Mac",
+   "published": "2026-10-29T00:17:48Z",
+   "categories": [
+    "ai",
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "2ad1f31a2301",
+   "title": "GTA 6's map is almost as big as Rockstar's last 3 games combined, contains 'an order of magnitude more interiors'",
+   "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-map-is-almost-as-big-as-rockstars-last-3-games-combined-contains-an-order-of-magnitude-more-interiors/",
+   "source": "PC Gamer",
+   "published": "2026-10-29T00:17:15Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "aedb646f97d2",
+   "title": "Why Linux never needed defragging, while Windows relied on it for decades",
+   "url": "https://www.xda-developers.com/why-linux-never-needed-defragging/",
+   "source": "XDA Developers",
+   "published": "2026-10-29T00:00:20Z",
+   "categories": [
+    "chips"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "80c0fb5acd69",
+   "title": "Motorola Edge 70 Pro starts receiving the update to Android 17",
+   "url": "https://www.gsmarena.com/motorola_edge_70_pro_starts_receiving_android_17-news-75253.php",
+   "source": "GSMArena",
+   "published": "2026-10-28T23:47:01Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "ab31749dc101",
+   "title": "An Iconic Piece Of Gaming Artwork Just Fetched A Princely Sum At Auction",
+   "url": "https://www.gamespot.com/articles/an-iconic-piece-of-gaming-artwork-just-fetched-a-princely-sum-at-auction/",
+   "source": "GameSpot",
+   "published": "2026-10-28T23:15:06Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "d85220711614",
+   "title": "FCC chair wants to let prisons jam illegal cellphones",
+   "url": "https://www.engadget.com/2300569/fcc-chair-wants-to-let-prisons-jam-illegal-cellphones/",
+   "source": "Engadget",
+   "published": "2026-10-28T23:09:22Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "09f762edab0d",
+   "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+   "source": "The Verge",
+   "published": "2026-10-28T23:05:39Z",
+   "categories": [
+    "ai"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "cc5e5f06d754",
+   "title": "Best Buy Opens Pre-Orders for PROLED XDR MacBook Pro With $100 Bonus Gift Cards",
+   "url": "https://www.macrumors.com/2026/10/28/best-buy-proled-xdr-macbook-pro-gift-cards/",
+   "source": "MacRumors",
+   "published": "2026-10-28T23:04:16Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "6fff2a2d5339",
+   "title": "I tested the 3 Claude Code alternatives the internet keeps talking about, and only one let me down",
+   "url": "https://www.xda-developers.com/i-tested-the-3-claude-code-alternatives-the-internet-keeps-talking-about-and-only-one-let-me-down/",
+   "source": "XDA Developers",
+   "published": "2026-10-28T23:00:21Z",
+   "categories": [
+    "ai"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "6823e686abc3",
+   "title": "I am learning to write code with help from Gemini Notebook as my personal programming tutor",
+   "url": "https://www.androidpolice.com/learning-to-write-code-with-help-from-gemini-notebook-as-personal-programming-tutor/",
+   "source": "Android Police",
+   "published": "2026-10-28T23:00:10Z",
+   "categories": [
+    "ai",
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "f1032294b76f",
+   "title": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
+   "url": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/",
+   "source": "Ars Technica",
+   "published": "2026-10-28T22:51:15Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "e8436f7382c6",
+   "title": "Can you name the horror games these deeply unpleasant bathrooms are from?",
+   "url": "https://www.pcgamer.com/games/horror/can-you-name-the-horror-game-these-deeply-unpleasant-bathrooms-are-from/",
+   "source": "PC Gamer",
+   "published": "2026-10-28T22:50:34Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "2bce6ea0abd3",
+   "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
+   "url": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
+   "source": "TechCrunch",
+   "published": "2026-10-28T22:47:50Z",
+   "categories": [
+    "apple",
+    "chips"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "3905ca1fc76a",
+   "title": "Microsoft reveals strong cloud growth amid financial reporting overhaul",
+   "url": "https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027",
+   "source": "The Verge",
+   "published": "2026-10-28T22:47:29Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "61ebabb644c4",
+   "title": "Here's Everything Apple Announced This Week",
+   "url": "https://www.macrumors.com/2026/10/28/apple-announcements-october-2026/",
+   "source": "MacRumors",
+   "published": "2026-10-28T22:45:11Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "5f0537317ac3",
+   "title": "iPhone Duo could capture nearly 30% of foldable market in 2027, per report",
+   "url": "https://9to5mac.com/2026/10/28/iphone-duo-could-capture-nearly-30-of-foldable-market-in-2027-per-report/",
+   "source": "9to5Mac",
+   "published": "2026-10-28T22:40:45Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": true
+  },
+  {
+   "id": "47ebb1c951d4",
+   "title": "As US ties fray, Europe plans first undersea cable link to Greenland",
+   "url": "https://arstechnica.com/gadgets/2026/10/as-us-ties-fray-europe-plans-first-undersea-cable-link-to-greenland/",
+   "source": "Ars Technica",
+   "published": "2026-10-28T22:35:50Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "d6f9b565832a",
+   "title": "Dutch startup Elysian says electric flight may be closer than you think",
+   "url": "https://electrek.co/2026/10/28/dutch-startup-elysian-says-electric-flight-may-be-closer-than-you-think/",
+   "source": "Electrek",
+   "published": "2026-10-28T22:34:30Z",
+   "categories": [
+    "evs"
+   ],
+   "rumor": true
+  },
+  {
+   "id": "2845c0631efe",
+   "title": "Here's a Real-World Look at the New MacBook Pro's Glowing Apple Logo",
+   "url": "https://www.macrumors.com/2026/10/28/macbook-pro-glowing-apple-logo/",
+   "source": "MacRumors",
+   "published": "2026-10-28T22:24:25Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "4af1c4c13109",
+   "title": "Peptide peddlers cheer as RFK Jr. unilaterally grants access, overruling FDA",
+   "url": "https://arstechnica.com/health/2026/10/peptide-peddlers-cheer-as-rfk-jr-unilaterally-grants-access-overruling-fda/",
+   "source": "Ars Technica",
+   "published": "2026-10-28T22:17:15Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "19280638dbf9",
+   "title": "Samsung's sleep apnea detection gets better on the Galaxy Watches and Galaxy Ring",
+   "url": "https://www.gsmarena.com/samsungs_sleep_apnea_detection_gets_better_on_the_galaxy_watches_and_galaxy_ring-news-75246.php",
+   "source": "GSMArena",
+   "published": "2026-10-28T22:16:02Z",
+   "categories": [
+    "android",
+    "samsung"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "4162b934a345",
+   "title": "New MacBook Pro, iPad mini, and more now available for pre-order on Amazon",
+   "url": "https://9to5mac.com/2026/10/28/new-macbook-pro-ipad-mini-and-more-now-available-for-pre-order-on-amazon/",
+   "source": "9to5Mac",
+   "published": "2026-10-28T22:12:39Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "df15a64ca7cc",
+   "title": "This New Bio-Inspired Membrane Could Make Lithium Extraction Much Cleaner",
+   "url": "https://insideevs.com/news/813622/new-bio-lithium-extraction-tech/",
+   "source": "InsideEVs",
+   "published": "2026-10-28T22:07:05Z",
+   "categories": [
+    "evs"
+   ],
+   "rumor": true
+  },
+  {
+   "id": "598dc473f7c7",
+   "title": "How Accurate Were Rumors About Apple's OLED Touchscreen MacBook Pro?",
+   "url": "https://www.macrumors.com/2026/10/28/macbook-pro-touchscreen-rumors/",
+   "source": "MacRumors",
+   "published": "2026-10-28T22:04:52Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": true
+  },
+  {
+   "id": "fc87eef9a509",
+   "title": "Price hikes can’t stop YouTube Premium from hitting new subscriber records",
+   "url": "https://www.androidauthority.com/youtube-premium-subscribers-3729415/",
+   "source": "Android Authority",
+   "published": "2026-10-28T22:03:41Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "d7e14d5839c1",
+   "title": "A hacker stole more than 40,000 DHS employee records",
+   "url": "https://www.theverge.com/tech/1021528/ice-cbp-data-leak",
+   "source": "The Verge",
+   "published": "2026-10-28T22:01:10Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "92421f319241",
+   "title": "I tried 4 open-source Google Maps alternatives, and one was an easy winner",
+   "url": "https://www.xda-developers.com/i-tried-open-source-google-maps-alternatives-and-one-was-an-easy-winner/",
+   "source": "XDA Developers",
+   "published": "2026-10-28T22:00:21Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "ab64f533ef03",
+   "title": "Soundcore Liberty 4 Pro gets a $40 Amazon discount",
+   "url": "https://www.androidauthority.com/deal-soundcore-liberty-4-pro-3729397/",
+   "source": "Android Authority",
+   "published": "2026-10-28T21:52:31Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "8472f2df8861",
+   "title": "Apple Has 8 New Products Available for Pre-Order",
+   "url": "https://www.macrumors.com/2026/10/28/apple-8-new-products-available-for-pre-order/",
+   "source": "MacRumors",
+   "published": "2026-10-28T21:51:19Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "4c4418dd5582",
+   "title": "Google says its investments in AI are driving more searches",
+   "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+   "source": "The Verge",
+   "published": "2026-10-28T21:50:33Z",
+   "categories": [
+    "ai",
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "f348c6db37d8",
+   "title": "Google expands AI Search ads globally as core ad growth slows",
+   "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+   "source": "TechCrunch",
+   "published": "2026-10-28T21:48:37Z",
+   "categories": [
+    "ai",
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "fa827e14fde1",
+   "title": "‘Unburdensome’: The Slate Truck Is Easier Than A Tesla To Live With, James May Says",
+   "url": "https://insideevs.com/news/813632/slate-truck-affordable-ev-review-james-may/",
+   "source": "InsideEVs",
+   "published": "2026-10-28T21:45:04Z",
+   "categories": [
+    "evs"
+   ],
+   "rumor": true
+  },
+  {
+   "id": "bd03db75a4fb",
+   "title": "Apple fined $15.5 million as South Korea orders changes to App Store rules",
+   "url": "https://9to5mac.com/2026/10/28/apple-fined-15-5-million-as-south-korea-orders-changes-to-app-store-rules/",
+   "source": "9to5Mac",
+   "published": "2026-10-28T21:44:56Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "4e719ab3fe0d",
+   "title": "Logitech G309 Lightspeed deal brings HERO 25K mouse to $49.99",
+   "url": "https://www.androidauthority.com/logitech-g309-lightspeed-deal-3729421/",
+   "source": "Android Authority",
+   "published": "2026-10-28T21:38:48Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "90b267becbf2",
+   "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+   "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+   "source": "TechCrunch",
+   "published": "2026-10-28T21:34:30Z",
+   "categories": [
+    "ai"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "e4867209a9cd",
+   "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+   "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+   "source": "The Verge",
+   "published": "2026-10-28T21:34:04Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "53180f15b9d3",
+   "title": "Voice control is the worst way to start a smart home, but it's how nearly everyone starts",
+   "url": "https://www.xda-developers.com/voice-control-worst-way-start-smart-home-but-how-nearly-everyone-starts/",
+   "source": "XDA Developers",
+   "published": "2026-10-28T21:30:20Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "3ff7381f5c2d",
+   "title": "Mint Mobile's new family plans now save you up to $40/month",
+   "url": "https://www.androidpolice.com/mint-mobile-new-family-plans/",
+   "source": "Android Police",
+   "published": "2026-10-28T21:23:42Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "22ca44f9ffc0",
+   "title": "Galaxy Watch Ultra deal knocks $184 off Samsung’s rugged LTE watch",
+   "url": "https://www.androidauthority.com/deal-galaxy-watch-ultra-3729412/",
+   "source": "Android Authority",
+   "published": "2026-10-28T21:21:39Z",
+   "categories": [
+    "android",
+    "samsung"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "8fc3389accad",
+   "title": "Readwise is taking on Kindle and Kobo for ebook supremacy",
+   "url": "https://www.theverge.com/tech/1020264/readwise-books-launch-ebook-store",
+   "source": "The Verge",
+   "published": "2026-10-28T21:16:18Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "a3e130b40d4f",
+   "title": "Hands-on with the new OLED iPad Mini",
+   "url": "https://www.theverge.com/tech/1017932/hands-on-ipad-mini-8th-generation-pro-and-tell",
+   "source": "The Verge",
+   "published": "2026-10-28T21:15:37Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "735258fcb105",
+   "title": "Used EVs are suddenly hot sellers — Here are the top SUVs for under $25,000",
+   "url": "https://electrek.co/2026/10/28/used-evs-suddenly-hot-sellers-top-suvs-for-under-25000/",
+   "source": "Electrek",
+   "published": "2026-10-28T21:11:34Z",
+   "categories": [
+    "evs"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "2c77fa893f90",
+   "title": "Remote access feels like the “final boss” of running a home lab, but NetBird made it a few clicks",
+   "url": "https://www.xda-developers.com/remote-access-feels-like-the-final-boss-of-running-a-home-lab-but-netbird-made-it-a-few-clicks/",
+   "source": "XDA Developers",
+   "published": "2026-10-28T21:00:21Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "0315bc73b985",
+   "title": "Epic Games chief Tim Sweeney claims 'Valve has held gaming back for years'",
+   "url": "https://www.pcgamer.com/software/platforms/epic-games-chief-tim-sweeney-claims-valve-has-held-gaming-back-for-years/",
+   "source": "PC Gamer",
+   "published": "2026-10-28T21:00:20Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "a57c49ec019c",
+   "title": "I stopped focusing on battery capacity after learning what actually drives Android fast charging",
+   "url": "https://www.androidpolice.com/android-fast-charging-guide/",
+   "source": "Android Police",
+   "published": "2026-10-28T21:00:10Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "b174391c6f73",
+   "title": "The new MacBook Pro has everything I wanted, minus one thing",
+   "url": "https://9to5mac.com/2026/10/28/the-new-macbook-pro-has-everything-i-wanted-minus-one-thing/",
+   "source": "9to5Mac",
+   "published": "2026-10-28T20:59:42Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "47762addb734",
+   "title": "Gemini 4 Carbon is Google’s second new frontier model this month",
+   "url": "https://www.androidauthority.com/google-announces-gemini-4-carbon-3729367/",
+   "source": "Android Authority",
+   "published": "2026-10-28T20:53:44Z",
+   "categories": [
+    "ai",
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "6b1e342c1b77",
+   "title": "iQOO Neo12 debuts with a 9,000mAh battery, 185Hz display",
+   "url": "https://www.gsmarena.com/iqoo_neo12_debuts_with_a_9000mah_battery_185hz_display-news-75250.php",
+   "source": "GSMArena",
+   "published": "2026-10-28T20:47:02Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "aa39f0a27548",
+   "title": "Android’s upcoming automatic backup tool might not play nicely with your PC",
+   "url": "https://www.androidauthority.com/quick-share-automatic-pc-backup-3729354/",
+   "source": "Android Authority",
+   "published": "2026-10-28T20:41:49Z",
+   "categories": [
+    "android",
+    "chips"
+   ],
+   "rumor": true
+  },
+  {
+   "id": "29ebbc68fd9d",
+   "title": "The EU Just Hit A Historic Milestone: EVs Outsold Gas And Diesel Cars Combined",
+   "url": "https://insideevs.com/news/813621/ev-beats-ice-europe-sales/",
+   "source": "InsideEVs",
+   "published": "2026-10-28T20:40:28Z",
+   "categories": [
+    "evs"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "e527b24d4693",
+   "title": "Ternus addresses Apple breaking touchscreen Mac taboo: ‘Who knew?’",
+   "url": "https://9to5mac.com/2026/10/28/ternus-addresses-apple-breaking-touchscreen-mac-taboo-who-knew/",
+   "source": "9to5Mac",
+   "published": "2026-10-28T20:33:05Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "8804b0f32eb2",
+   "title": "Apple's PROLED XDR Display has a cringy name but incredible specs",
+   "url": "https://www.engadget.com/2300407/apples-proled-xdr-display-has-a-cringy-name-but-incredible-specs/",
+   "source": "Engadget",
+   "published": "2026-10-28T20:31:43Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "b304304a212a",
+   "title": "I tested Nvidia’s Nemotron 3.5 Bolt, and it changed what I thought my 16GB GPU could do",
+   "url": "https://www.xda-developers.com/i-tested-nvidias-nemotron-35-bolt-and-it-changed-what-i-thought-my-16gb-gpu-could-do/",
+   "source": "XDA Developers",
+   "published": "2026-10-28T20:30:20Z",
+   "categories": [
+    "chips"
+   ],
+   "rumor": true
+  },
+  {
+   "id": "7f6b008b4364",
+   "title": "Some Pixel Watch users report a sudden decrease in battery life",
+   "url": "https://9to5google.com/2026/10/28/pixel-watch-users-report-battery-drain/",
+   "source": "9to5Google",
+   "published": "2026-10-28T20:28:44Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "4ed6252f983d",
+   "title": "iPhone Duo: Turn the Hinge Into an App Launcher",
+   "url": "https://www.macrumors.com/how-to/iphone-duo-app-launch-on-open/",
+   "source": "MacRumors",
+   "published": "2026-10-28T20:27:24Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "6a575c496294",
+   "title": "AMVR’s new head strap is my favorite way to keep cool with a Meta Quest 3 or 3S",
+   "url": "https://9to5google.com/2026/10/28/amvrs-new-head-strap-is-my-favorite-way-to-keep-cool-with-a-meta-quest-3-or-3s/",
+   "source": "9to5Google",
+   "published": "2026-10-28T20:20:00Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "0043d35930ac",
+   "title": "Apple charges $14,549 for a fully specced touchscreen MacBook Pro",
+   "url": "https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced",
+   "source": "The Verge",
+   "published": "2026-10-28T20:12:44Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "d829665b0579",
+   "title": "OLED MacBook Pro vs. Mini-LED MacBook Pro: Size and Weight Compared",
+   "url": "https://www.macrumors.com/2026/10/28/oled-macbook-pro-size-weight/",
+   "source": "MacRumors",
+   "published": "2026-10-28T20:11:01Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "b1fc9080a04b",
+   "title": "WoW: Forever's update schedule will be 'a little more laid back' than the main MMO",
+   "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forevers-update-schedule-will-be-a-little-more-laid-back-than-the-main-mmo/",
+   "source": "PC Gamer",
+   "published": "2026-10-28T20:10:35Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "4436d4008402",
+   "title": "Best Buy Offering Up to $100 Gift Cards With iPad Mini 8 and M6 MacBook Pro Pre-Orders",
+   "url": "https://www.macrumors.com/2026/10/28/best-buy-gift-cards-ipad-macbook/",
+   "source": "MacRumors",
+   "published": "2026-10-28T20:05:50Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "f7421c2512ee",
+   "title": "Alphabet reports Q3 2026 revenue of $127.6 billion",
+   "url": "https://9to5google.com/2026/10/28/alphabet-q3-2026-earnings/",
+   "source": "9to5Google",
+   "published": "2026-10-28T20:03:59Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "fc7d1d71bde9",
+   "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+   "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+   "source": "The Verge",
+   "published": "2026-10-28T20:03:00Z",
+   "categories": [
+    "ai",
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "ad795666535c",
+   "title": "Reliability Monitor has been in Windows since Vista, and it explains crashes better than Event Viewer ever will",
+   "url": "https://www.xda-developers.com/reliability-monitor-explains-crashes-better-than-event-viewer/",
+   "source": "XDA Developers",
+   "published": "2026-10-28T20:01:22Z",
+   "categories": [
+    "chips"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "bdc7e8efb0fc",
+   "title": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
+   "url": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
+   "source": "TechCrunch",
+   "published": "2026-10-28T20:01:00Z",
+   "categories": [
+    "ai"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "0f8006a811df",
+   "title": "Score $80 off the TCL NXTPAPER 11 Gen 2 tablet",
+   "url": "https://www.androidauthority.com/tcl-nxtpaper-11-gen-2-tablet-deal-amazon-3729388/",
+   "source": "Android Authority",
+   "published": "2026-10-28T19:57:46Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "e5bf36c55396",
+   "title": "Apple introduces new power adapters for Mac, plus extension cable, travel kit",
+   "url": "https://9to5mac.com/2026/10/28/apple-introduces-new-power-adapters-for-mac-plus-extension-cable-travel-kit/",
+   "source": "9to5Mac",
+   "published": "2026-10-28T19:50:59Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "7867d84ae885",
+   "title": "What's the tech inside the touchscreen MacBook Pro's 'PROLED XDR' screen? We explain all",
+   "url": "https://www.techradar.com/computing/macbooks/whats-the-tech-inside-the-touchscreen-macbook-pros-proled-xdr-screen-heres-why-the-tandem-oled-panel-is-important",
+   "source": "TechRadar",
+   "published": "2026-10-28T19:50:49Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "c384c871b02a",
+   "title": "LG Xboom Rock drops to $69.99 on Amazon",
+   "url": "https://www.androidauthority.com/lg-xboom-rock-deal-3729382/",
+   "source": "Android Authority",
+   "published": "2026-10-28T19:47:57Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "7d982f420182",
+   "title": "Meta weighs delaying 'alarming' new business terms as backlash grows",
+   "url": "https://www.engadget.com/2300293/meta-weighs-delaying-alarming-new-business-terms-as-backlash-grows/",
+   "source": "Engadget",
+   "published": "2026-10-28T19:42:27Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "1bff443aa9c5",
+   "title": "Mid-week Android app deals and freebies: Subnautica, Lara Croft GO, Fishfolk, more",
+   "url": "https://9to5toys.com/2026/10/28/todays-highlight-google-play-deals-38/",
+   "source": "9to5Google",
+   "published": "2026-10-28T19:42:03Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "7039b3e107c2",
+   "title": "The PlayStation 5 just might be Sony's final Blu-Ray player",
+   "url": "https://www.engadget.com/2300289/playstation-5-might-be-sony-final-blu-ray-player/",
+   "source": "Engadget",
+   "published": "2026-10-28T19:39:47Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": true
+  },
+  {
+   "id": "38178729a290",
+   "title": "Dems introduce new $15,000 EV tax credit bill that has no chance — and that’s a problem",
+   "url": "https://electrek.co/2026/10/28/15000-ev-tax-credit-bill-landsman-no-chance/",
+   "source": "Electrek",
+   "published": "2026-10-28T19:38:37Z",
+   "categories": [
+    "evs"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "0b818dc6c8fd",
+   "title": "Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech",
+   "url": "https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream",
+   "source": "The Verge",
+   "published": "2026-10-28T19:37:31Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "bdd6fda1809a",
+   "title": "After only two years, Microsoft removes Copilot from all smart TVs",
+   "url": "https://www.xda-developers.com/after-only-two-years-microsoft-removes-copilot-from-all-smart-tvs/",
+   "source": "XDA Developers",
+   "published": "2026-10-28T19:36:19Z",
+   "categories": [
+    "ai"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "dd28ea9780b3",
+   "title": "Check out these brand-new YouTube minigames from some of your favorite creators",
+   "url": "https://www.androidauthority.com/youtube-playables-educational-games-3729351/",
+   "source": "Android Authority",
+   "published": "2026-10-28T19:33:35Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "d175d4f66bfd",
+   "title": "Trump admin sues Utah to save Kalshi from the state's total ban on gambling",
+   "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+   "source": "Ars Technica",
+   "published": "2026-10-28T19:30:33Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "5e7b13423133",
+   "title": "This PowerToys feature lets me move windows without touching the title bar, and now I can't go back",
+   "url": "https://www.xda-developers.com/powertoys-feature-move-windows-without-touching-title-bar-cant-go-back/",
+   "source": "XDA Developers",
+   "published": "2026-10-28T19:30:22Z",
+   "categories": [
+    "chips"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "ba6d9c283f2e",
+   "title": "Apple Releases Redesigned Mac Chargers and 'World Travel Adapter Kit'",
+   "url": "https://www.macrumors.com/2026/10/28/apple-new-world-travel-adapter-kit/",
+   "source": "MacRumors",
+   "published": "2026-10-28T19:30:02Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "7f77e0ad4a1a",
+   "title": "Save $120 on a like-new Kindle Scribe 32GB on Amazon",
+   "url": "https://www.androidauthority.com/like-new-kindle-scribe-32gb-deal-3729377/",
+   "source": "Android Authority",
+   "published": "2026-10-28T19:28:16Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "0f9ed447350c",
+   "title": "Apple releases touchscreen Mac developer videos, with live sessions coming in November",
+   "url": "https://9to5mac.com/2026/10/28/apple-releases-touchscreen-mac-developer-videos-with-live-sessions-coming-in-november/",
+   "source": "9to5Mac",
+   "published": "2026-10-28T19:27:35Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "39134a7f0350",
+   "title": "The last, best hope for space tourism just rolled onto a runway in Arizona",
+   "url": "https://arstechnica.com/space/2026/10/the-last-best-hope-for-space-tourism-just-rolled-onto-a-runway-in-arizona/",
+   "source": "Ars Technica",
+   "published": "2026-10-28T19:20:36Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "2ede9b7f3431",
+   "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+   "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+   "source": "TechCrunch",
+   "published": "2026-10-28T19:19:58Z",
+   "categories": [
+    "ai"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "d57eebcd9177",
+   "title": "Reddit is taking a page out of TikTok’s book, and it’s not what you think (Updated)",
+   "url": "https://www.androidauthority.com/reddit-for-you-following-feeds-update-3729332/",
+   "source": "Android Authority",
+   "published": "2026-10-28T19:19:49Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "11159ff81e72",
+   "title": "Razer’s 11-port USB-C dock just got $50 cheaper",
+   "url": "https://www.androidauthority.com/deal-razer-usb-c-dock-3729371/",
+   "source": "Android Authority",
+   "published": "2026-10-28T19:17:18Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "887d20d9529b",
+   "title": "OpenAI now lets you text your Dot agent",
+   "url": "https://www.engadget.com/2300235/openai-now-lets-you-text-your-dot-agent/",
+   "source": "Engadget",
+   "published": "2026-10-28T19:15:00Z",
+   "categories": [
+    "ai"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "88f09ecccd09",
+   "title": "Touchscreen MacBook Pro hands-on: OLED looks great on a Mac",
+   "url": "https://arstechnica.com/apple/2026/10/touchscreen-macbook-pro-hands-on-oled-looks-great-on-a-mac/",
+   "source": "Ars Technica",
+   "published": "2026-10-28T19:10:29Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "efcd4e2039d4",
+   "title": "All-new MacBook Pro brings back beloved design feature from the past",
+   "url": "https://9to5mac.com/2026/10/28/all-new-macbook-pro-brings-back-beloved-design-feature-from-the-past/",
+   "source": "9to5Mac",
+   "published": "2026-10-28T19:06:55Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "2134b0692a69",
+   "title": "GTA 6 Online Could Be Released In Early 2027, Bank Says",
+   "url": "https://www.gamespot.com/articles/gta-6-online-could-be-released-in-early-2027-bank-says/",
+   "source": "GameSpot",
+   "published": "2026-10-28T19:05:50Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": true
+  },
+  {
+   "id": "daf24665613a",
+   "title": "Engadget is hiring writers!",
+   "url": "https://www.engadget.com/2300216/engadget-is-hiring-writers-october-2026/",
+   "source": "Engadget",
+   "published": "2026-10-28T19:05:46Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "5c45043400a4",
+   "title": "The Galaxy Ring got a new update just in time for a $75-off sale",
+   "url": "https://9to5google.com/2026/10/28/the-galaxy-ring-got-a-new-update-just-in-time-for-a-75-off-sale/",
+   "source": "9to5Google",
+   "published": "2026-10-28T19:05:02Z",
+   "categories": [
+    "android",
+    "samsung"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "e6e0e9f30871",
+   "title": "Amazon warns engineers just using more AI doesn't make them more productive, says they should avoid tokenmaxxing",
+   "url": "https://www.techradar.com/pro/amazon-warns-engineers-just-using-more-ai-doesnt-make-them-more-productive-says-they-should-avoid-tokenmaxxing",
+   "source": "TechRadar",
+   "published": "2026-10-28T19:05:00Z",
+   "categories": [
+    "ai"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "971de4deeb1b",
+   "title": "This Xbox emulator makes Halo, Forza, and more actually playable on Android handhelds",
+   "url": "https://www.androidauthority.com/android-xbox-emulator-hakux-update-3729329/",
+   "source": "Android Authority",
+   "published": "2026-10-28T19:01:46Z",
+   "categories": [
+    "android",
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "77f9e59afaa3",
+   "title": "I turned off these 4 Android Auto settings, and my daily drives got a whole lot better",
+   "url": "https://www.xda-developers.com/i-turned-off-these-android-auto-settings-and-my-daily-drives-got-a-whole-lot-better/",
+   "source": "XDA Developers",
+   "published": "2026-10-28T19:00:21Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "71c503f71cee",
+   "title": "I set up every new Android phone with the same 7 essential apps, leaving social media behind",
+   "url": "https://www.androidpolice.com/set-up-new-android-phone-with-essential-apps-leaving-social-media-behind/",
+   "source": "Android Police",
+   "published": "2026-10-28T19:00:10Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "58b41064888a",
+   "title": "Apple announces new MacBook Pro models with OLED and touchscreen",
+   "url": "https://www.gsmarena.com/apple_announces_new_macbook_pro_models_with_oled_and_touchscreen-news-75254.php",
+   "source": "GSMArena",
+   "published": "2026-10-28T19:00:02Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "8cedaef191b3",
+   "title": "Download the new MacBook Pro with PROLED XDR Display wallpaper",
+   "url": "https://9to5mac.com/2026/10/28/download-the-new-macbook-pro-with-proled-xdr-display-wallpaper/",
+   "source": "9to5Mac",
+   "published": "2026-10-28T18:56:34Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "9528ae76703a",
+   "title": "Adding Touch Didn't Cost the MacBook Pro Any Battery Life",
+   "url": "https://www.macrumors.com/2026/10/28/macbook-pro-touch-battery-life/",
+   "source": "MacRumors",
+   "published": "2026-10-28T18:55:00Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "bfd6acefc1fb",
+   "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+   "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+   "source": "Ars Technica",
+   "published": "2026-10-28T18:47:27Z",
+   "categories": [
+    "ai",
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "3a566bd188f5",
+   "title": "Sony's new see-through DualSense controllers let you game like its 1999",
+   "url": "https://www.engadget.com/2300152/sonys-new-see-through-dualsense-controllers-let-you-game-like-its-1999/",
+   "source": "Engadget",
+   "published": "2026-10-28T18:38:17Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "b495894c4a4e",
+   "title": "LOTRO’s Latest Expansion Is Out Now, Nearly 20 Years After The Game Launched",
+   "url": "https://www.gamespot.com/articles/lotros-latest-expansion-is-out-now-nearly-20-years-after-the-game-launched/",
+   "source": "GameSpot",
+   "published": "2026-10-28T18:30:46Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "ba27ed68b6d2",
+   "title": "Witchbrook is delayed again, now set for release in 2027",
+   "url": "https://www.pcgamer.com/games/rpg/witchbrook-is-delayed-again-now-set-for-release-in-2027/",
+   "source": "PC Gamer",
+   "published": "2026-10-28T18:28:34Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "68925e2ed2f2",
+   "title": "Apple Executives Explain Why the MacBook Pro Finally Has a Touch Screen",
+   "url": "https://www.macrumors.com/2026/10/28/apple-executives-touch-screen-explanation/",
+   "source": "MacRumors",
+   "published": "2026-10-28T18:25:22Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "b283955af2fb",
+   "title": "OpenAI expanding ChatGPT dot access to iMessage and RCS",
+   "url": "https://9to5mac.com/2026/10/28/openai-expanding-chatgpt-dot-access-to-imessage-and-rcs/",
+   "source": "9to5Mac",
+   "published": "2026-10-28T18:15:27Z",
+   "categories": [
+    "ai",
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "62a538b255b5",
+   "title": "Bank of America tells customers to stop sharing banking passwords with AI agents — agentic payments are becoming a major thorn in the side of banking",
+   "url": "https://www.techradar.com/pro/bank-of-america-tells-customers-to-stop-sharing-banking-passwords-with-ai-agents-agentic-payments-are-becoming-a-major-thorn-in-the-side-of-banking",
+   "source": "TechRadar",
+   "published": "2026-10-28T18:15:00Z",
+   "categories": [
+    "ai"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "ca28363feec7",
+   "title": "Apple updates Design Resources portal with assets for the new touchscreen MacBook Pro",
+   "url": "https://9to5mac.com/2026/10/28/apple-updates-design-resources-portal-with-assets-for-the-new-touchscreen-macbook-pro/",
+   "source": "9to5Mac",
+   "published": "2026-10-28T18:14:45Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "29d56147d7bd",
+   "title": "Mint Mobile reworks family plans with new discounts",
+   "url": "https://www.androidauthority.com/mint-mobile-family-plan-discounts-3729323/",
+   "source": "Android Authority",
+   "published": "2026-10-28T18:11:40Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "c3bde0e7b9f5",
+   "title": "Nothing Ear (3a) are ‘the best earbuds,’ and they’re back down to their lowest price ever",
+   "url": "https://9to5google.com/2026/10/28/nothing-ear-3a-deal-best-price-ever/",
+   "source": "9to5Google",
+   "published": "2026-10-28T18:10:00Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "13d3c928f63c",
+   "title": "Volkswagen’s EV battery recall reaches over 85,000, with Audi now included",
+   "url": "https://electrek.co/2026/10/28/volkswagens-ev-battery-recall-reaches-over-85000-with-audi/",
+   "source": "Electrek",
+   "published": "2026-10-28T18:09:59Z",
+   "categories": [
+    "evs"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "38c4d67fab6a",
+   "title": "MacBook Pro with PROLED XDR vs MacBook Pro: Here’s every difference",
+   "url": "https://9to5mac.com/2026/10/28/macbook-pro-with-proled-xdr-vs-macbook-pro-heres-every-difference/",
+   "source": "9to5Mac",
+   "published": "2026-10-28T18:06:03Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "fb777c0e9df7",
+   "title": "Amazon turns its most capable smart speaker into a smart camera, too",
+   "url": "https://arstechnica.com/gadgets/2026/10/amazon-adds-a-camera-to-its-best-sounding-smart-speaker-for-30-extra/",
+   "source": "Ars Technica",
+   "published": "2026-10-28T18:05:22Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "9600e6c39fb0",
+   "title": "Samsung Wallet Perks bring cash back deals from US brands to your Wallet",
+   "url": "https://www.sammobile.com/news/samsung-wallet-perks-bring-cash-back-deals-from-us-brands-to-your-wallet/",
+   "source": "SamMobile",
+   "published": "2026-10-28T18:03:51Z",
+   "categories": [
+    "android",
+    "samsung"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "773cea916046",
+   "title": "New MacBook Pro Features Deeper Bass and Improved Closed-Lid Audio",
+   "url": "https://www.macrumors.com/2026/10/28/new-macbook-pro-improved-audio/",
+   "source": "MacRumors",
+   "published": "2026-10-28T18:03:42Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "8e3aeda7c745",
+   "title": "South Korean Police Are Cracking Down On Tesla Owners Jailbreaking FSD",
+   "url": "https://insideevs.com/news/813617/korea-tesla-fsd-jailbreak-arrests/",
+   "source": "InsideEVs",
+   "published": "2026-10-28T18:00:06Z",
+   "categories": [
+    "evs"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "5af8ab1af2e3",
+   "title": "Jackery sale drops HomePower 2000 Plus v2 400W solar bundle to $1,479, Yozma IN 11 electric dirt bike exclusive $1,399 low, more",
+   "url": "https://electrek.co/2026/10/28/jackery-homepower-2000-plus-v2-power-station-yozma-in-11-electric-dirt-bike-more/",
+   "source": "Electrek",
+   "published": "2026-10-28T18:00:00Z",
+   "categories": [
+    "evs"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "135119bae3af",
+   "title": "Cadillac Escalade IQ review: Huge battery, huge range, huge SUV",
+   "url": "https://arstechnica.com/cars/2026/10/cadillac-escalade-iq-review-4-tons-of-electric-american-luxury-on-wheels/",
+   "source": "Ars Technica",
+   "published": "2026-10-28T17:55:45Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "f4e95a435666",
+   "title": "New MacBook Pro Offers Up to 16TB of Storage, Double Previous Limit",
+   "url": "https://www.macrumors.com/2026/10/28/new-macbook-pro-offers-up-to-16tb/",
+   "source": "MacRumors",
+   "published": "2026-10-28T17:52:44Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "2ace672e4865",
+   "title": "Anker Prime 3-in-1 charger drops under $100 in Amazon deal",
+   "url": "https://www.androidauthority.com/anker-prime-3-in-1-charger-deal-3729339/",
+   "source": "Android Authority",
+   "published": "2026-10-28T17:52:02Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "a613c4ef4aca",
+   "title": "Samsung's next wide foldable will reportedly get a sibling",
+   "url": "https://www.gsmarena.com/samsungs_next_wide_foldable_will_reportedly_get_a_sibling-news-75241.php",
+   "source": "GSMArena",
+   "published": "2026-10-28T17:48:02Z",
+   "categories": [
+    "android",
+    "samsung"
+   ],
+   "rumor": true
+  },
+  {
+   "id": "72e50e52f013",
+   "title": "Apple's New Touchscreen MacBook Pro Costs Up to $14,549",
+   "url": "https://www.macrumors.com/2026/10/28/new-macbook-pro-maxed-out-cost/",
+   "source": "MacRumors",
+   "published": "2026-10-28T17:46:38Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "0676def7896c",
+   "title": "Google AI gets cagey when asked who won the 2020 elections",
+   "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+   "source": "Ars Technica",
+   "published": "2026-10-28T17:46:32Z",
+   "categories": [
+    "ai",
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "86fc9a404e44",
+   "title": "Chrono beats Pixel's clock app with open source features that help me wake up on time",
+   "url": "https://www.androidpolice.com/chrono-beats-the-pixel-clock-app-with-open-source-features-that-help-me/",
+   "source": "Android Police",
+   "published": "2026-10-28T17:45:10Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "913ddece239d",
+   "title": "Apple's first touchscreen MacBook Pro feels both familiar and radically improved",
+   "url": "https://www.engadget.com/2300023/apples-first-touchscreen-macbook-pro-feels-both-familiar-and-radically-improved/",
+   "source": "Engadget",
+   "published": "2026-10-28T17:43:10Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "6f68751fc2d2",
+   "title": "Apple reveals pricing for Mac Studio with 512GB of RAM",
+   "url": "https://9to5mac.com/2026/10/28/apple-reveals-pricing-for-mac-studio-with-512gb-of-ram/",
+   "source": "9to5Mac",
+   "published": "2026-10-28T17:40:07Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "e312e469f05c",
+   "title": "Samsung 75-inch M80H TV hits its lowest price yet on Amazon",
+   "url": "https://www.androidauthority.com/samsung-75-inch-class-m80h-smart-tv-deal-3729330/",
+   "source": "Android Authority",
+   "published": "2026-10-28T17:39:18Z",
+   "categories": [
+    "android",
+    "samsung"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "05fe2cffc24c",
+   "title": "One of the best quests in Baldur's Gate 3 is also its scariest, and it doesn't have anything to do with ghosts or vampires",
+   "url": "https://www.pcgamer.com/games/baldurs-gate/one-of-the-best-quests-in-baldurs-gate-3-is-also-its-scariest-and-it-doesnt-have-anything-to-do-with-ghosts-or-vampires/",
+   "source": "PC Gamer",
+   "published": "2026-10-28T17:38:31Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "bf9998920313",
+   "title": "Florida county won’t investigate sketchy Flock cameras removed by mystery owners",
+   "url": "https://arstechnica.com/tech-policy/2026/10/florida-county-wont-investigate-sketchy-flock-cameras-removed-by-mystery-owners/",
+   "source": "Ars Technica",
+   "published": "2026-10-28T17:37:49Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "e19aed94f43f",
+   "title": "Valve admits Steam has an AI slop and cloning problem, but says 'we don't want to be gatekeepers telling developers which tools they should or shouldn't use'",
+   "url": "https://www.pcgamer.com/software/ai/valve-admits-steam-has-an-ai-slop-and-cloning-problem-but-says-we-dont-want-to-be-gatekeepers-telling-developers-which-tools-they-should-or-shouldnt-use/",
+   "source": "PC Gamer",
+   "published": "2026-10-28T17:37:24Z",
+   "categories": [
+    "ai",
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "b270ef8286e9",
+   "title": "Here's how the touchscreen on the MacBook Pro with PROLED display works",
+   "url": "https://www.engadget.com/2300009/heres-how-the-touchscreen-on-the-macbook-pro-with-proled-display-works/",
+   "source": "Engadget",
+   "published": "2026-10-28T17:35:24Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "2b677d1a5d7c",
+   "title": "Apple Brings Dynamic Island to Mac for the First Time",
+   "url": "https://www.macrumors.com/2026/10/28/apple-brings-dynamic-island-to-mac/",
+   "source": "MacRumors",
+   "published": "2026-10-28T17:28:03Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "3622cb374fca",
+   "title": "Backrooms director Kane Parsons is currently working on '3 dream projects' while wearing a Valve hoodie—suspicious",
+   "url": "https://www.pcgamer.com/movies-tv/backrooms-director-kane-parsons-is-currently-working-on-3-dream-projects-while-wearing-a-valve-hoodie-suspicious/",
+   "source": "PC Gamer",
+   "published": "2026-10-28T17:28:02Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "766d3dbe4211",
+   "title": "Watch Apple’s promo video for the new MacBook Pro with PROLED XDR Display",
+   "url": "https://9to5mac.com/2026/10/28/watch-apples-promo-video-for-the-new-macbook-pro-with-proled-xdr-display/",
+   "source": "9to5Mac",
+   "published": "2026-10-28T17:27:46Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "e88780349bae",
+   "title": "Mac Studio With M5 Ultra Now Available With 512GB RAM for $22,299",
+   "url": "https://www.macrumors.com/2026/10/28/mac-studio-m5-ultra-512gb-ram/",
+   "source": "MacRumors",
+   "published": "2026-10-28T17:26:32Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "224c11353eac",
+   "title": "Apple launches its new touchscreen MacBook Pro",
+   "url": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/",
+   "source": "TechCrunch",
+   "published": "2026-10-28T17:26:10Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "e0369b72520a",
+   "title": "Apple announces touchscreen MacBook Pro with OLED display",
+   "url": "https://arstechnica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display/",
+   "source": "Ars Technica",
+   "published": "2026-10-28T17:25:04Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "2a34af118dc7",
+   "title": "WoW: Forever Content Updates Will Come Slower Than You Might Expect",
+   "url": "https://www.gamespot.com/articles/wow-forever-content-updates-will-come-slower-than-you-might-expect/",
+   "source": "GameSpot",
+   "published": "2026-10-28T17:16:42Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": true
+  },
+  {
+   "id": "62529f1b2c0b",
+   "title": "Oura confirms Ring 4 sync bug, but the fix is simple",
+   "url": "https://www.androidauthority.com/oura-ring-4-sync-bug-3729281/",
+   "source": "Android Authority",
+   "published": "2026-10-28T17:16:08Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "33f1aee22fcc",
+   "title": "Kia’s PV5 electric campervan has two beds and a fully equipped kitchen [Images]",
+   "url": "https://electrek.co/2026/10/28/kias-electric-campervan-has-two-beds-fully-equipped-kitchen/",
+   "source": "Electrek",
+   "published": "2026-10-28T17:15:47Z",
+   "categories": [
+    "evs"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "6422132ac232",
+   "title": "Apple launches new MacBook Pro with touchscreen and OLED — starts at $2,899",
+   "url": "https://www.tomshardware.com/laptops/apple-launches-new-macbook-with-touchscreen-and-oled-starts-at-usd2-899",
+   "source": "Tom's Hardware",
+   "published": "2026-10-28T17:15:39Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "6b8c8fc5f558",
+   "title": "Sleeping Dogs Movie Director Explains Why The Adaptation Is Taking So Long",
+   "url": "https://www.gamespot.com/articles/sleeping-dogs-movie-director-explains-why-the-adaptation-is-taking-so-long/",
+   "source": "GameSpot",
+   "published": "2026-10-28T17:14:09Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "60906ab8dd42",
+   "title": "Apple's redesigned MacBook Pro has an OLED touchscreen, weighs just three pounds",
+   "url": "https://www.engadget.com/2299925/apples-redesigned-macbook-pro-has-an-oled-touchscreen-weighs-just-three-pounds/",
+   "source": "Engadget",
+   "published": "2026-10-28T17:13:10Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "39e84460d2ea",
+   "title": "Illuminated Apple Logo Returns to MacBook Pro After 10 Years",
+   "url": "https://www.macrumors.com/2026/10/28/illuminated-logo-returns-to-macbook-pro/",
+   "source": "MacRumors",
+   "published": "2026-10-28T17:12:40Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "d740ffa4e735",
+   "title": "Arc Raiders' executive producer was 'a bit skeptical' about adding PvE, but after the successful test the team needs to decide 'what we want to do going forward'",
+   "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-executive-producer-was-a-bit-skeptical-about-adding-pve-but-after-the-successful-test-the-team-needs-to-decide-what-we-want-to-do-going-forward/",
+   "source": "PC Gamer",
+   "published": "2026-10-28T17:12:25Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "cf616686fd6a",
+   "title": "Apple Announces OLED MacBook Pro With Touch Display",
+   "url": "https://www.macrumors.com/2026/10/28/apple-new-macbook-pro/",
+   "source": "MacRumors",
+   "published": "2026-10-28T17:11:44Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "b43a5766a6f4",
+   "title": "Fake PS5 emulators on GitHub are spreading password-stealing malware",
+   "url": "https://www.engadget.com/2299912/fake-ps5-emulators-on-github-are-spreading-password-stealing-malware/",
+   "source": "Engadget",
+   "published": "2026-10-28T17:10:09Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "95b18031d03b",
+   "title": "Google announces Gemini 4 Carbon with ‘significant gains across coding and agentic tasks’",
+   "url": "https://9to5google.com/2026/10/28/gemini-4-carbon-announcement/",
+   "source": "9to5Google",
+   "published": "2026-10-28T17:08:32Z",
+   "categories": [
+    "ai",
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "354b55edc70c",
+   "title": "Apple announces all-new MacBook Pro with PROLED XDR display, its first touchscreen Mac",
+   "url": "https://9to5mac.com/2026/10/28/apple-announces-redesigned-macbook-pro-its-first-touchscreen-mac/",
+   "source": "9to5Mac",
+   "published": "2026-10-28T17:06:48Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "d3a089a79de6",
+   "title": "Malaysia seizes $12 million worth of advanced AI chips hidden inside 30 servers",
+   "url": "https://www.tomshardware.com/tech-industry/policy/malaysia-seizes-usd12-million-worth-of-advanced-ai-chips-hidden-inside-30-servers-customs-says-suspected-smuggling-network-used-the-country-as-a-transit-hub",
+   "source": "Tom's Hardware",
+   "published": "2026-10-28T17:02:14Z",
+   "categories": [
+    "ai",
+    "chips"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "d09197e0187b",
+   "title": "If you love horror but hate actually being scared, I've got the perfect Halloween game for you",
+   "url": "https://www.pcgamer.com/games/puzzle/if-you-love-horror-but-hate-actually-being-scared-ive-got-the-perfect-halloween-game-for-you/",
+   "source": "PC Gamer",
+   "published": "2026-10-28T17:02:09Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "ccf86cd59a25",
+   "title": "T-Mobile really wants to give you $1,000 off the Google Pixel 11 Pro XL with new deal - here’s how it works",
+   "url": "https://www.androidpolice.com/t-mobile-google-pixel-11-pro-xl-deal-1000-off/",
+   "source": "Android Police",
+   "published": "2026-10-28T17:01:42Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "8502aaebc118",
+   "title": "Chrome can now pull autofill suggestions straight from Gmail",
+   "url": "https://www.androidauthority.com/chrome-gemini-autofill-gmail-privacy-3728808/",
+   "source": "Android Authority",
+   "published": "2026-10-28T17:00:57Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "4826a3a1cc50",
+   "title": "Google opens the floodgates for more connected apps in Gemini and Search",
+   "url": "https://www.androidauthority.com/google-gemini-search-connected-apps-developer-platform-3729015/",
+   "source": "Android Authority",
+   "published": "2026-10-28T17:00:49Z",
+   "categories": [
+    "ai",
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "d6581854b9da",
+   "title": "XREAL Aura brings Android XR and Gemini to your eyes, but it’ll cost you",
+   "url": "https://www.androidauthority.com/android-xr-xreal-aura-launch-3729162/",
+   "source": "Android Authority",
+   "published": "2026-10-28T17:00:36Z",
+   "categories": [
+    "ai",
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "bc7ff7322739",
+   "title": "Google is done asking nicely for foldable app optimization",
+   "url": "https://www.androidauthority.com/google-play-foldable-app-optimization-3729109/",
+   "source": "Android Authority",
+   "published": "2026-10-28T17:00:35Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "8fdd82d92bf1",
+   "title": "I found the Android Developer Option that instantly made my cheap earbuds sound good",
+   "url": "https://www.androidpolice.com/i-found-android-developer-option-that-instantly-made-my-cheap-earbuds-sound-good/",
+   "source": "Android Police",
+   "published": "2026-10-28T17:00:10Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "994ac38f2d52",
+   "title": "The Xreal Aura smartglasses are now on sale for a discounted launch price",
+   "url": "https://www.engadget.com/2299633/the-xreal-aura-smartglasses-are-now-on-sale-for-a-discounted-launch-price/",
+   "source": "Engadget",
+   "published": "2026-10-28T17:00:00Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "67eaba83a56f",
+   "title": "Xreal Aura is a new wired headset powered by Android XR",
+   "url": "https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/",
+   "source": "TechCrunch",
+   "published": "2026-10-28T17:00:00Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "1e8ba9106ed8",
+   "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+   "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+   "source": "TechCrunch",
+   "published": "2026-10-28T17:00:00Z",
+   "categories": [
+    "ai",
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "765a5a74d244",
+   "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+   "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+   "source": "TechCrunch",
+   "published": "2026-10-28T17:00:00Z",
+   "categories": [
+    "ai"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "6cd0369ab3dc",
+   "title": "Google adding more Connected Apps to Gemini & Search with new dev platform",
+   "url": "https://9to5google.com/2026/10/28/gemini-google-connected-apps-platform/",
+   "source": "9to5Google",
+   "published": "2026-10-28T17:00:00Z",
+   "categories": [
+    "ai",
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "496e26743006",
+   "title": "XREAL Aura is coming in November with a special $200-off launch discount",
+   "url": "https://9to5google.com/2026/10/28/xreal-aura-is-coming-in-november-with-a-special-200-off-launch-discount/",
+   "source": "9to5Google",
+   "published": "2026-10-28T17:00:00Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "ccf67549495c",
+   "title": "Google Chrome rolling out ‘Suggested by Gemini’ autofill",
+   "url": "https://9to5google.com/2026/10/28/chrome-autofill-gemini/",
+   "source": "9to5Google",
+   "published": "2026-10-28T17:00:00Z",
+   "categories": [
+    "ai",
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "3f513a75d37f",
+   "title": "Google Photos is giving you new tools to wrangle your Collections tab",
+   "url": "https://www.androidauthority.com/google-photos-customize-collections-2-3729262/",
+   "source": "Android Authority",
+   "published": "2026-10-28T16:55:06Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "04fa19d0fc94",
+   "title": "Nothing’s CMF Clip Pro gets a $30 Amazon markdown to $69",
+   "url": "https://www.androidauthority.com/deal-cmf-clip-pro-3729274/",
+   "source": "Android Authority",
+   "published": "2026-10-28T16:53:15Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "39b2f1996cbb",
+   "title": "Your least favorite Google Messages feature was a clear favorite in our poll",
+   "url": "https://www.androidauthority.com/google-messages-least-favorite-feature-poll-results-3729185/",
+   "source": "Android Authority",
+   "published": "2026-10-28T16:47:31Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "d622b0ff93cc",
+   "title": "Apple Store Down Ahead of 'Pro and Tell' Launch Today",
+   "url": "https://www.macrumors.com/2026/10/28/apple-store-down-ahead-of-pro-and-tell/",
+   "source": "MacRumors",
+   "published": "2026-10-28T16:46:58Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "1c6670b02529",
+   "title": "Garmin Dash Cam Mini 3 drops to $99.99 on Amazon",
+   "url": "https://www.androidauthority.com/deal-garmin-dash-cam-mini-3-3729302/",
+   "source": "Android Authority",
+   "published": "2026-10-28T16:38:00Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "377b5c3ee46c",
+   "title": "New York governor signs AI chatbot child safety law",
+   "url": "https://www.engadget.com/2299823/new-york-governor-signs-ai-chatbot-child-safety-law/",
+   "source": "Engadget",
+   "published": "2026-10-28T16:33:01Z",
+   "categories": [
+    "ai"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "794db2321282",
+   "title": "Here's when Motorola's Signature 27 is landing in India",
+   "url": "https://www.gsmarena.com/heres_when_motorolas_signature_27_is_landing_in_india-news-75247.php",
+   "source": "GSMArena",
+   "published": "2026-10-28T16:31:02Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "d9f41f8e2383",
+   "title": "Perplexity upgrades Mac app with ChatGPT-powered voice mode",
+   "url": "https://9to5mac.com/2026/10/28/perplexity-upgrades-mac-app-with-chatgpt-powered-voice-mode/",
+   "source": "9to5Mac",
+   "published": "2026-10-28T16:28:15Z",
+   "categories": [
+    "ai",
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "a58497581ffb",
+   "title": "Vote now: 8 games remain in our scariest games bracket",
+   "url": "https://www.pcgamer.com/games/horror/vote-now-8-games-remain-in-our-scariest-games-bracket/",
+   "source": "PC Gamer",
+   "published": "2026-10-28T16:28:03Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "3369a87245a4",
+   "title": "Amazon’s Echo Time is a $200 camera-free smart clock built for better sleep",
+   "url": "https://www.androidauthority.com/amazon-echo-time-camera-free-smart-clock-3729226/",
+   "source": "Android Authority",
+   "published": "2026-10-28T16:13:59Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "64d4bc1ce826",
+   "title": "Nintendo’s Indie World Presentation Was Pretty Packed For A Short Show",
+   "url": "https://www.gamespot.com/articles/nintendos-indie-world-presentation-was-pretty-packed-for-a-short-show/",
+   "source": "GameSpot",
+   "published": "2026-10-28T16:12:05Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "1b1549026aaa",
+   "title": "Amazon’s latest Echo smart displays and speakers reinforce Google Home’s lost lead",
+   "url": "https://9to5google.com/2026/10/28/amazon-echo-new-smart-displays-speakers-google-home/",
+   "source": "9to5Google",
+   "published": "2026-10-28T16:10:00Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "4e4354591559",
+   "title": "Samsung may offer you two wide Galaxy Z Fold 9 variants to choose from",
+   "url": "https://www.sammobile.com/news/samsung-may-offer-you-two-different-galaxy-z-fold-9-variants-to-choose-from/",
+   "source": "SamMobile",
+   "published": "2026-10-28T16:08:16Z",
+   "categories": [
+    "android",
+    "samsung"
+   ],
+   "rumor": true
+  },
+  {
+   "id": "af9e8077c089",
+   "title": "Amazon’s new Echo Show 16 is a smart display and Fire TV rolled into one",
+   "url": "https://www.androidauthority.com/amazon-alexa-photo-frame-echo-show-16-launch-3729130/",
+   "source": "Android Authority",
+   "published": "2026-10-28T16:02:37Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "21d3a1322a25",
+   "title": "South Korea Rules Against Apple Over App Store Payment Rules",
+   "url": "https://www.macrumors.com/2026/10/28/south-korea-rules-against-apple/",
+   "source": "MacRumors",
+   "published": "2026-10-28T16:00:55Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "baf13565537d",
+   "title": "Reddit is adding a 'for you' feed for recommendations",
+   "url": "https://www.engadget.com/2299618/reddit-is-adding-a-for-you-feed-for-recommendations/",
+   "source": "Engadget",
+   "published": "2026-10-28T16:00:00Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "777494319c62",
+   "title": "Samsung’s new AI sleep apnea detection is coming to older Galaxy Watches",
+   "url": "https://www.androidpolice.com/samsung-new-ai-sleep-apnea-feature-coming-older-galaxy-watches/",
+   "source": "Android Police",
+   "published": "2026-10-28T15:58:04Z",
+   "categories": [
+    "ai",
+    "android",
+    "samsung"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "8b75c15bb128",
+   "title": "Deals: Galaxy S25 Ultra at $799 ($600 under S26), new Echo Show 16 $100 off, 2026 Chromebook M 52% off, more",
+   "url": "https://9to5google.com/2026/10/28/deals-galaxy-s25-ultra-echo-show-16-chromebook-m/",
+   "source": "9to5Google",
+   "published": "2026-10-28T15:54:16Z",
+   "categories": [
+    "android",
+    "samsung"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "d0407e5d8c6e",
+   "title": "AI execs may be too out of touch to build for the general public",
+   "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+   "source": "TechCrunch",
+   "published": "2026-10-28T15:53:52Z",
+   "categories": [
+    "ai"
+   ],
+   "rumor": true
+  },
+  {
+   "id": "405a8a361374",
+   "title": "GTA 6's PS5 install size is so big you could store 3500 copies of Balatro inside",
+   "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-ps5-install-size-is-so-big-you-could-store-3500-copies-of-balatro-inside/",
+   "source": "PC Gamer",
+   "published": "2026-10-28T15:52:11Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": true
+  },
+  {
+   "id": "995b9e8e957d",
+   "title": "Samsung Display has nothing to do with iPhone Duo’s display failures",
+   "url": "https://www.sammobile.com/news/samsung-display-nothing-to-do-iphone-duo-display-failures/",
+   "source": "SamMobile",
+   "published": "2026-10-28T15:50:19Z",
+   "categories": [
+    "android",
+    "apple",
+    "samsung"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "180cb4624042",
+   "title": "Buckle up for more body-swapping hijinks in Jumanji: Open World trailer",
+   "url": "https://arstechnica.com/culture/2026/10/buckle-up-for-more-body-swapping-hijinks-in-jumanji-open-world-trailer/",
+   "source": "Ars Technica",
+   "published": "2026-10-28T15:48:12Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "3b3ba17dd290",
+   "title": "Record-low Bose Smart Ultra soundbar deal saves you $330",
+   "url": "https://www.androidauthority.com/bose-smart-ultra-soundbar-deal-amazon-3729278/",
+   "source": "Android Authority",
+   "published": "2026-10-28T15:46:31Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "5f8be046c175",
+   "title": "If GTA 6 Beats Football On Thanksgiving, That’s A Win, EA Founder Says",
+   "url": "https://www.gamespot.com/articles/if-gta-6-beats-football-on-thanksgiving-thats-a-win-ea-founder-says/",
+   "source": "GameSpot",
+   "published": "2026-10-28T15:42:37Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "cea5ba226205",
+   "title": "Samsung Second Screen explained: Use your Galaxy tablet as a PC monitor",
+   "url": "https://www.sammobile.com/news/samsung-galaxy-tablet-second-screen-explained/",
+   "source": "SamMobile",
+   "published": "2026-10-28T15:40:49Z",
+   "categories": [
+    "android",
+    "chips",
+    "samsung"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "941fb9dd2785",
+   "title": "PlayStation Plus Free Games For November 2026 Revealed",
+   "url": "https://www.gamespot.com/articles/playstation-plus-essential-free-games-for-november-2026/",
+   "source": "GameSpot",
+   "published": "2026-10-28T15:38:07Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "5a91024e3760",
+   "title": "Australian government introduces Digital Duty of Care bill to regulate AI chatbots",
+   "url": "https://www.techradar.com/ai-platforms-assistants/australia-government-wants-to-ban-ai-chatbots-that-create-emotional-intimacy-but-critics-are-accusing-it-of-creating-an-orwellian-system-of-censorship",
+   "source": "TechRadar",
+   "published": "2026-10-28T15:37:54Z",
+   "categories": [
+    "ai"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "d99fddd498e3",
+   "title": "DuckDuckGo has a bone to pick with Samsung over Google Search in One UI 9",
+   "url": "https://www.androidauthority.com/duckduckgo-samsung-one-ui-9-google-search-bar-3729165/",
+   "source": "Android Authority",
+   "published": "2026-10-28T15:34:49Z",
+   "categories": [
+    "android",
+    "samsung"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "98827fe6933e",
+   "title": "Deals: AirPods Pro 3, Apple’s iPhone Duo charger, MacBook Air $200 off, Beats 360 first discount, more",
+   "url": "https://9to5mac.com/2026/10/28/deals-airpods-iphone-duo-charger-macbook-beats-360/",
+   "source": "9to5Mac",
+   "published": "2026-10-28T15:34:08Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "221850061abc",
+   "title": "Audio Technica just released its first set of wireless StreamSet headphones",
+   "url": "https://www.engadget.com/2299600/audio-technica-just-released-its-first-set-of-wireless-streamset-headphones/",
+   "source": "Engadget",
+   "published": "2026-10-28T15:34:06Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "d2e78647fbb4",
+   "title": "Every October 2026 Nintendo Indie World Game You Can Play Right Now",
+   "url": "https://www.gamespot.com/articles/every-october-2026-nintendo-indie-world-game-you-can-play-right-now/",
+   "source": "GameSpot",
+   "published": "2026-10-28T15:28:35Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "f16264d01890",
+   "title": "World of Warcraft was meant to have viable levelling gear from professions way back in 2004, but the designers on raids and dungeons 'cheated a little bit'",
+   "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-was-meant-to-have-viable-levelling-gear-from-professions-way-back-in-2004-but-the-designers-on-raids-and-dungeons-cheated-a-little-bit/",
+   "source": "PC Gamer",
+   "published": "2026-10-28T15:28:18Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "599f6b95d785",
+   "title": "Do Those Funky Tesla Wheel Covers Actually Boost Range?",
+   "url": "https://insideevs.com/news/813477/tesla-wheel-cover-boost-range/",
+   "source": "InsideEVs",
+   "published": "2026-10-28T15:27:20Z",
+   "categories": [
+    "evs"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "9c985c9f3dc5",
+   "title": "RAMageddon is ready to rage on through 2030",
+   "url": "https://9to5google.com/2026/10/28/ramageddon-sk-hynix-earnings-call-2030/",
+   "source": "9to5Google",
+   "published": "2026-10-28T15:25:00Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "071a4b9762dd",
+   "title": "AI startup claims it hacked Anthropic in 12 hours, gains access to employee details and internal messages",
+   "url": "https://www.techradar.com/pro/security/ai-startup-claims-it-hacked-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages",
+   "source": "TechRadar",
+   "published": "2026-10-28T15:25:00Z",
+   "categories": [
+    "ai"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "9126ea4dd606",
+   "title": "Nintendo Indie World’s Weirdest Game Got Me To Relax",
+   "url": "https://www.gamespot.com/articles/nintendo-indie-worlds-weirdest-game-got-me-to-relax/",
+   "source": "GameSpot",
+   "published": "2026-10-28T15:24:40Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "03c42f81a602",
+   "title": "AI component hikes force the world's largest PC makers to return manufacturing capacity to China",
+   "url": "https://www.tomshardware.com/tech-industry/manufacturing/ai-component-hikes-force-the-worlds-largest-pc-makers-to-return-manufacturing-capacity-to-china-brands-to-seek-lower-production-costs-and-efficiency-in-established-supply-chain",
+   "source": "Tom's Hardware",
+   "published": "2026-10-28T15:24:16Z",
+   "categories": [
+    "ai",
+    "chips"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "5327b236ed82",
+   "title": "Tesla’s rocket-shaped Robotaxi map in Houston is partly ‘fake’",
+   "url": "https://electrek.co/2026/10/28/tesla-robotaxi-houston-rocket-service-area-fake/",
+   "source": "Electrek",
+   "published": "2026-10-28T15:18:25Z",
+   "categories": [
+    "evs"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "dfcc96decff0",
+   "title": "Last year’s Google Pixel 10 Pro is now cheaper than the Pixel 11 at Amazon",
+   "url": "https://www.androidpolice.com/amazon-google-pixel-10-pro-deal-last-gen-savings/",
+   "source": "Android Police",
+   "published": "2026-10-28T15:17:18Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "887850212717",
+   "title": "Witchbrook Is Stardew Valley Meets Kiki’s Delivery Service, And It Finally Has A Release Date",
+   "url": "https://www.gamespot.com/articles/witchbrook-is-stardew-valley-meets-kikis-delivery-service-and-it-finally-has-a-release-date/",
+   "source": "GameSpot",
+   "published": "2026-10-28T15:17:07Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "39552d1fab7b",
+   "title": "Huawei Enjoy 100 is also here with a 6.56-inch screen and a 6,100mAh battery",
+   "url": "https://www.gsmarena.com/huawei_enjoy_100_is_also_here_with_a_656inch_screen_and_a_6100mah_battery-news-75245.php",
+   "source": "GSMArena",
+   "published": "2026-10-28T15:16:02Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "c1d18e554cf1",
+   "title": "Amazon tells engineers to stop ‘tokenmaxxing’ to look productive",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amazon-tells-engineers-to-stop-tokenmaxxing-to-look-productive-says-ai-will-be-central-to-software-development-but-usage-is-not-the-goal-new-guidelines-claim",
+   "source": "Tom's Hardware",
+   "published": "2026-10-28T15:13:48Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "a164f69639ce",
+   "title": "CATL pushes ahead with 20 Ah solid-state EV batteries, with 500 Wh/kg in sight",
+   "url": "https://electrek.co/2026/10/28/catl-pushes-ahead-20-ah-solid-state-ev-batteries-500-wh-kg/",
+   "source": "Electrek",
+   "published": "2026-10-28T15:12:41Z",
+   "categories": [
+    "evs"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "90cef7e4a957",
+   "title": "Public Discord messages might start showing up in Google Search, unless users opt out",
+   "url": "https://9to5google.com/2026/10/28/discord-updates-server-web-pages-for-search/",
+   "source": "9to5Google",
+   "published": "2026-10-28T15:10:19Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": true
+  },
+  {
+   "id": "bbfa4706edbd",
+   "title": "FCC rebuffs TP-Link again as it attempts to sell Wi-Fi 8 gear in the US",
+   "url": "https://www.tomshardware.com/networking/routers/fcc-rebuffs-tp-link-again-as-it-attempts-to-sell-wi-fi-8-gear-in-the-us-fcc-alleges-inaccurate-documentation-and-out-of-spec-power-levels-for-routers",
+   "source": "Tom's Hardware",
+   "published": "2026-10-28T15:07:35Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "f1ebb512d4e0",
+   "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+   "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+   "source": "TechCrunch",
+   "published": "2026-10-28T15:00:00Z",
+   "categories": [
+    "ai",
+    "chips"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "e8fb327910c4",
+   "title": "Sony’s translucent PS5 controllers are a nostalgic hit of retro gaming flair",
+   "url": "https://www.techradar.com/gaming/ps5/forget-xbox-sony-just-launched-its-own-translucent-controllers-and-theyre-a-nostalgic-hit-of-retro-gaming-aesthetics-that-channel-the-late-90s-in-a-fresh-modern-way",
+   "source": "TechRadar",
+   "published": "2026-10-28T15:00:00Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "037092258cd9",
+   "title": "GOG's getting into publishing in its new, post-CD-Projekt life, and it already has games on the way",
+   "url": "https://www.pcgamer.com/gaming-industry/gogs-getting-into-publishing-in-its-new-post-cd-projekt-life-and-it-already-has-games-on-the-way/",
+   "source": "PC Gamer",
+   "published": "2026-10-28T15:00:00Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "19751c1a937a",
+   "title": "Sony Is Bringing The Best Trend Of ’90s Console Design To PS5",
+   "url": "https://www.gamespot.com/articles/sony-is-bringing-the-best-trend-of-90s-console-design-to-ps5/",
+   "source": "GameSpot",
+   "published": "2026-10-28T15:00:00Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "12a9936002d1",
+   "title": "Elon Musk says 'robot RAM needs will exceed everything else on Earth' but only assuming we throw all the data centers into space",
+   "url": "https://www.pcgamer.com/hardware/memory/elon-musk-says-robot-ram-needs-will-exceed-everything-else-on-earth-but-only-assuming-we-throw-all-the-data-centers-into-space/",
+   "source": "PC Gamer",
+   "published": "2026-10-28T14:56:17Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "9953bd1caafa",
+   "title": "Apple event live —the MacBook Pro with PROLED XDR Display is here",
+   "url": "https://www.techradar.com/news/live/oled-touchscreen-macbook-pro-apple-pro-and-tell-live-october-2026",
+   "source": "TechRadar",
+   "published": "2026-10-28T14:56:14Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "88510b692d25",
+   "title": "UK government is considering using EVs to help balance the grid",
+   "url": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/the-uk-government-is-considering-incentivizing-vehicle-to-grid-tech-to-turn-evs-into-powerplants-on-wheels",
+   "source": "TechRadar",
+   "published": "2026-10-28T14:47:28Z",
+   "categories": [
+    "evs"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "160d96e815f7",
+   "title": "Motorola’s flagship Signature 27 sounds quite expensive in retail leak",
+   "url": "https://9to5google.com/2026/10/28/motorola-signature-27-price-leak/",
+   "source": "9to5Google",
+   "published": "2026-10-28T14:45:00Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": true
+  },
+  {
+   "id": "75e3c976c7e1",
+   "title": "Here’s Why State Of Decay 3 Has Taken 6 Years To Develop So Far",
+   "url": "https://www.gamespot.com/articles/heres-why-state-of-decay-3-has-taken-6-years-to-develop-so-far/",
+   "source": "GameSpot",
+   "published": "2026-10-28T14:44:53Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "79e09e456c83",
+   "title": "iOS 27.2 just upgraded Apple Photos in two ways, here’s what’s new",
+   "url": "https://9to5mac.com/2026/10/28/ios-27-2-just-upgraded-apple-photos-in-two-ways-heres-whats-new/",
+   "source": "9to5Mac",
+   "published": "2026-10-28T14:40:17Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "f86d8e18d1ae",
+   "title": "New Hunger Games Movie Comes Out The Day After GTA 6, But Is The Director Scared?",
+   "url": "https://www.gamespot.com/articles/new-hunger-games-movie-comes-out-the-day-after-gta-6-but-is-the-director-scared/",
+   "source": "GameSpot",
+   "published": "2026-10-28T14:36:28Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "5826534d5cee",
+   "title": "Tesla confirms Vietnam entry to take on VinFast and its 36% market share",
+   "url": "https://electrek.co/2026/10/28/tesla-vietnam-entry-vinfast/",
+   "source": "Electrek",
+   "published": "2026-10-28T14:28:21Z",
+   "categories": [
+    "evs"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "0a60a3a829db",
+   "title": "Samsung can’t decide between a larger Galaxy Z Fold 9 or one with worse specs, and neither can I",
+   "url": "https://9to5google.com/2026/10/28/samsung-galaxy-z-fold-9-choice-rumors/",
+   "source": "9to5Google",
+   "published": "2026-10-28T14:20:00Z",
+   "categories": [
+    "android",
+    "samsung"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "745097f63c07",
+   "title": "Proton's Black Friday sale is already live: ditch Google with up to 70% off its VPN and 50% off unlimited plan",
+   "url": "https://www.pcgamer.com/hardware/protons-black-friday-sale-is-already-live-ditch-google-with-up-to-70-percent-off-its-vpn-and-50-percent-off-unlimited-plan/",
+   "source": "PC Gamer",
+   "published": "2026-10-28T14:16:58Z",
+   "categories": [
+    "android",
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "a7931733e30d",
+   "title": "Apple Watch Series 12 and Ultra 4 adding two new features soon",
+   "url": "https://9to5mac.com/2026/10/28/apple-watch-series-12-ultra-4-adding-two-new-features-soon/",
+   "source": "9to5Mac",
+   "published": "2026-10-28T14:08:34Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
    "id": "ce85bdf3efc6",
    "title": "Apple Raises MacBook Neo's Starting Price to $649 on Education Store",
    "url": "https://www.macrumors.com/2026/10/28/apple-raises-macbook-neo-education-pricing/",
@@ -41,6 +2551,18 @@
    "published": "2026-10-28T14:05:00Z",
    "categories": [
     "ai"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "148d926dfc1e",
+   "title": "Apple Creator Studio gets AI assistants in the biggest update since launch",
+   "url": "https://www.gsmarena.com/apple_creator_studio_gets_ai_assistants_in_the_biggest_update_since_launch-news-75240.php",
+   "source": "GSMArena",
+   "published": "2026-10-28T14:03:03Z",
+   "categories": [
+    "ai",
+    "apple"
    ],
    "rumor": false
   },
@@ -91,7 +2613,8 @@
    "source": "The Verge",
    "published": "2026-10-28T13:59:53Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "Amazon's fall Echo event was about screens: a new Echo Show 16, an Alexa Photo Frame, the Echo Time clock, a redesigned Echo Dot and a camera-equipped Echo Studio."
   },
   {
    "id": "e37e3d2978a1",
@@ -103,7 +2626,8 @@
     "android",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Samsung's clip-on Galaxy Buds On reach the US in early November at $229, a steep price for open earbuds."
   },
   {
    "id": "c2e97103de80",
@@ -137,7 +2661,8 @@
     "ai",
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Epic says its developers use AI coding tools on Unreal Engine 6 and Fortnite."
   },
   {
    "id": "8229311f2c5c",
@@ -148,7 +2673,8 @@
    "categories": [
     "evs"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Ford says it has made 5,000 large single-piece castings for its Fathom EV truck, borrowing Tesla's giga-casting approach."
   },
   {
    "id": "2e08fcb92491",
@@ -159,7 +2685,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Meta launched Waddle World, an app built around AI-powered virtual pets."
   },
   {
    "id": "d063e63a6d4c",
@@ -201,7 +2728,8 @@
    "categories": [
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "GameSpot's roundup of the games shown in Nintendo's October 2026 Indie World showcase."
   },
   {
    "id": "4c9c065ba714",
@@ -213,6 +2741,15 @@
     "apple"
    ],
    "rumor": false
+  },
+  {
+   "id": "7e3f361561d5",
+   "title": "A hidden ocean change near Antarctica could have global consequences",
+   "url": "https://arstechnica.com/science/2026/10/antarctic-sea-ice-loss-could-reshape-weather-far-beyond-the-pole/",
+   "source": "Ars Technica",
+   "published": "2026-10-28T13:38:53Z",
+   "categories": [],
+   "rumor": true
   },
   {
    "id": "95bb447f0bc4",
@@ -276,7 +2813,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "Hours before Apple's LA event, CEO John Ternus posted a teaser video; reports point to OLED touchscreen MacBook Pros from about $2,899."
   },
   {
    "id": "bfef6f8964d4",
@@ -307,7 +2845,8 @@
    "source": "Engadget",
    "published": "2026-10-28T13:13:19Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "The FCC approved Amazon Leo's purchase of satellite operator Globalstar."
   },
   {
    "id": "59961c91f6b1",
@@ -329,7 +2868,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "John Ternus shared a short Apple teaser clip on X the morning of the expected touchscreen MacBook Pro reveal."
   },
   {
    "id": "ee32fb5d6543",
@@ -340,7 +2880,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Huawei's Enjoy 100 Pro and Pro Max bring Kirin 8020-series chips and batteries up to 8,800mAh, from 1,799 yuan."
   },
   {
    "id": "37e1838209e5",
@@ -360,7 +2901,8 @@
    "source": "The Verge",
    "published": "2026-10-28T13:00:41Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "Every new Echo except the Show 16 is on sale now; the big smart display ships Dec 16 with a $100 pre-order discount."
   },
   {
    "id": "edb941cddb8a",
@@ -430,7 +2972,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Amazon introduced five Alexa Plus devices at once, led by a 16-inch Echo Show that can run Fire TV by touch."
   },
   {
    "id": "4c17c0f17e37",
@@ -461,7 +3004,8 @@
    "categories": [
     "evs"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "A Tesla Semi caught fire on I-880 near Hayward without a crash, shutting the freeway for about 10 hours."
   },
   {
    "id": "eedc03a8bf8f",
@@ -493,7 +3037,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Engadget's live coverage of Apple's 'Pro and tell' event, where a touchscreen MacBook Pro is expected."
   },
   {
    "id": "f9516dbe265e",
@@ -604,7 +3149,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "A leaker found Dynamic Island graphics in macOS 27, backing reports that the OLED MacBook Pro drops the notch."
   },
   {
    "id": "112e572b0107",
@@ -928,7 +3474,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "New macOS 27 assets show a pill-shaped Dynamic Island, adding weight to the touchscreen MacBook Pro rumors."
   },
   {
    "id": "80341c72fbb9",
@@ -1004,7 +3551,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Huawei's Pura 90 Plus is official in China with the Kirin 9025, a 1-inch-type variable-aperture camera and a 5,700mAh battery, from 5,499 yuan."
   },
   {
    "id": "cba62211eec4",
@@ -1027,7 +3575,8 @@
     "apple",
     "chips"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "One of Apple's memory suppliers expects chip prices to keep rising until at least 2030."
   },
   {
    "id": "8fc10e02dfaf",
@@ -1072,7 +3621,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "A rundown of what the touchscreen MacBook Pro should bring today: OLED, touch input, a sturdier hinge, Dynamic Island and M5 Pro/Max chips."
   },
   {
    "id": "132af1277a5c",
@@ -1173,7 +3723,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Pre-orders open today for the OLED iPad mini, M6 iMac and M6 MacBook Pro, with the touchscreen MacBook Pros expected to join them."
   },
   {
    "id": "3d7fa50d2149",
@@ -1219,7 +3770,8 @@
     "android",
     "samsung"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "A Korean leaker says Samsung is weighing a larger Fold 9 Plus or a cheaper Fold 9 FE to sit beside the wide Fold 9."
   },
   {
    "id": "d8de48dc5bbe",
@@ -1266,7 +3818,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Google's Genie 4 world model adds generated audio and two-minute scene consistency, but only trusted testers can use it for now."
   },
   {
    "id": "11f050d60379",
@@ -1309,7 +3862,8 @@
    "source": "GSMArena",
    "published": "2026-10-28T08:06:02Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "Sony announced the LYTIA 720, a 50MP 1/1.56-inch camera sensor for phones."
   },
   {
    "id": "deb5e49c6293",
@@ -1367,7 +3921,8 @@
     "android",
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Pokémon Unite will shut down on March 23, 2027 on mobile and Switch, with a farewell event starting Nov 12."
   },
   {
    "id": "c624a9820a72",
@@ -1390,7 +3945,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Motorola's Moto G47 Power arrives with a 7,000mAh battery and faster charging."
   },
   {
    "id": "38f2fe6dbd76",
@@ -1415,7 +3971,8 @@
     "gaming",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Redmi's K100 packs a 10,000mAh battery into a flagship-class phone, raising the bar for Samsung."
   },
   {
    "id": "68be9d0358ec",
@@ -1427,7 +3984,8 @@
     "android",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Samsung's budget Galaxy A08 is now available in India, with a 6,000mAh battery."
   },
   {
    "id": "fb462b1de16f",
@@ -1461,7 +4019,8 @@
    "categories": [
     "android"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "A Portuguese retailer lists the Motorola Signature 27 at about €1,595, far above the original Signature, plus a €1,511 Razr Flex 27."
   },
   {
    "id": "45ba9735b878",
@@ -1619,7 +4178,8 @@
    "categories": [
     "android"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "Digital Chat Station says vivo is testing a new X500 variant with a 6.85-inch flat 2K 144Hz display, likely the X500s."
   },
   {
    "id": "0a7119608b55",
@@ -1894,7 +4454,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "Bloomberg says the 14-inch OLED MacBook Pro could start at $2,899, a $400 premium over the current M5 Pro model."
   },
   {
    "id": "2c1a96e40468",
@@ -2768,7 +5329,8 @@
     "android",
     "samsung"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "Evan Blass's renders show Samsung's China-only W27 as a blue-and-gold Galaxy Z Fold 8 Ultra ahead of its Oct 29 launch."
   },
   {
    "id": "0fa0ca7d56cf",
@@ -4063,2598 +6625,6 @@
    "published": "2026-10-27T14:00:00Z",
    "categories": [
     "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "1b963514a89d",
-   "title": "We’ve had touchscreen laptops for years. Can Apple make them better?",
-   "url": "https://www.theverge.com/tech/1019288/apple-event-la-macbook-pro-touchscreen-questions",
-   "source": "The Verge",
-   "published": "2026-10-27T13:59:35Z",
-   "categories": [
-    "apple",
-    "chips"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "751cbc84db6e",
-   "title": "Watch the vivo X500 series European launch here",
-   "url": "https://www.gsmarena.com/watch_the_vivo_x500_series_european_launch_here-news-75223.php",
-   "source": "GSMArena",
-   "published": "2026-10-27T13:59:02Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "f30b576c412f",
-   "title": "M6 MacBook Pro's 170GB/s Memory Bandwidth Skips Base 16GB Model",
-   "url": "https://www.macrumors.com/2026/10/27/m6-14-inch-macbook-pro-memory-bandwidth-split/",
-   "source": "MacRumors",
-   "published": "2026-10-27T13:55:55Z",
-   "categories": [
-    "apple",
-    "chips"
-   ],
-   "rumor": false,
-   "summary": "MacRumors reports the M6 MacBook Pro's faster 170GB/s memory bandwidth applies only to 24GB and 32GB configurations, not the base 16GB model."
-  },
-  {
-   "id": "dc9067f5c826",
-   "title": "Call of Duty passes $40 billion in lifetime revenue, making it one of the most-lucrative videogame franchise ever",
-   "url": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-passes-usd40-billion-in-lifetime-revenue-making-it-one-of-the-most-lucrative-videogame-franchise-ever/",
-   "source": "PC Gamer",
-   "published": "2026-10-27T13:55:38Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": false,
-   "summary": "Microsoft says Call of Duty has now earned more than $40 billion over its lifetime, putting it among gaming's highest-grossing franchises."
-  },
-  {
-   "id": "437a78e8d00f",
-   "title": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
-   "url": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/",
-   "source": "TechCrunch",
-   "published": "2026-10-27T13:54:51Z",
-   "categories": [
-    "ai",
-    "apple"
-   ],
-   "rumor": false,
-   "summary": "iOS 27.2 is out for every iOS 27 iPhone, including the Duo, adding Siri AI in five more languages along with a batch of security fixes."
-  },
-  {
-   "id": "241afa5f9023",
-   "title": "Nintendo Announces Indie World Showcase For October 28",
-   "url": "https://www.gamespot.com/articles/nintendo-announces-indie-world-showcase-for-october-28/",
-   "source": "GameSpot",
-   "published": "2026-10-27T13:54:50Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "2049ba099feb",
-   "title": "Police are reportedly pulling motorists over because AI algorithms deem their driving patterns 'suspicious'",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/police-reportedly-pulling-motorists-over-because-ai-algorithms-deem-their-driving-patterns-suspicious-rights-group-report-warns-ai-surveillance-systems-will-sweep-in-more-innocent-people-than-wrongdoers",
-   "source": "Tom's Hardware",
-   "published": "2026-10-27T13:53:32Z",
-   "categories": [
-    "ai"
-   ],
-   "rumor": true
-  },
-  {
-   "id": "0d516a24ee36",
-   "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
-   "url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
-   "source": "The Verge",
-   "published": "2026-10-27T13:50:51Z",
-   "categories": [
-    "ai",
-    "apple"
-   ],
-   "rumor": false,
-   "summary": "Apple is adding a context-aware AI assistant to Pages, Keynote and Numbers that can carry out tasks inside the document you're working on."
-  },
-  {
-   "id": "da9f45e1cbb1",
-   "title": "Walmart slashes $750 off this MSI gaming laptop — 16-inch Crosshair sports an RTX 5060 GPU and a fast 240Hz QHD display",
-   "url": "https://www.tomshardware.com/laptops/gaming-laptops/walmart-slashes-usd750-off-this-msi-gaming-laptop-16-inch-crosshair-sports-an-rtx-5060-gpu-and-a-fast-240hz-qhd-display",
-   "source": "Tom's Hardware",
-   "published": "2026-10-27T13:47:15Z",
-   "categories": [
-    "chips",
-    "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "fd932ae3e904",
-   "title": "Book vs clamshell foldable phones: which is better for your everyday needs?",
-   "url": "https://www.engadget.com/2295698/book-vs-clamshell-foldable-phones-which-better/",
-   "source": "Engadget",
-   "published": "2026-10-27T13:45:00Z",
-   "categories": [],
-   "rumor": false
-  },
-  {
-   "id": "0da7008c0c38",
-   "title": "M6 iMac Pre-Orders and Release Date Announced",
-   "url": "https://www.macrumors.com/2026/10/27/m6-imac-pre-orders-release-date/",
-   "source": "MacRumors",
-   "published": "2026-10-27T13:44:03Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false,
-   "summary": "Apple's M6 iMac keeps the 24-inch design and seven colors, opens for pre-order Oct 28 and ships Nov 6 from $1,499."
-  },
-  {
-   "id": "1b3117a12e36",
-   "title": "M6 MacBook Pro vs M5 MacBook Pro: What’s actually changed?",
-   "url": "https://9to5mac.com/2026/10/27/m6-macbook-pro-vs-m5-macbook-pro-whats-actually-changed/",
-   "source": "9to5Mac",
-   "published": "2026-10-27T13:43:02Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "36e859007e34",
-   "title": "Apple's M6 chip brings serious on-device AI power to the entry-level MacBook Pro and the colorful iMac",
-   "url": "https://www.xda-developers.com/apple-refreshes-entry-level-14-inch-macbook-pro-colorful-imac-with-m6-chip/",
-   "source": "XDA Developers",
-   "published": "2026-10-27T13:40:41Z",
-   "categories": [
-    "ai",
-    "apple",
-    "chips"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "89f99f430ff0",
-   "title": "The Wolf Among Us Remastered Doesn’t Change Much, And That’s A Good Thing",
-   "url": "https://www.gamespot.com/articles/the-wolf-among-us-remastered-doesnt-change-much-and-thats-a-good-thing/",
-   "source": "GameSpot",
-   "published": "2026-10-27T13:40:00Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "0e116bf28297",
-   "title": "BioShock Movie Is Still Happening, But Director Says It’s A “Tough Nut To Crack”",
-   "url": "https://www.gamespot.com/articles/bioshock-movie-is-still-happening-but-director-says-its-a-tough-nut-to-crack/",
-   "source": "GameSpot",
-   "published": "2026-10-27T13:38:57Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "baf6bd30caf7",
-   "title": "Watch the ad for Apple’s new 14-inch MacBook Pro powered by M6",
-   "url": "https://9to5mac.com/2026/10/27/watch-the-ad-for-apples-new-14-inch-macbook-pro-powered-by-m6/",
-   "source": "9to5Mac",
-   "published": "2026-10-27T13:37:44Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "5a012bc20118",
-   "title": "Apple updates the MacBook Pro with M6 chips",
-   "url": "https://www.theverge.com/tech/1017664/apple-macbook-pro-m6-processor-upgrade",
-   "source": "The Verge",
-   "published": "2026-10-27T13:37:30Z",
-   "categories": [
-    "apple",
-    "chips"
-   ],
-   "rumor": false,
-   "summary": "Apple's entry 14-inch MacBook Pro moves to the M6 chip with more CPU and GPU cores, Wi-Fi 7 and a $1,999 starting price."
-  },
-  {
-   "id": "17402f54fc91",
-   "title": "Apple Updates Creator Studio With New Tools and AI Features",
-   "url": "https://www.macrumors.com/2026/10/27/apple-updates-creator-studio-ai-features/",
-   "source": "MacRumors",
-   "published": "2026-10-27T13:36:26Z",
-   "categories": [
-    "ai",
-    "apple"
-   ],
-   "rumor": false,
-   "summary": "Apple's Creator Studio app suite gets new tools and AI features across Mac, iPad and iPhone, some powered by OpenAI models."
-  },
-  {
-   "id": "12e5bdb8a8e8",
-   "title": "Keybytes ‘truly modular keyboard’ starts with one key and is assembled like Legos",
-   "url": "https://www.tomshardware.com/peripherals/mechanical-keyboards/keybytes-truly-modular-keyboard-starts-with-one-key-and-is-assembled-like-legos-each-magnetic-key-module-has-its-own-risc-v-microcontroller-for-the-ultimate-in-customizability",
-   "source": "Tom's Hardware",
-   "published": "2026-10-27T13:34:43Z",
-   "categories": [],
-   "rumor": false
-  },
-  {
-   "id": "551d3f4c44f4",
-   "title": "BYD names its ultra-luxury EV, and it could be a game changer next week",
-   "url": "https://electrek.co/2026/10/27/byd-names-ultra-luxury-ev-could-be-game-changer/",
-   "source": "Electrek",
-   "published": "2026-10-27T13:34:14Z",
-   "categories": [
-    "evs",
-    "gaming"
-   ],
-   "rumor": true,
-   "summary": "BYD has named its Rolls-Royce rival the Yangwang Altior; a Dubai debut is reported for around Nov 5, possibly with solid-state batteries."
-  },
-  {
-   "id": "99949cd2f2c5",
-   "title": "The Acer Swift Go 16 AI drops to $650, and it's a rare deal for a Copilot+ PC",
-   "url": "https://www.xda-developers.com/the-acer-swift-go-16-ai-650-a-rare-deal-for-a-copilot-pc/",
-   "source": "XDA Developers",
-   "published": "2026-10-27T13:33:21Z",
-   "categories": [
-    "ai",
-    "chips"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "3f0130960adf",
-   "title": "iPhone Duo does seem to have a hinge problem and Apple may be to blame",
-   "url": "https://www.sammobile.com/news/iphone-duo-does-seem-to-have-a-hinge-problem-and-apple-may-be-to-blame/",
-   "source": "SamMobile",
-   "published": "2026-10-27T13:32:44Z",
-   "categories": [
-    "android",
-    "apple",
-    "samsung"
-   ],
-   "rumor": true,
-   "summary": "Apple acknowledges iPhone Duo inner-screen damage reports linked to a stiff hinge; the root cause is still unclear."
-  },
-  {
-   "id": "f85a05bebb58",
-   "title": "Sculpture re-creates odd optical effects of famed Lycurgus Cup",
-   "url": "https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup/",
-   "source": "Ars Technica",
-   "published": "2026-10-27T13:32:35Z",
-   "categories": [],
-   "rumor": false
-  },
-  {
-   "id": "e18a2efb7e54",
-   "title": "Gemini's free plan just got cut down; is the $20 Pro tier worth it now?",
-   "url": "https://www.androidpolice.com/gemini-free-or-paid-extras-worth-20-a-month/",
-   "source": "Android Police",
-   "published": "2026-10-27T13:30:10Z",
-   "categories": [
-    "ai",
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "6f0291fe56f6",
-   "title": "Peter Molyneux speaks candidly about AI: 'We, as the industry, are pretending we're not using AI, but the reality is, it's almost impossible to code now without using AI'",
-   "url": "https://www.pcgamer.com/games/strategy/peter-molyneux-speaks-candidly-about-ai-we-as-the-industry-are-pretending-were-not-using-ai-but-the-reality-is-its-almost-impossible-to-code-now-without-using-ai/",
-   "source": "PC Gamer",
-   "published": "2026-10-27T13:30:01Z",
-   "categories": [
-    "ai",
-    "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "674a117ca796",
-   "title": "Apple adds M6 to 14-inch MacBook Pro and iMac",
-   "url": "https://www.tomshardware.com/laptops/macbooks/apple-adds-m6-to-14-inch-macbook-pro-and-imac-starts-at-usd1-999",
-   "source": "Tom's Hardware",
-   "published": "2026-10-27T13:28:23Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false,
-   "summary": "The M6 lands in the 14-inch MacBook Pro and iMac a day before Apple's Oct 28 launch, with prices starting at $1,999 and $1,499."
-  },
-  {
-   "id": "5eb7ad3c7c7e",
-   "title": "Apple reveals iMac M6 and MacBook Pro M6 —without any price hikes",
-   "url": "https://www.techradar.com/computing/macbooks/apple-reveals-imac-m6-and-macbook-pro-m6-and-the-good-news-is-there-are-no-price-hikes",
-   "source": "TechRadar",
-   "published": "2026-10-27T13:27:35Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false,
-   "summary": "Apple's M6 MacBook Pro and iMac keep the same starting prices as the models they replace."
-  },
-  {
-   "id": "06b78d004f6e",
-   "title": "OnePlus’ Android 17 update is rolling out to older flagships",
-   "url": "https://www.androidauthority.com/oneplus-android-17-update-13-series-15r-3728488/",
-   "source": "Android Authority",
-   "published": "2026-10-27T13:27:14Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "6f1213e11396",
-   "title": "Apple Creator Studio gets powerful new AI features using OpenAI models",
-   "url": "https://9to5mac.com/2026/10/27/apple-creator-studio-gets-powerful-new-ai-features-using-openai-models/",
-   "source": "9to5Mac",
-   "published": "2026-10-27T13:26:38Z",
-   "categories": [
-    "ai",
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "766f9242ed8f",
-   "title": "Apple's iMac with M6 arrives promising a 'huge leap' in AI performance",
-   "url": "https://www.engadget.com/2298132/apples-imac-with-m6-arrives-promising-a-huge-leap-in-ai-performance/",
-   "source": "Engadget",
-   "published": "2026-10-27T13:25:44Z",
-   "categories": [
-    "ai",
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "0c5a628434dc",
-   "title": "Apple refreshes the iMac with M6 chips",
-   "url": "https://www.theverge.com/tech/1018467/apple-imac-m6-chip-announced-price-release",
-   "source": "The Verge",
-   "published": "2026-10-27T13:25:04Z",
-   "categories": [
-    "apple",
-    "chips"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "16c3ef4b52de",
-   "title": "Apple has updated the 14-inch MacBook Pro with an M6 chip",
-   "url": "https://www.engadget.com/2298120/apple-has-updated-the-14-inch-macbook-pro-with-an-m6-chip/",
-   "source": "Engadget",
-   "published": "2026-10-27T13:23:27Z",
-   "categories": [
-    "apple",
-    "chips"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "ee48ec72557e",
-   "title": "Ford’s sub-$30K electric truck puts the home backup inverter right inside the vehicle",
-   "url": "https://www.theverge.com/transportation/1018784/ford-fathom-bidirectional-charging-inverter-power-station-cost",
-   "source": "The Verge",
-   "published": "2026-10-27T13:23:13Z",
-   "categories": [
-    "evs"
-   ],
-   "rumor": false,
-   "summary": "Ford's sub-$30K Fathom pickup builds the bidirectional-charging inverter into the truck, making home backup power cheaper to set up."
-  },
-  {
-   "id": "270fef5bbd91",
-   "title": "US officials want Section 702 renewed before damaging court ruling goes public",
-   "url": "https://arstechnica.com/tech-policy/2026/10/us-officials-want-section-702-renewed-before-damaging-court-ruling-goes-public/",
-   "source": "Ars Technica",
-   "published": "2026-10-27T13:22:16Z",
-   "categories": [],
-   "rumor": false
-  },
-  {
-   "id": "da6d01b698de",
-   "title": "Hacker awarded $50k bounty for reporting bug to Sony that allowed PS5 Linux exploit",
-   "url": "https://www.tomshardware.com/video-games/playstation/hacker-awarded-usd50k-bounty-for-reporting-bug-to-sony-that-allowed-ps5-linux-exploit-move-sparks-backlash-from-jailbreaking-community",
-   "source": "Tom's Hardware",
-   "published": "2026-10-27T13:22:04Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": false,
-   "summary": "Sony paid a $50K bug bounty for the hypervisor flaw behind a PS5 Linux exploit, angering jailbreakers who wanted it kept quiet."
-  },
-  {
-   "id": "af14d2e019a0",
-   "title": "M6 14-Inch MacBook Pro: Pre-Orders and Release Date Announced",
-   "url": "https://www.macrumors.com/2026/10/27/m6-14-inch-macbook-pro-pre-orders-release-date/",
-   "source": "MacRumors",
-   "published": "2026-10-27T13:21:07Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "19daefb45605",
-   "title": "A jailbroken PlayStation 5 can play PS2 discs, but Sony is giving users a tough choice",
-   "url": "https://www.engadget.com/2295693/a-jailbroken-playstation-5-can-play-ps2-discs-but-sony-is-giving-users-a-tough-choice/",
-   "source": "Engadget",
-   "published": "2026-10-27T13:15:00Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "b9e800b18f77",
-   "title": "Apple Announces New iMac With M6 Chip and More",
-   "url": "https://www.macrumors.com/2026/10/27/apple-announces-new-imac-with-m6-chip-and-more/",
-   "source": "MacRumors",
-   "published": "2026-10-27T13:11:17Z",
-   "categories": [
-    "apple",
-    "chips"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "6349bea5a90c",
-   "title": "Apple unveils new 14-inch MacBook Pro powered by M6",
-   "url": "https://9to5mac.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-powered-by-m6/",
-   "source": "9to5Mac",
-   "published": "2026-10-27T13:07:41Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "f77059e155fd",
-   "title": "Apple launches new iMac with M6 chip, N1 wireless, faster Ethernet",
-   "url": "https://9to5mac.com/2026/10/27/apple-launches-new-imac-with-powerful-m6-chip/",
-   "source": "9to5Mac",
-   "published": "2026-10-27T13:01:58Z",
-   "categories": [
-    "apple",
-    "chips"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "c43723e07e3e",
-   "title": "I gave my local LLM my browser history, and it built a better bookmark system than I ever had",
-   "url": "https://www.xda-developers.com/local-llm-browser-history-built-better-bookmark-system/",
-   "source": "XDA Developers",
-   "published": "2026-10-27T13:01:22Z",
-   "categories": [
-    "ai"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "738959f86761",
-   "title": "Apple Announces New 14-Inch MacBook Pro With M6 Chip",
-   "url": "https://www.macrumors.com/2026/10/27/14-inch-macbook-pro-with-m6-chip/",
-   "source": "MacRumors",
-   "published": "2026-10-27T13:01:00Z",
-   "categories": [
-    "apple",
-    "chips"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "1cfa89251946",
-   "title": "Opera One now lets Mac users run Apple’s foundation model directly in the browser",
-   "url": "https://9to5mac.com/2026/10/27/opera-one-now-lets-mac-users-run-apples-foundation-model-directly-in-the-browser/",
-   "source": "9to5Mac",
-   "published": "2026-10-27T13:00:18Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "db756f94a6f3",
-   "title": "Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop",
-   "url": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/",
-   "source": "TechCrunch",
-   "published": "2026-10-27T13:00:00Z",
-   "categories": [
-    "chips"
-   ],
-   "rumor": false,
-   "summary": "Anduril and Qualcomm unveiled BlueChip, a rugged US-built laptop line for government and defense buyers; orders start in 2027."
-  },
-  {
-   "id": "c3f55709f5e3",
-   "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
-   "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
-   "source": "TechCrunch",
-   "published": "2026-10-27T13:00:00Z",
-   "categories": [
-    "ai"
-   ],
-   "rumor": false,
-   "summary": "Opera is proposing WebAI, a web standard that lets sites tap AI models running locally in the browser; Opera One has a preview now."
-  },
-  {
-   "id": "133a5a70eecd",
-   "title": "Star Trek Enters Magic: The Gathering’s Secret Lair Next Month, Here Are The Cards",
-   "url": "https://www.gamespot.com/articles/star-trek-enters-magic-the-gatherings-secret-lair-next-month-here-are-the-cards/",
-   "source": "GameSpot",
-   "published": "2026-10-27T13:00:00Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "f22a83887914",
-   "title": "Ford’s new sub-$30K electric truck can power your home for a lot less",
-   "url": "https://electrek.co/2026/10/27/fords-new-sub-30k-electric-truck-can-power-your-home-for-a-lot-less/",
-   "source": "Electrek",
-   "published": "2026-10-27T13:00:00Z",
-   "categories": [
-    "evs"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "c3916bfb8599",
-   "title": "The Ford Fathom's Home Backup System Will Be Way Cheaper Than The F-150 Lightning's",
-   "url": "https://insideevs.com/news/813326/ford-fathom-bidirectional-vehicle-to-home-charging/",
-   "source": "InsideEVs",
-   "published": "2026-10-27T13:00:00Z",
-   "categories": [
-    "evs"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "042b8fd80aad",
-   "title": "Call Of Duty Lifetime Revenue Surges Past $40 Billion, Microsoft Confirms",
-   "url": "https://www.gamespot.com/articles/call-of-duty-lifetime-revenue-surges-past-40-billion-microsoft-confirms/",
-   "source": "GameSpot",
-   "published": "2026-10-27T12:58:03Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "5736963566d1",
-   "title": "Palmer Luckey’s Anduril is getting into laptops — and claims they’ll be American-made",
-   "url": "https://www.theverge.com/gadgets/1019274/anduril-qualcomm-bluechip-laptops-american-made-military",
-   "source": "The Verge",
-   "published": "2026-10-27T12:55:11Z",
-   "categories": [
-    "chips"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "6c78a1227f3c",
-   "title": "4 drawbacks you should know before buying an Xbox Series X",
-   "url": "https://www.engadget.com/2295682/drawbacks-you-should-know-before-buying-xbox-series-x/",
-   "source": "Engadget",
-   "published": "2026-10-27T12:45:00Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "c4e26c13e430",
-   "title": "Fujifilm’s Instax Mini Evo 2 adds a touchscreen and video recording",
-   "url": "https://www.theverge.com/gadgets/1019300/fujifilm-instax-mini-evo-2-instant-camera-price-availability",
-   "source": "The Verge",
-   "published": "2026-10-27T12:31:33Z",
-   "categories": [],
-   "rumor": false,
-   "summary": "Fujifilm's Instax Mini Evo 2 hybrid instant camera adds a touchscreen and video recording."
-  },
-  {
-   "id": "661885089bc1",
-   "title": "Lectric launches XP Lite3 e-bike, the new best low-cost model in the US",
-   "url": "https://electrek.co/2026/10/27/lectric-launches-xp-lite3-e-bike-the-new-best-low-cost-model-in-the-us/",
-   "source": "Electrek",
-   "published": "2026-10-27T12:30:39Z",
-   "categories": [
-    "evs"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "dd523e52c220",
-   "title": "I tried DLSS 5 in my favorite game of all time, and it feels like playing it for the first time again",
-   "url": "https://www.xda-developers.com/dlss-5-in-my-favorite-game-of-all-time-makes-it-the-perfect-remaster/",
-   "source": "XDA Developers",
-   "published": "2026-10-27T12:30:21Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "b9bc4d9893fa",
-   "title": "Galaxy Watch Ultra 2 is glitching out on this health metric, but a fix is on the way",
-   "url": "https://www.androidauthority.com/galaxy-watch-ultra-2-vo2-max-error-3728454/",
-   "source": "Android Authority",
-   "published": "2026-10-27T12:29:51Z",
-   "categories": [
-    "android",
-    "samsung"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "c5730b347f44",
-   "title": "US government acting illegally over electronic surveillance of its own citizens, say senators",
-   "url": "https://9to5mac.com/2026/10/27/us-government-acting-illegally-over-electronic-surveillance-of-its-own-citizens-say-senators/",
-   "source": "9to5Mac",
-   "published": "2026-10-27T12:29:01Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "282c7595c090",
-   "title": "Advanced camera features the Galaxy Z Fold 8 offers but the iPhone Duo doesn’t",
-   "url": "https://www.sammobile.com/news/galaxy-z-fold-8-vs-iphone-duo-advanced-camera-features/",
-   "source": "SamMobile",
-   "published": "2026-10-27T12:26:33Z",
-   "categories": [
-    "android",
-    "apple",
-    "samsung"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "3abadd55fd21",
-   "title": "Open3DLab accuses Roblox of downloading 145GB of 3D assets for AI training purposes",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/open3dlab-accuses-roblox-of-downloading-145gb-of-3d-assets-for-ai-training-purposes-automated-crawler-ignored-site-rules-to-grab-over-1-000-files-including-adult-content-during-scraping-spree",
-   "source": "Tom's Hardware",
-   "published": "2026-10-27T12:26:13Z",
-   "categories": [
-    "ai"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "415aa97d276f",
-   "title": "Data center backlash is uniting America",
-   "url": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
-   "source": "The Verge",
-   "published": "2026-10-27T12:20:38Z",
-   "categories": [],
-   "rumor": false
-  },
-  {
-   "id": "e90a9f44d9a8",
-   "title": "Pokemon Unite Is Shutting Down After Nearly Six Years",
-   "url": "https://www.gamespot.com/articles/pokemon-unite-is-shutting-down-after-nearly-six-years/",
-   "source": "GameSpot",
-   "published": "2026-10-27T12:18:05Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": false,
-   "summary": "Pokémon Unite, the free-to-play MOBA, is shutting down after nearly six years."
-  },
-  {
-   "id": "f8f3867cb3c3",
-   "title": "Apple Fixes Possibly Exploited CoreGraphics Flaw on Older iPhones",
-   "url": "https://www.macrumors.com/2026/10/27/apple-fixes-coregraphics-flaw-older-iphones/",
-   "source": "MacRumors",
-   "published": "2026-10-27T12:16:22Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false,
-   "summary": "Apple patched a CoreGraphics flaw that may have been exploited, in a security update for older iPhones that stay on iOS 26."
-  },
-  {
-   "id": "a47031595935",
-   "title": "Here's how much your older Samsung phones are actually worth",
-   "url": "https://www.engadget.com/2295544/older-samsung-phones-how-much-actually-worth/",
-   "source": "Engadget",
-   "published": "2026-10-27T12:15:00Z",
-   "categories": [
-    "android",
-    "samsung"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "3f42af1495cd",
-   "title": "Dark Messiah's new edition adds co-op, cut content and console-exclusive maps to the 20-year-old orc-kicking extravaganza, and it's coming to Steam this year",
-   "url": "https://www.pcgamer.com/games/rpg/dark-messiahs-new-edition-adds-co-op-cut-content-and-console-exclusive-maps-to-the-20-year-old-orc-kicking-extravaganza-and-its-coming-to-steam-this-year/",
-   "source": "PC Gamer",
-   "published": "2026-10-27T12:11:37Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "6f5fd44dcd9b",
-   "title": "I tried the Soulog Sense, and now it’s staying attached to my phone until further notice",
-   "url": "https://www.androidauthority.com/soulog-sense-ai-note-taking-device-review-3719400/",
-   "source": "Android Authority",
-   "published": "2026-10-27T12:00:34Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "e6759bf42201",
-   "title": "I thought Pi-hole was blocking everything on my network, but IPv6 was letting half my devices walk straight past it",
-   "url": "https://www.xda-developers.com/i-thought-pi-hole-was-blocking-everything-on-my-network-ipv6-was-letting-half-my-devices-walk-past-it/",
-   "source": "XDA Developers",
-   "published": "2026-10-27T12:00:21Z",
-   "categories": [],
-   "rumor": false
-  },
-  {
-   "id": "8a27ca39ee34",
-   "title": "This budget Android tablet setup completely changed my daily dual-screen workflow",
-   "url": "https://www.androidpolice.com/budget-android-tablet-setup-dual-screen-workflow/",
-   "source": "Android Police",
-   "published": "2026-10-27T12:00:11Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "30284f8dd363",
-   "title": "NASA plans to launch three massive rockets for the Artemis 3 crewed lunar test mission",
-   "url": "https://www.engadget.com/2298015/nasa-plans-to-launch-three-massive-rockets-for-the-artemis-3-crewed-lunar-test-mission/",
-   "source": "Engadget",
-   "published": "2026-10-27T11:58:00Z",
-   "categories": [],
-   "rumor": false
-  },
-  {
-   "id": "984607e1ceb0",
-   "title": "Kingdom Come, Lord of the Rings studio Warhorse 'hit by a cyberattack'",
-   "url": "https://www.pcgamer.com/gaming-industry/kingdom-come-lord-of-the-rings-studio-warhorse-hit-by-a-cyberattack/",
-   "source": "PC Gamer",
-   "published": "2026-10-27T11:55:58Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": false,
-   "summary": "Warhorse Studios, maker of Kingdom Come: Deliverance, says it has been hit by a cyberattack."
-  },
-  {
-   "id": "5232999a46a5",
-   "title": "Instagram is testing long-form videos called Features",
-   "url": "https://www.gsmarena.com/instagram_is_testing_longform_videos_called_features-news-75222.php",
-   "source": "GSMArena",
-   "published": "2026-10-27T11:51:01Z",
-   "categories": [],
-   "rumor": false,
-   "summary": "Instagram is testing 'Features', horizontal videos up to 90 minutes long, with select US creators."
-  },
-  {
-   "id": "8e8a1460ad36",
-   "title": "Acer's Predator Atlas 8 gaming handheld finally launches at Best Buy on November 1 for $1,300",
-   "url": "https://www.engadget.com/2298013/acer-predator-atlas-8-gaming-handheld-comes-to-best-buy-on-november-1-for-1300/",
-   "source": "Engadget",
-   "published": "2026-10-27T11:50:55Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": false,
-   "summary": "Acer's Predator Atlas 8 handheld comes to the US on Nov 1 as a $1,299.99 Best Buy exclusive."
-  },
-  {
-   "id": "05590df87e0f",
-   "title": "Bassist plays Halloween gig wearing a Steam Frame: 'Interestingly, only one guy asked me about the Frame'",
-   "url": "https://www.pcgamer.com/hardware/vr-hardware/bassist-plays-halloween-gig-wearing-a-steam-frame-interestingly-only-one-guy-asked-me-about-the-frame/",
-   "source": "PC Gamer",
-   "published": "2026-10-27T11:46:33Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "f46879df9915",
-   "title": "iOS 27.2 launches with Siri updates, a new Apple Music icon, and more",
-   "url": "https://www.techradar.com/phones/ios/ios-27-2-has-landed-with-a-wealth-of-updates-these-are-the-7-biggest-changes-including-siri-improvements-and-a-new-apple-music-icon",
-   "source": "TechRadar",
-   "published": "2026-10-27T11:41:37Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "239bd352207b",
-   "title": "Windows 11's internet speed test is getting a divorce from Bing, thankfully",
-   "url": "https://www.techradar.com/computing/windows/windows-11s-built-in-internet-speed-test-is-getting-a-divorce-from-bing-and-its-about-time",
-   "source": "TechRadar",
-   "published": "2026-10-27T11:39:11Z",
-   "categories": [
-    "chips"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "67faf45659ef",
-   "title": "Android handhelds just got a massive multitasking upgrade with this launcher",
-   "url": "https://www.androidauthority.com/cocoon-3-1-beta-update-3728453/",
-   "source": "Android Authority",
-   "published": "2026-10-27T11:38:47Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "81755f495ca2",
-   "title": "This super cute app turns your iPhone Duo into tiny vintage Macs",
-   "url": "https://9to5mac.com/2026/10/27/this-super-cute-app-turns-your-iphone-duo-into-tiny-vintage-macs/",
-   "source": "9to5Mac",
-   "published": "2026-10-27T11:37:56Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "b1f2a3c87a0b",
-   "title": "I turned an old laptop into a living room PC, and it does everything my Fire TV did and more",
-   "url": "https://www.xda-developers.com/turned-old-laptop-into-living-room-pc-does-everything-fire-tv-did-more/",
-   "source": "XDA Developers",
-   "published": "2026-10-27T11:30:21Z",
-   "categories": [
-    "chips"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "509e801b2ec9",
-   "title": "I tested the Galaxy S26 Ultra and OPPO Find X10 Pro Max cameras — it’s no contest",
-   "url": "https://www.androidauthority.com/samsung-galaxy-s26-ultra-oppo-find-x10-pro-max-camera-comparison-3727207/",
-   "source": "Android Authority",
-   "published": "2026-10-27T11:30:05Z",
-   "categories": [
-    "android",
-    "samsung"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "3ba176bd5797",
-   "title": "Intel's APX offers 'better performance' in Windows 11 according to new Insider setting",
-   "url": "https://www.tomshardware.com/software/windows/intels-apx-offers-better-performance-in-windows-11-according-to-new-insider-setting-microsoft-begins-early-enablement-for-advanced-performance-extensions-on-nova-lake-cpus",
-   "source": "Tom's Hardware",
-   "published": "2026-10-27T11:30:00Z",
-   "categories": [
-    "chips"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "93c20c886ebb",
-   "title": "Microsoft offers 60,000 workers voluntary redundancy buyout option — AI revolution could mean a quarter of its workforce can now leave",
-   "url": "https://www.techradar.com/pro/microsoft-offers-60-000-workers-voluntary-redundancy-buyout-option-ai-revolution-could-mean-a-quarter-of-its-workforce-can-now-leave",
-   "source": "TechRadar",
-   "published": "2026-10-27T11:30:00Z",
-   "categories": [
-    "ai"
-   ],
-   "rumor": true,
-   "summary": "Microsoft has offered voluntary buyouts to about 60,000 employees, roughly a quarter of its workforce, as AI spending climbs."
-  },
-  {
-   "id": "41572ea494f0",
-   "title": "Galaxy Z Fold 8 is still $200 off as iPhone Duo displays crack",
-   "url": "https://9to5google.com/2026/10/27/galaxy-z-fold-8-discount-iphone-duo-displays/",
-   "source": "9to5Google",
-   "published": "2026-10-27T11:30:00Z",
-   "categories": [
-    "android",
-    "apple",
-    "samsung"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "36e216cdbe75",
-   "title": "Apple knows the iPad mini market, but internet unimpressed by 60Hz",
-   "url": "https://9to5mac.com/2026/10/27/apple-knows-the-ipad-mini-market-but-internet-unimpressed-by-60hz/",
-   "source": "9to5Mac",
-   "published": "2026-10-27T11:15:55Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "a3f04f67f2a6",
-   "title": "This T-Mobile deal could get you a Samsung Galaxy S26 Ultra for the price of a monthly cup of coffee",
-   "url": "https://www.androidpolice.com/t-mobile-samsung-galaxy-s26-ultra-deal-1200-off/",
-   "source": "Android Police",
-   "published": "2026-10-27T11:15:11Z",
-   "categories": [
-    "android",
-    "samsung"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "bf1ae800923f",
-   "title": "Half-Life: Alyx patch adds foveated rendering support a mere 6 years after the game's release",
-   "url": "https://www.pcgamer.com/hardware/vr-hardware/half-life-alyx-patch-adds-foveated-rendering-support-a-mere-6-years-after-the-games-release/",
-   "source": "PC Gamer",
-   "published": "2026-10-27T11:13:22Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "b10d91daf782",
-   "title": "Grab 32GB of DDR5 RAM for just $151 in this 4-in-1 Newegg bundle with the 9800X3D and a 2TB SSD",
-   "url": "https://www.tomshardware.com/pc-components/grab-32gb-of-ddr5-ram-for-just-usd151-in-this-4-in-1-newegg-bundle-with-the-9800x3d-and-a-2tb-ssd-start-building-a-high-end-4k-gaming-pc-with-this-combo-deal-that-also-includes-an-am5-gigabyte-motherboard-and-a-free-msi-aio-liquid-cooler",
-   "source": "Tom's Hardware",
-   "published": "2026-10-27T11:11:37Z",
-   "categories": [
-    "chips"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "4340dce3643f",
-   "title": "My Android phone lights things on fire, and I can’t get enough of it",
-   "url": "https://www.androidauthority.com/android-phone-lights-things-on-fire-oukitel-wp63-hands-on-3727363/",
-   "source": "Android Authority",
-   "published": "2026-10-27T11:00:35Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "4ace21c1a737",
-   "title": "6 upgrades that fit in the tiny PCIe x1 slot nobody uses",
-   "url": "https://www.xda-developers.com/6-upgrades-that-fit-in-the-tiny-pcie-x1-slot-nobody-uses/",
-   "source": "XDA Developers",
-   "published": "2026-10-27T11:00:22Z",
-   "categories": [],
-   "rumor": false
-  },
-  {
-   "id": "4381449a7688",
-   "title": "I switched from Google Authenticator to Ente Auth for encrypted backups I control",
-   "url": "https://www.androidpolice.com/google-authenticator-ente-auth/",
-   "source": "Android Police",
-   "published": "2026-10-27T11:00:11Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "2aeaf091072e",
-   "title": "20 Years of MacBook: How Apple shaped the laptops we use today",
-   "url": "https://www.engadget.com/2297565/20-years-of-macbook-how-apple-shaped-the-laptops-we-use-today/",
-   "source": "Engadget",
-   "published": "2026-10-27T11:00:00Z",
-   "categories": [
-    "apple",
-    "chips"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "43f223828326",
-   "title": "Slate teams up with Smarties to add candy colors to its EV trucks",
-   "url": "https://www.engadget.com/2295050/slate-ev-smarties-candy-color-wraps/",
-   "source": "Engadget",
-   "published": "2026-10-27T11:00:00Z",
-   "categories": [
-    "evs"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "b007bafd9ff1",
-   "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-   "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
-   "source": "TechCrunch",
-   "published": "2026-10-27T11:00:00Z",
-   "categories": [
-    "ai",
-    "chips"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "2ad27987a60a",
-   "title": "Anthropic is printing money, but AI isn’t paying off outside tech",
-   "url": "https://9to5google.com/2026/10/27/anthropic-is-printing-money-but-ai-isnt-paying-off-outside-tech/",
-   "source": "9to5Google",
-   "published": "2026-10-27T11:00:00Z",
-   "categories": [
-    "ai",
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "3d2a934ff377",
-   "title": "Nvidia is bankrolling AI accelerator supply chain buildout to reserve production capacity",
-   "url": "https://www.tomshardware.com/tech-industry/semiconductors/nvidia-is-bankrolling-ai-accelerator-supply-chain-buildout-to-reserve-production-capacity-announces-billion-dollar-deals-with-six-major-suppliers-across-substrates-advanced-packaging-semiconductor-testing-and-optical-engines",
-   "source": "Tom's Hardware",
-   "published": "2026-10-27T11:00:00Z",
-   "categories": [
-    "ai",
-    "chips"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "d764963bd90f",
-   "title": "Apple's MacBook Pro Touch Bar Was Announced 10 Years Ago Today",
-   "url": "https://www.macrumors.com/2026/10/27/macbook-pro-touch-bar-announced-10-years-ago/",
-   "source": "MacRumors",
-   "published": "2026-10-27T10:45:37Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "fc16b07006c3",
-   "title": "Xiaomi Smart Band 11 arrives in Europe",
-   "url": "https://www.gsmarena.com/xiaomi_smart_band_11_arrives_in_europe-news-75221.php",
-   "source": "GSMArena",
-   "published": "2026-10-27T10:44:02Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false,
-   "summary": "Xiaomi's Smart Band 11 is now on sale in Europe for EUR 60, or EUR 80 with NFC."
-  },
-  {
-   "id": "275727595e90",
-   "title": "iPhone 18e Could Get Two Key Upgrades While Keeping 60Hz Display",
-   "url": "https://www.macrumors.com/2026/10/27/iphone-18e-could-get-two-key-upgrades/",
-   "source": "MacRumors",
-   "published": "2026-10-27T10:41:44Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": true,
-   "summary": "Leaker Digital Chat Station says the iPhone 18e keeps a 60Hz display but moves to the A20 chip and may get a better selfie camera."
-  },
-  {
-   "id": "879665fd4780",
-   "title": "The iOS-ification of Android is ruining my favorite phones",
-   "url": "https://www.androidauthority.com/ios-ification-of-android-3721391/",
-   "source": "Android Authority",
-   "published": "2026-10-27T10:30:35Z",
-   "categories": [
-    "android",
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "c95543358811",
-   "title": "The Fitbit Edge is the best Fitbit Charge I could ever buy",
-   "url": "https://www.androidpolice.com/fitbit-edge-best-charge-i-could-ever-buy/",
-   "source": "Android Police",
-   "published": "2026-10-27T10:30:11Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false,
-   "summary": "Android Police's review calls the Fitbit Edge the best Charge-style tracker Fitbit has made."
-  },
-  {
-   "id": "d5158845f8cf",
-   "title": "60,000 Microsoft employees offered voluntary buyouts as AI buildout costs bite",
-   "url": "https://www.tomshardware.com/tech-industry/big-tech/60-000-microsoft-employees-offered-voluntary-buyouts-as-ai-buildout-costs-bite-program-covers-roughly-27-percent-of-workforce-across-us-canada-india-and-the-uk",
-   "source": "Tom's Hardware",
-   "published": "2026-10-27T10:30:00Z",
-   "categories": [
-    "ai"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "3d9287de0e17",
-   "title": "Googlebooks are getting another much-needed round of repairs, this time with Chrome",
-   "url": "https://www.androidauthority.com/googlebooks-chrome-m156-update-3728427/",
-   "source": "Android Authority",
-   "published": "2026-10-27T10:19:01Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "5ce67da94d8e",
-   "title": "Netherlands to replace 25,000 government jobs with AI in efficiency drive to save €3.5 billion",
-   "url": "https://www.techradar.com/pro/netherlands-to-replace-25-000-government-jobs-with-ai-in-efficiency-drive-to-save-eur3-5-billion",
-   "source": "TechRadar",
-   "published": "2026-10-27T10:13:04Z",
-   "categories": [
-    "ai"
-   ],
-   "rumor": false,
-   "summary": "The Dutch government plans to cut 25,000 civil service jobs using AI, part of a plan to save EUR 3.5 billion by 2035."
-  },
-  {
-   "id": "7033e47ab23f",
-   "title": "One Day Out From Early Access, Emberville Has Been Delayed To 2027",
-   "url": "https://www.gamespot.com/articles/one-day-out-from-early-access-emberville-has-been-delayed-to-2027/",
-   "source": "GameSpot",
-   "published": "2026-10-27T10:05:58Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": false,
-   "summary": "Emberville's early access launch has been pushed to 2027 just one day before it was due."
-  },
-  {
-   "id": "9d2a31468baa",
-   "title": "5 self-hosting tools that are better than their well-funded competitors",
-   "url": "https://www.xda-developers.com/self-hosting-tools-that-are-better-than-their-well-funded-competitors/",
-   "source": "XDA Developers",
-   "published": "2026-10-27T10:00:21Z",
-   "categories": [],
-   "rumor": false
-  },
-  {
-   "id": "e6fa0876e74d",
-   "title": "The MOVA V70 Ultra Complete isn’t perfect, but it solves one big robot vacuum problem",
-   "url": "https://www.androidauthority.com/mova-v70-ultra-complete-review-3713204/",
-   "source": "Android Authority",
-   "published": "2026-10-27T10:00:17Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "8addebcab783",
-   "title": "Ghost Of Yotei Was A Hit, But Its Developer Is Reportedly Cutting Jobs",
-   "url": "https://www.gamespot.com/articles/ghost-of-yotei-was-a-hit-but-its-developer-is-reportedly-cutting-jobs/",
-   "source": "GameSpot",
-   "published": "2026-10-27T10:00:15Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": true
-  },
-  {
-   "id": "0f15e87034e1",
-   "title": "I didn't think I cared about UWB until the Galaxy S27+ leak showed me what I might lose",
-   "url": "https://www.androidpolice.com/galaxy-s27-plus-losing-uwb/",
-   "source": "Android Police",
-   "published": "2026-10-27T10:00:11Z",
-   "categories": [
-    "android",
-    "samsung"
-   ],
-   "rumor": true
-  },
-  {
-   "id": "2ea8c6fc586d",
-   "title": "I’m playing Super Mario Galaxy on my Android phone. Here’s how to get it on yours right now",
-   "url": "https://www.androidauthority.com/super-mario-galaxy-android-port-hands-on-how-to-3727756/",
-   "source": "Android Authority",
-   "published": "2026-10-27T10:00:10Z",
-   "categories": [
-    "android",
-    "samsung"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "b6fb18cca278",
-   "title": "Apple @ Work Podcast: JNUC recap, Golden Gate, Rosetta, and more",
-   "url": "https://9to5mac.com/2026/10/27/jnuc-recap-golden-gate-rosetta-and-more/",
-   "source": "9to5Mac",
-   "published": "2026-10-27T10:00:00Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "2f927aa8ccac",
-   "title": "Anthropic prepares for potential $2 trillion IPO valuation after reporting billions in revenue",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-prepares-for-potential-usd2-trillion-ipo-valuation-after-reporting-billions-in-revenue-company-warns-ai-could-pose-catastrophic-existential-risks-to-humanity",
-   "source": "Tom's Hardware",
-   "published": "2026-10-27T10:00:00Z",
-   "categories": [
-    "ai"
-   ],
-   "rumor": false,
-   "summary": "Anthropic is reportedly eyeing a valuation of up to $2 trillion in its IPO, and its filing warns AI could pose catastrophic risks."
-  },
-  {
-   "id": "4103d6bc510a",
-   "title": "Acer is bringing a Predator gaming handheld to the US for the first time",
-   "url": "https://www.theverge.com/games/1019245/acer-predator-atlas-8-launch-price",
-   "source": "The Verge",
-   "published": "2026-10-27T09:54:22Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "c5ae62b6a028",
-   "title": "One UI 9 update brings loads of new features to Galaxy F70 Pro",
-   "url": "https://www.sammobile.com/news/galaxy-f70-pro-one-ui-9-update-released-new-features/",
-   "source": "SamMobile",
-   "published": "2026-10-27T09:48:52Z",
-   "categories": [
-    "android",
-    "samsung"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "03cebfeae6ba",
-   "title": "Data center gear is being hijacked in transit to the tune of hundreds of millions",
-   "url": "https://www.tomshardware.com/tech-industry/big-tech/data-center-gear-is-being-hijacked-in-transit-to-the-tune-of-hundreds-of-millions-grand-theft-gpu-thieves-hack-accounts-perform-hit-and-runs-spoof-gps-signals-and-funnel-hardware-to-china",
-   "source": "Tom's Hardware",
-   "published": "2026-10-27T09:40:00Z",
-   "categories": [],
-   "rumor": false
-  },
-  {
-   "id": "15f20e9fe3bb",
-   "title": "SpaceX closes $40 billion debt financing for GPUs expected in the first half of 2027, Musk says",
-   "url": "https://www.tomshardware.com/tech-industry/data-centers/spacex-closes-usd40-billion-debt-financing-for-gpus-expected-in-the-first-half-of-2027-musk-says-company-faces-up-to-usd40-billion-in-additional-fourth-quarter-capital-spending-as-ai-infrastructure-costs-soar",
-   "source": "Tom's Hardware",
-   "published": "2026-10-27T09:20:00Z",
-   "categories": [],
-   "rumor": false,
-   "summary": "Musk says SpaceX closed $40 billion in debt financing for GPUs due in the first half of 2027."
-  },
-  {
-   "id": "59ac810434b0",
-   "title": "Android’s Sidekick gaming overlay gets the video capture feature you were waiting for",
-   "url": "https://www.androidauthority.com/google-play-store-sidekick-playbacks-play-services-update-3728394/",
-   "source": "Android Authority",
-   "published": "2026-10-27T09:13:44Z",
-   "categories": [
-    "android",
-    "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "5b430407d540",
-   "title": "Chinese tech giants seek 10-year memory chip contracts with Samsung",
-   "url": "https://www.sammobile.com/news/chinese-tech-giants-buy-samsung-memory-chips-long-time/",
-   "source": "SamMobile",
-   "published": "2026-10-27T09:11:42Z",
-   "categories": [
-    "android",
-    "chips",
-    "samsung"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "12772d5ffc51",
-   "title": "Samsung Community is going dark for 3 days, and you might want to take preemptive action",
-   "url": "https://www.androidauthority.com/samsung-community-72-hour-shutdown-data-loss-3728026/",
-   "source": "Android Authority",
-   "published": "2026-10-27T09:00:05Z",
-   "categories": [
-    "android",
-    "samsung"
-   ],
-   "rumor": true
-  },
-  {
-   "id": "03e916ab62cb",
-   "title": "Google Find Hub is preparing to fix one of Android tracking’s biggest headaches",
-   "url": "https://www.androidauthority.com/google-find-hub-tracking-upgrades-apk-teardown-3728385/",
-   "source": "Android Authority",
-   "published": "2026-10-27T08:57:59Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "f010140c43ba",
-   "title": "Your Android phone may remember AI chats you thought you deleted",
-   "url": "https://www.androidauthority.com/recover-deleted-ai-chats-android-3728381/",
-   "source": "Android Authority",
-   "published": "2026-10-27T08:49:39Z",
-   "categories": [
-    "ai",
-    "android"
-   ],
-   "rumor": true
-  },
-  {
-   "id": "d63b849b2a18",
-   "title": "Survey says you shouldn’t be spooked by Samsung’s One UI 9 update",
-   "url": "https://www.androidauthority.com/one-ui-9-bugs-issues-poll-results-3728388/",
-   "source": "Android Authority",
-   "published": "2026-10-27T08:45:37Z",
-   "categories": [
-    "android",
-    "samsung"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "114e305106a4",
-   "title": "iPhone 18e specs leak, and Android phones still have the upper hand with this key feature",
-   "url": "https://www.androidauthority.com/apple-iphone-18e-leaked-specs-3728368/",
-   "source": "Android Authority",
-   "published": "2026-10-27T08:41:36Z",
-   "categories": [
-    "android",
-    "apple"
-   ],
-   "rumor": true
-  },
-  {
-   "id": "38511e8540d1",
-   "title": "OpenAI announces new discoveries in mathematics, computer science and physics",
-   "url": "https://www.engadget.com/2297941/openai-new-discoveries-mathematics-computer-science-physics/",
-   "source": "Engadget",
-   "published": "2026-10-27T08:18:16Z",
-   "categories": [
-    "ai"
-   ],
-   "rumor": false,
-   "summary": "OpenAI says its models produced new results in math, computer science and physics, including a claimed disproof of the Exponential Time Hypothesis."
-  },
-  {
-   "id": "6930088d3302",
-   "title": "Apple responds to the iPhone Duo inner display cracking issue",
-   "url": "https://www.gsmarena.com/apple_responds_to_iphone_duo_inner_display_cracking_issue-news-75219.php",
-   "source": "GSMArena",
-   "published": "2026-10-27T07:24:02Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "b988fd93217b",
-   "title": "Instagram is coming for YouTube’s crown with long-form videos",
-   "url": "https://www.androidauthority.com/instagram-90-minute-long-form-videos-youtube-rival-3728320/",
-   "source": "Android Authority",
-   "published": "2026-10-27T07:22:49Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "433fd0801c45",
-   "title": "Samsung fined $15 million for Galaxy S21 and Galaxy S22’s poor gaming performance",
-   "url": "https://www.sammobile.com/news/samsung-fined-usd-15-million-galaxy-s21-s22-tab-s8-poor-gaming-performance/",
-   "source": "SamMobile",
-   "published": "2026-10-27T07:17:51Z",
-   "categories": [
-    "android",
-    "gaming",
-    "samsung"
-   ],
-   "rumor": false,
-   "summary": "South Korea's FTC fined Samsung $15 million over the Game Optimizing Service throttling on Galaxy S21 and S22 phones."
-  },
-  {
-   "id": "474d45c579ed",
-   "title": "Acer’s Intel Arc-powered Steam Deck rival finally gets a price and release date",
-   "url": "https://www.androidauthority.com/acer-predator-atlas-8-us-pricing-availability-3728356/",
-   "source": "Android Authority",
-   "published": "2026-10-27T07:00:18Z",
-   "categories": [
-    "android",
-    "chips",
-    "gaming"
-   ],
-   "rumor": false,
-   "summary": "Acer's Intel Arc-powered Predator Atlas 8 handheld finally has a US price and date: $1,299.99 on Nov 1."
-  },
-  {
-   "id": "82af750aa80d",
-   "title": "Someone set up Claude Code to scan the night sky for meteors and log them",
-   "url": "https://www.xda-developers.com/someone-set-up-claude-code-scan-night-sky-meteors/",
-   "source": "XDA Developers",
-   "published": "2026-10-27T06:57:07Z",
-   "categories": [
-    "ai"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "f29906cefe17",
-   "title": "Samsung brings WeChat Pay support to Wallet in China",
-   "url": "https://www.sammobile.com/news/samsung-wallet-wechat-pay-support-china/",
-   "source": "SamMobile",
-   "published": "2026-10-27T06:47:00Z",
-   "categories": [
-    "android",
-    "samsung"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "5e12e7dc6a2c",
-   "title": "The best PS2 emulator on Android can now make performance tweaks for you",
-   "url": "https://www.androidauthority.com/armsx2-ps2-emulator-android-1-year-update-3728027/",
-   "source": "Android Authority",
-   "published": "2026-10-27T06:44:20Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "12962a778ac2",
-   "title": "Galaxy A35 stable One UI 9.0 (Android 17) update goes global",
-   "url": "https://www.sammobile.com/news/galaxy-a35-stable-one-ui-9-0-android-17-update-goes-global/",
-   "source": "SamMobile",
-   "published": "2026-10-27T06:17:20Z",
-   "categories": [
-    "android",
-    "samsung"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "53511fd6dd8f",
-   "title": "Xiaomi’s latest fitness tracker makes its way to more countries",
-   "url": "https://www.androidauthority.com/xiaomi-smart-band-11-available-globally-3728333/",
-   "source": "Android Authority",
-   "published": "2026-10-27T06:01:42Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "10cb582f9579",
-   "title": "Google Docs finally fixes a frustrating problem with Markdown files",
-   "url": "https://www.androidauthority.com/google-docs-markdown-support-3728330/",
-   "source": "Android Authority",
-   "published": "2026-10-27T05:55:13Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "04d04e69ffba",
-   "title": "T-Mobile’s new T-Mix plans are getting roasted by customers",
-   "url": "https://www.androidauthority.com/t-mobile-t-mix-plan-customer-reactions-3728317/",
-   "source": "Android Authority",
-   "published": "2026-10-27T05:24:52Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "5c1fdeef5bed",
-   "title": "iOS 27.2 update rolling out with these new features",
-   "url": "https://www.gsmarena.com/ios_272_update_rolling_out_with_these_new_features-news-75220.php",
-   "source": "GSMArena",
-   "published": "2026-10-27T05:00:02Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "4e914402de0a",
-   "title": "Samsung releases One UI 9.0 (Android 17) update for Galaxy M54",
-   "url": "https://www.sammobile.com/news/samsung-releases-one-ui-9-0-android-17-update-galaxy-m54/",
-   "source": "SamMobile",
-   "published": "2026-10-27T04:07:37Z",
-   "categories": [
-    "android",
-    "samsung"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "1c41d9ea021e",
-   "title": "Retailer claims Nintendo blocks physical reprints of Game-Key Card titles, but for \"legit reasons\"",
-   "url": "https://www.xda-developers.com/retailer-claims-nintendo-blocks-physical-reprints-of-game-key-card-titles-but-for-legit-reasons/",
-   "source": "XDA Developers",
-   "published": "2026-10-27T03:58:07Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "96d5300fc2bb",
-   "title": "JAŸ-Z confirmed as headliner for Apple Music’s 2027 Super Bowl Halftime Show",
-   "url": "https://9to5mac.com/2026/10/26/jay-z-confirmed-as-headliner-for-apple-musics-2027-super-bowl-halftime-show/",
-   "source": "9to5Mac",
-   "published": "2026-10-27T03:30:59Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "95415e28c3a2",
-   "title": "‘You want to control your own AI’: Pegasus spyware founder tells governments to push for sovereign AI and national security over reliance on US AI",
-   "url": "https://www.techradar.com/pro/security/you-want-to-control-your-own-ai-pegasus-spyware-founder-tells-governments-to-push-for-sovereign-ai-and-national-security-over-reliance-on-us-ai",
-   "source": "TechRadar",
-   "published": "2026-10-27T03:05:00Z",
-   "categories": [
-    "ai"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "6d5638f39a20",
-   "title": "India's smartphone market just had its worst quarter in a decade, Counterpoint says",
-   "url": "https://www.gsmarena.com/indias_smartphone_market_just_had_its_worst_quarter_in_a_decade_counterpoint_says-news-75216.php",
-   "source": "GSMArena",
-   "published": "2026-10-27T03:03:03Z",
-   "categories": [],
-   "rumor": false
-  },
-  {
-   "id": "23fb060e01a7",
-   "title": "New iMac and 14-Inch MacBook Pro With M6 Chip Expected Tomorrow",
-   "url": "https://www.macrumors.com/2026/10/26/new-imac-and-14-inch-macbook-pro-m6-chip-rumors/",
-   "source": "MacRumors",
-   "published": "2026-10-27T02:30:00Z",
-   "categories": [
-    "apple",
-    "chips"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "858bf7d244f3",
-   "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-   "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
-   "source": "TechCrunch",
-   "published": "2026-10-27T02:00:00Z",
-   "categories": [
-    "ai"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "0e152b3f7cf2",
-   "title": "JAŸ-Z to Headline 2027 Apple Music Super Bowl LXI Halftime Show",
-   "url": "https://www.macrumors.com/2026/10/26/jay-z-2027-apple-music-halftime-show/",
-   "source": "MacRumors",
-   "published": "2026-10-27T01:58:05Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "f24e027a922f",
-   "title": "macOS 27.2 Stops Upgrades From Removing Rosetta",
-   "url": "https://www.macrumors.com/2026/10/26/macos-27-2-stops-removing-rosetta/",
-   "source": "MacRumors",
-   "published": "2026-10-27T01:55:00Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "0601ba016917",
-   "title": "Google Photos rolls out customizable redesign of your ‘Collections’ tab",
-   "url": "https://9to5google.com/2026/10/26/google-photos-collections-redesign/",
-   "source": "9to5Google",
-   "published": "2026-10-27T01:18:33Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "543832a6d832",
-   "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
-   "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
-   "source": "TechCrunch",
-   "published": "2026-10-27T01:12:21Z",
-   "categories": [
-    "ai"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "25674f03de9a",
-   "title": "Xiaomi 18 Pro and 18 Pro Max get listed by European retailer before their global launch",
-   "url": "https://www.gsmarena.com/xiaomi_18_pro_and_18_pro_max_get_listed_by_european_retailer_before_their_global_launch-news-75215.php",
-   "source": "GSMArena",
-   "published": "2026-10-27T01:09:02Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "8aa669a432ca",
-   "title": "The 2027 Kia EV6 is over $8,000 more than the new EV3",
-   "url": "https://electrek.co/2026/10/26/2027-kia-ev6-over-8000-more-than-new-ev3/",
-   "source": "Electrek",
-   "published": "2026-10-27T00:39:22Z",
-   "categories": [
-    "evs"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "b8acb47b37b5",
-   "title": "iPhone Lockdown Mode: The pros and cons of enabling Apple's security feature",
-   "url": "https://www.engadget.com/2295333/iphone-lockdown-mode-pros-cons/",
-   "source": "Engadget",
-   "published": "2026-10-27T00:30:00Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "de674dc0afce",
-   "title": "The 50 most-played Steam Next Fest demos include 7 incremental games, 4 AI disclosures, and only one instance of haystack slop",
-   "url": "https://www.pcgamer.com/software/platforms/the-50-most-played-steam-next-fest-demos-include-7-incremental-games-4-ai-disclosures-and-only-one-instance-of-haystack-slop/",
-   "source": "PC Gamer",
-   "published": "2026-10-27T00:18:15Z",
-   "categories": [
-    "ai",
-    "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "db074c56bae1",
-   "title": "9to5Mac Daily: October 26, 2026 – Apple unveils new iPad mini",
-   "url": "https://9to5mac.com/2026/10/26/daily-october-26-2026/",
-   "source": "9to5Mac",
-   "published": "2026-10-27T00:16:31Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "c54cc2c7c9f4",
-   "title": "Older Siri Remotes Now Show Up in Find My With iOS 27.2",
-   "url": "https://www.macrumors.com/2026/10/26/siri-remote-find-my-ios-27-2/",
-   "source": "MacRumors",
-   "published": "2026-10-27T00:13:30Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "f51381570f6e",
-   "title": "Tesla Designed The Cybercab To Use LFP Cells In The Future",
-   "url": "https://insideevs.com/news/813324/tesla-cybercab-lfp-battery-chemistry/",
-   "source": "InsideEVs",
-   "published": "2026-10-27T00:13:08Z",
-   "categories": [
-    "evs"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "451b87758235",
-   "title": "These 4 built-in Windows recovery tools keep saving me from a clean install every time something breaks",
-   "url": "https://www.xda-developers.com/these-4-built-in-windows-tools-keep-saving-me-from-a-clean-install-every-time-something-breaks/",
-   "source": "XDA Developers",
-   "published": "2026-10-27T00:00:19Z",
-   "categories": [
-    "chips"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "2791b43b41f4",
-   "title": "iPhone Duo Features Independent Rotation Lock Controls",
-   "url": "https://www.macrumors.com/2026/10/26/iphone-duo-independent-rotation-lock-controls/",
-   "source": "MacRumors",
-   "published": "2026-10-27T00:00:00Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "9ff6d0ed35a5",
-   "title": "T-Mobile’s new plans let users swap between Apple TV and other subscriptions",
-   "url": "https://9to5mac.com/2026/10/26/t-mobiles-new-plans-let-users-swap-between-apple-tv-and-other-subscriptions/",
-   "source": "9to5Mac",
-   "published": "2026-10-26T23:51:19Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "bba291662c45",
-   "title": "OpenAI announces three big science discoveries and a new way to work with academics",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
-   "source": "The Verge",
-   "published": "2026-10-26T23:47:59Z",
-   "categories": [
-    "ai"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "8281e0c0e2aa",
-   "title": "Nvidia reveals its mega DSX POD modular 'AI factory' — so could the latest Vera Rubin hardware actually help make data centers more energy efficient?",
-   "url": "https://www.techradar.com/pro/nvidia-reveals-its-mega-dsx-pod-modular-ai-factory-featuring-the-latest-vera-rubin-hardware-and-a-promise-to-make-data-centers-more-energy-efficient",
-   "source": "TechRadar",
-   "published": "2026-10-26T23:35:00Z",
-   "categories": [
-    "ai",
-    "chips"
-   ],
-   "rumor": true
-  },
-  {
-   "id": "d310c2ea647b",
-   "title": "Here’s Another Mass Effect 5 Leak To Break Your Heart",
-   "url": "https://www.gamespot.com/articles/heres-another-mass-effect-5-leak-to-break-your-heart/",
-   "source": "GameSpot",
-   "published": "2026-10-26T23:31:44Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": true
-  },
-  {
-   "id": "ec20b5f1dd19",
-   "title": "The most popular streaming platforms in the US might not be what you think",
-   "url": "https://www.engadget.com/2295216/most-popular-streaming-platforms-united-states-not-what-you-think/",
-   "source": "Engadget",
-   "published": "2026-10-26T23:30:00Z",
-   "categories": [],
-   "rumor": true
-  },
-  {
-   "id": "874070a8e267",
-   "title": "Samsung's Exynos 2700 reportedly outpaces the Xiaomi 18 Pro Max's Snapdragon by up to 20%",
-   "url": "https://www.gsmarena.com/exynos_2700_reportedly_beats_the_snapdragon_8_elite_extreme_gen_6_in_internal_tests-news-75217.php",
-   "source": "GSMArena",
-   "published": "2026-10-26T23:11:03Z",
-   "categories": [
-    "android",
-    "chips",
-    "samsung"
-   ],
-   "rumor": true
-  },
-  {
-   "id": "f346f9509b42",
-   "title": "Get this 100W three-port charger with a built-in screen for just $42",
-   "url": "https://www.androidpolice.com/baseus-100w-charger-with-screen-discount-that-drops-it-to-a-record-low/",
-   "source": "Android Police",
-   "published": "2026-10-26T23:05:41Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "adbde11f21a4",
-   "title": "OpenClaw creator Peter Steinberger claims he spent $10 million in tokens in just a month — but luckily OpenAI can afford it",
-   "url": "https://www.techradar.com/pro/openclaw-creator-peter-steinberger-claims-he-spent-usd10-million-in-tokens-in-just-a-month-but-luckily-openai-can-afford-it",
-   "source": "TechRadar",
-   "published": "2026-10-26T23:05:00Z",
-   "categories": [
-    "ai"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "554dfe8a96e4",
-   "title": "World of Warcraft: Forever's last-minute patch transforms its bovines into racecars capable of zooming 60% faster than everyone else",
-   "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forevers-last-minute-patch-transforms-its-bovines-into-racecars-capable-of-zooming-60-percent-faster-than-everyone-else/",
-   "source": "PC Gamer",
-   "published": "2026-10-26T23:00:36Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "8ddda5f1dc1e",
-   "title": "Your spare PCIe slot may not actually be free, and checking your manual matters",
-   "url": "https://www.xda-developers.com/your-spare-pcie-slot-may-not-actually-free-checking-your-manual-matters/",
-   "source": "XDA Developers",
-   "published": "2026-10-26T23:00:20Z",
-   "categories": [],
-   "rumor": true
-  },
-  {
-   "id": "fe9095dca1c4",
-   "title": "I use time blocking in Google Calendar to schedule my day; I've reclaimed hours of focus time",
-   "url": "https://www.androidpolice.com/time-blocking-in-google-calendar-schedule-workday-in-reclaim-hours-of-focus-time/",
-   "source": "Android Police",
-   "published": "2026-10-26T23:00:10Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "3a8530729f5b",
-   "title": "6+ ways you can use your PlayStation 5's USB ports",
-   "url": "https://www.engadget.com/2294767/ways-to-use-playstation-5-usb-ports/",
-   "source": "Engadget",
-   "published": "2026-10-26T23:00:00Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "8d6c3efe5541",
-   "title": "iOS 27.2 Features: Everything New in iOS 27.2",
-   "url": "https://www.macrumors.com/2026/10/26/ios-27-2-features/",
-   "source": "MacRumors",
-   "published": "2026-10-26T22:56:08Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "16698b688f46",
-   "title": "Halide releases its first batch of updates for the iPhone Duo",
-   "url": "https://www.engadget.com/2297806/halide-releases-its-first-batch-of-updates-for-the-iphone-duo/",
-   "source": "Engadget",
-   "published": "2026-10-26T22:51:46Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "621fbe7f88fb",
-   "title": "Ollama for Mac gains support for local text-to-speech models",
-   "url": "https://9to5mac.com/2026/10/26/ollama-for-mac-gains-support-for-local-text-to-speech-models/",
-   "source": "9to5Mac",
-   "published": "2026-10-26T22:49:25Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "a699f5ee2522",
-   "title": "Why Can't iPhone Duo Users Make Eye Contact on FaceTime?",
-   "url": "https://www.macrumors.com/2026/10/26/iphone-duo-users-not-make-eye-contact-facetime/",
-   "source": "MacRumors",
-   "published": "2026-10-26T22:49:02Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "c47b9c1869c7",
-   "title": "WoW: Forever Just Got Another Major Racial Ability Shakeup Before Launch",
-   "url": "https://www.gamespot.com/articles/wow-forever-just-got-a-major-racial-ability-shakeup-just-before-launch/",
-   "source": "GameSpot",
-   "published": "2026-10-26T22:48:46Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "594899e8d92e",
-   "title": "Microsoft offers to buy out a quarter of its workforce",
-   "url": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/",
-   "source": "Ars Technica",
-   "published": "2026-10-26T22:36:06Z",
-   "categories": [],
-   "rumor": false
-  },
-  {
-   "id": "15cbe91f65ef",
-   "title": "What are the leading causes of EV battery damage?",
-   "url": "https://www.engadget.com/2290322/leading-causing-ev-battery-damage/",
-   "source": "Engadget",
-   "published": "2026-10-26T22:30:00Z",
-   "categories": [
-    "evs"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "d05248842d7f",
-   "title": "Is The Hyundai Ioniq 6 A Good Used Buy? An Owner's Thoughts After 30 Months",
-   "url": "https://insideevs.com/news/813304/hyundai-ioniq-6-used-buy/",
-   "source": "InsideEVs",
-   "published": "2026-10-26T22:26:25Z",
-   "categories": [
-    "evs"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "37a4486ca2d5",
-   "title": "Instagram takes on YouTube with new 90-minute horizontal video format",
-   "url": "https://9to5mac.com/2026/10/26/instagram-takes-on-youtube-with-new-90-minute-horizontal-video-format/",
-   "source": "9to5Mac",
-   "published": "2026-10-26T22:06:38Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "209c9f76e317",
-   "title": "I used Spotify, YouTube Music, and Plexamp on Android Auto for a month, and the self-hosted one won",
-   "url": "https://www.xda-developers.com/spotify-youtube-music-plexamp-android-auto-month-self-hosted-won/",
-   "source": "XDA Developers",
-   "published": "2026-10-26T22:00:20Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "319ed9e67430",
-   "title": "The mistake iPhone Duo buyers can easily avoid",
-   "url": "https://www.engadget.com/2294592/mistake-iphone-duo-buyers-can-avoid/",
-   "source": "Engadget",
-   "published": "2026-10-26T22:00:00Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "7586c5a3e05c",
-   "title": "Google says Gemini 4 Argon ranks well behind Claude and GPT-6 for Android coding",
-   "url": "https://9to5google.com/2026/10/26/android-bench-rankings-gemini-4-argon/",
-   "source": "9to5Google",
-   "published": "2026-10-26T22:00:00Z",
-   "categories": [
-    "ai",
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "bfd95ee9834b",
-   "title": "One day before launch, ARPG Emberville gets delayed until 2027",
-   "url": "https://www.pcgamer.com/games/rpg/one-day-before-launch-arpg-emberville-gets-delayed-until-2027/",
-   "source": "PC Gamer",
-   "published": "2026-10-26T21:57:24Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "73fed1e20a12",
-   "title": "Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50",
-   "url": "https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale",
-   "source": "The Verge",
-   "published": "2026-10-26T21:56:36Z",
-   "categories": [
-    "android",
-    "gaming",
-    "samsung"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "a91bd6ea2c9e",
-   "title": "iOS 27.2 Fixes Over 160 Security Vulnerabilities",
-   "url": "https://www.macrumors.com/2026/10/26/ios-27-2-security-fixes/",
-   "source": "MacRumors",
-   "published": "2026-10-26T21:55:32Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "3000c9fae3bd",
-   "title": "A free 'micro' horror game from the maker of The Mortuary Assistant is basically if PT was an episode of Law and Order",
-   "url": "https://www.pcgamer.com/games/horror/a-free-micro-horror-game-from-the-maker-of-the-mortuary-assistant-is-basically-if-pt-was-an-episode-of-law-and-order/",
-   "source": "PC Gamer",
-   "published": "2026-10-26T21:47:58Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "96b9f45bb2e6",
-   "title": "Anthropic is burning gas to feed the AI boom",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
-   "source": "The Verge",
-   "published": "2026-10-26T21:45:31Z",
-   "categories": [
-    "ai"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "ae016bb0a3c4",
-   "title": "T-Mobile's new T-Mix plans let you pick your own perks",
-   "url": "https://www.gsmarena.com/tmobiles_new_tmix_plans_let_you_pick_your_own_perks-news-75218.php",
-   "source": "GSMArena",
-   "published": "2026-10-26T21:41:02Z",
-   "categories": [],
-   "rumor": false
-  },
-  {
-   "id": "1631244941ee",
-   "title": "The developer of one of my favorite 2020s RPGs does it because of BioWare: 'Baldur's Gate 1 is the first game I truly loved'",
-   "url": "https://www.pcgamer.com/games/baldurs-gate/the-developer-of-one-of-my-favorite-2020s-rpgs-does-it-because-of-bioware-baldurs-gate-1-is-the-first-game-i-truly-loved/",
-   "source": "PC Gamer",
-   "published": "2026-10-26T21:31:55Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "ab9fe83cbe80",
-   "title": "I replaced three cloud subscriptions with my own server, and Tailscale makes it work anywhere",
-   "url": "https://www.xda-developers.com/replaced-three-cloud-subscriptions-own-server-tailscale-makes-work-anywhere/",
-   "source": "XDA Developers",
-   "published": "2026-10-26T21:30:20Z",
-   "categories": [],
-   "rumor": false
-  },
-  {
-   "id": "4c0ccd01579a",
-   "title": "GPT-6.1 Terra makes a strong case for being OpenAI’s best bang for your AI buck",
-   "url": "https://www.androidauthority.com/gpt-6-1-terra-3728234/",
-   "source": "Android Authority",
-   "published": "2026-10-26T21:25:03Z",
-   "categories": [
-    "ai",
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "22d5174b426e",
-   "title": "AirFly’s wireless headphone dongle adds a screen to guide you through the pairing process",
-   "url": "https://www.theverge.com/tech/1018679/twelve-south-airfly-view-screen-display-wireless-headphone-earbuds-airplane-adapter",
-   "source": "The Verge",
-   "published": "2026-10-26T21:22:30Z",
-   "categories": [],
-   "rumor": false
-  },
-  {
-   "id": "9b68bae3d719",
-   "title": "BYD’s ultra-luxury EV could debut next week with solid-state batteries and much more",
-   "url": "https://electrek.co/2026/10/26/byds-ultra-luxury-ev-may-debut-next-week-with-solid-state-batteries/",
-   "source": "Electrek",
-   "published": "2026-10-26T21:22:26Z",
-   "categories": [
-    "evs"
-   ],
-   "rumor": true
-  },
-  {
-   "id": "5b431cd4e56a",
-   "title": "You can't currently order a Tinybox with Nvidia GPUs — and Tiny Corp's new 192GB six-GPU AMD build just got $3,000 pricier",
-   "url": "https://www.techradar.com/pro/you-cant-currently-order-a-tinybox-with-nvidia-gpus-and-tiny-corps-new-192gb-six-gpu-amd-build-just-got-usd3-000-pricier",
-   "source": "TechRadar",
-   "published": "2026-10-26T21:20:00Z",
-   "categories": [
-    "chips"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "3d7b0fa49bc0",
-   "title": "Veteran game composer in talks to score Mass Effect 5 shares 20 minutes of music he wrote for the project: 'To even dream in your sandbox was a privilege'",
-   "url": "https://www.pcgamer.com/games/mass-effect/veteran-game-composer-in-talks-to-score-mass-effect-5-shares-20-minutes-of-music-he-wrote-for-the-project-to-even-dream-in-your-sandbox-was-a-privilege/",
-   "source": "PC Gamer",
-   "published": "2026-10-26T21:19:51Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "eeb4362e34f9",
-   "title": "Tesla appears to be preparing to sell US-built Model 3s in Canada again",
-   "url": "https://electrek.co/2026/10/26/tesla-us-built-model-3-canada-return-584-km/",
-   "source": "Electrek",
-   "published": "2026-10-26T21:18:39Z",
-   "categories": [
-    "evs"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "d47887114836",
-   "title": "iPhone AI Images and Edits Now Have a Hidden Watermark",
-   "url": "https://www.macrumors.com/2026/10/26/iphone-synthid-watermarks/",
-   "source": "MacRumors",
-   "published": "2026-10-26T21:15:14Z",
-   "categories": [
-    "ai",
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "571d57b429c8",
-   "title": "This emulator just cut off support to Anbernic’s upcoming Nintendo 3DS clone",
-   "url": "https://www.androidauthority.com/azahar-cuts-off-support-to-anbernic-3728246/",
-   "source": "Android Authority",
-   "published": "2026-10-26T21:15:14Z",
-   "categories": [
-    "android",
-    "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "4083d4baf65a",
-   "title": "The cheapest terabytes left for a home NAS are used SAS drives, and they need a $30 card most people have never heard of",
-   "url": "https://www.xda-developers.com/cheapest-nas-storage-sas-drives-need-hba-card/",
-   "source": "XDA Developers",
-   "published": "2026-10-26T21:01:21Z",
-   "categories": [],
-   "rumor": false
-  },
-  {
-   "id": "0d5cda851ead",
-   "title": "5 practical uses for Incognito Mode that have nothing to do with hiding your history",
-   "url": "https://www.androidpolice.com/practical-uses-incognito-mode-chrome-brave-firefox-edge/",
-   "source": "Android Police",
-   "published": "2026-10-26T21:00:10Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "3de774f858b5",
-   "title": "Apple addressed at least 329 unique security vulnerabilities across today’s system updates",
-   "url": "https://9to5mac.com/2026/10/26/apple-addressed-at-least-329-unique-security-vulnerabilities-across-todays-system-updates/",
-   "source": "9to5Mac",
-   "published": "2026-10-26T20:56:15Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "7b13ffc54284",
-   "title": "The best haunted card game since Inscryption is back with a new mystery only solitaire freaks can solve",
-   "url": "https://www.pcgamer.com/games/card-games/the-best-haunted-card-game-since-inscryption-is-back-with-a-new-mystery-only-solitaire-freaks-can-solve/",
-   "source": "PC Gamer",
-   "published": "2026-10-26T20:47:17Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "8b59d2f385b7",
-   "title": "Don't bother with other Pixel 11 Pro deals, when you can get it here for $774",
-   "url": "https://www.androidpolice.com/pixel-11-pro-you-can-get-it-here-for-774/",
-   "source": "Android Police",
-   "published": "2026-10-26T20:35:45Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "6dfdc023e3b7",
-   "title": "The EV Tax Credit Could Come Back. Here's What Stands In The Way",
-   "url": "https://insideevs.com/news/813308/ev-tax-credit-could-return-but-hurdles-remain/",
-   "source": "InsideEVs",
-   "published": "2026-10-26T20:32:16Z",
-   "categories": [
-    "evs"
-   ],
-   "rumor": true
-  },
-  {
-   "id": "af6add301c48",
-   "title": "5 GPUs that are finally too old for modern games in 2026",
-   "url": "https://www.xda-developers.com/gpus-finally-too-old-modern-games/",
-   "source": "XDA Developers",
-   "published": "2026-10-26T20:30:22Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "3013e4fb2f56",
-   "title": "Worms mate in man's eyes, get plucked out right before larvae burst out",
-   "url": "https://arstechnica.com/health/2026/10/whats-worse-than-having-eye-worms-having-eye-worms-with-babies/",
-   "source": "Ars Technica",
-   "published": "2026-10-26T20:27:00Z",
-   "categories": [],
-   "rumor": false
-  },
-  {
-   "id": "cfb730f5cbfd",
-   "title": "From iPhone Duo to Mac, Craft shows what a native productivity app can do",
-   "url": "https://9to5mac.com/2026/10/26/from-iphone-duo-to-mac-craft-shows-what-a-native-productivity-app-can-do/",
-   "source": "9to5Mac",
-   "published": "2026-10-26T20:26:07Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "bb3025185ac9",
-   "title": "Walter Koenig, Star Trek's Pavel Chekhov, has died",
-   "url": "https://www.pcgamer.com/movies-tv/walter-koenig-star-treks-pavel-chekhov-has-died/",
-   "source": "PC Gamer",
-   "published": "2026-10-26T20:19:38Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "b04a1d8b928f",
-   "title": "Amazon cuts 35% off the ELEPHAS Roku TV smart projector",
-   "url": "https://www.androidauthority.com/elephas-roku-tv-smart-projector-deal-3728244/",
-   "source": "Android Authority",
-   "published": "2026-10-26T20:17:17Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "283bfb813f45",
-   "title": "Meet the real-life Scottish surgeon who inspired Sherlock Holmes",
-   "url": "https://arstechnica.com/science/2026/10/meet-the-real-life-scottish-surgeon-who-inspired-sherlock-holmes/",
-   "source": "Ars Technica",
-   "published": "2026-10-26T20:15:07Z",
-   "categories": [],
-   "rumor": false
-  },
-  {
-   "id": "625d2420c459",
-   "title": "What’s new in Android’s October 2026 Google System Updates [U]",
-   "url": "https://9to5google.com/2026/10/26/october-2026-google-system-updates/",
-   "source": "9to5Google",
-   "published": "2026-10-26T20:15:00Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "eaa1043083de",
-   "title": "Motorola Edge 70 Neo key specifications leak",
-   "url": "https://www.gsmarena.com/motorola_edge_70_neo_key_specifications_leak-news-75214.php",
-   "source": "GSMArena",
-   "published": "2026-10-26T20:12:02Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": true
-  },
-  {
-   "id": "bb76765b4175",
-   "title": "HPE is sending its most powerful AI compute platforms to the Moon aboard an all-new lunar rover",
-   "url": "https://www.techradar.com/pro/hpe-is-sending-its-most-powerful-ai-compute-platforms-to-the-moon-aboard-an-all-new-lunar-rover",
-   "source": "TechRadar",
-   "published": "2026-10-26T20:05:00Z",
-   "categories": [
-    "ai"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "5d5ff332a0b6",
-   "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
-   "url": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
-   "source": "Ars Technica",
-   "published": "2026-10-26T20:04:16Z",
-   "categories": [
-    "ai",
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "21d23894a8a6",
-   "title": "This tiny 45W 10,000mAh power bank just got a rare drop below $32",
-   "url": "https://www.androidauthority.com/lisen-10-000mah-travel-charger-down-3728239/",
-   "source": "Android Authority",
-   "published": "2026-10-26T20:01:12Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "20ff6cb95da1",
-   "title": "I tried 3 Claude Code mods, and now waiting for it to finish is actually fun",
-   "url": "https://www.xda-developers.com/tried-claude-code-mods-now-waiting-for-it-to-finish-is-actually-fun/",
-   "source": "XDA Developers",
-   "published": "2026-10-26T20:00:21Z",
-   "categories": [
-    "ai"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "9e6d457ae8e7",
-   "title": "iOS 27.2 Expands Dual Capture to Group FaceTime",
-   "url": "https://www.macrumors.com/2026/10/26/ios-27-2-dual-capture-facetime/",
-   "source": "MacRumors",
-   "published": "2026-10-26T19:59:44Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "0abe68e22bdf",
-   "title": "Sterling Anderson doesn’t think humanoid robots should be building cars",
-   "url": "https://www.theverge.com/transportation/1018625/gm-sterling-anderson-interview-robots-ai-autonomous-data-privacy",
-   "source": "The Verge",
-   "published": "2026-10-26T19:58:27Z",
-   "categories": [],
-   "rumor": false
-  },
-  {
-   "id": "bd2d52486cda",
-   "title": "Chrome 156 for Googlebook rolling out with 14 updates across sites, shortcuts, more",
-   "url": "https://9to5google.com/2026/10/26/chrome-156-googlebooks/",
-   "source": "9to5Google",
-   "published": "2026-10-26T19:58:11Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "2a0a292efb89",
-   "title": "Even your abuelita will love Even Realities’ new smart glasses styles",
-   "url": "https://9to5google.com/2026/10/26/even-your-abuelita-will-love-even-realities-new-smart-glasses-styles/",
-   "source": "9to5Google",
-   "published": "2026-10-26T19:56:26Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "3836566ad9d7",
-   "title": "The Regreening is a post-apocalyptic farm sim where you grow animal habitats instead of cash crops",
-   "url": "https://www.pcgamer.com/games/life-sim/the-regreening-is-a-post-apocalyptic-farm-sim-where-you-grow-animal-habitats-instead-of-cash-crops/",
-   "source": "PC Gamer",
-   "published": "2026-10-26T19:55:11Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "2bc48306890c",
-   "title": "Mass Effect fan group buys billboard in Times Square promoting petition to save series",
-   "url": "https://www.pcgamer.com/games/mass-effect/mass-effect-fan-group-buys-billboard-in-times-square-promoting-petition-to-save-series/",
-   "source": "PC Gamer",
-   "published": "2026-10-26T19:53:51Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "5e10075cb21a",
-   "title": "BMW’s new iX5 looks like a big upgrade next to the old X5 [Images]",
-   "url": "https://electrek.co/2026/10/26/bmws-new-ix5-looks-like-big-upgrade-next-to-old-x5-images/",
-   "source": "Electrek",
-   "published": "2026-10-26T19:49:55Z",
-   "categories": [
-    "evs"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "6611b079bccb",
-   "title": "Apple Releases visionOS 27.2",
-   "url": "https://www.macrumors.com/2026/10/26/apple-releases-visionos-27-2/",
-   "source": "MacRumors",
-   "published": "2026-10-26T19:48:31Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "1783c585a356",
-   "title": "Apple adds more Siri AI tools in its 27.2 system updates, out today",
-   "url": "https://www.engadget.com/2297577/apple-adds-more-siri-ai-tools-in-27-2-system-updates-out-today/",
-   "source": "Engadget",
-   "published": "2026-10-26T19:47:56Z",
-   "categories": [
-    "ai",
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "08637537da2e",
-   "title": "Apple Says Siri AI Will Support Even More Languages Later This Year",
-   "url": "https://www.macrumors.com/2026/10/26/siri-ai-even-more-languages-later-this-year/",
-   "source": "MacRumors",
-   "published": "2026-10-26T19:44:48Z",
-   "categories": [
-    "ai",
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "4b2263177420",
-   "title": "This is the fitness-focused smartwatch to get for under $200",
-   "url": "https://www.androidpolice.com/this-is-the-fitness-focused-smartwatch-to-get-for-under-200/",
-   "source": "Android Police",
-   "published": "2026-10-26T19:43:31Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "d274dcec8941",
-   "title": "GPT-6.1 Terra brings more advanced computer agent use at a lower cost than Claude",
-   "url": "https://www.xda-developers.com/gpt-61-terra-brings-more-advanced-computer-agent-use-at-a-lower-cost-than-56-terra/",
-   "source": "XDA Developers",
-   "published": "2026-10-26T19:43:17Z",
-   "categories": [
-    "ai"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "927548898d1b",
-   "title": "Here's Why Apple's Next Pre-Orders Begin on Wednesday at 10:10 AM",
-   "url": "https://www.macrumors.com/2026/10/26/heres-why-apple-preorders-at-10-10-am/",
-   "source": "MacRumors",
-   "published": "2026-10-26T19:36:42Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "0172053a81e3",
-   "title": "GameSir Pocket Taco gets a 20% discount on Amazon",
-   "url": "https://www.androidauthority.com/gamesir-pocket-taco-deal-3728232/",
-   "source": "Android Authority",
-   "published": "2026-10-26T19:36:25Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "a7829265adb5",
-   "title": "Nintendo Switch 2 jailbreak brings YouTube to the console",
-   "url": "https://www.androidauthority.com/nintendo-switch-2-jailbreak-brings-youtube-3728187/",
-   "source": "Android Authority",
-   "published": "2026-10-26T19:35:09Z",
-   "categories": [
-    "android",
-    "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "df8e15b096ac",
-   "title": "Apple raises trade-in values for iPads and Macs, with increases of up to $365",
-   "url": "https://9to5mac.com/2026/10/26/apple-raises-trade-in-values-for-ipads-and-macs-with-increases-of-up-to-365/",
-   "source": "9to5Mac",
-   "published": "2026-10-26T19:32:18Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "599cfa50da22",
-   "title": "The old Raspberry Pi 4 sitting in your drawer is worth more now than the day you bought it",
-   "url": "https://www.xda-developers.com/old-raspberry-pi-4-sitting-in-your-drawer-is-worth-more-now/",
-   "source": "XDA Developers",
-   "published": "2026-10-26T19:31:21Z",
-   "categories": [],
-   "rumor": false
-  },
-  {
-   "id": "ac2872454333",
-   "title": "Apple announces Siri AI will expand to these new languages soon",
-   "url": "https://9to5mac.com/2026/10/26/apple-announces-siri-ai-will-expand-to-these-new-languages-soon/",
-   "source": "9to5Mac",
-   "published": "2026-10-26T19:30:57Z",
-   "categories": [
-    "ai",
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "d7f1d169e93b",
-   "title": "I’ve been using Android’s iPad Mini OLED for months, and it’s the better tiny tablet",
-   "url": "https://9to5google.com/2026/10/26/android-ipad-mini-oled-redmagic-astra-2-review/",
-   "source": "9to5Google",
-   "published": "2026-10-26T19:30:00Z",
-   "categories": [
-    "android",
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "b18d636ed50c",
-   "title": "Tesla And Turo Have A New Way To Get People Hooked On FSD",
-   "url": "https://insideevs.com/news/813307/tesla-turo-fsd-tie-up/",
-   "source": "InsideEVs",
-   "published": "2026-10-26T19:24:29Z",
-   "categories": [
-    "evs"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "9665c1e51960",
-   "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
-   "url": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
-   "source": "TechCrunch",
-   "published": "2026-10-26T19:22:40Z",
-   "categories": [
-    "apple"
    ],
    "rumor": false
   }

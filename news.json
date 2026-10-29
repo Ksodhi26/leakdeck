@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T14:03:05Z",
+ "updated": "2026-10-29T14:11:09Z",
  "sources": [
   "9to5Google",
   "9to5Mac",
@@ -23,6 +23,19 @@
  "count": 600,
  "items": [
   {
+   "id": "a99c89ca03d9",
+   "title": "$60 million AI rack cluster listed on eBay, with 1.4 petabytes of memory and almost 10,000 Nvidia AI GPUs",
+   "url": "https://www.pcgamer.com/software/ai/usd60-million-ai-rack-cluster-listed-on-ebay-with-1-4-petabytes-of-memory-and-almost-10-000-nvidia-ai-gpus/",
+   "source": "PC Gamer",
+   "published": "2026-10-29T14:01:48Z",
+   "categories": [
+    "ai",
+    "chips",
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
    "id": "511c2013ce6c",
    "title": "BYD (BYDDY) Q3 profit jumps 28% on exports, but inventory balloons 60%",
    "url": "https://electrek.co/2026/10/29/byd-q3-2026-earnings-profit-exports-inventory/",
@@ -31,7 +44,8 @@
    "categories": [
     "evs"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "BYD's third-quarter profit rose 28% on the back of exports, though its inventory swelled by 60%."
   },
   {
    "id": "bf55f43e486d",
@@ -43,6 +57,18 @@
    "rumor": true
   },
   {
+   "id": "c5bb6ef0ab63",
+   "title": "HyperX Omen 35L review: A polished gaming PC for deep pockets",
+   "url": "https://www.tomshardware.com/desktops/gaming-pcs/hyperx-omen-35l-review",
+   "source": "Tom's Hardware",
+   "published": "2026-10-29T14:00:00Z",
+   "categories": [
+    "chips",
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
    "id": "997b2e5b8689",
    "title": "Apple finally combined a toaster and a refrigerator",
    "url": "https://www.theverge.com/report/1022013/apple-touchscreen-macbook-pro-toaster-refrigerator",
@@ -50,6 +76,17 @@
    "published": "2026-10-29T13:58:34Z",
    "categories": [
     "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "9e5b8bf61c65",
+   "title": "Minecraft Creator Is Selling His $70 Million Beverly Hills Mansion, But There’s Something Unusual About It",
+   "url": "https://www.gamespot.com/articles/minecraft-creator-is-selling-his-70-million-beverly-hills-mansion-but-theres-something-unusual-about-it/",
+   "source": "GameSpot",
+   "published": "2026-10-29T13:54:09Z",
+   "categories": [
+    "gaming"
    ],
    "rumor": false
   },
@@ -117,7 +154,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "9to5Mac lays out when iOS 27.3 and its new iPhone features are expected to arrive."
   },
   {
    "id": "79542099f7a4",
@@ -161,7 +199,8 @@
    "categories": [
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Xbox's CEO says Series X|S consoles are short on supply; GameSpot examines whether that holds up."
   },
   {
    "id": "0b3918620b86",
@@ -206,7 +245,8 @@
    "categories": [
     "chips"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "A report claims a Chinese intelligence asset may have targeted NVIDIA chief Jensen Huang in a spying plot."
   },
   {
    "id": "41515e8daa94",
@@ -217,7 +257,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "HomePod mini 2 goes on sale Oct 30; MacRumors recaps what is new in Apple's smaller speaker."
   },
   {
    "id": "c546a70dbf99",
@@ -240,7 +281,8 @@
     "android",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Samsung's One UI 9.0 update is now reaching the budget Galaxy A16 worldwide."
   },
   {
    "id": "2b845167f0b6",
@@ -253,7 +295,8 @@
     "chips",
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Malaysian customs seized more than $12 million in AI servers that a suspected smuggling ring tried to pass off under false declarations."
   },
   {
    "id": "b5d07b72e283",
@@ -265,7 +308,8 @@
     "ai",
     "chips"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "The US Justice Department is reportedly investigating NVIDIA's $13 billion deal for the Hugging Face AI platform."
   },
   {
    "id": "8341ffcecc1d",
@@ -309,7 +353,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "A look at how macOS changes buttons and controls when you use the new MacBook Pro by touch."
   },
   {
    "id": "c340498c2d62",
@@ -318,7 +363,8 @@
    "source": "The Verge",
    "published": "2026-10-29T12:33:13Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "DoorDash has agreed to buy grocery delivery rival Instacart in a $17 billion deal."
   },
   {
    "id": "c9c8b37769a4",
@@ -383,7 +429,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Apple has raised the education price of the MacBook Neo once more."
   },
   {
    "id": "3806853374d3",
@@ -407,7 +454,8 @@
     "android",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Samsung's China-only W27 arrives as a gold-trimmed luxury take on the Galaxy Z Fold 8 Ultra."
   },
   {
    "id": "9bf7f2a5e862",
@@ -418,7 +466,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "A Foxconn worker claims Apple eased iPhone Duo quality checks to boost holiday supply; another source denies any change."
   },
   {
    "id": "a0b14dc17d35",
@@ -496,7 +545,8 @@
     "ai",
     "gaming"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "Over $100 million worth of AI data center hardware has reportedly been stolen in transit since June."
   },
   {
    "id": "1f936cfddd22",
@@ -541,7 +591,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Fujifilm plans to raise output of its 100TB magnetic tapes fivefold as AI drives storage demand."
   },
   {
    "id": "f16f3fc8d591",
@@ -553,7 +604,8 @@
     "chips",
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Phantom Blade Zero's developer is warning PC players to hold off on the newest NVIDIA graphics driver."
   },
   {
    "id": "fb13e14386ae",
@@ -610,7 +662,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Anthropic's IPO filing shows that most of its computing power goes to research rather than serving customers."
   },
   {
    "id": "bc31728f7c88",
@@ -633,7 +686,8 @@
    "categories": [
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Fake PS5 emulator downloads are being used as bait to steal gamers' login details."
   },
   {
    "id": "22c37ffa9203",
@@ -645,7 +699,8 @@
     "android",
     "samsung"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "New UL Solutions certificates back up 25W wired charging for the standard Galaxy S27, unchanged from the S26."
   },
   {
    "id": "295185fa46ea",
@@ -699,7 +754,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Alphabet's third quarter mixed strong revenue growth with weak spots, 9to5Google argues."
   },
   {
    "id": "9668e774dc73",
@@ -710,7 +766,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Motorola's US website has quietly said all along that the Signature 27 flagship launches in November."
   },
   {
    "id": "c8bbeda5184f",
@@ -732,7 +789,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "With the OLED models added, MacBook Pro prices now run from $1,999 for the base M6 model to $14,549 fully loaded."
   },
   {
    "id": "ed870c92bbcd",
@@ -778,7 +836,8 @@
     "android",
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "South Korea's regulator has fined Apple and Google over app store rule breaches and ordered changes."
   },
   {
    "id": "92c1daf49787",
@@ -878,7 +937,8 @@
     "ai",
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Google says Gemini 4 Carbon is a big step up in coding and security work, though only select cyber defenders can use it for now."
   },
   {
    "id": "33d7150af129",
@@ -1045,7 +1105,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "OPPO's Find X10 and Find X10 Pro Max are now on sale in India."
   },
   {
    "id": "8a09d8241fb0",
@@ -1122,7 +1183,8 @@
     "ai",
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Google Messages is gaining a ChatGPT integration for chats."
   },
   {
    "id": "146d0b0a2dc1",
@@ -1179,7 +1241,8 @@
     "android",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Samsung hinted at its Galaxy S27 plans while reporting that its phone business lost money again."
   },
   {
    "id": "6514b040448a",
@@ -1389,7 +1452,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "A new Russian rule obliges Apple to keep user communications and hand them to authorities on request."
   },
   {
    "id": "914b5360b3d5",
@@ -1400,7 +1464,8 @@
    "categories": [
     "evs"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "Polestar has ended production of the Polestar 2, raising questions about what replaces it."
   },
   {
    "id": "2c53d8c6ab63",
@@ -1423,7 +1488,8 @@
    "categories": [
     "chips"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "SK hynix posted a record third quarter and warned the memory chip shortage could run through 2030."
   },
   {
    "id": "b762a07cbcaa",
@@ -1467,7 +1533,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "XREAL's Aura, the first Android XR glasses, is now on sale from $1,099, with shipping in mid-November."
   },
   {
    "id": "5e55b246f8d6",
@@ -1479,7 +1546,8 @@
     "ai",
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "The trade secrets case between Apple and OpenAI now has a scheduled trial date."
   },
   {
    "id": "2ad1f31a2301",
@@ -1609,7 +1677,8 @@
     "apple",
     "chips"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "At up to $14,549, the touchscreen MacBook Pro pushes laptop prices into new territory."
   },
   {
    "id": "3905ca1fc76a",
@@ -1618,7 +1687,8 @@
    "source": "The Verge",
    "published": "2026-10-28T22:47:29Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "Microsoft reported strong cloud growth while overhauling how it reports its finances."
   },
   {
    "id": "61ebabb644c4",
@@ -1640,7 +1710,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "A forecast says the iPhone Duo could take close to 30% of the foldable phone market in 2027."
   },
   {
    "id": "47ebb1c951d4",
@@ -1725,7 +1796,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "MacRumors checks which pre-launch rumors about the OLED touchscreen MacBook Pro turned out to be right."
   },
   {
    "id": "fc87eef9a509",
@@ -6601,38 +6673,6 @@
    "categories": [
     "gaming"
    ],
-   "rumor": false
-  },
-  {
-   "id": "8a17c64c63b6",
-   "title": "Official WoW: Forever AMV Will Get You Super Hyped",
-   "url": "https://www.gamespot.com/articles/official-wow-forever-amv-will-get-you-super-hyped/",
-   "source": "GameSpot",
-   "published": "2026-10-27T19:01:52Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "e9b9dce1eb4d",
-   "title": "Copilot Money gets even better with new AI-powered Money Assistant",
-   "url": "https://9to5mac.com/2026/10/27/copilot-money-gets-even-better-with-new-ai-powered-money-assistant/",
-   "source": "9to5Mac",
-   "published": "2026-10-27T19:00:35Z",
-   "categories": [
-    "ai",
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "1a1bf0313d21",
-   "title": "7 hardware acceleration methods Jellyfin supports, and where each one runs",
-   "url": "https://www.xda-developers.com/hardware-acceleration-methods-jellyfin-supports-and-where-each-one-runs/",
-   "source": "XDA Developers",
-   "published": "2026-10-27T19:00:20Z",
-   "categories": [],
    "rumor": false
   }
  ]

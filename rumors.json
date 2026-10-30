@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29",
+ "updated": "2026-10-30",
  "scale": {
   "Confirmed": "Announced by the company or shown in an official source.",
   "Likely": "Multiple credible outlets or hard evidence (certifications, databases, supply chain), but no official word.",
@@ -274,11 +274,15 @@
     "chips"
    ],
    "status": "Active",
-   "updated": "2026-10-17",
+   "updated": "2026-10-30",
    "expected": "Jan 2027",
    "claim": "Intel will launch Core Ultra 400 'Nova Lake-S' desktop chips at CES 2027, with first retail models in Q1 2027.",
-   "why": "Several outlets report a CES 2027 debut and Q4 2026 mass production. The origin is leakers and supply-chain reports, and Intel has not confirmed a date.",
+   "why": "Several outlets reported a CES 2027 debut and Q4 2026 mass production, based on leakers and supply-chain reports. Update Oct 30: on Intel's Oct 29 earnings call, CEO Lip-Bu Tan said Nova Lake is 'tracking ahead of schedule' and Intel will 'share more at CES in January', which supports the CES timing. He did not promise a CES launch or Q1 retail availability, so we keep this at Likely until Intel gives dates.",
    "sources": [
+    {
+     "name": "Tom's Hardware (Intel Q3 call)",
+     "url": "https://www.tomshardware.com/pc-components/cpus/intel-confirms-nova-lake-will-use-advanced-18a-p-node-more-details-at-ces-company-says-its-taking-panther-lake-capacity-offline-to-build-more-granite-rapids-data-center-cpus"
+    },
     {
      "name": "OC3D",
      "url": "https://overclock3d.net/news/cpu_mainboard/intel-to-launch-next-gen-nova-lake-s-at-ces-2027-leaker-claims/"
@@ -1392,14 +1396,18 @@
    ],
    "status": "Active",
    "first_reported": "2026-10-24",
-   "updated": "2026-10-24",
-   "expected": "Soon (China, leak; no date)",
-   "claim": "vivo's next S-series phone, the S70, has a 64MP Sony LYT610 periscope telephoto with teleconverter support, a 6.59-inch 1.5K LTPS OLED screen and a Snapdragon 8s-series chip.",
-   "why": "From tipster Digital Chat Station on Weibo, relayed by GSMArena; he says it is based on an engineering sample and that vivo tested, then dropped, a rear screen. DCS has a good record on Chinese phones, but this is a single source and vivo has said nothing. The S60 launched in May, so a late-2026 successor fits vivo's cadence.",
+   "updated": "2026-10-30",
+   "expected": "November 2026 (China, leak; no date)",
+   "claim": "vivo's next S-series phone, the S70, has a 64MP Sony LYT-610 periscope telephoto with support for a 200mm teleconverter, a 6.59-inch 1.5K LTPS OLED screen and the Snapdragon 8s Gen 4.",
+   "why": "From tipster Digital Chat Station on Weibo, relayed by GSMArena; he says it is based on an engineering sample and that vivo tested, then dropped, a rear screen. DCS has a good record on Chinese phones, but this is a single source and vivo has said nothing. The S60 launched in May, so a late-2026 successor fits vivo's cadence. Update Oct 30: DCS added more detail, relayed by Gizmochina: the Snapdragon 8s Gen 4, a 50MP main, 8MP ultrawide and 50MP selfie camera, and support for a 200mm teleconverter. It is still the same single tipster, and reports point to a November launch in China.",
    "sources": [
     {
      "name": "GSMArena",
      "url": "https://www.gsmarena.com/vivo_s70_tipped_to_launch_soon_with_teleconverter_support-news-75195.php"
+    },
+    {
+     "name": "Gizmochina (Oct 30)",
+     "url": "https://www.gizmochina.com/2026/10/30/vivo-s70-snapdragon-8s-gen-4-64mp-periscope-200mm-teleconverter/"
     }
    ]
   },
@@ -1521,11 +1529,15 @@
    ],
    "status": "Active",
    "first_reported": "2026-08-01",
-   "updated": "2026-10-25",
+   "updated": "2026-10-30",
    "expected": "Late 2026 or early 2027 (unconfirmed)",
    "claim": "Samsung will launch a Galaxy Fit 4 (SM-R391) fitness band with a near-identical design to the Fit 3, in black, white and light blue, at a similar low price.",
-   "why": "Android Authority obtained 360-degree videos of the band in three colors and earlier found Samsung documents naming SM-R391 as 'FIT4'; a Samsung app teardown also showed renders. The hardware is well evidenced, but specs beyond Bluetooth LE and a Goodix optical sensor, the price (the Fit 3 was about $60) and the launch date are unknown; reports range from late 2026 to early 2027.",
+   "why": "Android Authority obtained 360-degree videos of the band in three colors and earlier found Samsung documents naming SM-R391 as 'FIT4'; a Samsung app teardown also showed renders. The hardware is well evidenced, but specs beyond Bluetooth LE and a Goodix optical sensor, the price (the Fit 3 was about $60) and the launch date are unknown; reports range from late 2026 to early 2027. Update Oct 30: a SammyGuru teardown of the Galaxy Fit 4 Manager app, reported by Android Authority, lists nearly the same health features as the Fit 3 (sleep coaching, SpO2, snoring detection, auto workout tracking), the same tile-based UI with up to 12 tiles, and 258 x 428 watch-face assets that suggest a slightly taller screen.",
    "sources": [
+    {
+     "name": "Android Authority (app teardown)",
+     "url": "https://www.androidauthority.com/galaxy-fit-4-app-teardown-features-3729892/"
+    },
     {
      "name": "Android Authority (exclusive videos)",
      "url": "https://www.androidauthority.com/samsung-galaxy-fit-4-first-look-3726577/"
@@ -1809,6 +1821,67 @@
     {
      "name": "SammyGuru (Pro/Ultra 60W)",
      "url": "https://sammyguru.com/galaxy-s27-pro-s27-ultra-charging-speed-leak/"
+    }
+   ]
+  },
+  {
+   "id": "intel-moon-lake-2028",
+   "title": "Intel's Moon Lake replaces N-series chips in 2028 with four low-power cores",
+   "rating": "Rumor",
+   "categories": [
+    "chips"
+   ],
+   "status": "Active",
+   "first_reported": "2026-10-30",
+   "updated": "2026-10-30",
+   "expected": "2028 (leak)",
+   "claim": "Intel's next budget chip, Moon Lake, has four low-power efficiency cores and no performance cores, runs at 6-15W and replaces the N-series chips in cheap laptops and mini PCs in 2028.",
+   "why": "From leaker Jaykihn, who has a decent record on Intel roadmaps, relayed by Tom's Hardware. It is a single source with no clock speeds, process or exact date, and Intel has said nothing about Moon Lake.",
+   "sources": [
+    {
+     "name": "Tom's Hardware",
+     "url": "https://www.tomshardware.com/pc-components/cpus/intel-leaker-reveals-moon-lake-chip-as-a-likely-replacement-for-n-series-socs-four-lower-power-efficiency-cores-no-performance-cores-and-a-6-w-tdp"
+    }
+   ]
+  },
+  {
+   "id": "samsung-17-inch-foldable-tablet",
+   "title": "Samsung is developing a 17-inch tablet that folds down to 8 inches",
+   "rating": "Shaky",
+   "categories": [
+    "samsung",
+    "android"
+   ],
+   "status": "Active",
+   "first_reported": "2026-10-30",
+   "updated": "2026-10-30",
+   "expected": "No timeline",
+   "claim": "Samsung has started developing a foldable tablet with a 17-inch screen that folds into an 8-inch device, after testing several versions.",
+   "why": "A single social-media post from tipster @kro_roe, relayed by SamMobile, which itself calls it far-fetched. There is no timeline, no detail on the design (a wrap-around screen or an inner screen plus cover screen) and no corroboration. Samsung Display has shown large foldable concepts for years without products following.",
+   "sources": [
+    {
+     "name": "SamMobile",
+     "url": "https://www.sammobile.com/news/samsung-allegedly-developing-foldable-tablet-that-shrinks-from-17-to-8-inches/"
+    }
+   ]
+  },
+  {
+   "id": "iphone-air-2-specs",
+   "title": "iPhone Air 2 gets a 6.55-inch 120Hz screen, A20 chip and two 48MP rear cameras",
+   "rating": "Rumor",
+   "categories": [
+    "apple"
+   ],
+   "status": "Active",
+   "first_reported": "2026-10-30",
+   "updated": "2026-10-30",
+   "expected": "Spring 2027 with iPhone 18 (rumored)",
+   "claim": "The iPhone Air 2 launches next spring with a 6.55-inch flat 120Hz OLED, a 2nm A20-series chip, 48MP wide and 48MP ultrawide rear cameras and a bigger battery than the first Air.",
+   "why": "From tipster Digital Chat Station, relayed by GSMArena; it repeats earlier leaks of a second rear camera and a spring launch. DCS is reliable on Chinese phones but less proven on Apple, and the 5.2mm thickness and battery figures come from other, separate leaks. Apple has said nothing.",
+   "sources": [
+    {
+     "name": "GSMArena",
+     "url": "https://www.gsmarena.com/iphone_air_2_specs_surface_again_in_new_leak-news-75274.php"
     }
    ]
   }

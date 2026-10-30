@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29",
+ "updated": "2026-10-30",
  "items": [
   {
    "id": "gtc-berlin-2026",
@@ -384,7 +384,7 @@
    "status": "Confirmed",
    "price": "From $2,899 (14-inch), $3,399 (16-inch)",
    "summary": "Apple's first touchscreen Mac: 14- and 16-inch MacBook Pros with a tandem OLED 'PROLED XDR' display, Dynamic Island and M5 Pro/M5 Max, announced Oct 28 and shipping Nov 6 from $2,899.",
-   "details": "Unveiled by CEO John Ternus at Apple's 'Pro and tell' event in Los Angeles on Oct 28. The tandem OLED panel offers up to 2,000 nits peak brightness, a 10,000,000:1 contrast ratio, 10-120Hz ProMotion and P3 plus Adobe RGB color, with the touch sensor built into the panel; macOS 27 adds touch gestures and a Dynamic Island for Spotlight, Live Activities and Siri AI. It uses the existing M5 Pro and M5 Max (not M6), with up to 128GB of memory and storage now up to 16TB, a six-speaker system Apple says has 50% deeper bass, a new hinge for touch, and the glowing Apple logo returns on the lid. The 14-inch weighs about 3 pounds and the 16-inch about 4; Apple rates battery life at up to 24 hours. Base models start with 24GB of memory and 1TB of storage. Reuters says the 16-inch M5 Max starts at $4,799, and a fully specced model costs $14,549 (The Verge). Pre-orders opened Oct 28 in 30 countries and regions, with availability from Friday, Nov 6. The mini-LED MacBook Pros stay on sale. This settles the rumor in our tracker, which resolved true.",
+   "details": "Unveiled by CEO John Ternus at Apple's 'Pro and tell' event in Los Angeles on Oct 28. The tandem OLED panel offers up to 2,000 nits peak brightness, a 10,000,000:1 contrast ratio, 10-120Hz ProMotion and P3 plus Adobe RGB color, with the touch sensor built into the panel; macOS 27 adds touch gestures and a Dynamic Island for Spotlight, Live Activities and Siri AI. It uses the existing M5 Pro and M5 Max (not M6), with up to 128GB of memory and storage now up to 16TB, a six-speaker system Apple says has 50% deeper bass, a new hinge for touch, and the glowing Apple logo returns on the lid. The 14-inch weighs about 3 pounds and the 16-inch about 4; Apple rates battery life at up to 24 hours. Base models start with 24GB of memory and 1TB of storage. Reuters says the 16-inch M5 Max starts at $4,799, and a fully specced model costs $14,549 (The Verge). Pre-orders opened Oct 28 in 30 countries and regions, with availability from Friday, Nov 6. The mini-LED MacBook Pros stay on sale. This settles the rumor in our tracker, which resolved true. As of Oct 29, AppleInsider reports 14-inch models ship Nov 6; adding nano-texture to the 16-inch moves delivery to Nov 7.",
    "sources": [
     {
      "name": "Apple Newsroom",
@@ -409,6 +409,10 @@
     {
      "name": "9to5Mac",
      "url": "https://9to5mac.com/2026/10/28/apple-announces-redesigned-macbook-pro-its-first-touchscreen-mac/"
+    },
+    {
+     "name": "AppleInsider (ship times)",
+     "url": "https://appleinsider.com/articles/26/10/29/when-to-expect-your-pre-ordered-apple-devices-to-ship"
     }
    ]
   },
@@ -690,11 +694,15 @@
    "date": "2026-10-30",
    "date_label": "Oct 30, 2026",
    "precision": "day",
-   "status": "Confirmed",
+   "status": "Released",
    "price": "$149",
-   "summary": "Apple's refreshed smart speaker ships Oct 30 with new colors and improved audio.",
-   "details": "Announced at Apple's Oct 13 'Welcome Home' event alongside the HomeView hub and a new Apple TV 4K.",
+   "summary": "Apple's second-generation HomePod mini went on sale Oct 30 for $149 in five colors; its headline Siri AI feature arrives in a later software update.",
+   "details": "Announced Oct 13 at Apple's 'Welcome Home' event alongside the HomeView hub and a new Apple TV 4K. It reached Apple Stores and the first pre-order customers on Oct 30 in the US and more than 23 other countries and regions, in white, midnight, pink, green and blue, and needs HomePod software 27.2. Siri AI, which Apple built the launch around, is not available yet: Apple says it comes in a future software update, in English only at first, with no date. The $149 price is $20 above the first-generation model after Apple's June price increase.",
    "sources": [
+    {
+     "name": "MacRumors (launch day)",
+     "url": "https://www.macrumors.com/2026/10/30/homepod-mini-2-new-features/"
+    },
     {
      "name": "Apple Newsroom",
      "url": "https://www.apple.com/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini/"
@@ -720,7 +728,7 @@
    "status": "Confirmed",
    "price": "Free",
    "summary": "Tim Cook says a beta of Apple Intelligence reaches users in China later in October, without the new Siri.",
-   "details": "Cook said on Oct 15 that the first features (live translation, writing tools and photo cleanup) and the Alibaba Qwen models behind them have regulatory approval. He did not give an exact day. Bloomberg reports a wider launch with iOS 27.3 in December. As of Oct 29 no rollout has been reported; Apple has two days left to meet the October timing.",
+   "details": "Cook said on Oct 15 that the first features (live translation, writing tools and photo cleanup) and the Alibaba Qwen models behind them have regulatory approval. He did not give an exact day. Bloomberg reports a wider launch with iOS 27.3 in December. As of Oct 30 no beta has reached users: iOS 27.2 (released Oct 27) did not include it, and no iOS 27.3 beta followed Apple's Oct 29 launches. Apple has one day left to meet the October timing; if it misses, we will move this to the iOS 27.3 beta window.",
    "sources": [
     {
      "name": "TechNode",
@@ -828,7 +836,7 @@
    "status": "Released",
    "price": "Free (open weights); API pricing not published",
    "summary": "Mistral released the open weights for Large 4 ('Le Chonk'), its 1-trillion-parameter model, on Oct 29, two days ahead of its ETA.",
-   "details": "Previewed Oct 6 as a natively multimodal mixture-of-experts model (49B active parameters per token, 52B counting embeddings and output layers), trained on 3,800 NVIDIA Grace Blackwell GPUs in Mistral's European data centers. Mistral announced the weights release on Oct 29. The Next Web reports three more weeks of reinforcement learning since the preview (Terminal-Bench 4.0 up from 28% to 41%), new low and medium reasoning modes, and a quantized version that runs on four NVIDIA B200 or B300 GPUs. It is on Hugging Face, Mistral's API and for some Vibe users. Smaller distilled versions, including one for laptops, are planned with no dates.",
+   "details": "Previewed Oct 6 as a natively multimodal mixture-of-experts model (49B active parameters per token, 52B counting embeddings and output layers), trained on 3,800 NVIDIA Grace Blackwell GPUs in Mistral's European data centers. Mistral announced the weights release on Oct 29. The Next Web reports three more weeks of reinforcement learning since the preview (Terminal-Bench 4.0 up from 28% to 41%), new low and medium reasoning modes, and a quantized version that runs on four NVIDIA B200 or B300 GPUs. It is on Hugging Face, Mistral's API and for some Vibe users. Smaller distilled versions, including one for laptops, are planned with no dates. Rechecked Oct 30: the Hugging Face model page is live with downloadable weights, an NVFP4 quantized checkpoint and a 1M-token context.",
    "sources": [
     {
      "name": "Mistral news (Oct 29)",
@@ -1077,8 +1085,12 @@
    "status": "Estimated",
    "price": "",
    "summary": "Intel's next desktop CPUs are expected to debut at CES 2027 with first retail models in Q1 2027; Intel has not confirmed.",
-   "details": "Based on leaker claims and trade-press reports of mass production in Q4 2026. The 52-core flagship is expected later.",
+   "details": "Intel CEO Lip-Bu Tan said on the Oct 29 earnings call that Nova Lake, Intel's first 18A-P client product, is 'tracking ahead of schedule' and that Intel will share more at CES in January. He did not give a launch or retail date. Earlier leaker claims and trade-press reports point to mass production in Q4 2026 and first retail models in Q1 2027. The 52-core flagship is expected later.",
    "sources": [
+    {
+     "name": "Tom's Hardware (Intel Q3 call)",
+     "url": "https://www.tomshardware.com/pc-components/cpus/intel-confirms-nova-lake-will-use-advanced-18a-p-node-more-details-at-ces-company-says-its-taking-panther-lake-capacity-offline-to-build-more-granite-rapids-data-center-cpus"
+    },
     {
      "name": "OC3D",
      "url": "https://overclock3d.net/news/cpu_mainboard/intel-to-launch-next-gen-nova-lake-s-at-ces-2027-leaker-claims/"
@@ -1775,11 +1787,23 @@
    "date": "2026-10-30",
    "date_label": "Oct 30, 2026 (China)",
    "precision": "day",
-   "status": "Confirmed",
-   "price": "",
-   "summary": "vivo's Y600 budget phone with a 10,000mAh battery launches in China on Oct 30.",
-   "details": "vivo confirmed the date and the 10,000mAh battery; pre-orders open Oct 26. A China Telecom listing (model V2607A) shows a 6.83-inch screen, the Dimensity 7300e, 6GB/128GB, 6GB/256GB and 8GB/256GB versions, a 50MP main and 8MP selfie camera, OriginOS 6 on Android 16, 224 g and blue, gold and black colors. It joins the Y600 Pro, Y600 Turbo and Y600i, and vivo says it set a Guinness record for the longest continuous livestream test of a phone (32 hours 37 minutes). Price comes at launch.",
+   "status": "Released",
+   "price": "From 1,999 yuan (China)",
+   "summary": "vivo's Y600 budget phone with a 10,000mAh battery and 44W charging went on sale in China on Oct 30, from 1,999 yuan.",
+   "details": "Announced Oct 26 with pre-orders, on open sale from Oct 30. It has a 6.83-inch screen, the Dimensity 7300e, a 10,000mAh battery with 44W wired and reverse wired charging, a 50MP main and 8MP selfie camera and OriginOS 6 on Android 16. Prices: 1,999 yuan (6GB/128GB), 2,099 yuan (8GB/128GB), 2,199 yuan (6GB/256GB) and 2,499 yuan (8GB/256GB); China's national subsidy brings the base model to 1,699 yuan. Colors are blue, gold and black. It joins the Y600 Pro, Y600 Turbo and Y600i, and vivo says it set a Guinness record for the longest continuous livestream test of a phone (32 hours 37 minutes).",
    "sources": [
+    {
+     "name": "vivo (China specs and prices)",
+     "url": "https://www.vivo.com.cn/vivo/param/y600"
+    },
+    {
+     "name": "IT之家 (on sale Oct 30, Chinese)",
+     "url": "https://www.ithome.com/1/019/972.htm"
+    },
+    {
+     "name": "GSMArena (official)",
+     "url": "https://www.gsmarena.com/vivo_y600_is_official_with_a_10000mah_battery_and_683inch_display-news-75202.php"
+    },
     {
      "name": "GSMArena",
      "url": "https://www.gsmarena.com/vivo_y600_to_debut_next_week_with_a_10000mah_battery-news-75161.php"
@@ -2231,7 +2255,7 @@
    "status": "Confirmed",
    "price": "From $699 (Wi-Fi), $849 (Wi-Fi + Cellular)",
    "summary": "Apple's first OLED iPad mini, announced Oct 26 with an 8.5-inch screen, A20 Pro and IP67 water resistance, opens for pre-order Oct 28 and ships Nov 6.",
-   "details": "Apple calls it the iPad mini's biggest update: an 8.5-inch OLED display (up to 1,200 nits peak, optional nano-texture on 256GB and 512GB models for $100 more), a 5.4 mm body with 24% thinner bezels, the 2nm A20 Pro, IP67 water and dust resistance (a first for an iPad), an 'Acoustic Display' speaker system, a landscape 12MP Center Stage front camera, Apple's N1 chip (Wi-Fi 7, Bluetooth 6) and C2 modem on cellular models. The 512GB model gets a 6-core CPU and a dual 16-core Neural Engine; 128GB and 256GB models get a 5-core CPU. There is still no ProMotion. Colors are midnight and starlight. The $699 start is $100 above the previous model. Pre-orders open Oct 28 at 10:10 a.m. PT in 36 countries and regions.",
+   "details": "Apple calls it the iPad mini's biggest update: an 8.5-inch OLED display (up to 1,200 nits peak, optional nano-texture on 256GB and 512GB models for $100 more), a 5.4 mm body with 24% thinner bezels, the 2nm A20 Pro, IP67 water and dust resistance (a first for an iPad), an 'Acoustic Display' speaker system, a landscape 12MP Center Stage front camera, Apple's N1 chip (Wi-Fi 7, Bluetooth 6) and C2 modem on cellular models. The 512GB model gets a 6-core CPU and a dual 16-core Neural Engine; 128GB and 256GB models get a 5-core CPU. There is still no ProMotion. Colors are midnight and starlight. The $699 start is $100 above the previous model. Pre-orders open Oct 28 at 10:10 a.m. PT in 36 countries and regions. As of Oct 29, AppleInsider reports most models still ship Nov 6; only cellular models with nano-texture slip, to 2-3 weeks.",
    "sources": [
     {
      "name": "Apple Newsroom",
@@ -2244,6 +2268,10 @@
     {
      "name": "MacRumors (512GB chip differences)",
      "url": "https://www.macrumors.com/2026/10/26/512gb-oled-ipad-mini-extra-cpu-core/"
+    },
+    {
+     "name": "AppleInsider (ship times)",
+     "url": "https://appleinsider.com/articles/26/10/29/when-to-expect-your-pre-ordered-apple-devices-to-ship"
     }
    ]
   },
@@ -2323,7 +2351,7 @@
    "status": "Confirmed",
    "price": "From $1,999",
    "summary": "Apple announced the entry 14-inch MacBook Pro with the new M6 chip on Oct 27; pre-orders open Oct 28 and it ships Nov 6 from $1,999.",
-   "details": "Announced by press release a day before Apple's Oct 28 'Pro and tell' launch. The M6 has a 12-core CPU (2 super cores, 4 performance, 6 efficiency) and a 12-core GPU, up from 10 and 10 on the M5, plus a dual 16-core Neural Engine; Apple claims up to 30% faster graphics and 25% faster AI work than M5. Memory bandwidth rises to 170GB/s, but MacRumors reports that applies only to 24GB and 32GB configurations, not the base 16GB. It adds Apple's N1 chip (Wi-Fi 7, Bluetooth 6), drives two external 4K displays at up to 165Hz, and Apple rates battery life at up to 24 hours. The design is unchanged (mini-LED Liquid Retina XDR, space black and silver), and it still starts with 1TB of storage. Pre-orders open Oct 28 in 35 countries and regions.",
+   "details": "Announced by press release a day before Apple's Oct 28 'Pro and tell' launch. The M6 has a 12-core CPU (2 super cores, 4 performance, 6 efficiency) and a 12-core GPU, up from 10 and 10 on the M5, plus a dual 16-core Neural Engine; Apple claims up to 30% faster graphics and 25% faster AI work than M5. Memory bandwidth rises to 170GB/s, but MacRumors reports that applies only to 24GB and 32GB configurations, not the base 16GB. It adds Apple's N1 chip (Wi-Fi 7, Bluetooth 6), drives two external 4K displays at up to 165Hz, and Apple rates battery life at up to 24 hours. The design is unchanged (mini-LED Liquid Retina XDR, space black and silver), and it still starts with 1TB of storage. Pre-orders open Oct 28 in 35 countries and regions. As of Oct 29, most configurations still ship Nov 6, but AppleInsider reports nano-texture orders slipping (7-10 business days in silver, 3-4 weeks in space black).",
    "sources": [
     {
      "name": "Apple Newsroom",
@@ -2336,6 +2364,10 @@
     {
      "name": "MacRumors (memory bandwidth split)",
      "url": "https://www.macrumors.com/2026/10/27/m6-14-inch-macbook-pro-memory-bandwidth-split/"
+    },
+    {
+     "name": "AppleInsider (ship times)",
+     "url": "https://appleinsider.com/articles/26/10/29/when-to-expect-your-pre-ordered-apple-devices-to-ship"
     }
    ]
   },
@@ -2354,7 +2386,7 @@
    "status": "Confirmed",
    "price": "From $1,499 (10-core), $1,699 (12-core)",
    "summary": "Apple's first iMac update in two years brings the M6 chip, Wi-Fi 7 and faster storage; pre-orders open Oct 28 and it ships Nov 6 from $1,499.",
-   "details": "Announced Oct 27 by press release. The 24-inch 4.5K design and seven colors are unchanged. The M6 brings up to a 12-core CPU and 12-core GPU (two more cores each than M4) with Neural Accelerators in the GPU, a dual 16-core Neural Engine and up to 170GB/s memory bandwidth; Apple claims up to 5x faster on-device AI than M4. It adds Wi-Fi 7 and Bluetooth 6, up to 2x faster SSDs, and 2.5Gb Ethernet as an option on the 12-core model, which also gets four Thunderbolt 4 ports. Both base models have 16GB of memory and 256GB of storage. Pre-orders open Oct 28 at 10:10 a.m. PT in 35 countries and regions.",
+   "details": "Announced Oct 27 by press release. The 24-inch 4.5K design and seven colors are unchanged. The M6 brings up to a 12-core CPU and 12-core GPU (two more cores each than M4) with Neural Accelerators in the GPU, a dual 16-core Neural Engine and up to 170GB/s memory bandwidth; Apple claims up to 5x faster on-device AI than M4. It adds Wi-Fi 7 and Bluetooth 6, up to 2x faster SSDs, and 2.5Gb Ethernet as an option on the 12-core model, which also gets four Thunderbolt 4 ports. Both base models have 16GB of memory and 256GB of storage. Pre-orders open Oct 28 at 10:10 a.m. PT in 35 countries and regions. As of Oct 29, AppleInsider reports every configuration still ships Nov 6.",
    "sources": [
     {
      "name": "Apple Newsroom",
@@ -2363,6 +2395,10 @@
     {
      "name": "MacRumors",
      "url": "https://www.macrumors.com/2026/10/27/m6-imac-pre-orders-release-date/"
+    },
+    {
+     "name": "AppleInsider (ship times)",
+     "url": "https://appleinsider.com/articles/26/10/29/when-to-expect-your-pre-ordered-apple-devices-to-ship"
     }
    ]
   },
@@ -2597,9 +2633,13 @@
    "precision": "window",
    "status": "Confirmed",
    "price": "",
-   "summary": "Motorola's US site says its Snapdragon flagship, the Signature 27, is coming in November; the exact date and price are not out.",
-   "details": "Unveiled at Qualcomm's Snapdragon Summit in September with the Snapdragon 8 Elite Gen 6 (Motorola's page calls it 'Extreme'). Motorola's US landing page says 'coming this November', and an India page now says the same. European retailer listings point to about EUR 1,595 (see the rumor tracker); Motorola has not given US pricing.",
+   "summary": "Motorola unveils full details of its Snapdragon flagship, the Signature 27, on Nov 5; its US site says it arrives in November.",
+   "details": "Unveiled at Qualcomm's Snapdragon Summit in September with the Snapdragon 8 Elite Gen 6 (Motorola's page calls it 'Extreme'). Motorola's US landing page says 'coming this November', and an India page now says the same. European retailer listings point to about EUR 1,595 (see the rumor tracker); Motorola has not given US pricing. Update Oct 30: Motorola said on X that it will show the phone on Nov 5; it has not said whether that is also the US on-sale date.",
    "sources": [
+    {
+     "name": "9to5Google (Nov 5 event)",
+     "url": "https://9to5google.com/2026/10/30/motorola-signature-27-launch-date-confirmed/"
+    },
     {
      "name": "Motorola US",
      "url": "https://www.motorola.com/us/en/motorola-signature-2027"
@@ -2607,6 +2647,85 @@
     {
      "name": "9to5Google",
      "url": "https://9to5google.com/2026/10/29/motorola-signature-27-november-launch-date/"
+    }
+   ]
+  },
+  {
+   "id": "witchbrook",
+   "name": "Witchbrook",
+   "brand": "Chucklefish",
+   "categories": [
+    "gaming"
+   ],
+   "type": "Game",
+   "date": "2027-01-28",
+   "date_label": "Jan 28, 2027",
+   "precision": "day",
+   "status": "Confirmed",
+   "price": "",
+   "summary": "Chucklefish's witch-school life sim finally has a date: Jan 28, 2027, on PC, Switch, Switch 2, Xbox and PS5.",
+   "details": "Dated at Nintendo's Indie World showcase on Oct 28 after slipping from 2025 and then 2026. You play a trainee witch at Witchbrook College in the seaside town of Mossport, alone or with up to four players online. Price has not been announced.",
+   "sources": [
+    {
+     "name": "Witchbrook dev blog",
+     "url": "https://www.witchbrook.com/release-date/"
+    },
+    {
+     "name": "Polygon",
+     "url": "https://www.polygon.com/witchbrook-release-date-announcement/"
+    }
+   ]
+  },
+  {
+   "id": "ps5-prism-collection",
+   "name": "PS5 Prism Collection (transparent DualSense and console covers)",
+   "brand": "Sony",
+   "categories": [
+    "gaming"
+   ],
+   "type": "Gadget",
+   "date": "2027-02-04",
+   "date_label": "Feb 4, 2027 (pre-orders Nov 10)",
+   "precision": "day",
+   "status": "Confirmed",
+   "price": "$84.99 controller / $74.99 cover",
+   "summary": "Sony's see-through DualSense controllers and PS5 covers in orange, green and gray launch Feb 4, 2027, with pre-orders from Nov 10.",
+   "details": "Announced Oct 28 on the PlayStation Blog. The Prism Collection comes in Flare Orange, Emerald Green and Graphite Gray, with clear shells that show the controller's internals and the console's fan. Controllers cost $84.99 / EUR 84.99 / GBP 74.99 and covers $74.99 / EUR 74.99 / GBP 64.99; covers are sold only directly by PlayStation where it ships. Sony has not said which PS5 models the covers fit.",
+   "sources": [
+    {
+     "name": "GSMArena",
+     "url": "https://www.gsmarena.com/sony_goes_transparent_with_ps5_prism_collection-news-75270.php"
+    },
+    {
+     "name": "Warp Pipes (digest)",
+     "url": "https://warppipes.com/en/articles/video-game-news-digest-2026-10-29"
+    }
+   ]
+  },
+  {
+   "id": "waymo-toyota-bz4x-robotaxi",
+   "name": "Waymo robotaxi based on the Toyota bZ4X (Japan test fleet)",
+   "brand": "Waymo / Toyota",
+   "categories": [
+    "evs",
+    "ai"
+   ],
+   "type": "Car",
+   "date": "2027-12-31",
+   "date_label": "2027 (Japan testing; UK and other markets later)",
+   "precision": "window",
+   "status": "Confirmed",
+   "price": "",
+   "summary": "Toyota will build a bZ4X robotaxi with the Waymo Driver installed at the factory; a test fleet starts in Japan in 2027.",
+   "details": "Announced Oct 30, the first vehicle from the partnership the two companies signed in April 2025. Toyota builds the cars at its Takaoka plant in Aichi, with Waymo's hardware integrated on the same line. Rider changes include more rear legroom, automatic doors, a power liftgate and ambient lighting. 2027 is for testing and validation in Japan, where Waymo targets driverless commercial rides in Tokyo; the UK and other markets come later with no dates. No sensor specs, volumes or costs were given.",
+   "sources": [
+    {
+     "name": "Electrek",
+     "url": "https://electrek.co/2026/10/30/waymo-toyota-bz4x-robotaxi-japan-2027/"
+    },
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/transportation/1023112/waymos-next-robotaxi-is-a-purpose-built-toyota-bz4x"
     }
    ]
   }

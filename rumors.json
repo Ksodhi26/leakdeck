@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30",
+ "updated": "2026-10-31",
  "scale": {
   "Confirmed": "Announced by the company or shown in an official source.",
   "Likely": "Multiple credible outlets or hard evidence (certifications, databases, supply chain), but no official word.",
@@ -636,11 +636,15 @@
    ],
    "status": "Active",
    "first_reported": "2026-10-15",
-   "updated": "2026-10-19",
+   "updated": "2026-10-31",
    "expected": "Decision pending (conflicting reports)",
    "claim": "Samsung found the Snapdragon 8 Elite Extreme Gen 6 overheating in S27 Ultra testing and may use its own Exynos 2700 chip if Qualcomm doesn't fix it by mid-October.",
-   "why": "The report came from Korean outlet SEDaily and was relayed by SamMobile and others. Qualcomm told 9to5Google on Oct 17 the overheating reports are 'inaccurate', and its CMO Don McGuire says there are 'no systemic thermal issues'. A separate Oct 16 MoneyToday report says Samsung has dropped the Exynos plan for the Ultra because of Exynos supply limits and memory costs, and the Ultra will use Snapdragon only. Samsung has not commented. Single-sourced, denied, and now contradicted by another report. An Oct 19 Lanzuk leak (via SamMobile) also says the Ultra may use Qualcomm's chip exclusively.",
+   "why": "The report came from Korean outlet SEDaily and was relayed by SamMobile and others. Qualcomm told 9to5Google on Oct 17 the overheating reports are 'inaccurate', and its CMO Don McGuire says there are 'no systemic thermal issues'. A separate Oct 16 MoneyToday report says Samsung has dropped the Exynos plan for the Ultra because of Exynos supply limits and memory costs, and the Ultra will use Snapdragon only. Samsung has not commented. Single-sourced, denied, and now contradicted by another report. An Oct 19 Lanzuk leak (via SamMobile) also says the Ultra may use Qualcomm's chip exclusively. Update Oct 30: Ice Universe says there is still no sign of an Exynos 2700 S27 Ultra for Europe, while Korea remains undecided, so the Snapdragon-only reading still has more support.",
    "sources": [
+    {
+     "name": "GSMArena (Oct 30)",
+     "url": "https://www.gsmarena.com/the_galaxy_s27_ultra_chipset_saga_continues_heres_the_latest_twist-news-75292.php"
+    },
     {
      "name": "SamMobile",
      "url": "https://www.sammobile.com/news/galaxy-s27-ultra-snapdragon-heating-issues-use-exynos-2700/"
@@ -703,17 +707,25 @@
   {
    "id": "apple-intelligence-china-ios-27-3",
    "title": "Apple Intelligence fully launches in China with iOS 27.3 in December",
-   "rating": "Likely",
+   "rating": "Confirmed",
    "categories": [
     "apple",
     "ai"
    ],
    "status": "Active",
-   "updated": "2026-10-17",
-   "expected": "December 2026 (reported)",
+   "updated": "2026-10-31",
+   "expected": "December 2026 (Apple; beta from Nov 4)",
    "claim": "After an October beta, Apple will roll out Apple Intelligence in China with iOS 27.3 in December, without the new Siri, Image Playground or the newer Genmoji.",
-   "why": "Reported by Bloomberg. The groundwork is confirmed: Tim Cook said on Oct 15 that a beta arrives this month after regulators approved the first features and Alibaba's Qwen models, and the SCMP reports China's MIIT granted network permits for the models. Apple has not given a date or feature list for the full launch.",
+   "why": "Reported by Bloomberg. The groundwork is confirmed: Tim Cook said on Oct 15 that a beta arrives this month after regulators approved the first features and Alibaba's Qwen models, and the SCMP reports China's MIIT granted network permits for the models. Apple has not given a date or feature list for the full launch. Update Oct 31: Apple confirmed it. Its China Newsroom says the features enter developer beta on Nov 4 and launch with iOS 27.3 in December; Siri AI and Image Playground are excluded, as Bloomberg reported, though Genmoji is in the first wave. The October beta Cook promised did not happen. Stays active until iOS 27.3 actually ships.",
    "sources": [
+    {
+     "name": "MacRumors (Apple confirms)",
+     "url": "https://www.macrumors.com/2026/10/30/apple-says-ios-27-3-beta-coming-next-week/"
+    },
+    {
+     "name": "Apple Newsroom China (Chinese)",
+     "url": "https://www.apple.com.cn/newsroom/2026/10/apple-intelligence-features-are-coming-to-users-in-china/"
+    },
     {
      "name": "MacRumors (citing Bloomberg)",
      "url": "https://www.macrumors.com/2026/10/14/apple-intelligence-china-ios-27-3/"
@@ -792,11 +804,15 @@
     "gaming"
    ],
    "status": "Active",
-   "updated": "2026-10-18",
+   "updated": "2026-10-31",
    "expected": "Q1 2027 (reported)",
    "claim": "NVIDIA will release an RTX 5080 with 24GB of GDDR7 in early 2027, gradually replacing the 16GB model.",
-   "why": "Single-source report from Taiwan's BenchLife, relayed by VideoCardz and TechPowerUp. Board partners reportedly have only verbal guidance and no design documents yet, so timing is soft. Technically easy: 3GB memory chips on the same 256-bit bus. NVIDIA has not commented. Comes amid tight RTX 5090 supply, which NVIDIA says is constrained but not discontinued.",
+   "why": "Single-source report from Taiwan's BenchLife, relayed by VideoCardz and TechPowerUp. Board partners reportedly have only verbal guidance and no design documents yet, so timing is soft. Technically easy: 3GB memory chips on the same 256-bit bus. NVIDIA has not commented. Comes amid tight RTX 5090 supply, which NVIDIA says is constrained but not discontinued. Update Oct 30: Tom's Hardware found the RTX 5080 removed from Nvidia's US store after the RTX 5090, with street prices about 2.2x the $999 MSRP. That fits a product transition but is not proof of a 24GB model; Nvidia has not commented.",
    "sources": [
+    {
+     "name": "Tom's Hardware (Oct 30)",
+     "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-store-quietly-pulls-the-rtx-5080-following-rtx-5090-removal-street-prices-climb-to-2-2x-over-msrp"
+    },
     {
      "name": "VideoCardz (citing BenchLife)",
      "url": "https://videocardz.com/newz/nvidia-rtx-5080-24gb-reportedly-launching-in-q1-2027-board-partners-still-waiting-for-details"
@@ -1066,11 +1082,15 @@
    ],
    "status": "Active",
    "first_reported": "2026-10-19",
-   "updated": "2026-10-20",
+   "updated": "2026-10-31",
    "expected": "Nov 2026 (leak)",
    "claim": "Huawei will launch the Mate X8 in China in November with Kirin 9050/9050 Pro chips, an 8.15-inch inner and 6.5-inch cover screen, a 50MP 1/1.28-inch variable-aperture main camera, a 50MP periscope and a battery above 6,000mAh, plus a privacy-display version.",
-   "why": "From Weibo tipster Bai Ze Guan Shan, relayed by Gizmochina and GSMArena. The timing fits Huawei's pattern (the Mate X7 launched in November 2025), but the tipster says the launch was planned alongside a new sub-brand whose timing is uncertain. Huawei has not announced anything.",
+   "why": "From Weibo tipster Bai Ze Guan Shan, relayed by Gizmochina and GSMArena. The timing fits Huawei's pattern (the Mate X7 launched in November 2025), but the tipster says the launch was planned alongside a new sub-brand whose timing is uncertain. Huawei has not announced anything. Update Oct 30: tipster Smart Pikachu (via Gizmochina) also lists the Mate X8 among Huawei's November products, with a Kirin 9050 Pro and a 50MP RYYB periscope. A second tipster agreeing lifts the timing a little, but Huawei has set no date; the Mate X7 launched Nov 26 last year.",
    "sources": [
+    {
+     "name": "Gizmochina (Oct 30)",
+     "url": "https://www.gizmochina.com/2026/10/30/huawei-mate-x8-kirin-9050-pro-camera-matepad-mini-2nd-gen-leak/"
+    },
     {
      "name": "GSMArena",
      "url": "https://www.gsmarena.com/huawei_mate_x8_specs_leak-news-75120.php"
@@ -1529,11 +1549,15 @@
    ],
    "status": "Active",
    "first_reported": "2026-08-01",
-   "updated": "2026-10-30",
+   "updated": "2026-10-31",
    "expected": "Late 2026 or early 2027 (unconfirmed)",
    "claim": "Samsung will launch a Galaxy Fit 4 (SM-R391) fitness band with a near-identical design to the Fit 3, in black, white and light blue, at a similar low price.",
-   "why": "Android Authority obtained 360-degree videos of the band in three colors and earlier found Samsung documents naming SM-R391 as 'FIT4'; a Samsung app teardown also showed renders. The hardware is well evidenced, but specs beyond Bluetooth LE and a Goodix optical sensor, the price (the Fit 3 was about $60) and the launch date are unknown; reports range from late 2026 to early 2027. Update Oct 30: a SammyGuru teardown of the Galaxy Fit 4 Manager app, reported by Android Authority, lists nearly the same health features as the Fit 3 (sleep coaching, SpO2, snoring detection, auto workout tracking), the same tile-based UI with up to 12 tiles, and 258 x 428 watch-face assets that suggest a slightly taller screen.",
+   "why": "Android Authority obtained 360-degree videos of the band in three colors and earlier found Samsung documents naming SM-R391 as 'FIT4'; a Samsung app teardown also showed renders. The hardware is well evidenced, but specs beyond Bluetooth LE and a Goodix optical sensor, the price (the Fit 3 was about $60) and the launch date are unknown; reports range from late 2026 to early 2027. Update Oct 30: a SammyGuru teardown of the Galaxy Fit 4 Manager app, reported by Android Authority, lists nearly the same health features as the Fit 3 (sleep coaching, SpO2, snoring detection, auto workout tracking), the same tile-based UI with up to 12 tiles, and 258 x 428 watch-face assets that suggest a slightly taller screen. Update Oct 31: GSMArena, citing the same SammyGuru teardown, reads the watch-face colors as black, silver and light green cases and found no sign of GPS. Still no launch date or price from Samsung.",
    "sources": [
+    {
+     "name": "GSMArena (Oct 31)",
+     "url": "https://www.gsmarena.com/samsung_galaxy_fit4_leaks_key_features_revealed_-news-75289.php"
+    },
     {
      "name": "Android Authority (app teardown)",
      "url": "https://www.androidauthority.com/galaxy-fit-4-app-teardown-features-3729892/"
@@ -1603,11 +1627,15 @@
    ],
    "status": "Active",
    "first_reported": "2026-10-26",
-   "updated": "2026-10-27",
+   "updated": "2026-10-31",
    "expected": "Around Nov 5, 2026 (Dubai, reported)",
    "claim": "BYD will unveil its 5.5-meter Yangwang Altior executive sedan in Dubai around Nov 5, as the first car with BYD's solid-state batteries, priced around 2 million yuan.",
-   "why": "The name is official: on Oct 27 BYD revealed the sedan as the Yangwang Altior (DingYao in China) with a teaser, and Yangwang's Hu Xiaoqing had already said the global launch will be in the UAE. The Nov 5 date comes from CarNewsChina citing people familiar with the project; BYD has not announced a date. The solid-state battery and the roughly 2 million yuan price are reports only, and BYD's Stella Li has said its first solid-state car debuts in 2027, so that part is the weakest. Rear-hinged coach doors are visible in teasers and prototype photos.",
+   "why": "The name is official: on Oct 27 BYD revealed the sedan as the Yangwang Altior (DingYao in China) with a teaser, and Yangwang's Hu Xiaoqing had already said the global launch will be in the UAE. The Nov 5 date comes from CarNewsChina citing people familiar with the project; BYD has not announced a date. The solid-state battery and the roughly 2 million yuan price are reports only, and BYD's Stella Li has said its first solid-state car debuts in 2027, so that part is the weakest. Rear-hinged coach doors are visible in teasers and prototype photos. Update Oct 30: Hu Xiaoqing confirmed the Altior has rear-hinged (suicide) doors, a first for BYD, and previewed a dot-matrix grille; a teaser shows it at a BYD Flash Charging station. BYD still has not confirmed the Nov 5 date or a solid-state pack.",
    "sources": [
+    {
+     "name": "Electrek (Oct 30)",
+     "url": "https://electrek.co/2026/10/30/byd-reveals-flashy-new-feature-upcoming-luxury-ev/"
+    },
     {
      "name": "Electrek (name revealed)",
      "url": "https://electrek.co/2026/10/27/byd-names-ultra-luxury-ev-could-be-game-changer/"
@@ -1882,6 +1910,78 @@
     {
      "name": "GSMArena",
      "url": "https://www.gsmarena.com/iphone_air_2_specs_surface_again_in_new_leak-news-75274.php"
+    }
+   ]
+  },
+  {
+   "id": "samsung-glasses-mid-december",
+   "title": "Samsung's Android XR glasses go on sale in mid-December, in Korea and the US only",
+   "rating": "Rumor",
+   "categories": [
+    "samsung",
+    "android",
+    "ai"
+   ],
+   "status": "Active",
+   "first_reported": "2026-10-31",
+   "updated": "2026-10-31",
+   "expected": "Mid-December 2026 (Korea and US, reported)",
+   "claim": "Samsung's display-free Intelligent Eyewear (Android XR, Gemini, Snapdragon AR1 Gen 1) goes on sale in mid-December in South Korea and the US first, with Europe, China and Japan later; pricing is not set.",
+   "why": "From a Korean media report relayed by GSMArena. It fits an earlier Korean report quoting a Samsung official on a November launch, and Samsung's playbook for the Galaxy XR headset (Korea and US first). Samsung has shown the glasses and their Gentle Monster and Warby Parker frames but has not given a date or price.",
+   "sources": [
+    {
+     "name": "GSMArena",
+     "url": "https://www.gsmarena.com/heres_when_samsung_plans_to_release_its_android_xr_glasses_and_where-news-75290.php"
+    }
+   ]
+  },
+  {
+   "id": "galaxy-z-fold9-under-display-camera",
+   "title": "Galaxy Z Fold9 brings back an under-display selfie camera",
+   "rating": "Shaky",
+   "categories": [
+    "samsung",
+    "android"
+   ],
+   "status": "Active",
+   "first_reported": "2026-10-31",
+   "updated": "2026-10-31",
+   "expected": "Mid-2027 (if it ships)",
+   "claim": "Samsung's next book-style foldable returns to an under-display camera on the inner screen, with major internal changes but little change in thickness, positioned against the iPhone Duo.",
+   "why": "One tipster on X, relayed by GSMArena. The same source earlier claimed 3.9mm unfolded and 7.9mm folded, which clashes with 'minimal thickness changes' given the current wide Fold8 is 4.5mm and 9.7mm, and it is unclear which Fold9 model is meant. Samsung used under-display cameras from the Fold3 to Fold6, so it is technically plausible, but the sourcing is thin and internally inconsistent.",
+   "sources": [
+    {
+     "name": "GSMArena",
+     "url": "https://www.gsmarena.com/samsung_galaxy_z_fold9_to_bring_back_a_longlost_feature_the_iphone_duo_has-news-75295.php"
+    }
+   ]
+  },
+  {
+   "id": "oppo-find-x10-ultra-chipset",
+   "title": "Oppo Find X10 Ultra switches to MediaTek's Dimensity 9600 Pro",
+   "rating": "Shaky",
+   "categories": [
+    "android",
+    "chips"
+   ],
+   "status": "Active",
+   "first_reported": "2026-10-31",
+   "updated": "2026-10-31",
+   "expected": "First half of 2027 (China, expected)",
+   "claim": "The Find X10 Ultra (model PYU110, codename 'Xinyun') uses MediaTek's Dimensity 9600 Pro instead of a Snapdragon chip.",
+   "why": "Tipster Abhishek Yadav on X and Weibo's Smart Pikachu both pointed to the Dimensity 9600 Pro, which Oppo already uses in the Find X10 Pro Max. But Smart Pikachu has since said a Snapdragon 8 Elite Extreme Gen 6 version is now more likely, per Android Central's summary via Gadget Hacks. Conflicting signals from the same small pool of leakers; Oppo has not confirmed the phone exists.",
+   "sources": [
+    {
+     "name": "My Mobile India",
+     "url": "https://www.mymobileindia.com/alleged-oppo-find-x10-ultra-spotted-with-dimensity-9600-pro-upcoming-oneplus-and-realme-phones-tipped/"
+    },
+    {
+     "name": "MondoAndroid (Italian)",
+     "url": "https://www.mondoandroid.com/2026/10/31/oppo-find-x10-ultra-mediatek-dimensity-9600-pro/"
+    },
+    {
+     "name": "Gadget Hacks",
+     "url": "https://smartphones.gadgethacks.com/news/oppo-find-x10-ultra-mediatek-dimensity-9600-pro-camera-rumor/"
     }
    ]
   }

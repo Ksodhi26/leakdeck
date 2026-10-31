@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T13:51:29Z",
+ "updated": "2026-10-31T14:06:35Z",
  "sources": [
   "9to5Google",
   "9to5Mac",
@@ -23,6 +23,78 @@
  "count": 600,
  "items": [
   {
+   "id": "597fc8fcb0c5",
+   "title": "I installed one free Obsidian plugin and my entire vault started organizing itself",
+   "url": "https://www.xda-developers.com/installed-free-obsidian-plugin-my-entire-vault-started-organizing-itself/",
+   "source": "XDA Developers",
+   "published": "2026-10-31T14:01:21Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "f85db72caeba",
+   "title": "Microsoft really wants you to sell that Xbox you're not using",
+   "url": "https://www.engadget.com/2299867/microsoft-really-wants-you-to-sell-that-xbox-youre-not-using/",
+   "source": "Engadget",
+   "published": "2026-10-31T14:00:00Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "a8f25f172b28",
+   "title": "ASRock B860 Challenger Wifi Motherboard Review: Entry-level ATX at a great price, with drawbacks",
+   "url": "https://www.tomshardware.com/pc-components/motherboards/asrock-b860-challenger-wifi-motherboard-review",
+   "source": "Tom's Hardware",
+   "published": "2026-10-31T14:00:00Z",
+   "categories": [
+    "chips"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "84cc2d353b2e",
+   "title": "Grab a new 3D printer this Halloween weekend, with prices as low as $199 — big discounts from Elegoo, Creality, Prusa and more, with filament and resin printers and consumables on sale",
+   "url": "https://www.tomshardware.com/3d-printing/grab-a-new-3d-printer-this-halloween-weekend-with-prices-as-low-as-usd199-big-discounts-from-elegoo-creality-prusa-and-more-with-filament-and-resin-printers-and-consumables-on-sale",
+   "source": "Tom's Hardware",
+   "published": "2026-10-31T14:00:00Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "662dc48067a6",
+   "title": "Rivian's Charging Network Grew 39% In A Year",
+   "url": "https://insideevs.com/news/813896/rivian-adventure-networks-dc-fast-chargers-growth-q3-2026/",
+   "source": "InsideEVs",
+   "published": "2026-10-31T14:00:00Z",
+   "categories": [
+    "evs"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "423dd733abf9",
+   "title": "Firm that lets you rent out your idle Mac for AI inference workloads warns of plummeting token costs",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/firm-that-lets-you-rent-out-your-idle-mac-for-ai-inference-workloads-warns-of-plummeting-token-costs-darkbloom-network-sees-earnings-drop-to-usd1-23-a-day-as-anthropic-tokens-fall-77-percent",
+   "source": "Tom's Hardware",
+   "published": "2026-10-31T13:49:09Z",
+   "categories": [
+    "ai",
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "eead8c36cc6e",
+   "title": "CDs are back, but they come with a modern problem",
+   "url": "https://www.engadget.com/2298767/cds-are-back-modern-listening-complicated/",
+   "source": "Engadget",
+   "published": "2026-10-31T13:45:00Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
    "id": "fd04bec50889",
    "title": "OpenAI CEO Sam Altman meets with 50 Samsung executives to discuss AI",
    "url": "https://www.sammobile.com/news/openai-ceo-sam-altman-meets-with-50-samsung-executives-to-discuss-ai/",
@@ -33,7 +105,8 @@
     "android",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Sam Altman met about 50 Samsung group executives in Korea to talk AI infrastructure and memory supply; no new chip deal was announced."
   },
   {
    "id": "e120d6e724e5",
@@ -138,7 +211,8 @@
     "ai",
     "chips"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Intel is moving some Oregon capacity from 18A client chips to Intel 3 Xeons and expects supply to stay very tight through the first half of 2027."
   },
   {
    "id": "d41e1aa1b6ec",
@@ -195,7 +269,8 @@
     "apple",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "A single tipster says the Galaxy Z Fold9 revives the under-display inner camera; his thickness claims don't add up, so treat it cautiously."
   },
   {
    "id": "7831cde2cdc5",
@@ -236,7 +311,8 @@
     "ai",
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Developers report Claude refusing to recreate existing games and some ordinary reverse-engineering jobs; Anthropic hasn't confirmed the rule behind it."
   },
   {
    "id": "a0e0d4a04717",
@@ -445,7 +521,8 @@
     "android",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Samsung is retiring its Samsung News app, with notices in India and Korea giving Dec 21, 2026 as the end date."
   },
   {
    "id": "aae19058b915",
@@ -457,7 +534,8 @@
     "ai",
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Google, OpenAI, Anthropic and Microsoft will honor one robots.txt entry for opting out of AI training; support rolls out between now and early 2027."
   },
   {
    "id": "8d752eeea7e8",
@@ -533,7 +611,8 @@
    "source": "GSMArena",
    "published": "2026-10-31T09:31:02Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "WhatsApp adds Group Status updates visible only to members, sharing older messages with new members and permanent pins."
   },
   {
    "id": "7fde23c6ab65",
@@ -610,7 +689,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Counterpoint says early iPhone 18 Pro sales are up 3.1% worldwide, as a 29% jump in China outweighs drops in the US and Japan."
   },
   {
    "id": "b9505f0d2f10",
@@ -622,7 +702,8 @@
     "android",
     "samsung"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "An app teardown suggests the Galaxy Fit4 keeps the Fit3's health features, adds up to 12 tiles and comes in three colors, with no sign of GPS."
   },
   {
    "id": "8622467490be",
@@ -644,7 +725,8 @@
    "categories": [
     "chips"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Anduril and Qualcomm plan Snapdragon X 'BlueChip' laptops built mostly from US and allied parts, taking orders in 2027 at roughly a 20% premium."
   },
   {
    "id": "6336aff37e57",
@@ -669,7 +751,8 @@
     "apple",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Several Samsung regional accounts are running Galaxy Z Fold8 ads that poke fun at the iPhone Duo's inner-screen cracking reports."
   },
   {
    "id": "2c59c045a52d",
@@ -704,7 +787,8 @@
     "android",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "A Korean report says Samsung's camera-equipped Android XR glasses go on sale in mid-December, in Korea and the US first; price is undecided."
   },
   {
    "id": "7ef48229632a",
@@ -726,7 +810,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Google says it found the cause of battery drain hitting some Pixel Watch 2 through 5 owners and is working on a fix, with no date yet."
   },
   {
    "id": "be8e3b6ef4fa",
@@ -878,7 +963,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Apple's China newsroom says Apple Intelligence testing starts Nov 4 in the next developer beta, with the public release in December."
   },
   {
    "id": "b1311b7a9510",
@@ -898,7 +984,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Apple Intelligence arrives in China with iOS 27.3 in December, using Alibaba's Qwen in Siri and Writing Tools, but without Siri AI."
   },
   {
    "id": "4c04accd0ccf",
@@ -940,7 +1027,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "An internal memo tells Apple Stores to repair or replace iPhone Duos with cracked inner screens; Apple says few units are affected and there's no recall."
   },
   {
    "id": "6bd66c2203f9",
@@ -962,7 +1050,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "A proposed IETF standard lets sites block AI-training crawlers from several big AI companies with a single robots.txt rule instead of one per bot."
   },
   {
    "id": "891cfce465ad",
@@ -985,7 +1074,8 @@
    "categories": [
     "chips"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Intel stock fell about 28% after a weak Q4 forecast blamed on a memory-driven PC slowdown, erasing $12B from the US government's stake."
   },
   {
    "id": "60ba719a0574",
@@ -996,7 +1086,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "Per the FT, Blackstone now expects Anthropic to get a high-junk (BB-range) credit rating after its IPO, not investment grade."
   },
   {
    "id": "011e68a5673d",
@@ -1007,7 +1098,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "iOS 27.3 brings China the older Apple Intelligence set, such as Writing Tools, Genmoji and Live Translation, on iPhone 15 Pro and newer."
   },
   {
    "id": "43e68181279e",
@@ -1018,7 +1110,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Apple pre-announced the first iOS 27.3 beta for Nov 4 in China (likely Nov 3 in the US) and a public release in December."
   },
   {
    "id": "f51309efb1db",
@@ -1064,7 +1157,8 @@
     "android",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Ice Universe sees no sign of an Exynos S27 Ultra for Europe, while the Korean model's chip is still undecided."
   },
   {
    "id": "bf4c416e7863",
@@ -1140,7 +1234,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "A malicious build of Anthropic's Claude extension on Cursor's marketplace tried to plant SSH backdoors for about 11 hours, reaching up to 5,000 users."
   },
   {
    "id": "de6794112403",
@@ -1161,7 +1256,8 @@
     "ai",
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "From Nov 13, Google AI Plus subscribers lose access to Gemini Pro models in the app and AI Mode and must move up to AI Pro."
   },
   {
    "id": "72e1d6842f3d",
@@ -1192,7 +1288,8 @@
    "source": "The Verge",
    "published": "2026-10-30T20:48:43Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "Sam Altman argued scarce DRAM is better used in busy data centers than sitting mostly idle in personal computers."
   },
   {
    "id": "63ef68ecb801",
@@ -1280,7 +1377,8 @@
    "categories": [
     "evs"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "BYD confirmed suicide doors and previewed the grille of its Yangwang Altior flagship sedan, expected to debut in Dubai around Nov 5."
   },
   {
    "id": "a222d0a212be",
@@ -1301,7 +1399,8 @@
     "chips",
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Nvidia's US store no longer lists the RTX 5080, following the RTX 5090, while retail prices sit around 2.2 times the $999 MSRP."
   },
   {
    "id": "e236418d615d",
@@ -1321,7 +1420,8 @@
    "categories": [
     "chips"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Intel's outlook triggered a chip selloff that cut roughly $1 trillion from semiconductor stocks in a day, with AMD, Arm and Qualcomm down over 12%."
   },
   {
    "id": "11b9600feba9",
@@ -1332,7 +1432,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Crafted WAP Push texts can drop calls and knock Android 12+ phones offline without user action; the October patch fixes Android 14 and up."
   },
   {
    "id": "f7c9e3fddec8",
@@ -1422,7 +1523,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Google opens its 12th retail store, at Houston's Galleria, on Nov 6; it's the second in Texas."
   },
   {
    "id": "538ea1326a6a",
@@ -1598,7 +1700,8 @@
     "chips",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Samsung posted a record quarter with over 100 trillion won in operating profit, almost all from memory, while its phone unit ran a small loss."
   },
   {
    "id": "eae6da01901d",
@@ -1619,7 +1722,8 @@
     "ai",
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Google's Project Suncatcher satellite ran Gemma 4 on its onboard TPUs and beamed down a haiku, its first AI output from orbit."
   },
   {
    "id": "b9b8acae7a8c",
@@ -6566,92 +6670,6 @@
     "gaming"
    ],
    "rumor": false
-  },
-  {
-   "id": "b9944fc45ff6",
-   "title": "Nvidia CEO Jensen Huang may have been the target of a spy plot through 'Chinese intelligence asset,' report claims",
-   "url": "https://www.tomshardware.com/tech-industry/policy/nvidia-ceo-jensen-huang-may-have-been-the-target-of-a-spy-plot-through-chinese-intelligence-asset-report-claims-exec-from-firm-under-investigation-for-smuggling-banned-ai-chips-to-china-accused-of-being-a-spy-was-also-feeding-information-to-beijing",
-   "source": "Tom's Hardware",
-   "published": "2026-10-29T13:04:23Z",
-   "categories": [
-    "chips"
-   ],
-   "rumor": true,
-   "summary": "A report claims a Chinese intelligence asset may have targeted NVIDIA chief Jensen Huang in a spying plot."
-  },
-  {
-   "id": "41515e8daa94",
-   "title": "Apple Releasing HomePod Mini 2 Tomorrow With These New Features",
-   "url": "https://www.macrumors.com/2026/10/29/homepod-mini-2-release-date-features/",
-   "source": "MacRumors",
-   "published": "2026-10-29T13:00:13Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false,
-   "summary": "HomePod mini 2 goes on sale Oct 30; MacRumors recaps what is new in Apple's smaller speaker."
-  },
-  {
-   "id": "c546a70dbf99",
-   "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
-   "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
-   "source": "TechCrunch",
-   "published": "2026-10-29T13:00:00Z",
-   "categories": [
-    "ai"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "ec59d102565d",
-   "title": "Massive leak exposes 41,000 DHS workers and undercover ICE agents",
-   "url": "https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents/",
-   "source": "Ars Technica",
-   "published": "2026-10-29T12:58:34Z",
-   "categories": [
-    "ai"
-   ],
-   "rumor": true
-  },
-  {
-   "id": "2c5d6723c4d6",
-   "title": "Samsung begins rolling out Galaxy A16 One UI 9.0 update globally",
-   "url": "https://www.sammobile.com/news/samsung-begins-rolling-out-galaxy-a16-one-ui-9-0-update-globally/",
-   "source": "SamMobile",
-   "published": "2026-10-29T12:56:04Z",
-   "categories": [
-    "android",
-    "samsung"
-   ],
-   "rumor": false,
-   "summary": "Samsung's One UI 9.0 update is now reaching the budget Galaxy A16 worldwide."
-  },
-  {
-   "id": "2b845167f0b6",
-   "title": "Over $12 million worth of AI chips seized by Malaysian authorities after suspected smuggling syndicate tries to sneak servers through customs under false pretenses",
-   "url": "https://www.pcgamer.com/software/ai/over-usd12-million-worth-of-ai-chips-seized-by-malaysian-authorities-after-suspected-smuggling-syndicate-tries-to-sneak-servers-through-customs-under-false-pretenses/",
-   "source": "PC Gamer",
-   "published": "2026-10-29T12:49:29Z",
-   "categories": [
-    "ai",
-    "chips",
-    "gaming"
-   ],
-   "rumor": false,
-   "summary": "Malaysian customs seized more than $12 million in AI servers that a suspected smuggling ring tried to pass off under false declarations."
-  },
-  {
-   "id": "b5d07b72e283",
-   "title": "Dept of Justice reportedly probes Nvidia over $13 billion Hugging Face AI platform acquisition",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/dept-of-justice-reportedly-probes-nvidia-over-usd13-billion-hugging-face-ai-platform-acquisition-concerns-raised-over-competition-in-ai-and-pressure-on-customers",
-   "source": "Tom's Hardware",
-   "published": "2026-10-29T12:49:19Z",
-   "categories": [
-    "ai",
-    "chips"
-   ],
-   "rumor": true,
-   "summary": "The US Justice Department is reportedly investigating NVIDIA's $13 billion deal for the Hugging Face AI platform."
   }
  ]
 }

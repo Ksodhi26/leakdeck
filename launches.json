@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30",
+ "updated": "2026-10-31",
  "items": [
   {
    "id": "gtc-berlin-2026",
@@ -722,14 +722,22 @@
     "ai"
    ],
    "type": "Software",
-   "date": "2026-10-31",
-   "date_label": "Late Oct 2026 (beta)",
-   "precision": "window",
+   "date": "2026-11-04",
+   "date_label": "Nov 4, 2026 (developer beta in China; public with iOS 27.3 in December)",
+   "precision": "day",
    "status": "Confirmed",
    "price": "Free",
-   "summary": "Tim Cook says a beta of Apple Intelligence reaches users in China later in October, without the new Siri.",
-   "details": "Cook said on Oct 15 that the first features (live translation, writing tools and photo cleanup) and the Alibaba Qwen models behind them have regulatory approval. He did not give an exact day. Bloomberg reports a wider launch with iOS 27.3 in December. As of Oct 30 no beta has reached users: iOS 27.2 (released Oct 27) did not include it, and no iOS 27.3 beta followed Apple's Oct 29 launches. Apple has one day left to meet the October timing; if it misses, we will move this to the iOS 27.3 beta window.",
+   "summary": "Apple missed its October target: the first Apple Intelligence features for China start testing in the iOS developer beta on Nov 4 and reach users with iOS 27.3 in December.",
+   "details": "Tim Cook said on Oct 15 that a beta would reach China in October; it did not. On Oct 31 (China time) Apple's China Newsroom said testing starts Nov 4 with the latest iOS developer beta, which MacRumors expects to be iOS 27.3 beta 1, likely Nov 3 in the US. The first wave is iPhone-only (iPhone 15 Pro and later, iPhone Air, iPhone Duo) with Siri and device language set to English or Simplified Chinese, and covers Live Translation, Writing Tools, Visual Intelligence, Clean Up, Genmoji, notification and mail summaries, Priority Notifications, Smart Reply and Type to Siri. Alibaba's Qwen plugs into Siri, Writing Tools and Visual Intelligence. Siri AI, Image Playground and the newer WWDC 2026 features are not included, and Mac, iPad and other devices wait on further approvals.",
    "sources": [
+    {
+     "name": "Apple Newsroom China (Chinese)",
+     "url": "https://www.apple.com.cn/newsroom/2026/10/apple-intelligence-features-are-coming-to-users-in-china/"
+    },
+    {
+     "name": "MacRumors (beta date)",
+     "url": "https://www.macrumors.com/2026/10/30/apple-says-ios-27-3-beta-coming-next-week/"
+    },
     {
      "name": "TechNode",
      "url": "https://technode.com/2026/10/16/apple-intelligence-to-enter-china-beta-testing-this-month-tim-cook-confirms/"
@@ -741,6 +749,10 @@
     {
      "name": "MacRumors (citing Bloomberg)",
      "url": "https://www.macrumors.com/2026/10/14/apple-intelligence-china-ios-27-3/"
+    },
+    {
+     "name": "9to5Mac",
+     "url": "https://9to5mac.com/2026/10/30/apple-confirms-ios-27-3-beta-is-coming-next-week-with-apple-intelligence-in-china/"
     }
    ]
   },
@@ -1822,13 +1834,13 @@
     "evs"
    ],
    "type": "Car",
-   "date": "2026-11-01",
-   "date_label": "November 2026 (China launch); reservations opened Oct 26",
+   "date": "2026-11-30",
+   "date_label": "November 2026 (China launch, day not announced); reservations opened Oct 26",
    "precision": "window",
    "status": "Confirmed",
    "price": "",
    "summary": "BYD's Denza opened reservations for the all-electric five-seat N8 SUV on Oct 26; the official launch and pricing follow in November.",
-   "details": "Denza general manager Li Hui announced the timeline on Weibo on Oct 22: reservations open Oct 26 and the car officially goes on sale in November, with no launch day, prices or delivery plans yet. MIIT filings show single-motor RWD versions (320 or 370 kW) and a tri-motor AWD version with 890 kW combined; it is 5,150 mm long on a 3,075 mm wheelbase, 50 mm shorter than the six-seat N8L. Denza says it uses BYD's second-generation Blade battery with Flash Charging, and Electrek cites up to 1,003 km of CLTC range. Reservations opened on schedule on Oct 26: a 2,000-yuan deposit earns a 5,000-yuan option credit, but Denza has still not given a pre-sale price. For reference, the six-seat N8L starts at 299,800 yuan. Earlier reports had treated Oct 26 as the launch itself.",
+   "details": "Denza general manager Li Hui announced the timeline on Weibo on Oct 22: reservations open Oct 26 and the car officially goes on sale in November, with no launch day, prices or delivery plans yet. MIIT filings show single-motor RWD versions (320 or 370 kW) and a tri-motor AWD version with 890 kW combined; it is 5,150 mm long on a 3,075 mm wheelbase, 50 mm shorter than the six-seat N8L. Denza says it uses BYD's second-generation Blade battery with Flash Charging, and Electrek cites up to 1,003 km of CLTC range. Reservations opened on schedule on Oct 26: a 2,000-yuan deposit earns a 5,000-yuan option credit, but Denza has still not given a pre-sale price. For reference, the six-seat N8L starts at 299,800 yuan. Earlier reports had treated Oct 26 as the launch itself. Xinhua's Oct 28 report adds that the N8 comes as both an EV (RWD or tri-motor) and a plug-in hybrid (tri-motor only). As of Oct 31 Denza still has not named a launch day or price.",
    "sources": [
     {
      "name": "CnEVPost (reservations open)",
@@ -1853,6 +1865,10 @@
     {
      "name": "Electrek",
      "url": "https://electrek.co/2026/10/21/byd-launch-luxury-ev-suv-with-623-miles-range/"
+    },
+    {
+     "name": "Xinhua (Chinese)",
+     "url": "https://www.news.cn/auto/20261028/6512bea94eda4d87ab7e0ba17a686e0c/c.html"
     }
    ]
   },
@@ -2002,7 +2018,7 @@
    "status": "Confirmed",
    "price": "Free (open weights; license not yet announced)",
    "summary": "Moonshot says it will publish the full Kimi K3.1 Pro model weights by Nov 4.",
-   "details": "Moonshot released Kimi K3.1 Pro in its apps and API on Oct 23 and committed to releasing the full weights by Nov 4. The license terms have not been announced. As of Oct 29 the weights were not yet on Hugging Face.",
+   "details": "Moonshot released Kimi K3.1 Pro in its apps and API on Oct 23 and committed to releasing the full weights by Nov 4. The license terms have not been announced. As of Oct 31 there is still no K3.1 Pro repository on Moonshot's Hugging Face page (only the earlier Kimi K3).",
    "sources": [
     {
      "name": "Kimi blog",
@@ -2468,17 +2484,25 @@
     "android"
    ],
    "type": "Gadget",
-   "date": "2026-11-01",
-   "date_label": "Early Nov 2026 (US)",
-   "precision": "window",
+   "date": "2026-11-06",
+   "date_label": "Nov 6, 2026 (US)",
+   "precision": "day",
    "status": "Confirmed",
    "price": "$229",
-   "summary": "Samsung's clip-on open-ear Galaxy Buds On come to the US in early November for $229, in black only.",
-   "details": "Announced Oct 28, a day after Korean sales began. Samsung lists a TwinBoost speaker with sound-leakage reduction, automatic volume (a Labs feature), three mics plus a voice pickup sensor for calls, head gestures, Gemini Live and Bixby voice access, IP54 earbuds weighing 6.65g each, Bluetooth 6.2 and up to 9.5 hours of playback (38 hours with the case). Samsung has not given an exact US date.",
+   "summary": "Samsung's clip-on open-ear Galaxy Buds On go on sale in the US on Nov 6 for $229, in black only.",
+   "details": "Announced Oct 28, a day after Korean sales began. Samsung lists a TwinBoost speaker with sound-leakage reduction, automatic volume (a Labs feature), three mics plus a voice pickup sensor for calls, head gestures, Gemini Live and Bixby voice access, IP54 earbuds weighing 6.65g each, Bluetooth 6.2 and up to 9.5 hours of playback (38 hours with the case). Samsung's US product page and Android Authority give Nov 6 as the US on-sale date, in one black color and one size; they use Qualcomm's Snapdragon S7 Gen 1 Sound Platform.",
    "sources": [
+    {
+     "name": "Samsung US (product page)",
+     "url": "https://www.samsung.com/us/audio-sound/galaxy-buds-on/"
+    },
     {
      "name": "Samsung Mobile Press",
      "url": "https://www.samsungmobilepress.com/articles/galaxy-buds-on-comfortable-open-ear-listening-us"
+    },
+    {
+     "name": "Android Authority",
+     "url": "https://www.androidauthority.com/samsung-galaxy-buds-on-us-release-date-price-3728523/"
     }
    ]
   },
@@ -2726,6 +2750,67 @@
     {
      "name": "The Verge",
      "url": "https://www.theverge.com/transportation/1023112/waymos-next-robotaxi-is-a-purpose-built-toyota-bz4x"
+    }
+   ]
+  },
+  {
+   "id": "ios-27-3",
+   "name": "iOS 27.3",
+   "brand": "Apple",
+   "categories": [
+    "apple",
+    "ai"
+   ],
+   "type": "Software",
+   "date": "2026-12-15",
+   "date_label": "December 2026 (beta from Nov 3-4)",
+   "precision": "window",
+   "status": "Confirmed",
+   "price": "Free",
+   "summary": "Apple says iOS 27.3 ships to the public in December, bringing the first Apple Intelligence features to iPhones in China; the first developer beta lands Nov 3-4.",
+   "details": "Apple confirmed the timing in an Oct 30-31 China Newsroom release, an unusual step for a point update. The beta starts Nov 4 China time (likely Nov 3 in the US, per MacRumors). Apple gave no exact December day. The China features exclude Siri AI and Image Playground; other iOS 27.3 changes have not been detailed.",
+   "sources": [
+    {
+     "name": "MacRumors",
+     "url": "https://www.macrumors.com/2026/10/30/apple-says-ios-27-3-beta-coming-next-week/"
+    },
+    {
+     "name": "Apple Newsroom China (Chinese)",
+     "url": "https://www.apple.com.cn/newsroom/2026/10/apple-intelligence-features-are-coming-to-users-in-china/"
+    },
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3"
+    }
+   ]
+  },
+  {
+   "id": "oppo-reno17-series",
+   "name": "Oppo Reno17 series, Pad Air 6 and Watch 5 (China)",
+   "brand": "Oppo",
+   "categories": [
+    "android"
+   ],
+   "type": "Phone",
+   "date": "2026-11-30",
+   "date_label": "November 2026 (China; day not announced)",
+   "precision": "window",
+   "status": "Confirmed",
+   "price": "",
+   "summary": "Oppo opened blind reservations in China for the Reno17 phones and confirmed a November launch alongside the Pad Air 6 tablet and Watch 5.",
+   "details": "Announced on Oppo's Weibo on Oct 30 without a date, prices or specs. Leaks point to a Reno17 and Reno17 Pro in China on ColorOS 17 (Android 17); Digital Chat Station tips the Pro with a 6.32-inch 1.5K 120Hz OLED, Dimensity 8550 Super, a 200MP main camera, 50MP periscope and about 7,000mAh, but those specs are unconfirmed.",
+   "sources": [
+    {
+     "name": "Notebookcheck",
+     "url": "https://www.notebookcheck.net/Oppo-launches-Reno17-series-blind-pre-orders-ahead-of-November-debut.1438629.0.html"
+    },
+    {
+     "name": "Gizmochina",
+     "url": "https://www.gizmochina.com/2026/10/30/oppo-november-launch-reno-17-series-pad-air-6-watch-5/"
+    },
+    {
+     "name": "91mobiles",
+     "url": "https://www.91mobiles.com/hub/oppo-reno-17-pad-air-6-watch-5-china-launch-confirmed/"
     }
    ]
   }

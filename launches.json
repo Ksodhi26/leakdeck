@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31",
+ "updated": "2026-11-01",
  "items": [
   {
    "id": "gtc-berlin-2026",
@@ -2018,7 +2018,7 @@
    "status": "Confirmed",
    "price": "Free (open weights; license not yet announced)",
    "summary": "Moonshot says it will publish the full Kimi K3.1 Pro model weights by Nov 4.",
-   "details": "Moonshot released Kimi K3.1 Pro in its apps and API on Oct 23 and committed to releasing the full weights by Nov 4. The license terms have not been announced. As of Oct 31 there is still no K3.1 Pro repository on Moonshot's Hugging Face page (only the earlier Kimi K3).",
+   "details": "Moonshot released Kimi K3.1 Pro in its apps and API on Oct 23 and committed to releasing the full weights by Nov 4. The license terms have not been announced. As of Nov 1 there is still no K3.1 Pro repository on Moonshot's Hugging Face page (only the earlier Kimi K3).",
    "sources": [
     {
      "name": "Kimi blog",
@@ -2459,7 +2459,7 @@
    "status": "Confirmed",
    "price": "$1,299.99",
    "summary": "Acer's 8-inch Windows gaming handheld with Intel's Arc G3 Extreme comes to the US on Nov 1 as a $1,299.99 Best Buy exclusive.",
-   "details": "Acer unveiled the Atlas 8 in May; the US gets only the more powerful Intel Arc G3 Extreme version, with Arc B390 graphics (12 Xe3 GPU cores), 24GB of LPDDR5X, an 8-inch 120Hz screen, TMR sticks, dual-mode triggers and Windows 11. It is Acer's first handheld sold officially in the US and costs the same as the Xbox Ally X20. Best Buy's pre-orders, opened last week, are sold out; Acer says online orders reopen Nov 1 alongside in-store sales.",
+   "details": "Acer unveiled the Atlas 8 in May; the US gets only the more powerful Intel Arc G3 Extreme version, with Arc B390 graphics (12 Xe3 GPU cores), 24GB of LPDDR5X, an 8-inch 120Hz screen, TMR sticks, dual-mode triggers and Windows 11. It is Acer's first handheld sold officially in the US and costs the same as the Xbox Ally X20. Best Buy's pre-orders, opened last week, are sold out; Acer says online orders reopen Nov 1 alongside in-store sales. Update Nov 1: today is the scheduled US on-sale day; Best Buy's product page is live, but we could not yet confirm stock is back, so this moves to Released once sales are confirmed.",
    "sources": [
     {
      "name": "The Verge",
@@ -2658,8 +2658,12 @@
    "status": "Confirmed",
    "price": "",
    "summary": "Motorola unveils full details of its Snapdragon flagship, the Signature 27, on Nov 5; its US site says it arrives in November.",
-   "details": "Unveiled at Qualcomm's Snapdragon Summit in September with the Snapdragon 8 Elite Gen 6 (Motorola's page calls it 'Extreme'). Motorola's US landing page says 'coming this November', and an India page now says the same. European retailer listings point to about EUR 1,595 (see the rumor tracker); Motorola has not given US pricing. Update Oct 30: Motorola said on X that it will show the phone on Nov 5; it has not said whether that is also the US on-sale date.",
+   "details": "Unveiled at Qualcomm's Snapdragon Summit in September with the Snapdragon 8 Elite Gen 6 (Motorola's page calls it 'Extreme'). Motorola's US landing page says 'coming this November', and an India page now says the same. European retailer listings point to about EUR 1,595 (see the rumor tracker); Motorola has not given US pricing. Update Oct 30: Motorola said on X that it will show the phone on Nov 5; it has not said whether that is also the US on-sale date. Update Oct 31: a Signature 27 on Android 17 with 12GB of RAM appeared on Geekbench (3,313 single-core, 11,088 multi-core); Motorola has confirmed a 50MP Sony LYT 910 main camera, a 200MP periscope, a larger vapor chamber and seven years of OS updates, but still no US price or on-sale date.",
    "sources": [
+    {
+     "name": "GSMArena (Geekbench)",
+     "url": "https://www.gsmarena.com/motorola_signature_27_key_specs_geekbench-news-75301.php"
+    },
     {
      "name": "9to5Google (Nov 5 event)",
      "url": "https://9to5google.com/2026/10/30/motorola-signature-27-launch-date-confirmed/"
@@ -2811,6 +2815,66 @@
     {
      "name": "91mobiles",
      "url": "https://www.91mobiles.com/hub/oppo-reno-17-pad-air-6-watch-5-china-launch-confirmed/"
+    }
+   ]
+  },
+  {
+   "id": "byd-seal-07-2nd-gen",
+   "name": "BYD Seal 07, second generation (China)",
+   "brand": "BYD",
+   "categories": [
+    "evs"
+   ],
+   "type": "EV",
+   "date": "2026-11-05",
+   "date_label": "Nov 5, 2026 (China)",
+   "precision": "day",
+   "status": "Confirmed",
+   "price": "",
+   "summary": "BYD launches a larger second-generation Seal 07 sedan in China on Nov 5, in battery-electric and DM-i plug-in hybrid versions.",
+   "details": "Auto Home reported the Nov 5 date on Oct 30 citing BYD, and BYD's Ocean sales chief said display cars had reached showrooms in 131 Chinese cities. The new car is 5,080 mm long with a 2,960 mm wheelbase, 85 mm longer than the Seal 07 EV that launched in March. Regulatory filings list 245 kW and 300 kW motors for the EV; BYD has previewed its second-generation Blade Battery, flash charging and roof LiDAR. The DM-i pairs a 1.5-liter turbo with a 160 kW motor and a 38 kWh pack (245 km WLTC electric range). Reservations opened Oct 26 without prices; the outgoing Seal 07 EV started at 169,900 yuan.",
+   "sources": [
+    {
+     "name": "CnEVPost",
+     "url": "https://cnevpost.com/2026/11/01/byd-to-launch-2nd-gen-seal-07-nov-5/"
+    },
+    {
+     "name": "CarNewsChina",
+     "url": "https://carnewschina.com/2026/10/30/2nd-gen-byd-seal-07-reaches-dealers-with-402-hp-and-an-875-km-range/"
+    },
+    {
+     "name": "CnEVPost (reservations)",
+     "url": "https://cnevpost.com/2026/10/26/byd-opens-reservations-2nd-gen-seal-07/"
+    }
+   ]
+  },
+  {
+   "id": "smart-2-china",
+   "name": "Smart #2 (China launch)",
+   "brand": "Smart",
+   "categories": [
+    "evs"
+   ],
+   "type": "EV",
+   "date": "2026-11-05",
+   "date_label": "Nov 5, 2026 (China)",
+   "precision": "day",
+   "status": "Confirmed",
+   "price": "",
+   "summary": "Smart's two-seat electric successor to the ForTwo gets its full China launch on Nov 5, after a limited 112,999-yuan Couture Edition.",
+   "details": "Yiche reported the Nov 5 date citing official information, and Smart's own China media site and IT Home carry the same date. The #2 debuted at the Paris Motor Show on Oct 12, when Smart put 999 Couture Edition cars on sale in China at 112,999 yuan. It uses a 35.8 kWh CATL LFP battery (up to 410 km CLTC), a 60 kW motor and 10-80% charging in 20 minutes, rides on the Electric Compact Architecture designed for tiny EVs, and is built by Geely in China for China, Europe and other markets. Prices for the regular versions come at launch.",
+   "sources": [
+    {
+     "name": "CnEVPost",
+     "url": "https://cnevpost.com/2026/10/23/smart-2-set-for-nov-5-launch-china/"
+    },
+    {
+     "name": "CarNewsChina",
+     "url": "https://carnewschina.com/2026/10/23/geelys-smart-2-set-for-november-5-launch-in-china-with-410-km-cltc-range/"
+    },
+    {
+     "name": "IT Home (Chinese)",
+     "url": "https://www.ithome.com/1/016/818.htm"
     }
    ]
   }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T13:53:29Z",
+ "updated": "2026-11-01T14:04:31Z",
  "sources": [
   "9to5Google",
   "9to5Mac",
@@ -22,6 +22,70 @@
  ],
  "count": 600,
  "items": [
+  {
+   "id": "9bf5871ddb73",
+   "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
+   "url": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
+   "source": "The Verge",
+   "published": "2026-11-01T14:04:03Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "a43c77aef5f3",
+   "title": "My C: drive kept running out of space, and I finally found how to stop it for good",
+   "url": "https://www.xda-developers.com/c-drive-running-out-of-space-found-how-to-stop-it/",
+   "source": "XDA Developers",
+   "published": "2026-11-01T14:00:20Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "8bd456c3c6ae",
+   "title": "Change these PlayStation 5 settings before GTA 6 comes out",
+   "url": "https://www.engadget.com/2302290/playstation-5-settings-change-before-gta-6/",
+   "source": "Engadget",
+   "published": "2026-11-01T14:00:00Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "381c87312bf6",
+   "title": "Open-source USB tool unlocks Nvidia's half-speed GPU AI limiter on Windows — lifts GPU's FP16 math performance up to 65%, UEFI unlocker covers RTX 20, 30, and 40-series desktops and laptops",
+   "url": "https://www.tomshardware.com/pc-components/gpus/open-source-usb-tool-unlocks-nvidias-half-speed-gpu-ai-limiter-on-windows-lifts-gpus-fp16-math-performance-up-to-65-percent-uefi-unlocker-covers-rtx-20-30-and-40-series-desktops-and-laptops",
+   "source": "Tom's Hardware",
+   "published": "2026-11-01T14:00:00Z",
+   "categories": [
+    "ai",
+    "chips",
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "1a03e7c9684f",
+   "title": "How to install Windows 11 on almost any unsupported PC",
+   "url": "https://www.xda-developers.com/install-windows-11-unsupported-pc/",
+   "source": "XDA Developers",
+   "published": "2026-11-01T13:59:12Z",
+   "categories": [
+    "chips"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "bac90f15faa0",
+   "title": "Police Chief physically unplugs Flock cameras after the company ignores contract cancellation — city takes matters into its own hands amid privacy controversies",
+   "url": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
+   "source": "Tom's Hardware",
+   "published": "2026-11-01T13:55:26Z",
+   "categories": [],
+   "rumor": false
+  },
   {
    "id": "aa24da6ee186",
    "title": "After testing it on 100 photos, Google Photos' new Gemini integration is both good and horrible",
@@ -63,7 +127,8 @@
    "categories": [
     "evs"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Tesla appears to be winding down its Solar Roof tiles after years of delays, overspending and weak sales."
   },
   {
    "id": "b350a75e0d49",
@@ -223,7 +288,8 @@
    "source": "Tom's Hardware",
    "published": "2026-11-01T12:00:00Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "NASA says Voyager 1 becomes the first human-made object one light-day from Earth on Nov 18."
   },
   {
    "id": "df7c07354b04",
@@ -234,7 +300,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Apple says Apple Watches stuck an hour off after the clock change only show it on the always-on display; switching faces or restarting fixes it."
   },
   {
    "id": "816a5290a7f4",
@@ -366,7 +433,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "iOS 27 users say Apple Intelligence reserves 9 to 16GB of storage even where it's unavailable; changing Siri's English variant can shrink it."
   },
   {
    "id": "95543f30a866",
@@ -397,7 +465,8 @@
    "source": "GSMArena",
    "published": "2026-11-01T06:32:02Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "Lava will raise Indian smartphone prices by up to INR 3,000 on Nov 15, blaming the memory shortage."
   },
   {
    "id": "6974b08dfc71",
@@ -408,7 +477,8 @@
    "categories": [
     "gaming"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "Forza co-creator and Turn 10 head Dan Greenawalt is retiring from Microsoft after nearly 27 years, according to an internal memo."
   },
   {
    "id": "d8485e44f937",
@@ -441,7 +511,8 @@
    "categories": [
     "chips"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "KDE developer Eike Hein is building Kwi, an early GPU-accelerated terminal that uses Qt Quick and Ghostty's libghostty-vt."
   },
   {
    "id": "ace8570dc06e",
@@ -514,7 +585,8 @@
    "source": "Engadget",
    "published": "2026-11-01T00:00:00Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "Amazon dropped Alexa voice commands for the AUX input on four older Echo speakers; the jack still works and can be switched in the app."
   },
   {
    "id": "e6a9e2f4325b",
@@ -635,7 +707,8 @@
     "ai",
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "In a Wired interview, Apple CEO John Ternus said he likes where Apple stands in AI and that it will use AI in products without shipping it just for show."
   },
   {
    "id": "84a192d87aee",
@@ -657,7 +730,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Nothing's Android 17-based Nothing OS 5.0 is now rolling out to the Phone (4a), (4a) Pro, (3a) and (3a) Pro."
   },
   {
    "id": "faf3e712a58a",
@@ -679,7 +753,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "A judge refused to dismiss the NAACP's Clean Air Act suit claiming xAI ran at least 35 unpermitted gas turbines at its Colossus data center."
   },
   {
    "id": "49dc88d4d9a2",
@@ -690,7 +765,8 @@
    "categories": [
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Fanfiction site AO3 could stay down for weeks after a security breach; works are intact, but its team can't rule out that user account data was taken."
   },
   {
    "id": "691dfa44ca49",
@@ -741,7 +817,8 @@
    "categories": [
     "chips"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Nvidia's Vera Rubin NVL72 page now lists 19.2 TB/s of HBM4 and 3 TB/s of NVLink bandwidth per GPU, down from 22 and 3.6 TB/s."
   },
   {
    "id": "84328b36cee2",
@@ -753,7 +830,8 @@
     "chips",
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "XDA benchmarks Nvidia's new DLSS Frame Generation Preset C, a faster performance mode, on an RTX 4070 Ti Super in Cyberpunk 2077."
   },
   {
    "id": "cbbef9c4c242",
@@ -787,7 +865,8 @@
     "ai",
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "An Xbox manager posted that AI use is already widespread in game development, then deleted the posts a day later."
   },
   {
    "id": "6bc6942d5312",
@@ -798,7 +877,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "A rundown of how macOS 27 adapts to the touchscreen MacBook Pro, from larger touch targets to trackpad gestures on the display and a touch-driven iOS simulator."
   },
   {
    "id": "107b59233aa7",
@@ -882,7 +962,8 @@
    "categories": [
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Maddy Thorson pulled Celeste and TowerFall from Xbox digital stores in support of the BDS boycott; both are still on Steam."
   },
   {
    "id": "4efa32477cb2",
@@ -893,7 +974,8 @@
    "categories": [
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Final Fantasy 14's Evercold expansion slips from January to February; preorders open Nov 4 and include early access."
   },
   {
    "id": "3f48d346692d",
@@ -913,7 +995,8 @@
    "source": "The Verge",
    "published": "2026-10-31T18:40:32Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "Binance says it has covered 90% of the $6.3 billion stolen from users and was on track to reopen withdrawals on Nov 1."
   },
   {
    "id": "d231cf1c438e",
@@ -922,7 +1005,8 @@
    "source": "GSMArena",
    "published": "2026-10-31T18:31:02Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "A Thai retailer lists an HMD Pulse Pro 2nd Edition with a Helio G99, a 120Hz screen and 8GB/256GB for about $148."
   },
   {
    "id": "0c0c29be4e90",
@@ -987,7 +1071,8 @@
    "categories": [
     "chips"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Startup Bolt Graphics powered on a small test chip for its RISC-V Zeus GPU project without functional problems, but the real Zeus GPU is still far off."
   },
   {
    "id": "a8570abcb9a0",
@@ -1022,7 +1107,8 @@
     "android",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "The Galaxy Watch 4 and Watch 4 Classic won't get One UI 9 Watch after four major updates; the Watch 5 and later will."
   },
   {
    "id": "534c66687cdc",
@@ -1113,7 +1199,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "The FT reports OpenAI cut its new funding round target to $20 billion, led by UAE investors."
   },
   {
    "id": "e3202b6a0515",
@@ -1222,7 +1309,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Apple Maps has started blurring satellite imagery of several NASA and Space Force sites; Google Maps hasn't."
   },
   {
    "id": "728810b707a5",
@@ -1233,7 +1321,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "The DOJ charged five people over a $200 million scheme that used stolen identities and fake online students to obtain student loans."
   },
   {
    "id": "90ea9ffcbf27",
@@ -1245,7 +1334,8 @@
     "android",
     "chips"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "The Motorola Signature 27 hit Geekbench with 12GB of RAM and Android 17 ahead of its Nov 5 launch."
   },
   {
    "id": "2d5d2bba5f3d",
@@ -1257,7 +1347,8 @@
     "ai",
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Anthropic added a Claude Code instruction against recreating specific existing games, after a wave of AI clones hit Steam."
   },
   {
    "id": "8f692d08b5be",
@@ -1280,7 +1371,8 @@
     "chips",
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "New Windows 11 Insider builds add search filters and actions, plus quick settings you can reach without leaving Xbox mode."
   },
   {
    "id": "9775cc15984e",
@@ -1344,7 +1436,8 @@
    "categories": [
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Microsoft is emailing owners of idle Xbox consoles about Best Buy trade-ins worth up to $375 in store credit."
   },
   {
    "id": "a8f25f172b28",
@@ -1625,7 +1718,8 @@
    "source": "Engadget",
    "published": "2026-10-31T12:15:00Z",
    "categories": [],
-   "rumor": true
+   "rumor": true,
+   "summary": "Microsoft 365 Family and Premium move to a smaller shared storage pool at renewal, with no price cut."
   },
   {
    "id": "fe0e51086ed4",
@@ -1676,6 +1770,17 @@
    "categories": [
     "ai",
     "evs"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "0513b6bd20be",
+   "title": "Motorola Signature 27 specs detailed in new video, including Tandem OLED display",
+   "url": "https://9to5google.com/2026/10/31/motorola-signature-27-specs-hands-on/",
+   "source": "9to5Google",
+   "published": "2026-10-31T12:00:00Z",
+   "categories": [
+    "android"
    ],
    "rumor": false
   },
@@ -6539,83 +6644,6 @@
    "published": "2026-10-29T19:20:00Z",
    "categories": [
     "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "31a141606e86",
-   "title": "Meta quietly launches an AI fashion app called Style Sketch",
-   "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
-   "source": "TechCrunch",
-   "published": "2026-10-29T19:14:36Z",
-   "categories": [
-    "ai"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "075fea0dcdc5",
-   "title": "Google Home update should make Gemini stop saying ‘Sorry, I didn’t understand’ so much",
-   "url": "https://9to5google.com/2026/10/29/google-home-gemini-update-fixes-understand-phrase-bug/",
-   "source": "9to5Google",
-   "published": "2026-10-29T19:13:49Z",
-   "categories": [
-    "ai",
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "602bfe3cf5fc",
-   "title": "Donald Glover is heading up a PUBG live action series for Netflix",
-   "url": "https://www.pcgamer.com/movies-tv/donald-glover-is-heading-up-a-pubg-live-action-series-for-netflix/",
-   "source": "PC Gamer",
-   "published": "2026-10-29T19:13:32Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "40bddb447911",
-   "title": "Ford Fathom Pricing Will Stretch Into the 'High $30,000 Range'",
-   "url": "https://insideevs.com/news/813746/ford-fathom-pricing-high-30k/",
-   "source": "InsideEVs",
-   "published": "2026-10-29T19:10:28Z",
-   "categories": [
-    "evs"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "2eb0eeefec6e",
-   "title": "Trump declares robot imports a national security threat",
-   "url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
-   "source": "Ars Technica",
-   "published": "2026-10-29T19:07:53Z",
-   "categories": [],
-   "rumor": false
-  },
-  {
-   "id": "2122236537ba",
-   "title": "Apple Lowers App Store Fees in Taiwan Starting October 31",
-   "url": "https://www.macrumors.com/2026/10/29/app-store-fees-taiwan/",
-   "source": "MacRumors",
-   "published": "2026-10-29T19:06:08Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "1f3957b20d74",
-   "title": "Google stock drops amid AI fears; AI Mode has ‘lower monetization,’ getting more ads",
-   "url": "https://9to5google.com/2026/10/29/google-stock-drop-ai-mode-ad-expansion/",
-   "source": "9to5Google",
-   "published": "2026-10-29T19:05:00Z",
-   "categories": [
-    "ai",
-    "android"
    ],
    "rumor": false
   }

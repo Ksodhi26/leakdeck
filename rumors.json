@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31",
+ "updated": "2026-11-01",
  "scale": {
   "Confirmed": "Announced by the company or shown in an official source.",
   "Likely": "Multiple credible outlets or hard evidence (certifications, databases, supply chain), but no official word.",
@@ -1386,17 +1386,25 @@
   {
    "id": "honor-700-series-november",
    "title": "Honor 700 series launches in November with three models and a rear screen on the Pro",
-   "rating": "Rumor",
+   "rating": "Likely",
    "categories": [
     "android"
    ],
    "status": "Active",
    "first_reported": "2026-10-21",
-   "updated": "2026-10-24",
-   "expected": "November 2026 (China, leak)",
+   "updated": "2026-11-01",
+   "expected": "Early November 2026 (China, leak; no date)",
    "claim": "Honor will launch three Honor 700 models in China in November; the 700 Pro has a 6.57-inch 1.5K screen, a 200MP main camera, a 50MP periscope telephoto, a 1.72-inch built-in rear display and a battery of about 9,000mAh.",
-   "why": "From Weibo tipsters relayed by GSMArena: one says the event is next month and the series has three models; Digital Chat Station has repeated the 200MP camera and rear screen since August. The timing fits Honor's six-month number-series cadence (the 600 launched in May), but Honor has announced nothing. On Oct 24 Digital Chat Station added details he says come from an engineering prototype (codename 'Flora'): a roughly 9,000mAh battery, a 50MP periscope on the Pro and four test colors, while calling the November timing tentative. More detail from the same tipster, so it stays a Rumor.",
+   "why": "From Weibo tipsters relayed by GSMArena: one says the event is next month and the series has three models; Digital Chat Station has repeated the 200MP camera and rear screen since August. The timing fits Honor's six-month number-series cadence (the 600 launched in May), but Honor has announced nothing. On Oct 24 Digital Chat Station added details he says come from an engineering prototype (codename 'Flora'): a roughly 9,000mAh battery, a 50MP periscope on the Pro and four test colors, while calling the November timing tentative. More detail from the same tipster, so it stays a Rumor. Update Oct 28-Nov 1: two Honor 700 models (FAS-AN00 and FAA-AN00, thought to be the 700 and 700 Pro) passed China's 3C certification, with a tipster saying a third is pending, which usually means a launch within weeks. Tipster Dingjiao Shuma (via Kuai Keji, Oct 31) says the series launches in early November with actress Ju Jingyi as spokesperson, a Snapdragon chip, a periscope and support for a 200mm teleconverter. Certification plus several tipsters agreeing lifts the November timing to Likely; the 9,000mAh battery and exact specs still rest mainly on Digital Chat Station, and Honor has not announced a date.",
    "sources": [
+    {
+     "name": "Huawei Central (3C certification)",
+     "url": "https://www.huaweicentral.com/two-honor-700-phones-certified-inching-closer-to-november-launch/"
+    },
+    {
+     "name": "Sina Tech / Kuai Keji (Chinese)",
+     "url": "https://finance.sina.com.cn/tech/roll/2026-10-31/doc-inixcfyv3903403.shtml"
+    },
     {
      "name": "GSMArena",
      "url": "https://www.gsmarena.com/heres_how_many_honor_700_series_models_are_coming-news-75169.php"
@@ -1982,6 +1990,26 @@
     {
      "name": "Gadget Hacks",
      "url": "https://smartphones.gadgethacks.com/news/oppo-find-x10-ultra-mediatek-dimensity-9600-pro-camera-rumor/"
+    }
+   ]
+  },
+  {
+   "id": "hmd-pulse-pro-2nd-edition",
+   "title": "HMD readies '2nd Edition' refreshes of the Pulse Pro, Fusion and Crest Max",
+   "rating": "Likely",
+   "categories": [
+    "android"
+   ],
+   "status": "Active",
+   "first_reported": "2026-10-31",
+   "updated": "2026-11-01",
+   "expected": "Soon (Thailand retail listing; no announcement)",
+   "claim": "HMD will sell a Pulse Pro 2nd Edition with a 120Hz screen, MediaTek Helio G99, 8GB RAM and 256GB storage for about THB 4,990 (around $148), and give the Fusion (Snapdragon 7s Gen 2) and Crest Max (Dimensity 7025) the same 2nd Edition treatment.",
+   "why": "The Pulse Pro 2nd Edition showed up in a listing from what appears to be the official Nokia shop in Thailand, spotted by a tipster on X and relayed by GSMArena; the same tipster had leaked an EU version a week earlier. A retailer listing is strong evidence for the Pulse Pro refresh, so it is Likely. The Fusion and Crest Max 2nd Editions come only from the tipster, and HMD has announced nothing. Note that a Pulse 2 Pro was listed by a Swiss retailer in 2025 and never launched.",
+   "sources": [
+    {
+     "name": "GSMArena",
+     "url": "https://www.gsmarena.com/hmd_pulse_pro_2nd_edition_shows_up_at_a_retailer_with_a_new_chipset-news-75294.php"
     }
    ]
   }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T14:08:50Z",
+ "updated": "2026-11-02T14:25:10Z",
  "sources": [
   "9to5Google",
   "9to5Mac",
@@ -23,12 +23,66 @@
  "count": 600,
  "items": [
   {
+   "id": "2aecf1d4286e",
+   "title": "Your new Galaxy flagship supports seamless updates, so stop putting them off!",
+   "url": "https://www.sammobile.com/news/your-new-galaxy-flagship-phone-tablet-supports-seamless-updates/",
+   "source": "SamMobile",
+   "published": "2026-11-02T14:17:06Z",
+   "categories": [
+    "android",
+    "samsung"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "5ecd84fc72f1",
+   "title": "Why software updates may have an unexpected effect on your phone",
+   "url": "https://www.engadget.com/2300344/phone-software-updates-unexpected-slow-down-effect/",
+   "source": "Engadget",
+   "published": "2026-11-02T14:15:00Z",
+   "categories": [],
+   "rumor": true
+  },
+  {
+   "id": "ce9278a9b4f1",
+   "title": "Zoom and These Microsoft Apps Now Optimized for iPhone Duo",
+   "url": "https://www.macrumors.com/2026/11/02/zoom-microsoft-apps-iphone-duo-optimized/",
+   "source": "MacRumors",
+   "published": "2026-11-02T14:14:27Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "7ec47cc3fe98",
+   "title": "Affinity’s creative studio is now available on iPad for free",
+   "url": "https://www.theverge.com/1024283/canva-affinity-for-ipad-design-app-availability",
+   "source": "The Verge",
+   "published": "2026-11-02T14:10:55Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
    "id": "9abb81eaf70e",
    "title": "The 16GB Raspberry Pi 5 got another ‘unavoidable’ RAM price hike",
    "url": "https://www.theverge.com/tech/1024342/raspberry-pi-5-16gb-price-hike-ram",
    "source": "The Verge",
    "published": "2026-11-02T14:07:22Z",
    "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "0368d62e7afb",
+   "title": "Resident Evil Director Reacts To Backlash: “I Should Have Known Better”",
+   "url": "https://www.gamespot.com/articles/resident-evil-director-reacts-to-backlash-i-should-have-known-better/",
+   "source": "GameSpot",
+   "published": "2026-11-02T14:06:33Z",
+   "categories": [
+    "gaming"
+   ],
    "rumor": false
   },
   {
@@ -48,6 +102,18 @@
    "published": "2026-11-02T14:05:31Z",
    "categories": [
     "evs"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "e2d00c55d0ad",
+   "title": "Google kills off Jules, its AI coding agent which promised to do all the jobs you didn't want to",
+   "url": "https://www.techradar.com/pro/google-kills-off-jules-its-ai-coding-agent-which-promised-to-do-all-the-jobs-you-didnt-want-to",
+   "source": "TechRadar",
+   "published": "2026-11-02T14:05:00Z",
+   "categories": [
+    "ai",
+    "android"
    ],
    "rumor": false
   },
@@ -6578,73 +6644,6 @@
     "samsung"
    ],
    "rumor": false
-  },
-  {
-   "id": "320bfcc67cf4",
-   "title": "Waymo picks Toyota bZ4X as its next robotaxi, starting in Japan in 2027",
-   "url": "https://electrek.co/2026/10/30/waymo-toyota-bz4x-robotaxi-japan-2027/",
-   "source": "Electrek",
-   "published": "2026-10-30T13:22:30Z",
-   "categories": [
-    "evs"
-   ],
-   "rumor": false,
-   "summary": "Waymo's fourth vehicle platform is a factory-built Toyota bZ4X with extra rear legroom and automatic doors; testing starts in Japan in 2027, with the UK and other markets later."
-  },
-  {
-   "id": "12ddd2475dd7",
-   "title": "iPadOS 27.2: Two new features just upgraded your iPad",
-   "url": "https://9to5mac.com/2026/10/30/ipados-27-2-two-new-features-just-upgraded-your-ipad/",
-   "source": "9to5Mac",
-   "published": "2026-10-30T13:21:36Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "e0c6b5890af4",
-   "title": "The Pixel 11, 11 Pro, and Fold just hit an all-time low price weeks ahead of Black Friday",
-   "url": "https://9to5google.com/2026/10/30/the-pixel-11-11-pro-and-fold-just-hit-an-all-time-low-price-weeks-ahead-of-black-friday/",
-   "source": "9to5Google",
-   "published": "2026-10-30T13:20:00Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "a973ac401cee",
-   "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-   "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-   "source": "The Verge",
-   "published": "2026-10-30T13:19:25Z",
-   "categories": [
-    "ai"
-   ],
-   "rumor": true
-  },
-  {
-   "id": "deab462309a1",
-   "title": "Iconic Garmin watch gets the Black Friday treatment early at Amazon - don't miss this deal",
-   "url": "https://www.androidpolice.com/garmin-instinct-3-deal-amazon-early-black-friday/",
-   "source": "Android Police",
-   "published": "2026-10-30T13:17:10Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "eeee3fcf0d58",
-   "title": "Oppo Reno17 F 5G gets NBTC certified",
-   "url": "https://www.gsmarena.com/oppo_reno17_f_5g_nbtc_certified-news-75284.php",
-   "source": "GSMArena",
-   "published": "2026-10-30T13:17:01Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": true
   }
  ]
 }

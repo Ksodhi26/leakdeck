@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01",
+ "updated": "2026-11-02",
  "items": [
   {
    "id": "gtc-berlin-2026",
@@ -2018,7 +2018,7 @@
    "status": "Confirmed",
    "price": "Free (open weights; license not yet announced)",
    "summary": "Moonshot says it will publish the full Kimi K3.1 Pro model weights by Nov 4.",
-   "details": "Moonshot released Kimi K3.1 Pro in its apps and API on Oct 23 and committed to releasing the full weights by Nov 4. The license terms have not been announced. As of Nov 1 there is still no K3.1 Pro repository on Moonshot's Hugging Face page (only the earlier Kimi K3).",
+   "details": "Moonshot released Kimi K3.1 Pro in its apps and API on Oct 23 and committed to releasing the full weights by Nov 4. The license terms have not been announced. As of Nov 1 there was still no K3.1 Pro repository on Moonshot's Hugging Face page (only the earlier Kimi K3). Checked again Nov 2 (about 14:00 UTC): Moonshot's newest Hugging Face repository is still Kimi K3 (last updated Sept 2); no K3.1 Pro weights yet.",
    "sources": [
     {
      "name": "Kimi blog",
@@ -2027,6 +2027,10 @@
     {
      "name": "The Next Web",
      "url": "https://thenextweb.com/news/moonshot-kimi-k3-1-pro-open-weight-cyber"
+    },
+    {
+     "name": "Moonshot AI on Hugging Face",
+     "url": "https://huggingface.co/moonshotai"
     }
    ]
   },
@@ -2454,13 +2458,17 @@
    ],
    "type": "Handheld",
    "date": "2026-11-01",
-   "date_label": "Nov 1, 2026 (US, Best Buy)",
+   "date_label": "Nov 1, 2026 (US, Best Buy; orders first opened Oct 23)",
    "precision": "day",
-   "status": "Confirmed",
+   "status": "Released",
    "price": "$1,299.99",
-   "summary": "Acer's 8-inch Windows gaming handheld with Intel's Arc G3 Extreme comes to the US on Nov 1 as a $1,299.99 Best Buy exclusive.",
-   "details": "Acer unveiled the Atlas 8 in May; the US gets only the more powerful Intel Arc G3 Extreme version, with Arc B390 graphics (12 Xe3 GPU cores), 24GB of LPDDR5X, an 8-inch 120Hz screen, TMR sticks, dual-mode triggers and Windows 11. It is Acer's first handheld sold officially in the US and costs the same as the Xbox Ally X20. Best Buy's pre-orders, opened last week, are sold out; Acer says online orders reopen Nov 1 alongside in-store sales. Update Nov 1: today is the scheduled US on-sale day; Best Buy's product page is live, but we could not yet confirm stock is back, so this moves to Released once sales are confirmed.",
+   "summary": "Acer's 8-inch Windows gaming handheld with Intel's Arc G3 Extreme is on sale in the US as a $1,299.99 Best Buy exclusive.",
+   "details": "Acer unveiled the Atlas 8 in May; the US gets only the more powerful Intel Arc G3 Extreme version, with Arc B390 graphics (12 Xe3 GPU cores), 24GB of LPDDR5X, an 8-inch 120Hz screen, TMR sticks, dual-mode triggers and Windows 11. It is Acer's first handheld sold officially in the US and costs the same as the Xbox Ally X20. Best Buy's pre-orders, opened last week, are sold out; Acer says online orders reopen Nov 1 alongside in-store sales. Update Nov 2: marked Released. IGN reported that Best Buy began taking and shipping orders on Oct 23, and Acer set Nov 1 as the official launch and in-store date. Best Buy's listing showed 'Sold Out' when we checked on Nov 2, so stock is tight; Acer has not said how many units are coming.",
    "sources": [
+    {
+     "name": "IGN (orders open Oct 23)",
+     "url": "https://www.ign.com/articles/acer-predator-atlas-8-intel-arc-g3-extreme-handheld-gaming-pc-is-now-available"
+    },
     {
      "name": "The Verge",
      "url": "https://www.theverge.com/games/1019245/acer-predator-atlas-8-launch-price"
@@ -2472,6 +2480,14 @@
     {
      "name": "Android Authority",
      "url": "https://www.androidauthority.com/acer-predator-atlas-8-us-pricing-availability-3728356/"
+    },
+    {
+     "name": "HotHardware (Acer: Nov 1 launch)",
+     "url": "https://hothardware.com/news/acer-predator-atlas-8-handheld-costs-1300-hits-best-buy-nov-1"
+    },
+    {
+     "name": "Best Buy listing",
+     "url": "https://www.bestbuy.com/product/acer-predator-atlas-8-gaming-handheld-intel-arc-g3-extreme-touchscreenwuxga-8-120hz-24gb-storage-512gb-ssd-159-ai-tops-shale-black/JJ8V8HL8YJ"
     }
    ]
   },
@@ -2658,8 +2674,12 @@
    "status": "Confirmed",
    "price": "",
    "summary": "Motorola unveils full details of its Snapdragon flagship, the Signature 27, on Nov 5; its US site says it arrives in November.",
-   "details": "Unveiled at Qualcomm's Snapdragon Summit in September with the Snapdragon 8 Elite Gen 6 (Motorola's page calls it 'Extreme'). Motorola's US landing page says 'coming this November', and an India page now says the same. European retailer listings point to about EUR 1,595 (see the rumor tracker); Motorola has not given US pricing. Update Oct 30: Motorola said on X that it will show the phone on Nov 5; it has not said whether that is also the US on-sale date. Update Oct 31: a Signature 27 on Android 17 with 12GB of RAM appeared on Geekbench (3,313 single-core, 11,088 multi-core); Motorola has confirmed a 50MP Sony LYT 910 main camera, a 200MP periscope, a larger vapor chamber and seven years of OS updates, but still no US price or on-sale date.",
+   "details": "Unveiled at Qualcomm's Snapdragon Summit in September with the Snapdragon 8 Elite Gen 6 (Motorola's page calls it 'Extreme'). Motorola's US landing page says 'coming this November', and an India page now says the same. European retailer listings point to about EUR 1,595 (see the rumor tracker); Motorola has not given US pricing. Update Oct 30: Motorola said on X that it will show the phone on Nov 5; it has not said whether that is also the US on-sale date. Update Oct 31: a Signature 27 on Android 17 with 12GB of RAM appeared on Geekbench (3,313 single-core, 11,088 multi-core); Motorola has confirmed a 50MP Sony LYT 910 main camera, a 200MP periscope, a larger vapor chamber and seven years of OS updates, but still no US price or on-sale date. Update Nov 2: Motorola confirmed more specs through a sponsored preview with YouTuber Danny Winget, including a tandem OLED screen it rates at up to 12,000 nits peak, a 50MP Sony LYTIA main sensor with LOFIC, aluminum and ceramic materials and two Pantone colors. Price and US on-sale date are still expected on Nov 5.",
    "sources": [
+    {
+     "name": "Android Authority (official specs, Nov 2)",
+     "url": "https://www.androidauthority.com/motorola-signature-display-camera-specs-revealed-3730578/"
+    },
     {
      "name": "GSMArena (Geekbench)",
      "url": "https://www.gsmarena.com/motorola_signature_27_key_specs_geekbench-news-75301.php"
@@ -2862,7 +2882,7 @@
    "status": "Confirmed",
    "price": "",
    "summary": "Smart's two-seat electric successor to the ForTwo gets its full China launch on Nov 5, after a limited 112,999-yuan Couture Edition.",
-   "details": "Yiche reported the Nov 5 date citing official information, and Smart's own China media site and IT Home carry the same date. The #2 debuted at the Paris Motor Show on Oct 12, when Smart put 999 Couture Edition cars on sale in China at 112,999 yuan. It uses a 35.8 kWh CATL LFP battery (up to 410 km CLTC), a 60 kW motor and 10-80% charging in 20 minutes, rides on the Electric Compact Architecture designed for tiny EVs, and is built by Geely in China for China, Europe and other markets. Prices for the regular versions come at launch.",
+   "details": "Yiche reported the Nov 5 date citing official information, and Smart's own China media site and IT Home carry the same date. The #2 debuted at the Paris Motor Show on Oct 12, when Smart put 999 Couture Edition cars on sale in China at 112,999 yuan. It uses a 35.8 kWh CATL LFP battery (up to 410 km CLTC), a 60 kW motor and 10-80% charging in 20 minutes, rides on the Electric Compact Architecture designed for tiny EVs, and is built by Geely in China for China, Europe and other markets. Prices for the regular versions come at launch. Update Nov 2: Smart says the 999-unit European Couture Edition (from EUR 25,690) sold out within two weeks of early orders opening on Oct 13; the regular Pure, Pure+ and Premium versions start at EUR 19,990 in Germany, France and Italy, with European deliveries planned for mid Q2 2027 (WLTP range up to 290 km).",
    "sources": [
     {
      "name": "CnEVPost",
@@ -2875,6 +2895,74 @@
     {
      "name": "IT Home (Chinese)",
      "url": "https://www.ithome.com/1/016/818.htm"
+    },
+    {
+     "name": "smart Europe newsroom (Couture sold out)",
+     "url": "https://media.smart.com/en-CEU/273900-smart-2-couture-edition-sells-out-in-just-two-weeks-in-europe/"
+    },
+    {
+     "name": "electrive",
+     "url": "https://www.electrive.com/2026/11/02/smart-2-limited-edition-sells-out-prior-to-market-launch/"
+    }
+   ]
+  },
+  {
+   "id": "xiaomi-18-pro-global",
+   "name": "Xiaomi 18 Pro and 18 Pro Max (global launch)",
+   "brand": "Xiaomi",
+   "categories": [
+    "android"
+   ],
+   "type": "Phone",
+   "date": "2026-11-30",
+   "date_label": "November 2026 (global; day not announced)",
+   "precision": "window",
+   "status": "Confirmed",
+   "price": "",
+   "summary": "Xiaomi says its 18 Pro series, launched in China in September, goes global in November, the first time its Pro models leave China.",
+   "details": "The Xiaomi 18 Pro and 18 Pro Max launched in China on Sept 23 with dual 200MP Leica cameras, rear displays and Snapdragon 8 Elite Gen 6 chips (Extreme Gen 6 on the Pro Max). On Nov 2 Xiaomi said on X that the series is 'going global this November', without a date or prices. Last year only the standard Xiaomi 17 left China. European retailer listings point to smaller batteries and prices from about EUR 1,399; see the rumor tracker. Reports suggest India may get only the 18 Pro.",
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "url": "https://www.gizmochina.com/2026/11/02/xiaomi-18-pro-series-global-launch-november/"
+    },
+    {
+     "name": "GSMArena",
+     "url": "https://www.gsmarena.com/xiaomi_18_pro_series_is_going_global_this_month-news-75305.php"
+    }
+   ]
+  },
+  {
+   "id": "longcat-2-5",
+   "name": "Meituan LongCat-2.5",
+   "brand": "Meituan",
+   "categories": [
+    "ai"
+   ],
+   "type": "AI model",
+   "date": "2026-11-02",
+   "date_label": "Nov 2, 2026 (blog dated Nov 1)",
+   "precision": "day",
+   "status": "Released",
+   "price": "",
+   "summary": "Meituan's new 1.6-trillion-parameter multimodal model for long agentic coding tasks is live in its demo and API, with weights promised soon.",
+   "details": "LongCat-2.5 is a mixture-of-experts model with 1.6 trillion total parameters and about 48 billion active per token, built on LongCat-2.0 with native image understanding (images are turned into discrete tokens) and more long-horizon agent and coding training. Meituan says it was trained and served on domestic Chinese AI accelerators, including a 4-bit inference setup. Its own benchmark table compares it with GPT-5.6-Sol and Claude Opus 5; those are Meituan's numbers. The online demo and API are open now; Meituan says GitHub and Hugging Face weights will follow, and as of Nov 2 its Hugging Face page still tops out at LongCat-2.0.",
+   "sources": [
+    {
+     "name": "LongCat blog",
+     "url": "https://longcat.ai/blog/longcat-2.5/"
+    },
+    {
+     "name": "Meituan (Chinese)",
+     "url": "https://www.meituan.com/news/NN261102280001343"
+    },
+    {
+     "name": "AIBase",
+     "url": "https://news.aibase.com/news/32006"
+    },
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/11/02/meituan-launches-longcat-2-5-multimodal-ai-model-for-extended-coding-tasks/"
     }
    ]
   }

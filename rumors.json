@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02",
+ "updated": "2026-11-03",
  "scale": {
   "Confirmed": "Announced by the company or shown in an official source.",
   "Likely": "Multiple credible outlets or hard evidence (certifications, databases, supply chain), but no official word.",
@@ -388,10 +388,10 @@
     "chips"
    ],
    "status": "Active",
-   "updated": "2026-10-21",
-   "expected": "2028 or later (reported)",
+   "updated": "2026-11-03",
+   "expected": "Next Xbox 2028 (reported); PS6 launch undecided",
    "claim": "Sony's PS6 and Microsoft's next Xbox (Project Helix) will launch later than planned because of high memory prices.",
-   "why": "Sony's CEO said the PS6 launch date is still undecided because of the component shortage, and Microsoft's new CEO admitted the next Xbox is affected. The 2028-2029 timeframe for PS6 is a report, not a statement. On Oct 20 Fortune reported, citing people familiar with Microsoft's plans, that the Project Helix console is planned for 2028, with a next-gen Xbox handheld possibly by the end of 2027; see our separate price rumor.",
+   "why": "Sony's CEO said the PS6 launch date is still undecided because of the component shortage, and Microsoft's new CEO admitted the next Xbox is affected. The 2028-2029 timeframe for PS6 is a report, not a statement. On Oct 20 Fortune reported, citing people familiar with Microsoft's plans, that the Project Helix console is planned for 2028, with a next-gen Xbox handheld possibly by the end of 2027; see our separate price rumor. Update Nov 3 (reconciling with our PS6 reveal rumor): a separate insider claim puts a PS6 announcement in early March 2027. That does not contradict this rumor: an announcement says little about the launch date, and Sony still says the PS6 launch timing is undecided. We keep this Likely because both companies have tied their plans to the memory shortage, but the 2028-2029 PS6 window remains a report, not a fact.",
    "sources": [
     {
      "name": "TechRadar",
@@ -408,6 +408,10 @@
     {
      "name": "GameSpot (citing Fortune)",
      "url": "https://www.gamespot.com/articles/next-gen-xbox-could-be-1800-and-launch-in-2028-report/"
+    },
+    {
+     "name": "IBTimes UK (Nov 2)",
+     "url": "https://www.ibtimes.co.uk/playstation-6-march-2027-reveal-price-rumours-1829691"
     }
    ],
    "first_reported": "2025-12-29"
@@ -479,11 +483,15 @@
    ],
    "status": "Active",
    "first_reported": "2026-10-21",
-   "updated": "2026-10-22",
+   "updated": "2026-11-03",
    "expected": "Around the end of 2026 (leak)",
    "claim": "OnePlus is developing a Turbo Pro (possibly Turbo 7 Pro) with a new 3nm Snapdragon 8 Gen 5 Pro (SM8845 Pro), a 6.78-inch 1.5K 185Hz screen, a 200MP main camera and a 9,000mAh battery, launching around the end of the year.",
-   "why": "From Digital Chat Station, a prolific Weibo tipster with a decent record, in a post he later edited; Android Authority reported it. Qualcomm has not announced a Snapdragon 8 Gen 5 Pro, and OnePlus has not mentioned the phone. The timing is vague. GSMArena adds that the tipster also mentioned a clip-on external fan accessory, and that the screen, camera and battery match the OnePlus 16; the same SM8845 Pro chip is rumored for the iQOO Z12 Turbo/iQOO 16R.",
+   "why": "From Digital Chat Station, a prolific Weibo tipster with a decent record, in a post he later edited; Android Authority reported it. Qualcomm has not announced a Snapdragon 8 Gen 5 Pro, and OnePlus has not mentioned the phone. The timing is vague. GSMArena adds that the tipster also mentioned a clip-on external fan accessory, and that the screen, camera and battery match the OnePlus 16; the same SM8845 Pro chip is rumored for the iQOO Z12 Turbo/iQOO 16R. Update Nov 2: another Weibo tipster says a OnePlus Turbo 7 will use the unannounced 'Snapdragon 8 Gen 6' with a 200MP main camera and a 185Hz screen, and launch by the end of the year; GSMArena notes it may be the same phone. Similar details from a second tipster, but Qualcomm and OnePlus have announced nothing, so it stays a Rumor.",
    "sources": [
+    {
+     "name": "GSMArena (Turbo 7, Nov 2)",
+     "url": "https://www.gsmarena.com/oneplus_turbo_7_key_specs_leak_and_its_a_big_step_up-news-75314.php"
+    },
     {
      "name": "Android Authority",
      "url": "https://www.androidauthority.com/oneplus-turbo-snapdragon-8-gen-5-pro-3725410/"
@@ -837,14 +845,18 @@
     "android"
    ],
    "status": "Active",
-   "updated": "2026-10-18",
+   "updated": "2026-11-03",
    "expected": "Early 2027",
    "claim": "The Galaxy S27 Ultra will have 1.28mm screen bezels (vs 1.32mm on the S26 Ultra) and a 4.69mm camera bump, slightly thicker than today's.",
-   "why": "Measurements come from leaker Ice Universe, who has a good Samsung record, relayed by SamMobile. They fit separate case leaks showing a wide camera bar on the Pro and Ultra. Small, unverified numbers; Samsung has said nothing.",
+   "why": "Measurements come from leaker Ice Universe, who has a good Samsung record, relayed by SamMobile. They fit separate case leaks showing a wide camera bar on the Pro and Ultra. Small, unverified numbers; Samsung has said nothing. Update Nov 3: Android Headlines built a dummy from leaked CAD renders showing a camera bar moved higher (leaving room for magnetic accessories), the S Pen slot kept and dimensions of 163.76 x 78.25 x 7.97 mm, slightly larger than the S26 Ultra. A dummy only reflects the renders it is built from.",
    "sources": [
     {
      "name": "SamMobile (citing Ice Universe)",
      "url": "https://www.sammobile.com/news/galaxy-s27-ultra-slimmer-display-bezels-but-thicker-camera-housing/"
+    },
+    {
+     "name": "Gadgets360 (dummy leak)",
+     "url": "https://www.gadgets360.com/mobiles/news/samsung-galaxy-s27-ultra-dummy-unit-redesigned-camera-bar-dimensions-report-12276441"
     }
    ],
    "first_reported": "2026-10-15"
@@ -1400,11 +1412,15 @@
    ],
    "status": "Active",
    "first_reported": "2026-10-21",
-   "updated": "2026-11-01",
+   "updated": "2026-11-03",
    "expected": "Early November 2026 (China, leak; no date)",
    "claim": "Honor will launch three Honor 700 models in China in November; the 700 Pro has a 6.57-inch 1.5K screen, a 200MP main camera, a 50MP periscope telephoto, a 1.72-inch built-in rear display and a battery of about 9,000mAh.",
-   "why": "From Weibo tipsters relayed by GSMArena: one says the event is next month and the series has three models; Digital Chat Station has repeated the 200MP camera and rear screen since August. The timing fits Honor's six-month number-series cadence (the 600 launched in May), but Honor has announced nothing. On Oct 24 Digital Chat Station added details he says come from an engineering prototype (codename 'Flora'): a roughly 9,000mAh battery, a 50MP periscope on the Pro and four test colors, while calling the November timing tentative. More detail from the same tipster, so it stays a Rumor. Update Oct 28-Nov 1: two Honor 700 models (FAS-AN00 and FAA-AN00, thought to be the 700 and 700 Pro) passed China's 3C certification, with a tipster saying a third is pending, which usually means a launch within weeks. Tipster Dingjiao Shuma (via Kuai Keji, Oct 31) says the series launches in early November with actress Ju Jingyi as spokesperson, a Snapdragon chip, a periscope and support for a 200mm teleconverter. Certification plus several tipsters agreeing lifts the November timing to Likely; the 9,000mAh battery and exact specs still rest mainly on Digital Chat Station, and Honor has not announced a date.",
+   "why": "From Weibo tipsters relayed by GSMArena: one says the event is next month and the series has three models; Digital Chat Station has repeated the 200MP camera and rear screen since August. The timing fits Honor's six-month number-series cadence (the 600 launched in May), but Honor has announced nothing. On Oct 24 Digital Chat Station added details he says come from an engineering prototype (codename 'Flora'): a roughly 9,000mAh battery, a 50MP periscope on the Pro and four test colors, while calling the November timing tentative. More detail from the same tipster, so it stays a Rumor. Update Oct 28-Nov 1: two Honor 700 models (FAS-AN00 and FAA-AN00, thought to be the 700 and 700 Pro) passed China's 3C certification, with a tipster saying a third is pending, which usually means a launch within weeks. Tipster Dingjiao Shuma (via Kuai Keji, Oct 31) says the series launches in early November with actress Ju Jingyi as spokesperson, a Snapdragon chip, a periscope and support for a 200mm teleconverter. Certification plus several tipsters agreeing lifts the November timing to Likely; the 9,000mAh battery and exact specs still rest mainly on Digital Chat Station, and Honor has not announced a date. Update Nov 3: Honor CMO Guan Haitao officially announced the Honor 700 series on Weibo, confirmed the 'Flora' codename and said it debuts 'in winter', without a date. Tipster Wangzai Baishitong says the three models (700, 700 Pro and a Vitality Edition) launch this month. The series is now official; the November date and specs are still unconfirmed, so it stays Likely.",
    "sources": [
+    {
+     "name": "IT Home (Chinese, Nov 3)",
+     "url": "https://www.ithome.com/1/021/794.htm"
+    },
     {
      "name": "Huawei Central (3C certification)",
      "url": "https://www.huaweicentral.com/two-honor-700-phones-certified-inching-closer-to-november-launch/"
@@ -1940,11 +1956,15 @@
    ],
    "status": "Active",
    "first_reported": "2026-10-31",
-   "updated": "2026-10-31",
+   "updated": "2026-11-03",
    "expected": "Mid-December 2026 (Korea and US, reported)",
    "claim": "Samsung's display-free Intelligent Eyewear (Android XR, Gemini, Snapdragon AR1 Gen 1) goes on sale in mid-December in South Korea and the US first, with Europe, China and Japan later; pricing is not set.",
-   "why": "From a Korean media report relayed by GSMArena. It fits an earlier Korean report quoting a Samsung official on a November launch, and Samsung's playbook for the Galaxy XR headset (Korea and US first). Samsung has shown the glasses and their Gentle Monster and Warby Parker frames but has not given a date or price.",
+   "why": "From a Korean media report relayed by GSMArena. It fits an earlier Korean report quoting a Samsung official on a November launch, and Samsung's playbook for the Galaxy XR headset (Korea and US first). Samsung has shown the glasses and their Gentle Monster and Warby Parker frames but has not given a date or price. Update Nov 3: Android Authority relays the same Chosun Biz report (mid-December, Korea and US first, 'Intelligent Eyewear' name, other markets in 2027). That is wider coverage of one report, not a second source, so it stays a Rumor.",
    "sources": [
+    {
+     "name": "Android Authority (Nov 3)",
+     "url": "https://www.androidauthority.com/samsung-android-xr-smart-glasses-usa-available-3731079/"
+    },
     {
      "name": "GSMArena",
      "url": "https://www.gsmarena.com/heres_when_samsung_plans_to_release_its_android_xr_glasses_and_where-news-75290.php"
@@ -2140,10 +2160,10 @@
    ],
    "status": "Active",
    "first_reported": "2026-10-30",
-   "updated": "2026-11-02",
+   "updated": "2026-11-03",
    "expected": "Early March 2027 (insider claim)",
    "claim": "Sony's current roadmap targets a PlayStation 6 announcement in early March 2027.",
-   "why": "From PlayStation insider Millie A on X, who has a decent but mixed record, and who hedged it with 'as of today'. No second source. ComicBook reads it as pointing to a holiday 2027 release, which conflicts with Bloomberg-style reports that next-gen consoles may slip to 2028 or later (see our consoles-delay rumor); a reveal date says little on its own about launch timing. Sony has said nothing.",
+   "why": "From PlayStation insider Millie A on X, who has a decent but mixed record, and who hedged it with 'as of today'. No second source. ComicBook reads it as pointing to a holiday 2027 release, which conflicts with Bloomberg-style reports that next-gen consoles may slip to 2028 or later (see our consoles-delay rumor); a reveal date says little on its own about launch timing. Sony has said nothing. Update Nov 3: the Millie A post is dated Oct 29; the wider coverage since then (IBTimes, regional outlets) all traces back to it, so there is still one source. Reconciled with our consoles-delay rumor: a March 2027 reveal could still precede a 2028 launch, so we treat the two as compatible and keep this a Rumor. Sony has not commented.",
    "sources": [
     {
      "name": "ComicBook.com",
@@ -2152,6 +2172,79 @@
     {
      "name": "GamingBible",
      "url": "https://www.gamingbible.com/news/platform/playstation/playstation-6-reveal-month-set-520763-20261102"
+    },
+    {
+     "name": "IBTimes UK",
+     "url": "https://www.ibtimes.co.uk/playstation-6-march-2027-reveal-price-rumours-1829691"
+    }
+   ]
+  },
+  {
+   "id": "oneplus-16t-specs",
+   "title": "OnePlus 16T is a compact phone with a Dimensity 9600M and two 200MP cameras",
+   "rating": "Rumor",
+   "categories": [
+    "android"
+   ],
+   "status": "Active",
+   "first_reported": "2026-11-03",
+   "updated": "2026-11-03",
+   "expected": "2027 (no date leaked)",
+   "claim": "A compact Oppo-made phone will launch outside China as the OnePlus 16T with a 6.35-inch 1.5K 120Hz LTPO screen, MediaTek's 3nm Dimensity 9600M, a 200MP main camera and a 200MP periscope, a metal frame under 9mm and a battery of about 7,000mAh with 80W charging.",
+   "why": "From Digital Chat Station on Weibo, relayed by tipster Debayan Roy and Gadgets360. The tipster has a good record on Chinese phones, but the OnePlus naming is his interpretation and neither OnePlus nor MediaTek (which has not announced a Dimensity 9600M) has said anything. The OnePlus 15T launched in China in March with Snapdragon and dual 50MP cameras, so the chip switch would be a notable change.",
+   "sources": [
+    {
+     "name": "Gadgets360",
+     "url": "https://www.gadgets360.com/mobiles/news/oneplus-16t-display-chipset-camera-specifications-leak-12275199"
+    }
+   ]
+  },
+  {
+   "id": "galaxy-a38-6000mah",
+   "title": "Galaxy A38 gets a 6,000mAh battery, the A30 series' first upgrade in six years",
+   "rating": "Rumor",
+   "categories": [
+    "samsung",
+    "android"
+   ],
+   "status": "Active",
+   "first_reported": "2026-11-03",
+   "updated": "2026-11-03",
+   "expected": "Early 2027 (Galaxy A38 launch, no date)",
+   "claim": "The Galaxy A38's battery is rated at 5,882mAh, likely marketed as 6,000mAh, up from the 5,000mAh the A30 line has used since the Galaxy A31; charging likely stays at 45W.",
+   "why": "From Dutch site Galaxy Club, which often reports Samsung battery ratings from certification and supply data, relayed by Android Authority and SamMobile. It fits reports of bigger batteries across Samsung's 2027 lineup. The 45W figure is an inference from the A37 and A58, not part of the leak. Samsung has said nothing.",
+   "sources": [
+    {
+     "name": "Android Authority",
+     "url": "https://www.androidauthority.com/samsung-galaxy-a38-battery-leak-3731131/"
+    },
+    {
+     "name": "SamMobile",
+     "url": "https://www.sammobile.com/news/galaxy-a38-battery-capacity-leaks/"
+    }
+   ]
+  },
+  {
+   "id": "apple-hmo-oled-backplane",
+   "title": "Apple moves future Mac OLED screens to a cheaper high-mobility oxide (HMO) backplane",
+   "rating": "Rumor",
+   "categories": [
+    "apple"
+   ],
+   "status": "Active",
+   "first_reported": "2026-11-03",
+   "updated": "2026-11-03",
+   "expected": "No timeline (future MacBooks and iMacs)",
+   "claim": "Apple is evaluating ways to mass-produce high-mobility oxide (HMO) TFT backplanes for future OLED panels, possibly as a successor to LTPO, with Samsung Display and LG Display favoring a cheaper sputtering process over atomic layer deposition.",
+   "why": "From Korean outlet The Elec, relayed by MacRumors; analyst Ross Young says HMO is already used in the new touchscreen MacBook Pro. The Elec has good supply-chain sources but its timelines often slip, and the report names no product or date: MacBooks and iMacs are only listed as possible uses. Apple has said nothing.",
+   "sources": [
+    {
+     "name": "MacRumors",
+     "url": "https://www.macrumors.com/2026/11/03/apple-exploring-next-gen-oled-tech-macs/"
+    },
+    {
+     "name": "The Elec",
+     "url": "https://www.thelec.net/news/articleView.html?idxno=15206"
     }
    ]
   }

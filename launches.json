@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02",
+ "updated": "2026-11-03",
  "items": [
   {
    "id": "gtc-berlin-2026",
@@ -728,7 +728,7 @@
    "status": "Confirmed",
    "price": "Free",
    "summary": "Apple missed its October target: the first Apple Intelligence features for China start testing in the iOS developer beta on Nov 4 and reach users with iOS 27.3 in December.",
-   "details": "Tim Cook said on Oct 15 that a beta would reach China in October; it did not. On Oct 31 (China time) Apple's China Newsroom said testing starts Nov 4 with the latest iOS developer beta, which MacRumors expects to be iOS 27.3 beta 1, likely Nov 3 in the US. The first wave is iPhone-only (iPhone 15 Pro and later, iPhone Air, iPhone Duo) with Siri and device language set to English or Simplified Chinese, and covers Live Translation, Writing Tools, Visual Intelligence, Clean Up, Genmoji, notification and mail summaries, Priority Notifications, Smart Reply and Type to Siri. Alibaba's Qwen plugs into Siri, Writing Tools and Visual Intelligence. Siri AI, Image Playground and the newer WWDC 2026 features are not included, and Mac, iPad and other devices wait on further approvals.",
+   "details": "Tim Cook said on Oct 15 that a beta would reach China in October; it did not. On Oct 31 (China time) Apple's China Newsroom said testing starts Nov 4 with the latest iOS developer beta, which MacRumors expects to be iOS 27.3 beta 1, likely Nov 3 in the US. The first wave is iPhone-only (iPhone 15 Pro and later, iPhone Air, iPhone Duo) with Siri and device language set to English or Simplified Chinese, and covers Live Translation, Writing Tools, Visual Intelligence, Clean Up, Genmoji, notification and mail summaries, Priority Notifications, Smart Reply and Type to Siri. Alibaba's Qwen plugs into Siri, Writing Tools and Visual Intelligence. Siri AI, Image Playground and the newer WWDC 2026 features are not included, and Mac, iPad and other devices wait on further approvals. Update Nov 3: as of early morning Pacific time Apple had not yet posted the iOS 27.3 beta (Apple's developer releases page still tops out at iOS 27.2); MacRumors expects it later on Nov 3. Separately, Apple is testing a bug-fix iOS 27.2.1.",
    "sources": [
     {
      "name": "Apple Newsroom China (Chinese)",
@@ -753,6 +753,10 @@
     {
      "name": "9to5Mac",
      "url": "https://9to5mac.com/2026/10/30/apple-confirms-ios-27-3-beta-is-coming-next-week-with-apple-intelligence-in-china/"
+    },
+    {
+     "name": "MacRumors (Nov 2)",
+     "url": "https://www.macrumors.com/2026/11/02/ios-27-2-1-and-ios-27-3-beta-coming-soon/"
     }
    ]
   },
@@ -2018,7 +2022,7 @@
    "status": "Confirmed",
    "price": "Free (open weights; license not yet announced)",
    "summary": "Moonshot says it will publish the full Kimi K3.1 Pro model weights by Nov 4.",
-   "details": "Moonshot released Kimi K3.1 Pro in its apps and API on Oct 23 and committed to releasing the full weights by Nov 4. The license terms have not been announced. As of Nov 1 there was still no K3.1 Pro repository on Moonshot's Hugging Face page (only the earlier Kimi K3). Checked again Nov 2 (about 14:00 UTC): Moonshot's newest Hugging Face repository is still Kimi K3 (last updated Sept 2); no K3.1 Pro weights yet.",
+   "details": "Moonshot released Kimi K3.1 Pro in its apps and API on Oct 23 and committed to releasing the full weights by Nov 4. The license terms have not been announced. As of Nov 1 there was still no K3.1 Pro repository on Moonshot's Hugging Face page (only the earlier Kimi K3). Checked again Nov 2 (about 14:00 UTC): Moonshot's newest Hugging Face repository is still Kimi K3 (last updated Sept 2); no K3.1 Pro weights yet. Checked again Nov 3 (about 14:00 UTC): still no K3.1 Pro repository; Moonshot's newest Hugging Face model is Kimi K3 (Sept 2). The deadline is Nov 4 with no time zone given, so we will check again next run before marking it Released or late.",
    "sources": [
     {
      "name": "Kimi blog",
@@ -2275,7 +2279,7 @@
    "status": "Confirmed",
    "price": "From $699 (Wi-Fi), $849 (Wi-Fi + Cellular)",
    "summary": "Apple's first OLED iPad mini, announced Oct 26 with an 8.5-inch screen, A20 Pro and IP67 water resistance, opens for pre-order Oct 28 and ships Nov 6.",
-   "details": "Apple calls it the iPad mini's biggest update: an 8.5-inch OLED display (up to 1,200 nits peak, optional nano-texture on 256GB and 512GB models for $100 more), a 5.4 mm body with 24% thinner bezels, the 2nm A20 Pro, IP67 water and dust resistance (a first for an iPad), an 'Acoustic Display' speaker system, a landscape 12MP Center Stage front camera, Apple's N1 chip (Wi-Fi 7, Bluetooth 6) and C2 modem on cellular models. The 512GB model gets a 6-core CPU and a dual 16-core Neural Engine; 128GB and 256GB models get a 5-core CPU. There is still no ProMotion. Colors are midnight and starlight. The $699 start is $100 above the previous model. Pre-orders open Oct 28 at 10:10 a.m. PT in 36 countries and regions. As of Oct 29, AppleInsider reports most models still ship Nov 6; only cellular models with nano-texture slip, to 2-3 weeks.",
+   "details": "Apple calls it the iPad mini's biggest update: an 8.5-inch OLED display (up to 1,200 nits peak, optional nano-texture on 256GB and 512GB models for $100 more), a 5.4 mm body with 24% thinner bezels, the 2nm A20 Pro, IP67 water and dust resistance (a first for an iPad), an 'Acoustic Display' speaker system, a landscape 12MP Center Stage front camera, Apple's N1 chip (Wi-Fi 7, Bluetooth 6) and C2 modem on cellular models. The 512GB model gets a 6-core CPU and a dual 16-core Neural Engine; 128GB and 256GB models get a 5-core CPU. There is still no ProMotion. Colors are midnight and starlight. The $699 start is $100 above the previous model. Pre-orders open Oct 28 at 10:10 a.m. PT in 36 countries and regions. As of Oct 29, AppleInsider reports most models still ship Nov 6; only cellular models with nano-texture slip, to 2-3 weeks. Update Nov 3: the first full reviews are out (Engadget, The Verge, 9to5Mac), praising the OLED screen and A20 Pro while flagging the higher price and the lack of ProMotion.",
    "sources": [
     {
      "name": "Apple Newsroom",
@@ -2292,6 +2296,10 @@
     {
      "name": "AppleInsider (ship times)",
      "url": "https://appleinsider.com/articles/26/10/29/when-to-expect-your-pre-ordered-apple-devices-to-ship"
+    },
+    {
+     "name": "Engadget (review)",
+     "url": "https://www.engadget.com/2304616/apple-ipad-mini-a20-pro-review/"
     }
    ]
   },
@@ -2792,7 +2800,7 @@
    "status": "Confirmed",
    "price": "Free",
    "summary": "Apple says iOS 27.3 ships to the public in December, bringing the first Apple Intelligence features to iPhones in China; the first developer beta lands Nov 3-4.",
-   "details": "Apple confirmed the timing in an Oct 30-31 China Newsroom release, an unusual step for a point update. The beta starts Nov 4 China time (likely Nov 3 in the US, per MacRumors). Apple gave no exact December day. The China features exclude Siri AI and Image Playground; other iOS 27.3 changes have not been detailed.",
+   "details": "Apple confirmed the timing in an Oct 30-31 China Newsroom release, an unusual step for a point update. The beta starts Nov 4 China time (likely Nov 3 in the US, per MacRumors). Apple gave no exact December day. The China features exclude Siri AI and Image Playground; other iOS 27.3 changes have not been detailed. Update Nov 3: as of early morning Pacific time Apple had not yet posted the iOS 27.3 beta (Apple's developer releases page still tops out at iOS 27.2); MacRumors expects it later on Nov 3. Separately, Apple is testing a bug-fix iOS 27.2.1.",
    "sources": [
     {
      "name": "MacRumors",
@@ -2805,6 +2813,10 @@
     {
      "name": "The Verge",
      "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3"
+    },
+    {
+     "name": "MacRumors (Nov 2)",
+     "url": "https://www.macrumors.com/2026/11/02/ios-27-2-1-and-ios-27-3-beta-coming-soon/"
     }
    ]
   },
@@ -2822,7 +2834,7 @@
    "status": "Confirmed",
    "price": "",
    "summary": "Oppo opened blind reservations in China for the Reno17 phones and confirmed a November launch alongside the Pad Air 6 tablet and Watch 5.",
-   "details": "Announced on Oppo's Weibo on Oct 30 without a date, prices or specs. Leaks point to a Reno17 and Reno17 Pro in China on ColorOS 17 (Android 17); Digital Chat Station tips the Pro with a 6.32-inch 1.5K 120Hz OLED, Dimensity 8550 Super, a 200MP main camera, 50MP periscope and about 7,000mAh, but those specs are unconfirmed.",
+   "details": "Announced on Oppo's Weibo on Oct 30 without a date, prices or specs. Leaks point to a Reno17 and Reno17 Pro in China on ColorOS 17 (Android 17); Digital Chat Station tips the Pro with a 6.32-inch 1.5K 120Hz OLED, Dimensity 8550 Super, a 200MP main camera, 50MP periscope and about 7,000mAh, but those specs are unconfirmed. Update Nov 3: Digital Chat Station now tips the Reno17 with a 6.5-inch screen, Snapdragon 7 Gen 4 and an 8,000mAh-class battery, and the Reno17 Pro with a 6.3-inch screen, Dimensity 8550 and a 7,200mAh-class battery; both reportedly get a 50MP periscope, in 8GB/256GB to 12GB/512GB versions. Still a leak; Oppo has confirmed only a November launch.",
    "sources": [
     {
      "name": "Notebookcheck",
@@ -2835,6 +2847,10 @@
     {
      "name": "91mobiles",
      "url": "https://www.91mobiles.com/hub/oppo-reno-17-pad-air-6-watch-5-china-launch-confirmed/"
+    },
+    {
+     "name": "Gizmochina (Nov 3 leak)",
+     "url": "https://www.gizmochina.com/2026/11/03/oppo-reno-17-reno-17-pro-specs-memory-options-and-colors-leak-ahead-of-launch/"
     }
    ]
   },
@@ -2920,7 +2936,7 @@
    "status": "Confirmed",
    "price": "",
    "summary": "Xiaomi says its 18 Pro series, launched in China in September, goes global in November, the first time its Pro models leave China.",
-   "details": "The Xiaomi 18 Pro and 18 Pro Max launched in China on Sept 23 with dual 200MP Leica cameras, rear displays and Snapdragon 8 Elite Gen 6 chips (Extreme Gen 6 on the Pro Max). On Nov 2 Xiaomi said on X that the series is 'going global this November', without a date or prices. Last year only the standard Xiaomi 17 left China. European retailer listings point to smaller batteries and prices from about EUR 1,399; see the rumor tracker. Reports suggest India may get only the 18 Pro.",
+   "details": "The Xiaomi 18 Pro and 18 Pro Max launched in China on Sept 23 with dual 200MP Leica cameras, rear displays and Snapdragon 8 Elite Gen 6 chips (Extreme Gen 6 on the Pro Max). On Nov 2 Xiaomi said on X that the series is 'going global this November', without a date or prices. Last year only the standard Xiaomi 17 left China. European retailer listings point to smaller batteries and prices from about EUR 1,399; see the rumor tracker. Reports suggest India may get only the 18 Pro. Update Nov 3: Xiaomi president Lu Weibing repeated the November timing on Weibo; still no date, markets or prices.",
    "sources": [
     {
      "name": "Gizmochina",
@@ -2929,6 +2945,10 @@
     {
      "name": "GSMArena",
      "url": "https://www.gsmarena.com/xiaomi_18_pro_series_is_going_global_this_month-news-75305.php"
+    },
+    {
+     "name": "AnTuTu (Lu Weibing post, Chinese)",
+     "url": "https://www.antutu.com/doc/138236"
     }
    ]
   },
@@ -2946,7 +2966,7 @@
    "status": "Released",
    "price": "",
    "summary": "Meituan's new 1.6-trillion-parameter multimodal model for long agentic coding tasks is live in its demo and API, with weights promised soon.",
-   "details": "LongCat-2.5 is a mixture-of-experts model with 1.6 trillion total parameters and about 48 billion active per token, built on LongCat-2.0 with native image understanding (images are turned into discrete tokens) and more long-horizon agent and coding training. Meituan says it was trained and served on domestic Chinese AI accelerators, including a 4-bit inference setup. Its own benchmark table compares it with GPT-5.6-Sol and Claude Opus 5; those are Meituan's numbers. The online demo and API are open now; Meituan says GitHub and Hugging Face weights will follow, and as of Nov 2 its Hugging Face page still tops out at LongCat-2.0.",
+   "details": "LongCat-2.5 is a mixture-of-experts model with 1.6 trillion total parameters and about 48 billion active per token, built on LongCat-2.0 with native image understanding (images are turned into discrete tokens) and more long-horizon agent and coding training. Meituan says it was trained and served on domestic Chinese AI accelerators, including a 4-bit inference setup. Its own benchmark table compares it with GPT-5.6-Sol and Claude Opus 5; those are Meituan's numbers. The online demo and API are open now; Meituan says GitHub and Hugging Face weights will follow, and as of Nov 2 its Hugging Face page still tops out at LongCat-2.0. Checked Nov 3 (about 14:00 UTC): Meituan's Hugging Face organization still has no LongCat-2.5 repository.",
    "sources": [
     {
      "name": "LongCat blog",
@@ -2963,6 +2983,81 @@
     {
      "name": "TechNode",
      "url": "https://technode.com/2026/11/02/meituan-launches-longcat-2-5-multimodal-ai-model-for-extended-coding-tasks/"
+    },
+    {
+     "name": "Tech Times (Nov 3)",
+     "url": "https://www.techtimes.com/articles/329925/20261103/meituan-releases-longcat-25-chinese-chips-benchmark-claims-await-independent-tests.htm"
+    }
+   ]
+  },
+  {
+   "id": "redmagic-12-pro-global",
+   "name": "RedMagic 12 Pro (global)",
+   "brand": "RedMagic",
+   "categories": [
+    "android",
+    "gaming"
+   ],
+   "type": "Phone",
+   "date": "2026-11-18",
+   "date_label": "Nov 18, 2026 (open sales; early-bird orders Nov 17)",
+   "precision": "day",
+   "status": "Confirmed",
+   "price": "From $949 (North America), EUR 899, GBP 799",
+   "summary": "RedMagic's liquid-cooled gaming phone with RGB lighting, a 185Hz screen and an 8,400mAh battery goes on sale worldwide Nov 18.",
+   "details": "Announced globally on Nov 3 as the international version of China's RedMagic 12 Pro+. It has the Snapdragon 8 Elite Extreme Gen 6, a 6.85-inch 1.5K 185Hz OLED with an under-display 16MP selfie camera, RGB-lit dual-loop liquid cooling plus a fan, an 8,400mAh battery, 50MP main and ultrawide cameras, and IP68/IP69 ratings. The global model charges at 80W (120W in China). Prices are about EUR 200 higher than last year's RedMagic 11 Pro, and the top model drops from 24GB to 16GB of RAM. Early-bird vouchers sell Nov 12-17, voucher holders can order Nov 17, and open sales start Nov 18 in North America, most of the EU, the UK and parts of Asia Pacific, the Middle East and Latin America.",
+   "sources": [
+    {
+     "name": "GSMArena",
+     "url": "https://www.gsmarena.com/redmagic_12_pro_brings_its_rgb_liquid_cooling_and_185hz_screen_to_the_global_market-news-75316.php"
+    },
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/gadgets/1024504/redmagic-12-pro-liquid-cooling-rgb-lighting-185hz-camera"
+    }
+   ]
+  },
+  {
+   "id": "stellar-blade-switch-2",
+   "name": "Stellar Blade Complete Edition (Switch 2)",
+   "brand": "Shift Up",
+   "categories": [
+    "gaming"
+   ],
+   "type": "Game",
+   "date": "2026-11-05",
+   "date_label": "Nov 5, 2026, 07:00 PT (Nov 6 in Korea and Japan)",
+   "precision": "day",
+   "status": "Confirmed",
+   "price": "$59.99",
+   "summary": "Shift Up's action game comes to Nintendo Switch 2 with all its DLC, plus free Bayonetta outfits on every platform.",
+   "details": "Releases worldwide at the same moment: Nov 6 at 00:00 KST/JST, which is Nov 5 at 07:00 PT. The Complete Edition bundles the NieR:Automata and Goddess of Victory: Nikke collaborations and extra cosmetics. The physical cartridge holds the full game (not a game-key card). Four Bayonetta-inspired outfits arrive free on Switch 2, PS5 and PC the same day.",
+   "sources": [
+    {
+     "name": "Shift Up press release (Games Press)",
+     "url": "https://www.gamespress.com/STELLAR-BLADE-COMPLETE-EDITION-CONFIRMS-NOVEMBER-5-RELEASE-DATE-ON-NIN"
+    }
+   ]
+  },
+  {
+   "id": "gac-aion-ray-7",
+   "name": "GAC Aion Ray 7 (China)",
+   "brand": "GAC Aion",
+   "categories": [
+    "evs"
+   ],
+   "type": "Car",
+   "date": "2026-11-12",
+   "date_label": "Nov 12, 2026 (China)",
+   "precision": "day",
+   "status": "Confirmed",
+   "price": "Pre-sale 128,800-158,800 yuan (about $19,200-23,700)",
+   "summary": "GAC Aion's low-drag electric fastback with Huawei lidar and drive hardware officially launches in China on Nov 12.",
+   "details": "Pre-sales began Oct 17 with five trims. The 4.96-meter sedan has a 0.22 drag coefficient, a Huawei DriveONE drive unit and a driver-assist system with a Huawei 192-line lidar and 27 sensors, using software derived from WeRide's robotaxi work. It uses LFP batteries in two sizes, rated at 530 km or 702 km CLTC. Final prices come at launch.",
+   "sources": [
+    {
+     "name": "CarNewsChina",
+     "url": "https://carnewschina.com/2026/11/03/gac-aions-half-priced-xiaomi-su7-ray-7-set-for-november-12-launch/"
     }
    ]
   }

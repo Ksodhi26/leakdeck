@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T14:08:00Z",
+ "updated": "2026-11-04T14:26:00Z",
  "sources": [
   "9to5Google",
   "9to5Mac",
@@ -22,6 +22,39 @@
  ],
  "count": 600,
  "items": [
+  {
+   "id": "76f3bbbf93e9",
+   "title": "Microsoft boasts Windows 11 is now up to 40% faster for multi-tasking",
+   "url": "https://www.techradar.com/computing/windows/microsoft-boasts-windows-11-is-now-up-to-40-percent-faster-for-multi-tasking-as-latest-update-packs-a-big-speed-boost-for-8gb-pcs",
+   "source": "TechRadar",
+   "published": "2026-11-04T14:20:37Z",
+   "categories": [
+    "chips"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "f0c6c94b66ad",
+   "title": "This Startup Is Turning Used E-Bike Batteries Into Affordable Energy Storage",
+   "url": "https://insideevs.com/news/814389/e-bike-e-scooter-second-life-batteries-energy-storage/",
+   "source": "InsideEVs",
+   "published": "2026-11-04T14:15:16Z",
+   "categories": [
+    "evs"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "d4867a6b801a",
+   "title": "Call of Duty: Modern Warfare 4 composer says to capture the tone of multiplayer maps, 'you have to play a lot of multiplayer' as 'it's a completely different vibe from the campaign' — 'I was trying to capture forward momentum and pure adrenaline'",
+   "url": "https://www.techradar.com/gaming/call-of-duty-modern-warfare-4-composer-says-to-capture-the-tone-of-multiplayer-maps-you-have-to-play-a-lot-of-multiplayer-as-its-a-completely-different-vibe-from-the-campaign-i-was-trying-to-capture-forward-momentum-and-pure-adrenaline",
+   "source": "TechRadar",
+   "published": "2026-11-04T14:07:44Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
   {
    "id": "338de703ca35",
    "title": "Snapped a photo of an event poster? Google Photos could soon add it to your calendar",
@@ -120,7 +153,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "Gurman expects Apple to drop the non-touch high-end MacBook Pros over time, with M7 touchscreen models coming in 2027."
   },
   {
    "id": "a2317cced720",
@@ -165,7 +199,8 @@
    "categories": [
     "gaming"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "A Ubisoft deal for Arkane could rescue Marvel's Blade, which depends on the studio finding a buyer."
   },
   {
    "id": "ef53c4638db2",
@@ -285,7 +320,8 @@
     "chips",
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "AMD expects to pass Intel in total revenue for the first time by the end of 2026."
   },
   {
    "id": "73429a3afe26",
@@ -306,7 +342,8 @@
     "apple",
     "chips"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "Another Weibo leaker says the only iPhone 18e upgrade they can confirm so far is a new chip."
   },
   {
    "id": "f229ff97802e",
@@ -340,7 +377,8 @@
     "chips",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Shipping records suggest the S27 Pro misses out on Qualcomm's top Extreme chip, while the S27 and S27+ use Exynos 2700 in Europe."
   },
   {
    "id": "ed2bc0c6a5b3",
@@ -387,7 +425,8 @@
    "categories": [
     "android"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "Honor is reportedly testing a 15,000mAh battery, though no phone, date or global launch is attached."
   },
   {
    "id": "ad88af003402",
@@ -474,7 +513,8 @@
     "android",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Samsung's unannounced Galaxy T1 ear-hook sports earbuds clear the FCC, adding the US to their list of certifications."
   },
   {
    "id": "f4ab06976b60",
@@ -845,7 +885,8 @@
     "chips",
     "samsung"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "A trade-database leak points to a three-chip Galaxy S27 lineup, with the Pro a step below the Ultra."
   },
   {
    "id": "0be2b1efcf3a",
@@ -1057,7 +1098,8 @@
     "chips",
     "samsung"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "Trade records list the Galaxy S27 Pro with the regular Snapdragon 8 Elite Gen 6, saving the Extreme chip for the Ultra."
   },
   {
    "id": "ce8e8808d496",
@@ -1211,7 +1253,8 @@
    "categories": [
     "chips"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "AMD posts its biggest and most profitable quarter yet, driven by data center chips."
   },
   {
    "id": "46d2f9239253",
@@ -1246,7 +1289,8 @@
     "apple",
     "chips"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Apple forecasts record holiday-quarter revenue but warns that rising memory prices will squeeze its margins."
   },
   {
    "id": "457117171966",
@@ -1447,7 +1491,8 @@
     "android",
     "samsung"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "Tipster Lanzuk says both 2027 Fold9 models reuse their predecessors' rear cameras."
   },
   {
    "id": "1419244ec8b5",
@@ -1608,7 +1653,8 @@
    "source": "Engadget",
    "published": "2026-11-03T22:43:06Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "Meta says the Quest 2 and Quest Pro will get no new features going forward."
   },
   {
    "id": "f11d9a22fb66",
@@ -1660,7 +1706,8 @@
    "categories": [
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Valve is changing Steam's review process to cope with a big jump in game submissions."
   },
   {
    "id": "434e9abae2e0",
@@ -1671,7 +1718,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "A Sonos app update adds Presets now, with the 27voice waitlist opening Nov 6 and access from Nov 12."
   },
   {
    "id": "9813f04c722d",
@@ -1704,7 +1752,8 @@
    "categories": [
     "evs"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "BYD's flagship luxury sedan, rated for over 1,000 km, passed 4,000 sales in its first 19 days."
   },
   {
    "id": "cd653a114537",
@@ -1715,7 +1764,8 @@
    "categories": [
     "gaming"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "Bloomberg reports Ubisoft and at least two other companies have bid for Arkane, the Blade studio Xbox wants to divest."
   },
   {
    "id": "d9e0be6ab377",
@@ -1737,7 +1787,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Apple's CEO says iPhone Duo supply will stay tight for the foreseeable future."
   },
   {
    "id": "4b4f12494f5d",
@@ -1947,7 +1998,8 @@
     "ai",
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Xcode 27.3 lets developers pick GitHub Copilot inside Apple's built-in coding assistant."
   },
   {
    "id": "4f294a1eab83",
@@ -1977,7 +2029,8 @@
     "ai",
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "OpenAI claims ChatGPT now handles roughly a fifth of Google Search's query volume."
   },
   {
    "id": "389190ea9068",
@@ -1997,7 +2050,8 @@
    "source": "Engadget",
    "published": "2026-11-03T20:48:49Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "Sonos opens US early access sign-ups for its 27voice assistant on Nov 6."
   },
   {
    "id": "2f70d6c369eb",
@@ -2030,7 +2084,8 @@
     "apple",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Galaxy Z Fold8 sales reportedly rose about 20% in a week as iPhone Duo buyers face shortages."
   },
   {
    "id": "a1859e1db8ab",
@@ -2042,7 +2097,8 @@
     "ai",
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Google says schools that turn off its AI tools for students will lose access to Search as well."
   },
   {
    "id": "6336e6887a72",
@@ -2117,7 +2173,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "The iPhone Duo's reworked StandBy mode comes to iPhone 11 and later in iOS 27.3."
   },
   {
    "id": "81c1184c73b5",
@@ -2160,7 +2217,8 @@
     "chips",
     "gaming"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "BenchLife now says the rumored 24GB RTX 5080 will very likely miss January, while GPU street prices keep climbing."
   },
   {
    "id": "977a0b47d385",
@@ -2205,7 +2263,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Safari in iOS 27.3 adds optional vertical tabs and a dark mode that adapts web pages."
   },
   {
    "id": "285a148b5739",
@@ -2260,7 +2319,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "iOS 27.3 beta 1 delivers the long-delayed Apple Intelligence rollout for China, ahead of a planned December public release."
   },
   {
    "id": "5189c3ca7ac6",
@@ -2348,7 +2408,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Developers in China can now switch on Apple Intelligence in the iOS 27.3 beta, with Alibaba's Qwen behind Siri, Writing Tools and Visual Intelligence; Siri AI is still left out."
   },
   {
    "id": "0c624eea0a01",
@@ -2359,7 +2420,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "watchOS 27.3 beta brings Live Rewind and Siri Recap, Apple's AI tools for replaying and summarizing conversations on the Watch."
   },
   {
    "id": "7cd045000db0",
@@ -2461,7 +2523,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "A running list of iOS 27.3 beta 1 changes, from Siri AI upgrades and a new Health app to Safari vertical tabs."
   },
   {
    "id": "4414b4d623b7",
@@ -2483,7 +2546,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "The redesigned Health app returns in the iOS 27.3 beta."
   },
   {
    "id": "232ae251da0b",
@@ -2495,7 +2559,8 @@
     "android",
     "samsung"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "China's 3C certification shows the Galaxy A58 sticking with 45W charging and no charger in the box."
   },
   {
    "id": "451466c5c41e",
@@ -2559,7 +2624,8 @@
    "categories": [
     "evs"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Despite criticism of its design, Ferrari's first EV, the Luce, is already sold out for 2027."
   },
   {
    "id": "ce484203ac9e",
@@ -2757,7 +2823,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "The first macOS Golden Gate 27.3 beta arrives alongside the iOS 27.3 beta."
   },
   {
    "id": "3dc504bc5934",
@@ -2779,7 +2846,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Apple's first iOS 27.3 developer beta is out, a day before the China AI testing date Apple had promised."
   },
   {
    "id": "467189d4ef80",
@@ -2813,7 +2881,8 @@
     "android",
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "The $50 Xbox Nano Controller launches this week and can connect to Xbox Cloud Gaming over Wi-Fi in a preview mode."
   },
   {
    "id": "f9919ee08d71",
@@ -2869,7 +2938,8 @@
    "categories": [
     "evs"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Tesla's driver assistance in Europe will now allow only 10% over the speed limit, down from 50%."
   },
   {
    "id": "b121628aeba0",
@@ -2925,7 +2995,8 @@
    "categories": [
     "android"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "Digital Chat Station says Honor is trial-producing a 14,000-15,000mAh battery meant for a phone that lasts a week."
   },
   {
    "id": "8c545828fb18",
@@ -3376,7 +3447,8 @@
     "ai",
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Apple's App Store now limits dating apps and AI companion apps to users 18 and older."
   },
   {
    "id": "70919f68b3d6",
@@ -3466,7 +3538,8 @@
    "categories": [
     "chips"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Intel's 14A process reaches PDK 0.9, a design-kit milestone ahead of version 1.0 in 2027."
   },
   {
    "id": "82a8324c6871",
@@ -3560,7 +3633,8 @@
    "categories": [
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Bethesda names the next Elder Scrolls game Sentinel and points to Hammerfell, but says more details are a long way off."
   },
   {
    "id": "13f52f928ec9",
@@ -4241,7 +4315,8 @@
     "ai",
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Gemini 4 Carbon tops Artificial Analysis' intelligence and hallucination rankings, though access is still limited to cyber defenders."
   },
   {
    "id": "20167e1da2b1",
@@ -6658,39 +6733,6 @@
    "published": "2026-11-02T17:24:44Z",
    "categories": [
     "evs"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "e3a735c05dfc",
-   "title": "Mark Gurman: Apple Initially Aimed to Release iPhone Duo in November",
-   "url": "https://www.macrumors.com/2026/11/02/iphone-duo-november/",
-   "source": "MacRumors",
-   "published": "2026-11-02T17:24:22Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "3ba595f294e1",
-   "title": "Apple plans to refresh three iPads in the first half of 2027",
-   "url": "https://www.gsmarena.com/apple_plans_to_refresh_three_ipads_in_the_first_half_of_2027-news-75312.php",
-   "source": "GSMArena",
-   "published": "2026-11-02T17:21:02Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "2507b5d5eb00",
-   "title": "Gemini could be poking through your emails - here's how to stop it",
-   "url": "https://www.engadget.com/2300353/google-gemini-poking-through-email-how-to-stop/",
-   "source": "Engadget",
-   "published": "2026-11-02T17:15:00Z",
-   "categories": [
-    "ai"
    ],
    "rumor": false
   }

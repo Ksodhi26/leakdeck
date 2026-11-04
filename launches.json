@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03",
+ "updated": "2026-11-04",
  "items": [
   {
    "id": "gtc-berlin-2026",
@@ -723,13 +723,17 @@
    ],
    "type": "Software",
    "date": "2026-11-04",
-   "date_label": "Nov 4, 2026 (developer beta in China; public with iOS 27.3 in December)",
+   "date_label": "Nov 3, 2026 US / Nov 4 China (developer beta; public with iOS 27.3 in December)",
    "precision": "day",
-   "status": "Confirmed",
+   "status": "Released",
    "price": "Free",
-   "summary": "Apple missed its October target: the first Apple Intelligence features for China start testing in the iOS developer beta on Nov 4 and reach users with iOS 27.3 in December.",
-   "details": "Tim Cook said on Oct 15 that a beta would reach China in October; it did not. On Oct 31 (China time) Apple's China Newsroom said testing starts Nov 4 with the latest iOS developer beta, which MacRumors expects to be iOS 27.3 beta 1, likely Nov 3 in the US. The first wave is iPhone-only (iPhone 15 Pro and later, iPhone Air, iPhone Duo) with Siri and device language set to English or Simplified Chinese, and covers Live Translation, Writing Tools, Visual Intelligence, Clean Up, Genmoji, notification and mail summaries, Priority Notifications, Smart Reply and Type to Siri. Alibaba's Qwen plugs into Siri, Writing Tools and Visual Intelligence. Siri AI, Image Playground and the newer WWDC 2026 features are not included, and Mac, iPad and other devices wait on further approvals. Update Nov 3: as of early morning Pacific time Apple had not yet posted the iOS 27.3 beta (Apple's developer releases page still tops out at iOS 27.2); MacRumors expects it later on Nov 3. Separately, Apple is testing a bug-fix iOS 27.2.1.",
+   "summary": "The first Apple Intelligence features for China are now in testing: Apple switched them on in the iOS 27.3 developer beta on Nov 3 (US time), with a public release planned for December.",
+   "details": "Tim Cook said on Oct 15 that a beta would reach China in October; it did not. On Oct 31 (China time) Apple's China Newsroom said testing starts Nov 4 with the latest iOS developer beta, which MacRumors expects to be iOS 27.3 beta 1, likely Nov 3 in the US. The first wave is iPhone-only (iPhone 15 Pro and later, iPhone Air, iPhone Duo) with Siri and device language set to English or Simplified Chinese, and covers Live Translation, Writing Tools, Visual Intelligence, Clean Up, Genmoji, notification and mail summaries, Priority Notifications, Smart Reply and Type to Siri. Alibaba's Qwen plugs into Siri, Writing Tools and Visual Intelligence. Siri AI, Image Playground and the newer WWDC 2026 features are not included, and Mac, iPad and other devices wait on further approvals. Update Nov 3: as of early morning Pacific time Apple had not yet posted the iOS 27.3 beta (Apple's developer releases page still tops out at iOS 27.2); MacRumors expects it later on Nov 3. Separately, Apple is testing a bug-fix iOS 27.2.1. Update Nov 4: Apple released iOS 27.3 beta 1 on Nov 3 (Nov 4 in China), and developers in China can now turn on Apple Intelligence. Per MacRumors, the beta includes Live Translation, Writing Tools (with Qwen-powered text generation), Visual Intelligence, Clean Up, Genmoji, Photos search and memory movies, Mail and notification summaries, Notes audio summaries, call transcripts, Type to Siri, and Siri handing harder questions to Qwen. Siri AI, the Siri app and the newer iOS 27 features are still excluded. A public beta and the December launch are next.",
    "sources": [
+    {
+     "name": "MacRumors (beta live, Nov 3)",
+     "url": "https://www.macrumors.com/2026/11/03/ios-27-3-apple-intelligence-china-2/"
+    },
     {
      "name": "Apple Newsroom China (Chinese)",
      "url": "https://www.apple.com.cn/newsroom/2026/10/apple-intelligence-features-are-coming-to-users-in-china/"
@@ -757,6 +761,10 @@
     {
      "name": "MacRumors (Nov 2)",
      "url": "https://www.macrumors.com/2026/11/02/ios-27-2-1-and-ios-27-3-beta-coming-soon/"
+    },
+    {
+     "name": "9to5Mac (Nov 3)",
+     "url": "https://9to5mac.com/2026/11/03/ios-27-3-brings-apple-intelligence-features-to-china/"
     }
    ]
   },
@@ -2022,7 +2030,7 @@
    "status": "Confirmed",
    "price": "Free (open weights; license not yet announced)",
    "summary": "Moonshot says it will publish the full Kimi K3.1 Pro model weights by Nov 4.",
-   "details": "Moonshot released Kimi K3.1 Pro in its apps and API on Oct 23 and committed to releasing the full weights by Nov 4. The license terms have not been announced. As of Nov 1 there was still no K3.1 Pro repository on Moonshot's Hugging Face page (only the earlier Kimi K3). Checked again Nov 2 (about 14:00 UTC): Moonshot's newest Hugging Face repository is still Kimi K3 (last updated Sept 2); no K3.1 Pro weights yet. Checked again Nov 3 (about 14:00 UTC): still no K3.1 Pro repository; Moonshot's newest Hugging Face model is Kimi K3 (Sept 2). The deadline is Nov 4 with no time zone given, so we will check again next run before marking it Released or late.",
+   "details": "Moonshot released Kimi K3.1 Pro in its apps and API on Oct 23 and committed to releasing the full weights by Nov 4. The license terms have not been announced. As of Nov 1 there was still no K3.1 Pro repository on Moonshot's Hugging Face page (only the earlier Kimi K3). Checked again Nov 2 (about 14:00 UTC): Moonshot's newest Hugging Face repository is still Kimi K3 (last updated Sept 2); no K3.1 Pro weights yet. Checked again Nov 3 (about 14:00 UTC): still no K3.1 Pro repository; Moonshot's newest Hugging Face model is Kimi K3 (Sept 2). The deadline is Nov 4 with no time zone given, so we will check again next run before marking it Released or late. Checked again Nov 4 (about 14:00 UTC, already late evening on Nov 4 in China): Moonshot's Hugging Face organization still lists Kimi K3 (updated Sept 1-2) as its newest model, with no K3.1 Pro repository. If nothing appears by the end of Nov 4 UTC, we will mark the promise as missed next run.",
    "sources": [
     {
      "name": "Kimi blog",
@@ -2795,13 +2803,17 @@
    ],
    "type": "Software",
    "date": "2026-12-15",
-   "date_label": "December 2026 (beta from Nov 3-4)",
+   "date_label": "December 2026 (developer beta 1 out Nov 3)",
    "precision": "window",
    "status": "Confirmed",
    "price": "Free",
-   "summary": "Apple says iOS 27.3 ships to the public in December, bringing the first Apple Intelligence features to iPhones in China; the first developer beta lands Nov 3-4.",
-   "details": "Apple confirmed the timing in an Oct 30-31 China Newsroom release, an unusual step for a point update. The beta starts Nov 4 China time (likely Nov 3 in the US, per MacRumors). Apple gave no exact December day. The China features exclude Siri AI and Image Playground; other iOS 27.3 changes have not been detailed. Update Nov 3: as of early morning Pacific time Apple had not yet posted the iOS 27.3 beta (Apple's developer releases page still tops out at iOS 27.2); MacRumors expects it later on Nov 3. Separately, Apple is testing a bug-fix iOS 27.2.1.",
+   "summary": "Apple says iOS 27.3 ships to the public in December, bringing the first Apple Intelligence features to iPhones in China; developer beta 1 arrived Nov 3.",
+   "details": "Apple confirmed the timing in an Oct 30-31 China Newsroom release, an unusual step for a point update. The beta starts Nov 4 China time (likely Nov 3 in the US, per MacRumors). Apple gave no exact December day. The China features exclude Siri AI and Image Playground; other iOS 27.3 changes have not been detailed. Update Nov 3: as of early morning Pacific time Apple had not yet posted the iOS 27.3 beta (Apple's developer releases page still tops out at iOS 27.2); MacRumors expects it later on Nov 3. Separately, Apple is testing a bug-fix iOS 27.2.1. Update Nov 4: Apple seeded iOS 27.3 beta 1 (plus iPadOS, macOS Golden Gate, watchOS, tvOS and visionOS 27.3 betas) on Nov 3. Besides Apple Intelligence in China, early hands-on reports list more Siri AI capabilities and new Siri AI languages, a redesigned Health app, Vertical Tabs and an adaptive dark mode in Safari, the iPhone Duo's StandBy design on iPhone 11 and later, Reachability for iPhone Duo, and Fitness+ Gym Strength plans. Features can still change before release.",
    "sources": [
+    {
+     "name": "MacRumors (beta 1)",
+     "url": "https://www.macrumors.com/2026/11/03/apple-seeds-first-ios-27-3-beta/"
+    },
     {
      "name": "MacRumors",
      "url": "https://www.macrumors.com/2026/10/30/apple-says-ios-27-3-beta-coming-next-week/"
@@ -2817,6 +2829,10 @@
     {
      "name": "MacRumors (Nov 2)",
      "url": "https://www.macrumors.com/2026/11/02/ios-27-2-1-and-ios-27-3-beta-coming-soon/"
+    },
+    {
+     "name": "9to5Mac (what's new)",
+     "url": "https://9to5mac.com/2026/11/03/everything-new-in-ios-27-3-beta-1-so-far/"
     }
    ]
   },
@@ -3058,6 +3074,92 @@
     {
      "name": "CarNewsChina",
      "url": "https://carnewschina.com/2026/11/03/gac-aions-half-priced-xiaomi-su7-ray-7-set-for-november-12-launch/"
+    }
+   ]
+  },
+  {
+   "id": "xbox-nano-controller",
+   "name": "XBOX Nano Controller",
+   "brand": "Microsoft",
+   "categories": [
+    "gaming"
+   ],
+   "type": "Accessory",
+   "date": "2026-11-04",
+   "date_label": "Nov 4, 2026",
+   "precision": "day",
+   "status": "Released",
+   "price": "$49.99",
+   "summary": "Microsoft's smallest Xbox controller, a $50 pocket-size pad aimed at kids, travel and cloud gaming, goes on sale Nov 4.",
+   "details": "Announced Oct 14 on Xbox Wire, the Nano is just over 5 inches long and about 100 g, keeps all 18 standard inputs plus a programmable Action Button, and has a built-in rechargeable battery (Microsoft quotes up to 5 hours; USB-C cable sold separately). There is no rumble. It connects over Xbox Wireless to Xbox Series X|S and Xbox One and over Bluetooth to Windows, Android, iOS and some smart TVs, and a 'Cloud connect' preview can pair it over Wi-Fi for Xbox Cloud Gaming. Best Buy Canada listed the launch as Nov 4 and the Microsoft Store now sells it; Microsoft lists more than 30 launch countries for November.",
+   "sources": [
+    {
+     "name": "Xbox Wire",
+     "url": "https://news.xbox.com/en-us/2026/10/14/xbox-nano-controller/"
+    },
+    {
+     "name": "Microsoft Store",
+     "url": "https://www.microsoft.com/en-us/d/xbox-nano-controller/8wg5vqp0x4g3"
+    },
+    {
+     "name": "Best Buy Canada (Nov 4 launch)",
+     "url": "https://blog.bestbuy.ca/video-games/xbox-nano-controller"
+    },
+    {
+     "name": "9to5Google",
+     "url": "https://9to5google.com/2026/11/03/xbox-nano-controller-cloud-gaming-stadia/"
+    }
+   ]
+  },
+  {
+   "id": "sonos-27voice-early-access",
+   "name": "Sonos 27voice AI assistant (US early access)",
+   "brand": "Sonos",
+   "categories": [
+    "ai"
+   ],
+   "type": "Software",
+   "date": "2026-11-06",
+   "date_label": "Nov 6, 2026 (waitlist opens; access from Nov 12)",
+   "precision": "day",
+   "status": "Confirmed",
+   "price": "Free (limited US beta)",
+   "summary": "Sonos opens the waitlist for its new AI voice assistant, 27voice, to US customers on Nov 6, with the first testers getting access from Nov 12.",
+   "details": "The assistant handles playback, moving music between rooms, grouping speakers and timers, and Sonos says it understands looser natural-language requests too. Early access is limited, first come first served, US English only, and requested in the Sonos app; joining the waitlist does not guarantee a spot. It arrives alongside a Sonos app update that adds Presets, swipe-to-skip and System Health support.",
+   "sources": [
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access"
+    },
+    {
+     "name": "Engadget",
+     "url": "https://www.engadget.com/2305897/sonos-new-voice-assistant-is-launching-in-early-access-on-november-6/"
+    },
+    {
+     "name": "Sonos support",
+     "url": "https://support.sonos.com/en-us/article/set-up-sonos-27voice"
+    }
+   ]
+  },
+  {
+   "id": "byd-guangzhou-2026-new-han",
+   "name": "BYD's Guangzhou Auto Show debut (likely next-generation Han)",
+   "brand": "BYD",
+   "categories": [
+    "evs"
+   ],
+   "type": "Car",
+   "date": "2026-11-27",
+   "date_label": "Guangzhou Auto Show, Nov 27-Dec 6, 2026 (model not yet named)",
+   "precision": "window",
+   "status": "Expected",
+   "price": "",
+   "summary": "BYD says it will show 'a model highly requested by customers' at the Guangzhou Auto Show; regulatory filings point to a larger next-generation Han sedan.",
+   "details": "BYD Dynasty sales chief Lu Tian announced the debut on Weibo on Nov 2 without naming the car. CnEVPost links it to the next-generation Han, which appeared in China's MIIT filings on Oct 16 with three battery-electric versions (rear- or all-wheel drive, up to 520 kW combined) and one plug-in hybrid, at 5,156 mm long with a 3,030 mm wheelbase. The show runs Nov 27 to Dec 6, with Nov 27 as media day. The model identity and launch timing are not confirmed.",
+   "sources": [
+    {
+     "name": "CnEVPost",
+     "url": "https://cnevpost.com/2026/11/04/byd-teases-new-model-guangzhou-show-next-gen-han-expected/"
     }
    ]
   }

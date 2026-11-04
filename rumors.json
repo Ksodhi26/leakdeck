@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03",
+ "updated": "2026-11-04",
  "scale": {
   "Confirmed": "Announced by the company or shown in an official source.",
   "Likely": "Multiple credible outlets or hard evidence (certifications, databases, supply chain), but no official word.",
@@ -119,11 +119,15 @@
     "android"
    ],
    "status": "Active",
-   "updated": "2026-10-23",
+   "updated": "2026-11-04",
    "expected": "Early 2027",
    "claim": "Samsung will release the Galaxy S27, S27+, S27 Pro and S27 Ultra.",
-   "why": "Model numbers for all four (SM-S952U, SM-S956U, SM-S958U and a global dual-SIM SM-S957B/DS) appeared in the GSMA IMEI database, which is strong evidence a phone exists but does not confirm names, specs or launch dates. On Oct 16, two more model numbers (SM-S9570 and SM-S9580, believed to be the Pro and Ultra) appeared in China's MIIT certification database. On Oct 20 leaked third-party screen protectors showed only the S27, S27+ and S27 Ultra (6.27, 6.66 and 6.89 inches), without the Pro. Accessory leaks are less reliable than certification databases, so we keep this at Likely for now. On Oct 22-23, batteries for the S27 Pro (EB-BS957CBY) and S27 Ultra (EB-BS958DBY) passed Safety Korea certification, another regulatory sign that a Pro model exists.",
+   "why": "Model numbers for all four (SM-S952U, SM-S956U, SM-S958U and a global dual-SIM SM-S957B/DS) appeared in the GSMA IMEI database, which is strong evidence a phone exists but does not confirm names, specs or launch dates. On Oct 16, two more model numbers (SM-S9570 and SM-S9580, believed to be the Pro and Ultra) appeared in China's MIIT certification database. On Oct 20 leaked third-party screen protectors showed only the S27, S27+ and S27 Ultra (6.27, 6.66 and 6.89 inches), without the Pro. Accessory leaks are less reliable than certification databases, so we keep this at Likely for now. On Oct 22-23, batteries for the S27 Pro (EB-BS957CBY) and S27 Ultra (EB-BS958DBY) passed Safety Korea certification, another regulatory sign that a Pro model exists. Update Nov 4: import-export records on the NBD trade platform list European versions of all four (SM-S952B, S956B, S957B and S958B), with chips and screen sizes (6.3, 6.7, 6.5 and 6.9 inches). More evidence for a four-model lineup, still not official.",
    "sources": [
+    {
+     "name": "Notebookcheck (NBD trade records)",
+     "url": "https://www.notebookcheck.net/Galaxy-S27-series-chipset-details-leak-with-a-surprising-entry-for-the-Pro.1441625.0.html"
+    },
     {
      "name": "Notebookcheck",
      "url": "https://www.notebookcheck.net/Compact-Galaxy-S27-Pro-globally-confirmed-Four-Samsung-flagship-smartphones-set-for-2027.1328614.0.html"
@@ -644,11 +648,15 @@
    ],
    "status": "Active",
    "first_reported": "2026-10-15",
-   "updated": "2026-10-31",
+   "updated": "2026-11-04",
    "expected": "Decision pending (conflicting reports)",
    "claim": "Samsung found the Snapdragon 8 Elite Extreme Gen 6 overheating in S27 Ultra testing and may use its own Exynos 2700 chip if Qualcomm doesn't fix it by mid-October.",
-   "why": "The report came from Korean outlet SEDaily and was relayed by SamMobile and others. Qualcomm told 9to5Google on Oct 17 the overheating reports are 'inaccurate', and its CMO Don McGuire says there are 'no systemic thermal issues'. A separate Oct 16 MoneyToday report says Samsung has dropped the Exynos plan for the Ultra because of Exynos supply limits and memory costs, and the Ultra will use Snapdragon only. Samsung has not commented. Single-sourced, denied, and now contradicted by another report. An Oct 19 Lanzuk leak (via SamMobile) also says the Ultra may use Qualcomm's chip exclusively. Update Oct 30: Ice Universe says there is still no sign of an Exynos 2700 S27 Ultra for Europe, while Korea remains undecided, so the Snapdragon-only reading still has more support.",
+   "why": "The report came from Korean outlet SEDaily and was relayed by SamMobile and others. Qualcomm told 9to5Google on Oct 17 the overheating reports are 'inaccurate', and its CMO Don McGuire says there are 'no systemic thermal issues'. A separate Oct 16 MoneyToday report says Samsung has dropped the Exynos plan for the Ultra because of Exynos supply limits and memory costs, and the Ultra will use Snapdragon only. Samsung has not commented. Single-sourced, denied, and now contradicted by another report. An Oct 19 Lanzuk leak (via SamMobile) also says the Ultra may use Qualcomm's chip exclusively. Update Oct 30: Ice Universe says there is still no sign of an Exynos 2700 S27 Ultra for Europe, while Korea remains undecided, so the Snapdragon-only reading still has more support. Update Nov 4: NBD trade records list the European S27 Ultra (SM-S958B/DS) with Qualcomm's SM8975 (Snapdragon 8 Elite Extreme Gen 6), while only the S27 and S27+ get the Exynos 2700. Europe is the market where an Exynos Ultra would most likely appear, so this weighs further against the claim. Not yet Debunked, because trade listings are not final and Samsung has said nothing.",
    "sources": [
+    {
+     "name": "Notebookcheck (NBD trade records)",
+     "url": "https://www.notebookcheck.net/Galaxy-S27-series-chipset-details-leak-with-a-surprising-entry-for-the-Pro.1441625.0.html"
+    },
     {
      "name": "GSMArena (Oct 30)",
      "url": "https://www.gsmarena.com/the_galaxy_s27_ultra_chipset_saga_continues_heres_the_latest_twist-news-75292.php"
@@ -721,11 +729,15 @@
     "ai"
    ],
    "status": "Active",
-   "updated": "2026-10-31",
-   "expected": "December 2026 (Apple; beta from Nov 4)",
+   "updated": "2026-11-04",
+   "expected": "December 2026 (Apple; developer beta live since Nov 3)",
    "claim": "After an October beta, Apple will roll out Apple Intelligence in China with iOS 27.3 in December, without the new Siri, Image Playground or the newer Genmoji.",
-   "why": "Reported by Bloomberg. The groundwork is confirmed: Tim Cook said on Oct 15 that a beta arrives this month after regulators approved the first features and Alibaba's Qwen models, and the SCMP reports China's MIIT granted network permits for the models. Apple has not given a date or feature list for the full launch. Update Oct 31: Apple confirmed it. Its China Newsroom says the features enter developer beta on Nov 4 and launch with iOS 27.3 in December; Siri AI and Image Playground are excluded, as Bloomberg reported, though Genmoji is in the first wave. The October beta Cook promised did not happen. Stays active until iOS 27.3 actually ships.",
+   "why": "Reported by Bloomberg. The groundwork is confirmed: Tim Cook said on Oct 15 that a beta arrives this month after regulators approved the first features and Alibaba's Qwen models, and the SCMP reports China's MIIT granted network permits for the models. Apple has not given a date or feature list for the full launch. Update Oct 31: Apple confirmed it. Its China Newsroom says the features enter developer beta on Nov 4 and launch with iOS 27.3 in December; Siri AI and Image Playground are excluded, as Bloomberg reported, though Genmoji is in the first wave. The October beta Cook promised did not happen. Stays active until iOS 27.3 actually ships. Update Nov 4: the developer beta arrived on schedule. iOS 27.3 beta 1 (Nov 3 US, Nov 4 China) lets developers in China turn on Apple Intelligence, with Siri AI still excluded. The remaining question is the December public release.",
    "sources": [
+    {
+     "name": "MacRumors (beta live, Nov 3)",
+     "url": "https://www.macrumors.com/2026/11/03/ios-27-3-apple-intelligence-china-2/"
+    },
     {
      "name": "MacRumors (Apple confirms)",
      "url": "https://www.macrumors.com/2026/10/30/apple-says-ios-27-3-beta-coming-next-week/"
@@ -812,11 +824,15 @@
     "gaming"
    ],
    "status": "Active",
-   "updated": "2026-10-31",
-   "expected": "Q1 2027 (reported)",
+   "updated": "2026-11-04",
+   "expected": "Q1 2027 (reported; January now unlikely)",
    "claim": "NVIDIA will release an RTX 5080 with 24GB of GDDR7 in early 2027, gradually replacing the 16GB model.",
-   "why": "Single-source report from Taiwan's BenchLife, relayed by VideoCardz and TechPowerUp. Board partners reportedly have only verbal guidance and no design documents yet, so timing is soft. Technically easy: 3GB memory chips on the same 256-bit bus. NVIDIA has not commented. Comes amid tight RTX 5090 supply, which NVIDIA says is constrained but not discontinued. Update Oct 30: Tom's Hardware found the RTX 5080 removed from Nvidia's US store after the RTX 5090, with street prices about 2.2x the $999 MSRP. That fits a product transition but is not proof of a 24GB model; Nvidia has not commented.",
+   "why": "Single-source report from Taiwan's BenchLife, relayed by VideoCardz and TechPowerUp. Board partners reportedly have only verbal guidance and no design documents yet, so timing is soft. Technically easy: 3GB memory chips on the same 256-bit bus. NVIDIA has not commented. Comes amid tight RTX 5090 supply, which NVIDIA says is constrained but not discontinued. Update Oct 30: Tom's Hardware found the RTX 5080 removed from Nvidia's US store after the RTX 5090, with street prices about 2.2x the $999 MSRP. That fits a product transition but is not proof of a 24GB model; Nvidia has not commented. Update Nov 3: BenchLife, the original source, now says the 'probability is extremely high' the 24GB card misses January, because board partners expected design details in October and still have none (relayed by VideoCardz and TechRadar). Q1 is still possible but the timing is softer, so it stays Rumor.",
    "sources": [
+    {
+     "name": "TechRadar (Nov 3, delay)",
+     "url": "https://www.techradar.com/computing/gpu/the-probability-is-extremely-high-that-nvidias-rumored-rtx-5080-super-has-been-delayed-and-with-gpu-prices-rocketing-upwards-the-future-looks-bleak"
+    },
     {
      "name": "Tom's Hardware (Oct 30)",
      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-store-quietly-pulls-the-rtx-5080-following-rtx-5090-removal-street-prices-climb-to-2-2x-over-msrp"
@@ -1001,18 +1017,22 @@
   {
    "id": "galaxy-s27-8gb-ram",
    "title": "Galaxy S27 and S27+ start with just 8GB of RAM",
-   "rating": "Rumor",
+   "rating": "Shaky",
    "categories": [
     "samsung",
     "android"
    ],
    "status": "Active",
    "first_reported": "2026-10-19",
-   "updated": "2026-10-20",
+   "updated": "2026-11-04",
    "expected": "Galaxy S27 launch (early 2027)",
    "claim": "Because of soaring memory prices, Samsung will sell 8GB/256GB versions of the Galaxy S27 and S27+ alongside 12GB/512GB models, while the S27 Pro and Ultra start at 12GB.",
-   "why": "From leaker @kro_roe on X, relayed by SamMobile and 9to5Google. It contradicts a September leak that had the S27 keeping the S26's 12GB base, but it fits the memory shortage: Yonhap reports most of Samsung's 2027 DRAM output is already sold to big tech customers. The same leaker says Samsung may mix UFS storage generations and cut pre-order storage upgrades. Samsung has said nothing.",
+   "why": "From leaker @kro_roe on X, relayed by SamMobile and 9to5Google. It contradicts a September leak that had the S27 keeping the S26's 12GB base, but it fits the memory shortage: Yonhap reports most of Samsung's 2027 DRAM output is already sold to big tech customers. The same leaker says Samsung may mix UFS storage generations and cut pre-order storage upgrades. Samsung has said nothing. Update Nov 4 (downgraded to Shaky): NBD trade records list all four European S27 models, including the S27 and S27+, with 12GB of RAM and 256GB of storage. That does not rule out extra 8GB versions elsewhere, but the only hard data so far points to a 12GB base, against this single-leaker claim.",
    "sources": [
+    {
+     "name": "Notebookcheck (NBD trade records)",
+     "url": "https://www.notebookcheck.net/Galaxy-S27-series-chipset-details-leak-with-a-surprising-entry-for-the-Pro.1441625.0.html"
+    },
     {
      "name": "SamMobile",
      "url": "https://www.sammobile.com/news/samsung-may-change-galaxy-s27-memory-options-as-chip-prices-soar/"
@@ -1412,10 +1432,10 @@
    ],
    "status": "Active",
    "first_reported": "2026-10-21",
-   "updated": "2026-11-03",
+   "updated": "2026-11-04",
    "expected": "Early November 2026 (China, leak; no date)",
    "claim": "Honor will launch three Honor 700 models in China in November; the 700 Pro has a 6.57-inch 1.5K screen, a 200MP main camera, a 50MP periscope telephoto, a 1.72-inch built-in rear display and a battery of about 9,000mAh.",
-   "why": "From Weibo tipsters relayed by GSMArena: one says the event is next month and the series has three models; Digital Chat Station has repeated the 200MP camera and rear screen since August. The timing fits Honor's six-month number-series cadence (the 600 launched in May), but Honor has announced nothing. On Oct 24 Digital Chat Station added details he says come from an engineering prototype (codename 'Flora'): a roughly 9,000mAh battery, a 50MP periscope on the Pro and four test colors, while calling the November timing tentative. More detail from the same tipster, so it stays a Rumor. Update Oct 28-Nov 1: two Honor 700 models (FAS-AN00 and FAA-AN00, thought to be the 700 and 700 Pro) passed China's 3C certification, with a tipster saying a third is pending, which usually means a launch within weeks. Tipster Dingjiao Shuma (via Kuai Keji, Oct 31) says the series launches in early November with actress Ju Jingyi as spokesperson, a Snapdragon chip, a periscope and support for a 200mm teleconverter. Certification plus several tipsters agreeing lifts the November timing to Likely; the 9,000mAh battery and exact specs still rest mainly on Digital Chat Station, and Honor has not announced a date. Update Nov 3: Honor CMO Guan Haitao officially announced the Honor 700 series on Weibo, confirmed the 'Flora' codename and said it debuts 'in winter', without a date. Tipster Wangzai Baishitong says the three models (700, 700 Pro and a Vitality Edition) launch this month. The series is now official; the November date and specs are still unconfirmed, so it stays Likely.",
+   "why": "From Weibo tipsters relayed by GSMArena: one says the event is next month and the series has three models; Digital Chat Station has repeated the 200MP camera and rear screen since August. The timing fits Honor's six-month number-series cadence (the 600 launched in May), but Honor has announced nothing. On Oct 24 Digital Chat Station added details he says come from an engineering prototype (codename 'Flora'): a roughly 9,000mAh battery, a 50MP periscope on the Pro and four test colors, while calling the November timing tentative. More detail from the same tipster, so it stays a Rumor. Update Oct 28-Nov 1: two Honor 700 models (FAS-AN00 and FAA-AN00, thought to be the 700 and 700 Pro) passed China's 3C certification, with a tipster saying a third is pending, which usually means a launch within weeks. Tipster Dingjiao Shuma (via Kuai Keji, Oct 31) says the series launches in early November with actress Ju Jingyi as spokesperson, a Snapdragon chip, a periscope and support for a 200mm teleconverter. Certification plus several tipsters agreeing lifts the November timing to Likely; the 9,000mAh battery and exact specs still rest mainly on Digital Chat Station, and Honor has not announced a date. Update Nov 3: Honor CMO Guan Haitao officially announced the Honor 700 series on Weibo, confirmed the 'Flora' codename and said it debuts 'in winter', without a date. Tipster Wangzai Baishitong says the three models (700, 700 Pro and a Vitality Edition) launch this month. The series is now official; the November date and specs are still unconfirmed, so it stays Likely. Update Nov 3: Honor's global CMO Guan Haitao officially announced the Honor 700 series (codename Flora) for a 'winter' debut, and Honor named actress Ju Jingyi as ambassador. A tipster says three models (700, 700 Pro, and a Vitality Edition) are 3C certified and launch this month. Honor still has not given a date, so the November timing stays Likely.",
    "sources": [
     {
      "name": "IT Home (Chinese, Nov 3)",
@@ -1436,6 +1456,10 @@
     {
      "name": "Gizmochina (Oct 24 leak)",
      "url": "https://www.gizmochina.com/2026/10/24/honor-700-series-leak-200mp-camera-rear-screen-9000mah-battery/"
+    },
+    {
+     "name": "Huawei Central (Nov 3)",
+     "url": "https://www.huaweicentral.com/honor-700-is-ready-for-launch-with-two-displays-and-teleconverter/"
     }
    ]
   },
@@ -1525,10 +1549,10 @@
    ],
    "status": "Active",
    "first_reported": "2026-10-19",
-   "updated": "2026-10-29",
+   "updated": "2026-11-04",
    "expected": "Announced Oct 28; public release date not set",
    "claim": "Google's next Gemini 4 checkpoint, Carbon, is in partner early access and will be released publicly soon.",
-   "why": "Business Insider first reported Carbon inside Google's internal coding tool, The Information said it is coming this month, testers report it on LMArena under Google's early access program, and Carbon 'teamfood' model IDs showed up in a Google server archive. That is strong evidence it exists and is close, but Google has not announced it and the date could slip into November. Early testers say it is better than Argon at 3D work but much slower. Update Oct 29: Google announced Gemini 4 Carbon on Oct 28, confirming it is real and in early access, but only for selected cyber defenders. Public access for developers and consumers is promised 'as soon as possible' with no date, so we keep this open until it is broadly available.",
+   "why": "Business Insider first reported Carbon inside Google's internal coding tool, The Information said it is coming this month, testers report it on LMArena under Google's early access program, and Carbon 'teamfood' model IDs showed up in a Google server archive. That is strong evidence it exists and is close, but Google has not announced it and the date could slip into November. Early testers say it is better than Argon at 3D work but much slower. Update Oct 29: Google announced Gemini 4 Carbon on Oct 28, confirming it is real and in early access, but only for selected cyber defenders. Public access for developers and consumers is promised 'as soon as possible' with no date, so we keep this open until it is broadly available. Update Nov 4: a week after the announcement, Carbon is still limited to cyber defenders and Fairwind partners. The Gemini API changelog lists Argon (GA Oct 13) but no Carbon model ID, and Google has given no date for developers or consumers. Argon reached the public 13 days after its announcement, but that is not a promise for Carbon.",
    "sources": [
     {
      "name": "Google blog (announcement)",
@@ -1545,6 +1569,10 @@
     {
      "name": "NPowerUser (teamfood IDs)",
      "url": "https://nokiapoweruser.com/google-gemini-4-carbon-argon-max-mode-teamfooding-leak/"
+    },
+    {
+     "name": "Gemini API release notes",
+     "url": "https://aistudio.google.com/docs/changelog"
     }
    ]
   },
@@ -1755,11 +1783,15 @@
    ],
    "status": "Active",
    "first_reported": "2026-10-27",
-   "updated": "2026-10-27",
+   "updated": "2026-11-04",
    "expected": "Spring 2027 (expected)",
    "claim": "The iPhone 18e will have a 6.12-inch 60Hz LTPS OLED screen, the 2nm A20 chip, a single 48MP rear camera and maybe a 24MP front camera.",
-   "why": "From Weibo tipster Digital Chat Station, relayed by MacRumors and Android Authority. The 60Hz display repeats this leaker's earlier claim and fits Apple's pattern for the 16e and 17e, and the A20 matches what is expected for the standard iPhone 18. The leaker hedged on the front camera, and MacRumors notes 24MP may be a mix-up with the 18MP Center Stage camera. Apple has not announced the phone.",
+   "why": "From Weibo tipster Digital Chat Station, relayed by MacRumors and Android Authority. The 60Hz display repeats this leaker's earlier claim and fits Apple's pattern for the 16e and 17e, and the A20 matches what is expected for the standard iPhone 18. The leaker hedged on the front camera, and MacRumors notes 24MP may be a mix-up with the 18MP Center Stage camera. Apple has not announced the phone. Update Nov 4: a second Weibo leaker, Fixed Focus Digital, says a new chip is the only upgrade they can confirm so far and hints the notch may stay. That agrees on the chip but adds nothing on the screen or cameras.",
    "sources": [
+    {
+     "name": "MacRumors (Nov 4)",
+     "url": "https://www.macrumors.com/2026/11/04/iphone-18e-rumored-to-focus-on-chip-upgrade/"
+    },
     {
      "name": "MacRumors",
      "url": "https://www.macrumors.com/2026/10/27/iphone-18e-could-get-two-key-upgrades/"
@@ -2132,11 +2164,15 @@
    ],
    "status": "Active",
    "first_reported": "2026-11-01",
-   "updated": "2026-11-02",
+   "updated": "2026-11-04",
    "expected": "Late 2027 (reported)",
    "claim": "Apple will ship second-generation OLED touchscreen MacBook Pros with M7 Pro and M7 Max chips next year and then stop selling the non-touch M5 Pro/Max models, keeping only an entry 14-inch MacBook Pro that moves to M7 and the new thinner design without touch.",
-   "why": "From Mark Gurman's Nov 1 Power On newsletter, relayed by AppleInsider and Digital Trends; MacRumors earlier reported (Oct 15) that the OLED models won't get M7 until late 2027. Gurman's Mac reporting has been reliable this year, but this is a single source about plans a year out, and Apple has not commented. The current touchscreen models launched Oct 28 with M5 Pro/Max.",
+   "why": "From Mark Gurman's Nov 1 Power On newsletter, relayed by AppleInsider and Digital Trends; MacRumors earlier reported (Oct 15) that the OLED models won't get M7 until late 2027. Gurman's Mac reporting has been reliable this year, but this is a single source about plans a year out, and Apple has not commented. The current touchscreen models launched Oct 28 with M5 Pro/Max. Update Nov 4: MacRumors relays Gurman's view that Apple will likely fold its high-end MacBook Pros into touchscreen-only models, and repeats the 2027 M7 Pro/Max touch generation plus a thinner M7 base 14-inch. Same single source, so still Rumor.",
    "sources": [
+    {
+     "name": "MacRumors (Nov 4)",
+     "url": "https://www.macrumors.com/2026/11/04/apple-may-phase-out-non-touch-macbook-pros/"
+    },
     {
      "name": "AppleInsider",
      "url": "https://appleinsider.com/articles/26/11/01/apple-to-eliminate-non-touch-macbooks-pros-other-than-core-14-inch-model"
@@ -2245,6 +2281,198 @@
     {
      "name": "The Elec",
      "url": "https://www.thelec.net/news/articleView.html?idxno=15206"
+    }
+   ]
+  },
+  {
+   "id": "galaxy-s27-pro-snapdragon-8-elite-gen-6",
+   "title": "Galaxy S27 Pro uses the regular Snapdragon 8 Elite Gen 6, not the Ultra's Extreme chip",
+   "rating": "Likely",
+   "categories": [
+    "samsung",
+    "android",
+    "chips"
+   ],
+   "status": "Active",
+   "first_reported": "2026-11-04",
+   "updated": "2026-11-04",
+   "expected": "Galaxy S27 launch (early 2027)",
+   "claim": "In Europe, the Galaxy S27 and S27+ use the Exynos 2700, the S27 Pro uses the Snapdragon 8 Elite Gen 6 (SM8950), and only the S27 Ultra gets the Snapdragon 8 Elite Extreme Gen 6, all with 12GB of RAM and 256GB of storage.",
+   "why": "From import-export records on the NBD trade platform, found by Notebookcheck and relayed by SamMobile, GSMArena and Android Police. Shipping records with real model numbers (SM-S952B to SM-S958B) are hard evidence, so this is Likely, but they can reflect test units and Samsung has not announced the phones. The split mirrors Xiaomi's 18 Pro (regular chip) and 18 Pro Max (Extreme).",
+   "sources": [
+    {
+     "name": "Notebookcheck",
+     "url": "https://www.notebookcheck.net/Galaxy-S27-series-chipset-details-leak-with-a-surprising-entry-for-the-Pro.1441625.0.html"
+    },
+    {
+     "name": "SamMobile",
+     "url": "https://www.sammobile.com/2026/11/04/new-galaxy-s27-pro-leak-reveals-snapdragon-surprise/"
+    },
+    {
+     "name": "GSMArena",
+     "url": "https://www.gsmarena.com/samsung_galaxy_s27_pro_processor_revealed-news-75339.php"
+    },
+    {
+     "name": "Android Police",
+     "url": "https://www.androidpolice.com/galaxy-s27-pro-could-miss-out-on-qualcomms-fastest-chip/"
+    }
+   ]
+  },
+  {
+   "id": "iphone-18-bigger-battery-price-hike",
+   "title": "Standard iPhone 18 gets a bigger battery and a higher price",
+   "rating": "Rumor",
+   "categories": [
+    "apple"
+   ],
+   "status": "Active",
+   "first_reported": "2026-11-03",
+   "updated": "2026-11-04",
+   "expected": "Spring 2027 (with iPhone 18e and iPhone Air 2, rumored)",
+   "claim": "The standard iPhone 18 will have a larger battery than the iPhone 17's 3,692 mAh, keep a 6.3-inch 120Hz OLED with Dynamic Island, use the 2nm A20 and dual 48MP cameras, and may cost more.",
+   "why": "From Weibo leaker Digital Chat Station, relayed by MacRumors, The Verge and AppleInsider. DCS has a fair supply-chain record, and a battery bump fits Apple raising capacities on the iPhone 18 Pro. But no capacity was given, and the price part is the leaker's own speculation with no figure or market; Apple already raised the iPhone 17 to $899 in September. Apple has said nothing.",
+   "sources": [
+    {
+     "name": "MacRumors",
+     "url": "https://www.macrumors.com/2026/11/03/iphone-18-rumored-to-get-larger-battery/"
+    },
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/tech/1025748/apple-iphone-18-rumors-price-hike-battery"
+    },
+    {
+     "name": "AppleInsider",
+     "url": "https://appleinsider.com/articles/26/11/04/iphone-18-rumored-to-get-larger-battery-higher-price"
+    }
+   ]
+  },
+  {
+   "id": "ubisoft-bids-for-arkane",
+   "title": "Ubisoft bids to buy Arkane Lyon from Xbox",
+   "rating": "Rumor",
+   "categories": [
+    "gaming"
+   ],
+   "status": "Active",
+   "first_reported": "2026-11-03",
+   "updated": "2026-11-04",
+   "expected": "Xbox's sale deadline is about mid-December (extended by a month from Nov 13)",
+   "claim": "Ubisoft and at least two other game companies have made offers to buy Arkane Lyon, the studio making Marvel's Blade, and Xbox has also considered a management buyout.",
+   "why": "Reported by Bloomberg, citing people familiar with the talks, and relayed by PC Gamer, The Verge and VGC. Bloomberg is reliable on deals, but this is one report, no deal is agreed, and neither Xbox nor Ubisoft has commented. The background is confirmed: Xbox is trying to divest Arkane and extended its search deadline by a month from Nov 13 to explore options for Blade.",
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "url": "https://www.pcgamer.com/gaming-industry/ubisoft-reportedly-wants-to-buy-arkane-from-xbox/"
+    },
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/games/1025860/arkane-studios-has-drawn-interest-from-ubisoft-and-others"
+    },
+    {
+     "name": "VGC",
+     "url": "https://www.videogameschronicle.com/news/ubisoft-has-reportedly-offered-to-buy-arkane-lyon-from-xbox/"
+    }
+   ]
+  },
+  {
+   "id": "honor-15000mah-week-battery",
+   "title": "Honor is testing a 14,000-15,000mAh phone battery for a week of use",
+   "rating": "Rumor",
+   "categories": [
+    "android"
+   ],
+   "status": "Active",
+   "first_reported": "2026-11-03",
+   "updated": "2026-11-04",
+   "expected": "2027 (leak; no model named)",
+   "claim": "Honor has a 14,000-15,000mAh high-density phone battery in trial production, aimed at a phone that lasts about a week per charge without being unusually thick or heavy.",
+   "why": "From Weibo tipster Digital Chat Station, relayed by GSMArena, Notebookcheck, Gizmochina and TechRadar. DCS correctly called Honor's earlier 12,000mAh-class cell before the Win RT 2 shipped with 12,070mAh, and Honor keeps raising capacities. Still a single leaker with no model, date or market, and the 'week of battery life' is a target, not a test result.",
+   "sources": [
+    {
+     "name": "GSMArena",
+     "url": "https://www.gsmarena.com/honors_14000mah_smartphone_battery_can_reportedly_last_a_week-news-75326.php"
+    },
+    {
+     "name": "Notebookcheck",
+     "url": "https://www.notebookcheck.net/Honor-rumored-to-be-testing-gigantic-15-000mAh-battery-for-week-long-phone-life.1441332.0.html"
+    },
+    {
+     "name": "Gizmochina",
+     "url": "https://www.gizmochina.com/2026/11/03/honor-testing-15000mah-phone-battery-for-one-week-battery-life/"
+    }
+   ]
+  },
+  {
+   "id": "galaxy-a58-45w-charging",
+   "title": "Galaxy A58 keeps 45W charging and ships without a charger in China",
+   "rating": "Likely",
+   "categories": [
+    "samsung",
+    "android"
+   ],
+   "status": "Active",
+   "first_reported": "2026-11-03",
+   "updated": "2026-11-04",
+   "expected": "March-April 2027 (expected)",
+   "claim": "The Galaxy A58 (SM-A5860) supports 45W wired charging, the same as the A57, and comes without a charger in the box in China.",
+   "why": "From China's 3C certification, reported by GSMArena. Certification listings are hard evidence for charging specs, but Samsung has not announced the phone, and the launch window and battery size are not confirmed. Separate leaks claim the A58 keeps the A57's camera setup.",
+   "sources": [
+    {
+     "name": "GSMArena",
+     "url": "https://www.gsmarena.com/samsung_galaxy_a58_charging_speed_3c_certification-news-75327.php"
+    }
+   ]
+  },
+  {
+   "id": "galaxy-z-fold9-same-cameras",
+   "title": "Galaxy Z Fold9 and Z Fold9 Ultra keep their predecessors' rear cameras",
+   "rating": "Rumor",
+   "categories": [
+    "samsung",
+    "android"
+   ],
+   "status": "Active",
+   "first_reported": "2026-11-03",
+   "updated": "2026-11-04",
+   "expected": "Mid-2027 (expected launch)",
+   "claim": "Samsung's 2027 book-style foldables carry over their rear cameras: the Fold9 Ultra keeps a 200MP main, 50MP ultrawide and 3x telephoto, and the wide Fold9 keeps 50MP main and 50MP ultrawide cameras.",
+   "why": "From Korean tipster Lanzuk, relayed by GSMArena, SamMobile and Android Police. Lanzuk has a decent record, including correctly calling video LUTs on the Fold8 Ultra. The claim fits Samsung's habit of reusing sensors, but it is one source and gives no telephoto resolution. See also our separate under-display selfie camera rumor.",
+   "sources": [
+    {
+     "name": "GSMArena",
+     "url": "https://www.gsmarena.com/tipster_brings_bad_news_for_the_galaxy_z_fold9_and_z_fold9_ultra_cameras-news-75330.php"
+    },
+    {
+     "name": "SamMobile",
+     "url": "https://www.sammobile.com/news/galaxy-z-fold-9-ultra-no-camera-hardware-upgrade/"
+    },
+    {
+     "name": "Android Police",
+     "url": "https://www.androidpolice.com/galaxy-z-fold-9-is-set-to-disappoint-with-its-cameras/"
+    }
+   ]
+  },
+  {
+   "id": "samsung-galaxy-t1-earbuds",
+   "title": "Samsung readies Galaxy T1 ear-hook sports earbuds, including for the US",
+   "rating": "Likely",
+   "categories": [
+    "samsung"
+   ],
+   "status": "Active",
+   "first_reported": "2026-11-04",
+   "updated": "2026-11-04",
+   "expected": "Early 2027 (speculation; possibly with Galaxy S27)",
+   "claim": "Samsung will launch ear-hook fitness earbuds, model SM-R545 and codenamed Galaxy T1, in several markets including the US.",
+   "why": "The earbuds passed the FCC on Nov 4 (IDs ZCASMR545L and ZCASMR545R, case EP-QR545) after certifications in China, South Korea and Indonesia, and the filings mention a 'T1 Project'. That is strong evidence a product is coming, as Android Authority reports. The retail name, price and early-2027 timing are not confirmed; earlier leaks of a 595mAh case and a fit test come from software code.",
+   "sources": [
+    {
+     "name": "Android Authority",
+     "url": "https://www.androidauthority.com/samsung-galaxy-t1-earbuds-fcc-certification-3731590/"
+    },
+    {
+     "name": "IT Home (Chinese)",
+     "url": "https://www.ithome.com/1/022/417.htm"
     }
    ]
   }

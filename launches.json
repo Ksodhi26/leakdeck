@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04",
+ "updated": "2026-11-05",
  "items": [
   {
    "id": "gtc-berlin-2026",
@@ -891,14 +891,22 @@
    "date": "2026-11-05",
    "date_label": "Nov 5, 2026",
    "precision": "day",
-   "status": "Confirmed",
+   "status": "Released",
    "price": "",
-   "summary": "Ocarina of Time is listed for Nov 5 on Nintendo Switch 2.",
-   "details": "Date taken from VGC's release schedule.",
+   "summary": "Nintendo's ground-up Switch 2 remake of Ocarina of Time is out, with rebuilt visuals, voiced cutscenes and a mic-playable ocarina.",
+   "details": "Released Nov 5 as a Switch 2 exclusive (about 27 GB). Nintendo lists overhauled visuals, voiced cutscenes, expanded dialogue, orchestral music, reworked camera and movement controls, and the option to play Link's ocarina by humming or playing an instrument into the Switch 2 microphone. Buying digitally before Nov 23 adds a Zelda 40th anniversary wallpaper; new Young Link and Young Zelda amiibo come in 2027.",
    "sources": [
+    {
+     "name": "Nintendo (store page)",
+     "url": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-ocarina-of-time-switch-2/"
+    },
     {
      "name": "Video Games Chronicle",
      "url": "https://www.videogameschronicle.com/guide/upcoming-game-release-dates-schedule/"
+    },
+    {
+     "name": "GoNintendo (launch day)",
+     "url": "https://www.gonintendo.com/contents/66928-the-legend-of-zelda-ocarina-of-time-links-up-with-switch-2-today"
     }
    ]
   },
@@ -1716,14 +1724,22 @@
    "date": "2026-11-05",
    "date_label": "Nov 5, 2026",
    "precision": "day",
-   "status": "Confirmed",
-   "price": "",
+   "status": "Released",
+   "price": "$9.99 (Steam)",
    "summary": "Steph Thirion's one-button cosmic arcade game, first announced in 2010, finally launches Nov 5 on PC, PS5, Xbox Series X|S and Switch.",
-   "details": "Published by Annapurna Interactive. You guide a shooting star across a procedurally generated universe, linking stars into constellations and using their gravity to slingshot onward; it also has 16 handcrafted puzzle stages. The date was revealed by GameSpot.",
+   "details": "Published by Annapurna Interactive. You guide a shooting star across a procedurally generated universe, linking stars into constellations and using their gravity to slingshot onward; it also has 16 handcrafted puzzle stages. The date was revealed by GameSpot. Released Nov 5; Steam lists it at $9.99 with a 20% launch discount, and it is also on Switch 2, Switch, PS5 and Xbox Series X|S.",
    "sources": [
     {
      "name": "GameSpot",
      "url": "https://www.gamespot.com/articles/after-16-years-chill-sci-fi-game-faraway-has-a-release-date/"
+    },
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/2831000/Faraway/"
+    },
+    {
+     "name": "Gematsu",
+     "url": "https://www.gematsu.com/2026/10/faraway-launches-november-5-for-ps5-xbox-series-switch-2-switch-and-pc"
     }
    ]
   },
@@ -2025,13 +2041,17 @@
    ],
    "type": "AI model",
    "date": "2026-11-04",
-   "date_label": "By Nov 4, 2026",
-   "precision": "window",
-   "status": "Confirmed",
-   "price": "Free (open weights; license not yet announced)",
-   "summary": "Moonshot says it will publish the full Kimi K3.1 Pro model weights by Nov 4.",
-   "details": "Moonshot released Kimi K3.1 Pro in its apps and API on Oct 23 and committed to releasing the full weights by Nov 4. The license terms have not been announced. As of Nov 1 there was still no K3.1 Pro repository on Moonshot's Hugging Face page (only the earlier Kimi K3). Checked again Nov 2 (about 14:00 UTC): Moonshot's newest Hugging Face repository is still Kimi K3 (last updated Sept 2); no K3.1 Pro weights yet. Checked again Nov 3 (about 14:00 UTC): still no K3.1 Pro repository; Moonshot's newest Hugging Face model is Kimi K3 (Sept 2). The deadline is Nov 4 with no time zone given, so we will check again next run before marking it Released or late. Checked again Nov 4 (about 14:00 UTC, already late evening on Nov 4 in China): Moonshot's Hugging Face organization still lists Kimi K3 (updated Sept 1-2) as its newest model, with no K3.1 Pro repository. If nothing appears by the end of Nov 4 UTC, we will mark the promise as missed next run.",
+   "date_label": "Nov 4, 2026",
+   "precision": "day",
+   "status": "Released",
+   "price": "Free (open weights; Kimi K3.1-Pro License)",
+   "summary": "Moonshot published the full Kimi K3.1 Pro weights on Hugging Face on Nov 4, the day it promised.",
+   "details": "Moonshot released Kimi K3.1 Pro in its apps and API on Oct 23 and committed to releasing the full weights by Nov 4. The license terms have not been announced. As of Nov 1 there was still no K3.1 Pro repository on Moonshot's Hugging Face page (only the earlier Kimi K3). Checked again Nov 2 (about 14:00 UTC): Moonshot's newest Hugging Face repository is still Kimi K3 (last updated Sept 2); no K3.1 Pro weights yet. Checked again Nov 3 (about 14:00 UTC): still no K3.1 Pro repository; Moonshot's newest Hugging Face model is Kimi K3 (Sept 2). The deadline is Nov 4 with no time zone given, so we will check again next run before marking it Released or late. Checked again Nov 4 (about 14:00 UTC, already late evening on Nov 4 in China): Moonshot's Hugging Face organization still lists Kimi K3 (updated Sept 1-2) as its newest model, with no K3.1 Pro repository. If nothing appears by the end of Nov 4 UTC, we will mark the promise as missed next run. Update Nov 5: the weights are out. The public, ungated moonshotai/Kimi-K3.1-Pro repository went live on Nov 4 (ArtificialWatch saw it appear between about 14:30 and 15:31 UTC, just after our check): 96 safetensors shards totalling about 1.56 TB, MXFP4 weights trained that way, 2.8T total and 104B active parameters, a 1M-token context and text plus image input. The license matches the Kimi K3 terms: free use, modification and redistribution, but model-as-a-service firms with over $20 million in yearly revenue need a separate agreement, and very large products must display the model name. Moonshot kept its date.",
    "sources": [
+    {
+     "name": "Hugging Face (Kimi-K3.1-Pro model card)",
+     "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+    },
     {
      "name": "Kimi blog",
      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro"
@@ -2043,6 +2063,10 @@
     {
      "name": "Moonshot AI on Hugging Face",
      "url": "https://huggingface.co/moonshotai"
+    },
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/11/05/moonshot-ai-releases-kimi-k3-1-pro-model-weights/"
     }
    ]
   },
@@ -2684,14 +2708,18 @@
     "android"
    ],
    "type": "Phone",
-   "date": "2026-11-30",
-   "date_label": "November 2026 (US; exact date not announced)",
-   "precision": "window",
+   "date": "2026-11-19",
+   "date_label": "Nov 19, 2026 (US; pre-orders open Nov 5); Nov 16 in Europe",
+   "precision": "day",
    "status": "Confirmed",
-   "price": "",
-   "summary": "Motorola unveils full details of its Snapdragon flagship, the Signature 27, on Nov 5; its US site says it arrives in November.",
-   "details": "Unveiled at Qualcomm's Snapdragon Summit in September with the Snapdragon 8 Elite Gen 6 (Motorola's page calls it 'Extreme'). Motorola's US landing page says 'coming this November', and an India page now says the same. European retailer listings point to about EUR 1,595 (see the rumor tracker); Motorola has not given US pricing. Update Oct 30: Motorola said on X that it will show the phone on Nov 5; it has not said whether that is also the US on-sale date. Update Oct 31: a Signature 27 on Android 17 with 12GB of RAM appeared on Geekbench (3,313 single-core, 11,088 multi-core); Motorola has confirmed a 50MP Sony LYT 910 main camera, a 200MP periscope, a larger vapor chamber and seven years of OS updates, but still no US price or on-sale date. Update Nov 2: Motorola confirmed more specs through a sponsored preview with YouTuber Danny Winget, including a tandem OLED screen it rates at up to 12,000 nits peak, a 50MP Sony LYTIA main sensor with LOFIC, aluminum and ceramic materials and two Pantone colors. Price and US on-sale date are still expected on Nov 5.",
+   "price": "$1,599 (12GB/512GB, US)",
+   "summary": "Motorola's Signature 27 is official at $1,599 in the US, with pre-orders open now and sales from Nov 19; Europe gets it Nov 16.",
+   "details": "Unveiled at Qualcomm's Snapdragon Summit in September with the Snapdragon 8 Elite Gen 6 (Motorola's page calls it 'Extreme'). Motorola's US landing page says 'coming this November', and an India page now says the same. European retailer listings point to about EUR 1,595 (see the rumor tracker); Motorola has not given US pricing. Update Oct 30: Motorola said on X that it will show the phone on Nov 5; it has not said whether that is also the US on-sale date. Update Oct 31: a Signature 27 on Android 17 with 12GB of RAM appeared on Geekbench (3,313 single-core, 11,088 multi-core); Motorola has confirmed a 50MP Sony LYT 910 main camera, a 200MP periscope, a larger vapor chamber and seven years of OS updates, but still no US price or on-sale date. Update Nov 2: Motorola confirmed more specs through a sponsored preview with YouTuber Danny Winget, including a tandem OLED screen it rates at up to 12,000 nits peak, a 50MP Sony LYTIA main sensor with LOFIC, aluminum and ceramic materials and two Pantone colors. Price and US on-sale date are still expected on Nov 5. Update Nov 5: Motorola fully announced the phone. US: one 12GB/512GB model at $1,599, pre-orders open on Motorola.com, Best Buy and Amazon, on sale Nov 19, unlocked, in Coal Smoke and Capulet Olive, with a free Moto Watch Ultra as a pre-order offer; no Canada launch. Europe, Middle East and Africa: Nov 16, at a recommended EUR 1,899, though GSMArena says some retailers and partners will sell it for EUR 1,399. Specs: Snapdragon 8 Elite Extreme Gen 6, 6.8-inch tandem OLED (12,000 nits peak), 7,000mAh silicon-carbon battery with 90W wired and 50W wireless charging, 50MP main, 50MP ultrawide and 200MP 3x periscope cameras plus a dedicated event-vision 'action' sensor, IP68/IP69, 227 g, Android 17 with seven years of updates.",
    "sources": [
+    {
+     "name": "9to5Google (price and date)",
+     "url": "https://9to5google.com/2026/11/05/motorola-signature-27-specs-price-release-date/"
+    },
     {
      "name": "Android Authority (official specs, Nov 2)",
      "url": "https://www.androidauthority.com/motorola-signature-display-camera-specs-revealed-3730578/"
@@ -2711,6 +2739,10 @@
     {
      "name": "9to5Google",
      "url": "https://9to5google.com/2026/10/29/motorola-signature-27-november-launch-date/"
+    },
+    {
+     "name": "GSMArena (official, Europe)",
+     "url": "https://www.gsmarena.com/motorola_signature_27_is_now_fully_official_with_a_7000_mah_battery_and_a_dedicated_action_sensor-news-75362.php"
     }
    ]
   },
@@ -2881,11 +2913,15 @@
    "date": "2026-11-05",
    "date_label": "Nov 5, 2026 (China)",
    "precision": "day",
-   "status": "Confirmed",
-   "price": "",
-   "summary": "BYD launches a larger second-generation Seal 07 sedan in China on Nov 5, in battery-electric and DM-i plug-in hybrid versions.",
-   "details": "Auto Home reported the Nov 5 date on Oct 30 citing BYD, and BYD's Ocean sales chief said display cars had reached showrooms in 131 Chinese cities. The new car is 5,080 mm long with a 2,960 mm wheelbase, 85 mm longer than the Seal 07 EV that launched in March. Regulatory filings list 245 kW and 300 kW motors for the EV; BYD has previewed its second-generation Blade Battery, flash charging and roof LiDAR. The DM-i pairs a 1.5-liter turbo with a 160 kW motor and a 38 kWh pack (245 km WLTC electric range). Reservations opened Oct 26 without prices; the outgoing Seal 07 EV started at 169,900 yuan.",
+   "status": "Released",
+   "price": "139,900-172,900 yuan",
+   "summary": "BYD launched the larger second-generation Seal 07 in China on Nov 5 from 139,900 yuan, cheaper than before, with up to 775 km of EV range.",
+   "details": "Auto Home reported the Nov 5 date on Oct 30 citing BYD, and BYD's Ocean sales chief said display cars had reached showrooms in 131 Chinese cities. The new car is 5,080 mm long with a 2,960 mm wheelbase, 85 mm longer than the Seal 07 EV that launched in March. Regulatory filings list 245 kW and 300 kW motors for the EV; BYD has previewed its second-generation Blade Battery, flash charging and roof LiDAR. The DM-i pairs a 1.5-liter turbo with a 160 kW motor and a 38 kWh pack (245 km WLTC electric range). Reservations opened Oct 26 without prices; the outgoing Seal 07 EV started at 169,900 yuan. Launch, Nov 5: five versions at 139,900-172,900 yuan (two DM-i plug-in hybrids at 139,900 and 149,900; three EVs at 149,900, 159,900 and 172,900), with 4,000 yuan off for eligible trade-ins. The EV starts 20,000 yuan below the March Seal 07 EV and uses a 245 kW motor and a 76 kWh second-gen Blade Battery (up to 775 km CLTC, 10-70% in 5 minutes on flash chargers); the DM-i gets up to 330 km of electric range. It is the first BYD-brand car with the Yunnian-M magnetorheological body control system, and roof LiDAR comes with God's Eye B.",
    "sources": [
+    {
+     "name": "CnEVPost (launch)",
+     "url": "https://cnevpost.com/2026/11/05/byd-launches-2nd-gen-seal-07/"
+    },
     {
      "name": "CnEVPost",
      "url": "https://cnevpost.com/2026/11/01/byd-to-launch-2nd-gen-seal-07-nov-5/"
@@ -2897,6 +2933,10 @@
     {
      "name": "CnEVPost (reservations)",
      "url": "https://cnevpost.com/2026/10/26/byd-opens-reservations-2nd-gen-seal-07/"
+    },
+    {
+     "name": "IT Home (Chinese, launch)",
+     "url": "https://www.ithome.com/1/022/972.htm"
     }
    ]
   },
@@ -2911,11 +2951,15 @@
    "date": "2026-11-05",
    "date_label": "Nov 5, 2026 (China)",
    "precision": "day",
-   "status": "Confirmed",
-   "price": "",
-   "summary": "Smart's two-seat electric successor to the ForTwo gets its full China launch on Nov 5, after a limited 112,999-yuan Couture Edition.",
-   "details": "Yiche reported the Nov 5 date citing official information, and Smart's own China media site and IT Home carry the same date. The #2 debuted at the Paris Motor Show on Oct 12, when Smart put 999 Couture Edition cars on sale in China at 112,999 yuan. It uses a 35.8 kWh CATL LFP battery (up to 410 km CLTC), a 60 kW motor and 10-80% charging in 20 minutes, rides on the Electric Compact Architecture designed for tiny EVs, and is built by Geely in China for China, Europe and other markets. Prices for the regular versions come at launch. Update Nov 2: Smart says the 999-unit European Couture Edition (from EUR 25,690) sold out within two weeks of early orders opening on Oct 13; the regular Pure, Pure+ and Premium versions start at EUR 19,990 in Germany, France and Italy, with European deliveries planned for mid Q2 2027 (WLTP range up to 290 km).",
+   "status": "Released",
+   "price": "102,900 yuan (99,900 yuan with launch incentives)",
+   "summary": "Smart's two-seat ForTwo successor went on sale in China on Nov 5 in a single Premium trim for 102,900 yuan, or 99,900 with launch incentives.",
+   "details": "Yiche reported the Nov 5 date citing official information, and Smart's own China media site and IT Home carry the same date. The #2 debuted at the Paris Motor Show on Oct 12, when Smart put 999 Couture Edition cars on sale in China at 112,999 yuan. It uses a 35.8 kWh CATL LFP battery (up to 410 km CLTC), a 60 kW motor and 10-80% charging in 20 minutes, rides on the Electric Compact Architecture designed for tiny EVs, and is built by Geely in China for China, Europe and other markets. Prices for the regular versions come at launch. Update Nov 2: Smart says the 999-unit European Couture Edition (from EUR 25,690) sold out within two weeks of early orders opening on Oct 13; the regular Pure, Pure+ and Premium versions start at EUR 19,990 in Germany, France and Italy, with European deliveries planned for mid Q2 2027 (WLTP range up to 290 km). Launch, Nov 5: the regular car comes in one Premium trim at a list price of 102,900 yuan, with a 3,000 yuan launch incentive bringing it to 99,900 yuan, plus trade-in and repeat-buyer subsidies. The 999-unit China Couture Edition has sold out and delivers this year.",
    "sources": [
+    {
+     "name": "CnEVPost (launch)",
+     "url": "https://cnevpost.com/2026/11/05/smart-expands-2-roll-out-china-premium-trim/"
+    },
     {
      "name": "CnEVPost",
      "url": "https://cnevpost.com/2026/10/23/smart-2-set-for-nov-5-launch-china/"
@@ -2935,6 +2979,10 @@
     {
      "name": "electrive",
      "url": "https://www.electrive.com/2026/11/02/smart-2-limited-edition-sells-out-prior-to-market-launch/"
+    },
+    {
+     "name": "IT Home (Chinese, launch)",
+     "url": "https://www.ithome.com/1/022/970.htm"
     }
    ]
   },
@@ -3047,11 +3095,15 @@
    "status": "Confirmed",
    "price": "$59.99",
    "summary": "Shift Up's action game comes to Nintendo Switch 2 with all its DLC, plus free Bayonetta outfits on every platform.",
-   "details": "Releases worldwide at the same moment: Nov 6 at 00:00 KST/JST, which is Nov 5 at 07:00 PT. The Complete Edition bundles the NieR:Automata and Goddess of Victory: Nikke collaborations and extra cosmetics. The physical cartridge holds the full game (not a game-key card). Four Bayonetta-inspired outfits arrive free on Switch 2, PS5 and PC the same day.",
+   "details": "Releases worldwide at the same moment: Nov 6 at 00:00 KST/JST, which is Nov 5 at 07:00 PT. The Complete Edition bundles the NieR:Automata and Goddess of Victory: Nikke collaborations and extra cosmetics. The physical cartridge holds the full game (not a game-key card). Four Bayonetta-inspired outfits arrive free on Switch 2, PS5 and PC the same day. Checked Nov 5 at about 14:15 UTC: still ahead of the 15:00 UTC (07:00 PT) unlock; launch-day coverage from GoNintendo confirms it is going live today.",
    "sources": [
     {
      "name": "Shift Up press release (Games Press)",
      "url": "https://www.gamespress.com/STELLAR-BLADE-COMPLETE-EDITION-CONFIRMS-NOVEMBER-5-RELEASE-DATE-ON-NIN"
+    },
+    {
+     "name": "GoNintendo (launch day)",
+     "url": "https://www.gonintendo.com/contents/66927-stellar-blade-complete-edition-cuts-a-path-to-switch-2-today"
     }
    ]
   },
@@ -3160,6 +3212,80 @@
     {
      "name": "CnEVPost",
      "url": "https://cnevpost.com/2026/11/04/byd-teases-new-model-guangzhou-show-next-gen-han-expected/"
+    }
+   ]
+  },
+  {
+   "id": "tencent-hy4",
+   "name": "Tencent Hy4 (full release)",
+   "brand": "Tencent",
+   "categories": [
+    "ai"
+   ],
+   "type": "AI model",
+   "date": "2026-11-04",
+   "date_label": "Nov 4, 2026",
+   "precision": "day",
+   "status": "Released",
+   "price": "$0.834 / $2.501 per million input/output tokens",
+   "summary": "Tencent's full Hy4 adds vision and computer use to its 770B-parameter model, available now through Tencent Cloud and OpenRouter.",
+   "details": "Tencent released the full Hy4 on Nov 4, expanding the earlier text-only preview with native image understanding and computer use (command lines and desktop apps such as Blender and CAD tools). It is a 770-billion-parameter mixture-of-experts model with a 1-million-token context, tuned with Tencent's games unit for Unreal, Unity and Godot work. It is built into WorkBuddy, CodeBuddy and WeCom, with free access in WorkBuddy until Nov 15. Tencent says full weights will be published later and admits it still trails top closed models on hard visual QA, advanced math and long-horizon coding.",
+   "sources": [
+    {
+     "name": "TechRepublic",
+     "url": "https://www.techrepublic.com/article/news-tencent-hy4-ai-model-vision-computer-use/"
+    }
+   ]
+  },
+  {
+   "id": "baidu-ernie-5-5-flash-base",
+   "name": "Baidu ERNIE 5.5 Flash Base (open source)",
+   "brand": "Baidu",
+   "categories": [
+    "ai"
+   ],
+   "type": "AI model",
+   "date": "2026-11-05",
+   "date_label": "Nov 5, 2026",
+   "precision": "day",
+   "status": "Released",
+   "price": "Free (open source)",
+   "summary": "Baidu open-sourced ERNIE 5.5 Flash Base, a 280B-parameter mixture-of-experts base model with 14B active parameters.",
+   "details": "Released Nov 5. Pretrained on 33.5 trillion tokens with a 128K pretraining context, extendable to 1 million tokens for fine-tuning and inference. Baidu claims best-in-class scores for its size on knowledge, reasoning, math, code, multilingual and long-context benchmarks, ahead of DeepSeek-V4-Flash-Base and Hy3-preview-Base; those are Baidu's own numbers. It is a base model meant for building specialized models, not a chat assistant.",
+   "sources": [
+    {
+     "name": "AIbase",
+     "url": "https://www.aibase.com/news/32118"
+    }
+   ]
+  },
+  {
+   "id": "nothing-ai-native-device",
+   "name": "Nothing's first AI-native device (screenless)",
+   "brand": "Nothing",
+   "categories": [
+    "ai",
+    "android"
+   ],
+   "type": "Gadget",
+   "date": "2026-12-15",
+   "date_label": "December 2026 (no date)",
+   "precision": "window",
+   "status": "Expected",
+   "summary": "Carl Pei says Nothing's first AI-native product launches next month; it has no screen and 'couldn't have been an app'.",
+   "details": "Pei announced the December timing in an essay posted on X on Nov 4, with a teaser image showing only rounded corners and curved edges. Nothing has not named the product or given its form factor, price or exact date, and pitches it as a productivity tool first. Earlier reports said Nothing is working on AI wearables, including smart glasses, but that is not confirmed as this device.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/"
+    },
+    {
+     "name": "GSMArena",
+     "url": "https://www.gsmarena.com/nothing_is_launching_an_ainative_product_next_month_design_teased-news-75361.php"
+    },
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei"
     }
    ]
   }

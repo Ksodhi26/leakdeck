@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04",
+ "updated": "2026-11-05",
  "scale": {
   "Confirmed": "Announced by the company or shown in an official source.",
   "Likely": "Multiple credible outlets or hard evidence (certifications, databases, supply chain), but no official word.",
@@ -963,18 +963,22 @@
   {
    "id": "vivo-x500-ultra-specs",
    "title": "vivo X500 Ultra uses the Snapdragon 8 Elite Extreme Gen 6, a huge battery and a bigger 200MP telephoto",
-   "rating": "Rumor",
+   "rating": "Shaky",
    "categories": [
     "android",
     "chips"
    ],
    "status": "Active",
    "first_reported": "2026-10-19",
-   "updated": "2026-10-23",
+   "updated": "2026-11-05",
    "expected": "Mar-Apr 2027 (China, reported)",
    "claim": "The vivo X500 Ultra launches in China around March-April 2027 with the Snapdragon 8 Elite Extreme Gen 6, a flat 6.85-inch BOE LTPO screen, an ultrasonic fingerprint sensor, a 7,000-8,000mAh battery, a 50MP Sony LYT910 35mm main camera and a 200MP 1/1.2-inch telephoto.",
-   "why": "All from Weibo tipster Digital Chat Station via GSMArena. On Oct 21 he said the latest engineering sample tests a 200MP 1/1.2-inch telephoto sensor, larger than the X300 Ultra's 1/1.4-inch. GSMArena's two write-ups disagree on the battery (about 7,000mAh on Oct 19, about 8,000mAh on Oct 21), and engineering samples often change. The chip choice is the expected default for a 2027 Ultra; vivo has not announced the phone. On Oct 23 he added that the engineering sample's 35mm main camera uses a 50MP Sony LYT910 sensor (down from 200MP on the X300 Ultra, though with larger pixels). Separately, a global model (V2660) and a Brazil 'Jovi' model appeared in an IMEI database, which supports a launch outside China but says nothing about specs.",
+   "why": "All from Weibo tipster Digital Chat Station via GSMArena. On Oct 21 he said the latest engineering sample tests a 200MP 1/1.2-inch telephoto sensor, larger than the X300 Ultra's 1/1.4-inch. GSMArena's two write-ups disagree on the battery (about 7,000mAh on Oct 19, about 8,000mAh on Oct 21), and engineering samples often change. The chip choice is the expected default for a 2027 Ultra; vivo has not announced the phone. On Oct 23 he added that the engineering sample's 35mm main camera uses a 50MP Sony LYT910 sensor (down from 200MP on the X300 Ultra, though with larger pixels). Separately, a global model (V2660) and a Brazil 'Jovi' model appeared in an IMEI database, which supports a launch outside China but says nothing about specs. Update Nov 5: leaker Yogesh Brar (via Android Authority) says the X500 Ultra pairs a 200MP main camera with a 50MP ultrawide and a 200MP periscope, which contradicts Digital Chat Station's Oct 23 claim of a 50MP LYT910 main sensor. Two tipsters now disagree on the main camera, so we lower this to Shaky. Brar also warns the memory shortage could limit a global launch.",
    "sources": [
+    {
+     "name": "Android Authority (Yogesh Brar leak)",
+     "url": "https://www.androidauthority.com/oppo-find-x10-ultra-vivo-x500-ultra-camera-specs-leak-3731990/"
+    },
     {
      "name": "GSMArena (citing Digital Chat Station)",
      "url": "https://www.gsmarena.com/vivo_x500_ultra_key_specifications_tipped-news-75108.php"
@@ -1609,11 +1613,15 @@
    ],
    "status": "Active",
    "first_reported": "2026-08-01",
-   "updated": "2026-10-31",
+   "updated": "2026-11-05",
    "expected": "Late 2026 or early 2027 (unconfirmed)",
    "claim": "Samsung will launch a Galaxy Fit 4 (SM-R391) fitness band with a near-identical design to the Fit 3, in black, white and light blue, at a similar low price.",
-   "why": "Android Authority obtained 360-degree videos of the band in three colors and earlier found Samsung documents naming SM-R391 as 'FIT4'; a Samsung app teardown also showed renders. The hardware is well evidenced, but specs beyond Bluetooth LE and a Goodix optical sensor, the price (the Fit 3 was about $60) and the launch date are unknown; reports range from late 2026 to early 2027. Update Oct 30: a SammyGuru teardown of the Galaxy Fit 4 Manager app, reported by Android Authority, lists nearly the same health features as the Fit 3 (sleep coaching, SpO2, snoring detection, auto workout tracking), the same tile-based UI with up to 12 tiles, and 258 x 428 watch-face assets that suggest a slightly taller screen. Update Oct 31: GSMArena, citing the same SammyGuru teardown, reads the watch-face colors as black, silver and light green cases and found no sign of GPS. Still no launch date or price from Samsung.",
+   "why": "Android Authority obtained 360-degree videos of the band in three colors and earlier found Samsung documents naming SM-R391 as 'FIT4'; a Samsung app teardown also showed renders. The hardware is well evidenced, but specs beyond Bluetooth LE and a Goodix optical sensor, the price (the Fit 3 was about $60) and the launch date are unknown; reports range from late 2026 to early 2027. Update Oct 30: a SammyGuru teardown of the Galaxy Fit 4 Manager app, reported by Android Authority, lists nearly the same health features as the Fit 3 (sleep coaching, SpO2, snoring detection, auto workout tracking), the same tile-based UI with up to 12 tiles, and 258 x 428 watch-face assets that suggest a slightly taller screen. Update Oct 31: GSMArena, citing the same SammyGuru teardown, reads the watch-face colors as black, silver and light green cases and found no sign of GPS. Still no launch date or price from Samsung. Update Nov 5: SamMobile found a Wallet section in the leaked Galaxy Fit 4 Manager plugin, pointing to NFC payments through Samsung Wallet (a first for the Fit line), plus Modes and Routines support, photo watch faces and what looks like a speaker for calls. Samsung still has not announced it.",
    "sources": [
+    {
+     "name": "SamMobile (NFC, Nov 5)",
+     "url": "https://www.sammobile.com/news/galaxy-fit-4-nfc-payments-samsung-wallet/"
+    },
     {
      "name": "GSMArena (Oct 31)",
      "url": "https://www.gsmarena.com/samsung_galaxy_fit4_leaks_key_features_revealed_-news-75289.php"
@@ -1680,18 +1688,22 @@
   },
   {
    "id": "yangwang-altior-nov-5-solid-state",
-   "title": "BYD's Yangwang Altior luxury sedan debuts in Dubai around Nov 5 with solid-state batteries",
+   "title": "BYD's Yangwang Altior luxury sedan debuts in the UAE in early November with solid-state batteries",
    "rating": "Rumor",
    "categories": [
     "evs"
    ],
    "status": "Active",
    "first_reported": "2026-10-26",
-   "updated": "2026-11-02",
-   "expected": "Around Nov 5, 2026 (Dubai, reported)",
+   "updated": "2026-11-05",
+   "expected": "Nov 8, 2026 (Abu Dhabi, BYD teaser); battery chemistry unconfirmed",
    "claim": "BYD will unveil its 5.5-meter Yangwang Altior executive sedan in Dubai around Nov 5, as the first car with BYD's solid-state batteries, priced around 2 million yuan.",
-   "why": "The name is official: on Oct 27 BYD revealed the sedan as the Yangwang Altior (DingYao in China) with a teaser, and Yangwang's Hu Xiaoqing had already said the global launch will be in the UAE. The Nov 5 date comes from CarNewsChina citing people familiar with the project; BYD has not announced a date. The solid-state battery and the roughly 2 million yuan price are reports only, and BYD's Stella Li has said its first solid-state car debuts in 2027, so that part is the weakest. Rear-hinged coach doors are visible in teasers and prototype photos. Update Oct 30: Hu Xiaoqing confirmed the Altior has rear-hinged (suicide) doors, a first for BYD, and previewed a dot-matrix grille; a teaser shows it at a BYD Flash Charging station. BYD still has not confirmed the Nov 5 date or a solid-state pack. Update Nov 2: several outlets now print Nov 5 as the Dubai debut date, but they trace back to the same CarNewsChina report; BYD still has not published a date or battery chemistry. We will resolve this after Nov 5.",
+   "why": "The name is official: on Oct 27 BYD revealed the sedan as the Yangwang Altior (DingYao in China) with a teaser, and Yangwang's Hu Xiaoqing had already said the global launch will be in the UAE. The Nov 5 date comes from CarNewsChina citing people familiar with the project; BYD has not announced a date. The solid-state battery and the roughly 2 million yuan price are reports only, and BYD's Stella Li has said its first solid-state car debuts in 2027, so that part is the weakest. Rear-hinged coach doors are visible in teasers and prototype photos. Update Oct 30: Hu Xiaoqing confirmed the Altior has rear-hinged (suicide) doors, a first for BYD, and previewed a dot-matrix grille; a teaser shows it at a BYD Flash Charging station. BYD still has not confirmed the Nov 5 date or a solid-state pack. Update Nov 2: several outlets now print Nov 5 as the Dubai debut date, but they trace back to the same CarNewsChina report; BYD still has not published a date or battery chemistry. We will resolve this after Nov 5. Update Nov 5: BYD's own teaser now sets the debut for Nov 8 in Abu Dhabi, not Nov 5 in Dubai, so the reported date was a few days off. Uncamouflaged prototypes show a large chrome grille, rear-hinged doors and roof LiDAR. BYD still has not mentioned solid-state batteries or a price, so the rating stays Rumor until the Nov 8 reveal.",
    "sources": [
+    {
+     "name": "CarNewsChina (Nov 8, Abu Dhabi)",
+     "url": "https://carnewschina.com/2026/11/05/byds-yangwang-altior-to-debut-in-abu-dhabi-on-november-8/"
+    },
     {
      "name": "Electrek (Oct 30)",
      "url": "https://electrek.co/2026/10/30/byd-reveals-flashy-new-feature-upcoming-luxury-ev/"
@@ -1719,11 +1731,15 @@
    ],
    "status": "Active",
    "first_reported": "2026-10-26",
-   "updated": "2026-10-27",
+   "updated": "2026-11-05",
    "expected": "First half of 2027 (expected)",
    "claim": "The Find X10 Ultra will have a 200MP 1/1.12-inch main camera with LOFIC, a 200MP periscope, a 50MP 10x periscope and a 100MP square-sensor selfie camera.",
-   "why": "From Weibo tipster Digital Chat Station, who has a decent record on Oppo, relayed by GSMArena. By the leak's own account two sensors (the 200MP periscope and the 10x periscope) are not finalized, and the 10x camera could fall back to a smaller 1/2.76-inch sensor if the preferred 1/1.95-inch part is delayed. The phone is months away and Oppo has said nothing.",
+   "why": "From Weibo tipster Digital Chat Station, who has a decent record on Oppo, relayed by GSMArena. By the leak's own account two sensors (the 200MP periscope and the 10x periscope) are not finalized, and the 10x camera could fall back to a smaller 1/2.76-inch sensor if the preferred 1/1.95-inch part is delayed. The phone is months away and Oppo has said nothing. Update Nov 5: leaker Yogesh Brar (via Android Authority) gives a different setup: 200MP main, 200MP ultrawide, 200MP 3x periscope and 50MP 10x periscope. That conflicts with Digital Chat Station's 50MP-class ultrawide, so the main camera and two periscopes look consistent across tipsters while the ultrawide is disputed.",
    "sources": [
+    {
+     "name": "Android Authority (Yogesh Brar leak)",
+     "url": "https://www.androidauthority.com/oppo-find-x10-ultra-vivo-x500-ultra-camera-specs-leak-3731990/"
+    },
     {
      "name": "GSMArena (citing Digital Chat Station)",
      "url": "https://www.gsmarena.com/oppo_find_x10_ultras_full_camera_setup_leaks-news-75206.php"
@@ -1826,17 +1842,21 @@
   {
    "id": "motorola-signature-27-europe-price",
    "title": "Motorola Signature 27 costs about €1,595 in Europe, and a Razr Flex 27 about €1,511",
-   "rating": "Rumor",
+   "rating": "Debunked",
    "categories": [
     "android"
    ],
-   "status": "Active",
+   "status": "Resolved",
    "first_reported": "2026-10-28",
-   "updated": "2026-10-29",
-   "expected": "Signature 27 US launch in November (Motorola); Razr Flex reportedly December",
+   "updated": "2026-11-05",
+   "expected": "Signature 27: Nov 16 in Europe (announced); Razr Flex 27 not announced",
    "claim": "The Motorola Signature 27 (12GB/512GB) will cost €1,594.90 in Europe, up nearly 60% from the first Signature's €999, and the unannounced Razr Flex 27 (12GB/256GB) will cost €1,510.90.",
-   "why": "The prices come from listings on Portuguese retailer MegaPC. Retailer listings are real evidence but often use placeholder prices: the Razr Flex listings have no photos, one wrongly describes a clamshell, and all are out of stock with no ship date. Motorola has not confirmed European or US pricing. Update Oct 29: Motorola's US and India pages say the Signature 27 arrives in November, which fits the retailer timing, but it still has not confirmed any price.",
+   "why": "The prices come from listings on Portuguese retailer MegaPC. Retailer listings are real evidence but often use placeholder prices: the Razr Flex listings have no photos, one wrongly describes a clamshell, and all are out of stock with no ship date. Motorola has not confirmed European or US pricing. Update Oct 29: Motorola's US and India pages say the Signature 27 arrives in November, which fits the retailer timing, but it still has not confirmed any price. Update Nov 5: Motorola announced the Signature 27 with a recommended European price of EUR 1,899, not EUR 1,595, going on sale Nov 16; GSMArena says some retailers and partners will sell it at EUR 1,399. The US price is $1,599. The Razr Flex 27 is still unannounced.",
    "sources": [
+    {
+     "name": "GSMArena (official European price)",
+     "url": "https://www.gsmarena.com/motorola_signature_27_is_now_fully_official_with_a_7000_mah_battery_and_a_dedicated_action_sensor-news-75362.php"
+    },
     {
      "name": "Android Authority",
      "url": "https://www.androidauthority.com/motorola-signature-27-razr-flex-27-price-leak-3728825/"
@@ -1845,7 +1865,8 @@
      "name": "9to5Google (November launch)",
      "url": "https://9to5google.com/2026/10/29/motorola-signature-27-november-launch-date/"
     }
-   ]
+   ],
+   "outcome": "Wrong. The leaked EUR 1,594.90 retailer price matched neither of Motorola's figures: the official recommended price is EUR 1,899, with some partners at EUR 1,399. The 'nearly 60% more than the first Signature' framing understated the official jump. The Razr Flex 27 price remains unverifiable because the phone has not been announced."
   },
   {
    "id": "vivo-x500s-screen",
@@ -2473,6 +2494,127 @@
     {
      "name": "IT Home (Chinese)",
      "url": "https://www.ithome.com/1/022/417.htm"
+    }
+   ]
+  },
+  {
+   "status": "Active",
+   "first_reported": "2026-11-05",
+   "updated": "2026-11-05",
+   "id": "tes6-sentinel-2028-plus",
+   "title": "The Elder Scrolls VI: Sentinel is more than two years away",
+   "rating": "Likely",
+   "categories": [
+    "gaming"
+   ],
+   "expected": "2029 or later (reported); Bethesda has given no date",
+   "claim": "Bethesda's newly named The Elder Scrolls VI: Sentinel will not ship for more than two years.",
+   "why": "Bethesda revealed the Sentinel subtitle on Nov 4 and said it will be 'some time' before it shares more. Bloomberg's Jason Schreier, who called Fallout 76 and Starfield timing correctly, then said the game is 'still more than two years away' and doubled down on Reddit; Windows Central's Jez Corden said the same. Two well-sourced reporters agreeing makes this Likely, though release windows this far out often move.",
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "url": "https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-6-is-reportedly-more-than-two-years-away-and-some-fans-are-not-coping-well/"
+    }
+   ]
+  },
+  {
+   "status": "Active",
+   "first_reported": "2026-11-05",
+   "updated": "2026-11-05",
+   "id": "homeview-third-party-ai-chatbots",
+   "title": "Apple's HomeView will run third-party AI chatbots like ChatGPT and Claude",
+   "rating": "Likely",
+   "categories": [
+    "apple",
+    "ai"
+   ],
+   "expected": "Not announced (code is in iOS 27.3 beta 1, not yet active)",
+   "claim": "Apple's HomeView hub will allow third-party conversational AI apps such as ChatGPT and Claude.",
+   "why": "Leaker pdfu found an unused ConversationalApps flag earlier this month and says iOS 27.3 beta 1 adds a Conversational Apps category to PebblePlay, HomeView's CarPlay-style app bridge, along with two-way audio routing and session handling (reported by 9to5Mac). Apple uses these category flags to decide which third-party apps can run, so this is hard evidence of intent. It is still 'not fully wired up', and Apple has not named any apps or a date.",
+   "sources": [
+    {
+     "name": "9to5Mac",
+     "url": "https://9to5mac.com/2026/11/05/homeview-will-support-third-party-ai-chatbots-suggests-code/"
+    }
+   ]
+  },
+  {
+   "status": "Active",
+   "first_reported": "2026-11-05",
+   "updated": "2026-11-05",
+   "id": "macbook-neo-16-million-2027",
+   "title": "Apple asks suppliers for 16 million MacBook Neo laptops in 2027, double this year",
+   "rating": "Rumor",
+   "categories": [
+    "apple"
+   ],
+   "expected": "2027 (supply chain forecast)",
+   "claim": "Apple has asked suppliers to build 16 million MacBook Neo laptops in 2027, about twice the volume expected for 2026.",
+   "why": "From DigiTimes' supply chain sources, reported by MacRumors. DigiTimes is often right on direction but less reliable on exact numbers. It fits Bloomberg's September report of a second-generation Neo with an A19 Pro and 12GB of RAM in 2027 and Apple's record fiscal 2026 Mac sales, but Apple does not publish per-model numbers, so this is hard to verify.",
+   "sources": [
+    {
+     "name": "MacRumors (citing DigiTimes)",
+     "url": "https://www.macrumors.com/2026/11/05/macbook-neo-shipments-expected-to-double-in-2027/"
+    }
+   ]
+  },
+  {
+   "status": "Active",
+   "first_reported": "2026-11-05",
+   "updated": "2026-11-05",
+   "id": "huawei-osta-subbrand",
+   "title": "Huawei's new sub-brand is called Osta and debuts with the flagship-level Osta O1 and wide-screen O1 Pro",
+   "rating": "Rumor",
+   "categories": [
+    "android"
+   ],
+   "expected": "Not announced (earlier tips said November)",
+   "claim": "Huawei's upcoming sub-brand, reported in Chinese as Xingmang, will be called Osta in English and launch with two flagship-level phones: the Osta O1 with a quad-curved screen and the Osta O1 Pro with a 6.39-inch 1.5K wide-aspect flat screen and up to 16GB/1TB.",
+   "why": "Two Weibo tipsters that GSMArena calls reliable say Osta will be printed on retail boxes. Positioning the phones as flagships contradicts an earlier leak of Kirin 8-series mid-rangers, and an earlier tipster warned the English name might differ. Huawei has not confirmed the brand.",
+   "sources": [
+    {
+     "name": "GSMArena",
+     "url": "https://www.gsmarena.com/huaweis_upcoming_subbrand_gets_an_english_name_first_two_phones_detailed-news-75343.php"
+    }
+   ]
+  },
+  {
+   "status": "Active",
+   "first_reported": "2026-11-05",
+   "updated": "2026-11-05",
+   "id": "huawei-mate-80-air-december",
+   "title": "Huawei Mate 80 Air launches in December",
+   "rating": "Rumor",
+   "categories": [
+    "android"
+   ],
+   "expected": "December 2026 (leak)",
+   "claim": "Huawei will launch the Mate 80 Air thin phone next month, with the MatePad Mini 2 arriving separately, possibly also in December.",
+   "why": "A single Weibo tipster via GSMArena. Another tipster said a few days ago that a Mate-series Air arrives within two months with 12GB of RAM and a circular camera island; the Kirin 9030 and curved screen are expected but unconfirmed. The Mate 70 Air launched about a year ago, so the timing is plausible, but Huawei has said nothing.",
+   "sources": [
+    {
+     "name": "GSMArena",
+     "url": "https://www.gsmarena.com/heres_when_the_huawei_mate_80_air_is_rumored_to_launch-news-75352.php"
+    }
+   ]
+  },
+  {
+   "status": "Active",
+   "first_reported": "2026-11-05",
+   "updated": "2026-11-05",
+   "id": "redmi-turbo-6-max-11000mah",
+   "title": "Redmi Turbo 6 Max packs an 11,000mAh battery",
+   "rating": "Rumor",
+   "categories": [
+    "android"
+   ],
+   "expected": "Not announced (global version expected as Poco X9 Pro Max)",
+   "claim": "The Redmi Turbo 6 Max will have an 11,000mAh (40.72Wh) battery, a 7-inch 2K 185Hz OLED and a Dimensity 9500s chip.",
+   "why": "A tipster GSMArena calls reliable described a Dimensity performance phone with a 7-inch 2K screen and an 11,000mAh battery without naming it; the match to the Turbo 6 Max is GSMArena's inference from earlier leaks. That would be a big step from the Turbo 5 Max's 9,000mAh. Xiaomi has not announced the phone, and global Poco versions often ship with smaller batteries.",
+   "sources": [
+    {
+     "name": "GSMArena",
+     "url": "https://www.gsmarena.com/redmi_turbo_6_maxs_battery_capacity_leaks_and_its_huge-news-75348.php"
     }
    ]
   }

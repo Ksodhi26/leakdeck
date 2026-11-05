@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T14:09:30Z",
+ "updated": "2026-11-05T14:25:58Z",
  "sources": [
   "9to5Google",
   "9to5Mac",
@@ -23,9 +23,53 @@
  "count": 600,
  "items": [
   {
+   "id": "890248094acc",
+   "title": "The X-70 is NASA’s next experimental X-plane",
+   "url": "https://www.theverge.com/tech/1027426/nasa-experimental-x-70-fractal-aircraft",
+   "source": "The Verge",
+   "published": "2026-11-05T14:20:36Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "cfcca3958709",
+   "title": "Bluetooth 7.0 could bring truly lossless audio to future Galaxy Buds",
+   "url": "https://www.sammobile.com/news/bluetooth-7-0-truly-lossless-audio-future-galaxy-buds/",
+   "source": "SamMobile",
+   "published": "2026-11-05T14:16:25Z",
+   "categories": [
+    "android",
+    "samsung"
+   ],
+   "rumor": true
+  },
+  {
+   "id": "9ec4400439f9",
+   "title": "Tech is about to get hammered in Congress",
+   "url": "https://www.theverge.com/policy/1027430/democratic-control-congress-tech-policy",
+   "source": "The Verge",
+   "published": "2026-11-05T14:11:27Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
    "id": "47310a3456a1",
    "title": "New Windows 11 update should improve 8GB Samsung Galaxy Book 6 performance",
    "url": "https://www.sammobile.com/2026/11/05/new-windows-11-update-should-improve-8gb-samsung-galaxy-book-6-performance/",
+   "source": "SamMobile",
+   "published": "2026-11-05T14:09:26Z",
+   "categories": [
+    "android",
+    "chips",
+    "samsung"
+   ],
+   "rumor": false,
+   "summary": "An upcoming Windows 11 update is expected to help Galaxy Book 6 laptops that ship with only 8GB of RAM run more smoothly."
+  },
+  {
+   "id": "8547270796ca",
+   "title": "New Windows 11 update should improve 8GB Samsung Galaxy Book 6 performance",
+   "url": "https://www.sammobile.com/news/new-windows-11-update-should-improve-8gb-samsung-galaxy-book-6-performance/",
    "source": "SamMobile",
    "published": "2026-11-05T14:09:26Z",
    "categories": [
@@ -44,7 +88,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "The Verge's review of the M6 MacBook Pro argues it is likely the last non-touch, non-OLED model of its kind."
   },
   {
    "id": "283796f94831",
@@ -55,7 +100,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "XDA praises the OLED MacBook Pro's PROLED XDR screen but finds little use for its new touch input."
   },
   {
    "id": "e8d2e593a070",
@@ -66,7 +112,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Motorola launched a new Moto Watch Fit with Polar fitness tech and Moto Buds Ultra tuned by Bose alongside its new flagship."
   },
   {
    "id": "b096a2b3cfea",
@@ -88,7 +135,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "9to5Mac's review says the OLED MacBook Pro's upgrades go well beyond adding a touchscreen."
   },
   {
    "id": "5bea111a6c03",
@@ -97,7 +145,8 @@
    "source": "Engadget",
    "published": "2026-11-05T14:00:00Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "Engadget drives the 2027 Silverado 1500, which pairs larger in-cab screens with V8 engines."
   },
   {
    "id": "608b6833582f",
@@ -108,7 +157,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Engadget finds the M6 iMac faster but pricier, and says the design is overdue for a refresh."
   },
   {
    "id": "dca72253525b",
@@ -119,7 +169,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Engadget calls the OLED MacBook Pro lighter and brighter, though it thinks the touchscreen adds little."
   },
   {
    "id": "465ee7a752cc",
@@ -130,7 +181,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Engadget rates the M6 MacBook Pro a modest update that remains the cheapest way into Apple's Pro laptops."
   },
   {
    "id": "d51f62aa0d3c",
@@ -142,7 +194,8 @@
     "ai",
     "chips"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Box is building a content retrieval system for AI agents on NVIDIA's Nemotron models."
   },
   {
    "id": "46011e60a781",
@@ -164,7 +217,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Tom's Hardware says the OLED MacBook Pro's display sets the bar every Mac should meet."
   },
   {
    "id": "49842c5302b3",
@@ -176,7 +230,8 @@
     "apple",
     "chips"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Tom's Hardware finds the M6 chip makes the familiar 14-inch MacBook Pro design noticeably faster."
   },
   {
    "id": "0728407c59cd",
@@ -187,7 +242,8 @@
    "categories": [
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Nintendo's Eiji Aonuma and Hidemaro Fujibayashi explain how they aimed for elegance in the Ocarina of Time remake."
   },
   {
    "id": "8457ee6aa53c",
@@ -199,7 +255,8 @@
     "android",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Samsung's One UI 9.0 update is now rolling out to its cheapest Galaxy A phone."
   },
   {
    "id": "75abb3420a90",
@@ -228,7 +285,8 @@
    "source": "Tom's Hardware",
    "published": "2026-11-05T13:30:16Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "After the midterms, a US congresswoman is calling for a ban on artificial superintelligence and a pause on advanced AI."
   },
   {
    "id": "ba5d4e4457d0",
@@ -239,7 +297,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "The Verge comes away convinced that Apple's touchscreen OLED MacBook Pro works."
   },
   {
    "id": "d0dfc96abe75",
@@ -251,7 +310,8 @@
     "android",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "The rugged Galaxy XCover 7 Pro is getting One UI 9.0 in the US."
   },
   {
    "id": "d648d92921f3",
@@ -262,7 +322,8 @@
    "categories": [
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Despite long beta queues, WoW: Forever launched without major server trouble."
   },
   {
    "id": "0acd66fc35cb",
@@ -284,7 +345,8 @@
    "categories": [
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "GameSpot puts the Switch 2 Ocarina of Time remake side by side with the 1998 N64 original."
   },
   {
    "id": "4d0be4793a41",
@@ -306,7 +368,8 @@
    "categories": [
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "PS5 sales are nearing 100 million units even after Sony's price increases."
   },
   {
    "id": "10d30cea7504",
@@ -340,7 +403,8 @@
     "ai",
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "The Signature 27 is the first non-Pixel phone to get Google's Gemini Intelligence features, including Rambler and Create My Widget."
   },
   {
    "id": "724dad6cc923",
@@ -364,7 +428,8 @@
     "apple",
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "A port built with Claude Code gets Nintendo Switch games running natively on Apple TV."
   },
   {
    "id": "3efa11093d4c",
@@ -375,7 +440,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Motorola's new Buds Ultra 27 earbuds and Watch Fit 27 round out its premium lineup around the Signature 27."
   },
   {
    "id": "8069d63fc738",
@@ -386,7 +452,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Motorola's Signature 27 is official with a 7,000mAh battery, a 12,000-nit tandem OLED and a first-of-its-kind action sensor; Europe gets it Nov 16."
   },
   {
    "id": "bb7377ab6e9b",
@@ -397,7 +464,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Ars Technica says the Signature 27 checks every flagship box, but $1,600 is a tough ask."
   },
   {
    "id": "82d0b3019a52",
@@ -408,7 +476,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Motorola's $1,600 Signature 27 brings a 7,000mAh battery and seven years of Android updates."
   },
   {
    "id": "4ecf75d14e55",
@@ -419,7 +488,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Motorola's $1,600 Signature 27 is a no-compromise flagship that also officially supports GrapheneOS."
   },
   {
    "id": "db2da4f7f1bc",
@@ -439,7 +509,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "The Signature 27 now has a US price and release date: $1,599, on sale Nov 19 with pre-orders open now."
   },
   {
    "id": "28694b123a8e",
@@ -459,7 +530,8 @@
    "source": "Engadget",
    "published": "2026-11-05T13:00:00Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "United passengers will be able to use Spotify on the airline's seatback screens."
   },
   {
    "id": "b06af2d45cd2",
@@ -470,7 +542,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "A Y Combinator startup is putting $1 million toward five unsolved materials science problems for AI to tackle."
   },
   {
    "id": "33b2a600daf1",
@@ -481,7 +554,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Motorola's Signature 27 costs $1,599 for 12GB/512GB in the US, with pre-orders open now and sales from Nov 19."
   },
   {
    "id": "191b56f29e2b",
@@ -501,7 +575,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "TechRadar notes the Signature 27's 12,000-nit screen and 7,000mAh battery come at a price above the iPhone 18 Pro."
   },
   {
    "id": "8e7edf89b74f",
@@ -512,7 +587,8 @@
    "categories": [
     "evs"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "Lincoln's Aviator plug-in hybrid is gone from the US but is returning in China."
   },
   {
    "id": "55d5803e662b",
@@ -524,7 +600,8 @@
     "ai",
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Apple says the waitlist for its new Siri AI will now only kick in when demand is high."
   },
   {
    "id": "440ebaa5b17f",
@@ -535,7 +612,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "GrapheneOS moves the Pixel 10 series to Linux 6.18 and targets Android 17 QPR2 for Pixel 11 support."
   },
   {
    "id": "e2fa2e072ae5",
@@ -546,7 +624,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "OpenAI pledges to protect local resources near its data centers and to report publicly on their impact."
   },
   {
    "id": "cf8c5da6badc",
@@ -558,7 +637,8 @@
     "ai",
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Code in iOS 27.3 beta 1 points to Apple's HomeView hub supporting third-party AI apps like ChatGPT and Claude."
   },
   {
    "id": "dcc678d0c0b6",
@@ -613,7 +693,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Carl Pei confirms Nothing's first AI-native product, which has no screen, launches in December."
   },
   {
    "id": "0e8ea6257db3",
@@ -647,7 +728,8 @@
    "categories": [
     "android"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "A leak gives Oppo's Find X10 Ultra three 200MP cameras and vivo's X500 Ultra two, plus a 10x zoom on the Oppo."
   },
   {
    "id": "61154637dfe4",
@@ -658,7 +740,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "DigiTimes says Apple wants 16 million MacBook Neo laptops built in 2027, double this year's expected volume."
   },
   {
    "id": "454b64e2bbfa",
@@ -1009,7 +1092,8 @@
     "android",
     "samsung"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "Leaked app code suggests the Galaxy Fit 4 will support Samsung Wallet payments over NFC, a first for the Fit line."
   },
   {
    "id": "66b497a9020c",
@@ -1310,7 +1394,8 @@
    "categories": [
     "android"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "A Weibo tipster says Huawei's thin Mate 80 Air arrives in December."
   },
   {
    "id": "34045a04fcdc",
@@ -1424,7 +1509,8 @@
    "categories": [
     "android"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "A tipster points to an 11,000mAh battery in what appears to be the Redmi Turbo 6 Max."
   },
   {
    "id": "d426882fe124",
@@ -1458,7 +1544,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Tipsters say Huawei's new sub-brand will be called Osta and start with the Osta O1 and wide-screen O1 Pro."
   },
   {
    "id": "930e88addf89",
@@ -1576,7 +1663,8 @@
    "categories": [
     "gaming"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "Bloomberg's Jason Schreier says The Elder Scrolls VI: Sentinel is still more than two years out, a day after Bethesda revealed the name."
   },
   {
    "id": "8c5761b3e77f",
@@ -1881,7 +1969,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Nothing CEO Carl Pei says the company's first AI-focused device arrives next month."
   },
   {
    "id": "82208d7deed8",
@@ -6629,50 +6718,6 @@
    "categories": [
     "android",
     "samsung"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "b830a4a85a17",
-   "title": "Proton VPN 8.0 is coming to iPhone — and it could be the app's biggest upgrade in years",
-   "url": "https://www.techradar.com/vpn/vpn-services/proton-vpn-8-0-is-coming-to-iphone-and-it-could-be-the-apps-biggest-upgrade-in-years",
-   "source": "TechRadar",
-   "published": "2026-11-03T17:31:47Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": true
-  },
-  {
-   "id": "eae2d4152ce3",
-   "title": "BYD’s 3,000-hp EV crashes at about 280 mph — Watch the driver escape unharmed",
-   "url": "https://electrek.co/2026/11/03/byds-ev-crashes-at-280-mph-watch-driver-escape-unharmed/",
-   "source": "Electrek",
-   "published": "2026-11-03T17:25:43Z",
-   "categories": [
-    "evs"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "44aa41b951f8",
-   "title": "One of Android’s biggest software rollouts is here, with over 80 devices on the guest list",
-   "url": "https://www.androidauthority.com/xiaomi-hyperos-4-android-17-global-rollout-schedule-3731257/",
-   "source": "Android Authority",
-   "published": "2026-11-03T17:24:15Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "a01b29f9635c",
-   "title": "Smart homes are in disarray after daylight saving time baffles Google Nest devices (Update)",
-   "url": "https://www.androidauthority.com/google-nest-devices-baffled-by-dst-3731238/",
-   "source": "Android Authority",
-   "published": "2026-11-03T17:23:04Z",
-   "categories": [
-    "android"
    ],
    "rumor": false
   }

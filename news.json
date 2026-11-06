@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T14:04:35Z",
+ "updated": "2026-11-06T14:23:56Z",
  "sources": [
   "9to5Google",
   "9to5Mac",
@@ -23,6 +23,108 @@
  "count": 600,
  "items": [
   {
+   "id": "172e7ca5e0d6",
+   "title": "Skyrim's lead designer has 2 big asks of The Elder Scrolls 6: Sentinel, and only one of them is something most players have ever thought about",
+   "url": "https://www.pcgamer.com/games/the-elder-scrolls/skyrims-lead-designer-has-2-big-asks-of-the-elder-scrolls-6-sentinel-and-only-one-of-them-is-something-most-players-have-ever-thought-about/",
+   "source": "PC Gamer",
+   "published": "2026-11-06T14:21:52Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "ce2f570a52c4",
+   "title": "Leaker says OPPO may have suspended the Find X10 Ultra",
+   "url": "https://www.androidauthority.com/oppo-find-x10-ultra-development-pause-leak-3732500/",
+   "source": "Android Authority",
+   "published": "2026-11-06T14:19:51Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": true
+  },
+  {
+   "id": "e0dc10175992",
+   "title": "Google’s November Pixel update is missing, and Android 17 QPR2 may explain why",
+   "url": "https://www.androidauthority.com/google-pixel-android-17-qpr2-november-release-leak-3732519/",
+   "source": "Android Authority",
+   "published": "2026-11-06T14:19:03Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": true
+  },
+  {
+   "id": "a23748cd4aff",
+   "title": "MacBook Air Drops to Lowest Price in Months With Amazon's $250 Discount",
+   "url": "https://www.macrumors.com/2026/11/06/macbook-air-250-discount/",
+   "source": "MacRumors",
+   "published": "2026-11-06T14:16:51Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "3d45928df4c1",
+   "title": "Samsung Galaxy S26 Ultra gets a big $450 Amazon price drop",
+   "url": "https://www.androidauthority.com/amazon-deal-galaxy-s26-ultra-3732569/",
+   "source": "Android Authority",
+   "published": "2026-11-06T14:14:31Z",
+   "categories": [
+    "android",
+    "samsung"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "6df32eb06fbc",
+   "title": "Latest Google app reveals Gemini Live’s offline mode requires an online setup",
+   "url": "https://www.androidauthority.com/gemini-live-offline-mode-caveats-apk-teardown-3732544/",
+   "source": "Android Authority",
+   "published": "2026-11-06T14:14:19Z",
+   "categories": [
+    "ai",
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "1c24747cb7db",
+   "title": "One UI 9 is leaving some Galaxy phones struggling to stay connected",
+   "url": "https://www.androidpolice.com/one-ui-9-leaving-some-galaxy-phones-struggling-stay-connected/",
+   "source": "Android Police",
+   "published": "2026-11-06T14:14:00Z",
+   "categories": [
+    "android",
+    "samsung"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "8250334af197",
+   "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
+   "url": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
+   "source": "Ars Technica",
+   "published": "2026-11-06T14:13:32Z",
+   "categories": [
+    "chips"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "c97c93001077",
+   "title": "Apple Rumored to Drop the iPhone's Action Button Next Year",
+   "url": "https://www.macrumors.com/2026/11/06/apple-rumored-to-drop-the-action-button/",
+   "source": "MacRumors",
+   "published": "2026-11-06T14:07:52Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": true
+  },
+  {
    "id": "b017e07ea018",
    "title": "Tesla hikes Cybertruck prices up to 10% after announcing it will kill production",
    "url": "https://electrek.co/2026/11/06/tesla-raises-cybertruck-prices-after-ending-production/",
@@ -31,7 +133,8 @@
    "categories": [
     "evs"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Tesla raised Cybertruck prices by up to 10% after saying it will wind down production."
   },
   {
    "id": "07bc019721e7",
@@ -41,6 +144,18 @@
    "published": "2026-11-06T14:03:34Z",
    "categories": [
     "apple"
+   ],
+   "rumor": false,
+   "summary": "Apple's extended 2026 holiday return window is now active."
+  },
+  {
+   "id": "a13c8bb3f009",
+   "title": "Zelda: Ocarina Of Time Remake Involved Xenoblade Chronicles Creator Monolith Soft",
+   "url": "https://www.gamespot.com/articles/zelda-ocarina-of-time-remake-involved-xenoblade-chronicles-creator-monolith-soft/",
+   "source": "GameSpot",
+   "published": "2026-11-06T14:02:51Z",
+   "categories": [
+    "gaming"
    ],
    "rumor": false
   },
@@ -53,7 +168,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Garmin's Fenix E is on sale at a $400 record-low price."
   },
   {
    "id": "a3a76987cf68",
@@ -62,7 +178,8 @@
    "source": "The Verge",
    "published": "2026-11-06T14:00:49Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "The EU says TikTok's For You page needs changes to curb rabbit-hole recommendations."
   },
   {
    "id": "4b3336196b50",
@@ -74,7 +191,8 @@
     "android",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Samsung's Galaxy Buds On ($229.99) and SmartTag 3 ($29.99 / $99.99 four-pack) are now on sale in the US."
   },
   {
    "id": "7d404dd04d0b",
@@ -97,7 +215,8 @@
     "android",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "SamMobile confirms US pricing and availability for Galaxy Buds On and SmartTag 3 starting Nov 6."
   },
   {
    "id": "eddb01178380",
@@ -106,7 +225,8 @@
    "source": "Tom's Hardware",
    "published": "2026-11-06T14:00:00Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "GlobalFoundries detailed FDX Fusion, aiming for 7nm-class performance without EUV and high volume around 2030."
   },
   {
    "id": "27b2be2c7f37",
@@ -139,7 +259,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Protesters stormed a Microsoft AI data-center site in Amsterdam in what organizers call the first of 85 European actions."
   },
   {
    "id": "35ab47bbc76c",
@@ -147,6 +268,16 @@
    "url": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
    "source": "The Verge",
    "published": "2026-11-06T13:56:32Z",
+   "categories": [],
+   "rumor": false,
+   "summary": "Amazon will let shoppers text Alexa shopping lists and orders."
+  },
+  {
+   "id": "ba6c83f8e1de",
+   "title": "No more Cybertrucks; Musk moves on from the angular metallic flop",
+   "url": "https://arstechnica.com/cars/2026/11/the-cybertruck-is-dead-makes-way-for-cybercab-says-elon-musk/",
+   "source": "Ars Technica",
+   "published": "2026-11-06T13:50:20Z",
    "categories": [],
    "rumor": false
   },
@@ -160,7 +291,8 @@
     "ai",
     "chips"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "NVIDIA is tightening AI GPU tracking in Southeast Asia amid China smuggling scrutiny."
   },
   {
    "id": "e34be057e0ac",
@@ -168,6 +300,17 @@
    "url": "https://www.pcgamer.com/games/third-person-shooter/adding-pve-to-arc-raiders-isnt-a-difficult-thing-to-do-but-the-question-still-stands-how-embark-can-cater-to-the-specific-needs-of-the-players/",
    "source": "PC Gamer",
    "published": "2026-11-06T13:49:21Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "947be612e2b4",
+   "title": "Stellar Blade On Switch 2 Looks Like A Great Port, Until You Start Fighting",
+   "url": "https://www.gamespot.com/articles/stellar-blade-on-switch-2-looks-like-a-great-port-until-you-start-fighting/",
+   "source": "GameSpot",
+   "published": "2026-11-06T13:46:33Z",
    "categories": [
     "gaming"
    ],
@@ -194,7 +337,8 @@
    "categories": [
     "evs"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Lucid teased a cheaper Cosmos EV aimed under $50,000 in a new video and images."
   },
   {
    "id": "d148be8030c1",
@@ -205,7 +349,8 @@
    "categories": [
     "chips"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Thieves stole about $11.4 million in NVIDIA GPUs from a California cargo shipment."
   },
   {
    "id": "0d28e8fa4b24",
@@ -216,7 +361,17 @@
    "categories": [
     "android"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "A leak says Honor is working on a Robot Phone 2 that could arrive in 2027."
+  },
+  {
+   "id": "1d078774c429",
+   "title": "Rocket Report: Artemis II literally tore through the atmosphere; New Glenn delay",
+   "url": "https://arstechnica.com/space/2026/11/rocket-report-new-glenn-wont-fly-this-year-china-launches-mini-falcon-heavy/",
+   "source": "Ars Technica",
+   "published": "2026-11-06T13:33:20Z",
+   "categories": [],
+   "rumor": false
   },
   {
    "id": "9e844584a2ed",
@@ -236,7 +391,8 @@
    "categories": [
     "android"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "A report says vivo is also developing a wide-screen phone aimed at 2027."
   },
   {
    "id": "61672dbbe98d",
@@ -247,7 +403,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Apple Music Classical got a new icon and a refreshed design."
   },
   {
    "id": "8842097d54a5",
@@ -258,7 +415,8 @@
    "categories": [
     "evs"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "TechRadar: Musk says Cybertruck production at Giga Texas winds down around mid-2027."
   },
   {
    "id": "aa7ee47a6776",
@@ -271,7 +429,8 @@
     "apple",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "SamMobile: Samsung display work is clearing a path for Apple's first OLED iPad Air in 2027."
   },
   {
    "id": "b6c30cb72735",
@@ -282,7 +441,8 @@
    "categories": [
     "chips"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "AMD's CEO called the company 'data center first' and predicted a double-digit PC sales drop in 2027."
   },
   {
    "id": "59080f875401",
@@ -293,7 +453,8 @@
    "categories": [
     "gaming"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "A report says Saudi interests are eyeing a major game engine after the EA deal."
   },
   {
    "id": "0db5ef72e272",
@@ -304,7 +465,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Twelve South's CableSnap charger adds a built-in retractable USB-C cable."
   },
   {
    "id": "959cfaa37cff",
@@ -315,7 +477,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Google's Find Hub can now notify you if you leave a tracker behind."
   },
   {
    "id": "c8d92792a1a3",
@@ -348,7 +511,8 @@
     "android",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Engadget's Galaxy Watch Ultra 2 review highlights a new bar for smartwatch battery life."
   },
   {
    "id": "009b31e13968",
@@ -522,7 +686,8 @@
     "ai",
     "evs"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Tesla's roadmap rebrands AI chips as SI; SI6 eyes ~80x HW4 compute, and Dojo D3 shifts to chiplets with HBM."
   },
   {
    "id": "44f526082f74",
@@ -555,7 +720,8 @@
    "categories": [
     "evs"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "TechCrunch: Tesla will stop making the Cybertruck in 2027 to prioritize Cybercab capacity."
   },
   {
    "id": "e329269a714c",
@@ -646,7 +812,8 @@
    "categories": [
     "evs"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Musk says Tesla will wind down Cybertruck production around mid-2027 as sales run near 10% of plan."
   },
   {
    "id": "2462b2cbdbd4",
@@ -780,7 +947,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Apple's OLED iPad mini, M6 iMac and new MacBook Pros (including touchscreen PROLED models) went on sale Nov 6."
   },
   {
    "id": "bf9bee11e20a",
@@ -838,7 +1006,8 @@
    "categories": [
     "evs"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "The Verge: Tesla is winding down Cybertruck production next year after weak demand."
   },
   {
    "id": "9864439a85d5",
@@ -880,7 +1049,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Android Police: Android XR glasses finally get a Nov 12 pre-order date."
   },
   {
    "id": "07975d8765d9",
@@ -1096,7 +1266,8 @@
     "android",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "SamMobile: Samsung's Intelligent Eyewear glasses go up for pre-order next week."
   },
   {
    "id": "08c49dc6eb0b",
@@ -1107,7 +1278,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "GSMArena: Honor showed the 700 series design with a rear screen on every model ahead of launch."
   },
   {
    "id": "075ec96a3a02",
@@ -1204,7 +1376,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Apple documents how to turn off the glowing logo on the new MacBook Pro."
   },
   {
    "id": "69ad2a868c03",
@@ -1228,7 +1401,8 @@
     "android",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "GSMArena: Samsung's Android XR glasses pre-orders are set for Nov 12."
   },
   {
    "id": "9d03fbdc05f6",
@@ -1250,7 +1424,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "A report says iPad shipments fell 27.5% in Q3 as the global tablet market plunged."
   },
   {
    "id": "85f398082dad",
@@ -1261,7 +1436,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "OpenAI is stepping back from NDAs on some data-center projects."
   },
   {
    "id": "9016dcec52b3",
@@ -1283,7 +1459,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Apple is surveying iPhone Duo buyers about the crease and camera experience."
   },
   {
    "id": "9f571b83b75d",
@@ -1408,7 +1585,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Pre-ordered PROLED MacBook Pros, OLED iPad minis and M6 Macs started reaching customers as Nov 6 began in Australia and New Zealand."
   },
   {
    "id": "9ed3b44bda29",
@@ -1472,7 +1650,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "MacRumors details how much RAM Apple's upcoming HomeView smart home hub includes."
   },
   {
    "id": "4376e77de67a",
@@ -1484,7 +1663,8 @@
     "ai",
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Anthropic's Claude adds a personal-finance feature that can link bank accounts."
   },
   {
    "id": "c6134d61030c",
@@ -1493,7 +1673,8 @@
    "source": "The Verge",
    "published": "2026-11-05T22:45:04Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "Meta's Muse AI avatar app gains a voice mode."
   },
   {
    "id": "002e3dd6a1af",
@@ -1504,7 +1685,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Motorola announced the Polar-powered Moto Watch 2 Fit (from €119) and Bose-tuned Moto Buds 2 Ultra (€199)."
   },
   {
    "id": "01af2f668ade",
@@ -1551,7 +1733,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Perplexity launched Teammates, its take on AI agents for workplace tasks."
   },
   {
    "id": "31b0c9ff49e1",
@@ -1562,7 +1745,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Counterpoint-linked reporting says Apple took about half of global smartphone revenue in Q3."
   },
   {
    "id": "9057d0bbb81d",
@@ -2040,7 +2224,8 @@
     "ai",
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Gemini Omni 1.2 Flash is generally available, extending video generation to 15 seconds with cheaper API pricing."
   },
   {
    "id": "f8268cda668c",
@@ -2730,7 +2915,8 @@
     "android",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Samsung Android XR Intelligent Eyewear pre-orders open Nov 12 via Warby Parker; pricing still TBA."
   },
   {
    "id": "738698803d84",
@@ -6530,151 +6716,6 @@
    "categories": [
     "gaming"
    ],
-   "rumor": false
-  },
-  {
-   "id": "42f7ea0cbadf",
-   "title": "HyperX Cloud Jet falls 50% to lowest price of 2026",
-   "url": "https://www.androidauthority.com/hyperx-cloud-jet-deal-3731754/",
-   "source": "Android Authority",
-   "published": "2026-11-04T17:20:30Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "9338e34767d3",
-   "title": "Security Bite: The record $6.3B Binance heist started with a fake Homebrew install on Mac",
-   "url": "https://9to5mac.com/2026/11/04/security-bite-the-record-6-3b-binance-heist-started-with-a-fake-homebrew-install-on-mac/",
-   "source": "9to5Mac",
-   "published": "2026-11-04T17:18:56Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "9b3c0efbc6b2",
-   "title": "Redditor uses AI to get Switch games running natively on Apple TV",
-   "url": "https://www.engadget.com/2306727/redditor-uses-ai-to-get-switch-games-running-natively-on-apple-tv/",
-   "source": "Engadget",
-   "published": "2026-11-04T17:15:09Z",
-   "categories": [
-    "ai",
-    "apple",
-    "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "75b5ae39c21c",
-   "title": "BYD’s new luxury electric SUV has one big problem: It weighs over 8,200 lbs",
-   "url": "https://electrek.co/2026/11/04/byds-new-luxury-ev-suv-one-problem-weighs-8200-lbs/",
-   "source": "Electrek",
-   "published": "2026-11-04T17:14:58Z",
-   "categories": [
-    "evs"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "6d5fa63d1110",
-   "title": "Bluetooth is going to get a lot faster in 2027",
-   "url": "https://www.engadget.com/2306723/bluetooth-is-going-to-get-a-lot-faster-in-2027/",
-   "source": "Engadget",
-   "published": "2026-11-04T17:14:21Z",
-   "categories": [],
-   "rumor": false
-  },
-  {
-   "id": "95fac57c36ab",
-   "title": "Nexus Mods takes the Valve approach to AI-generated content: No outright bans but mandatory disclosures",
-   "url": "https://www.pcgamer.com/games/nexus-mods-takes-the-valve-approach-to-ai-generated-content-no-outright-bans-but-mandatory-disclosures/",
-   "source": "PC Gamer",
-   "published": "2026-11-04T17:12:53Z",
-   "categories": [
-    "ai",
-    "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "e00697c4fb3e",
-   "title": "Bluetooth’s next big audio upgrade is coming, but not to your current devices",
-   "url": "https://www.androidauthority.com/bluetooth-hdt-lossless-wireless-audio-3731705/",
-   "source": "Android Authority",
-   "published": "2026-11-04T17:12:44Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "7628f2daecbe",
-   "title": "Amazon slashes $470 off the 13-inch iPad Air with M2",
-   "url": "https://www.androidauthority.com/m2-ipad-air-deal-3731743/",
-   "source": "Android Authority",
-   "published": "2026-11-04T17:11:40Z",
-   "categories": [
-    "android",
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "7ca1128c9f54",
-   "title": "Nintendo ROM chip supplier Macronix quits to focus on chips for AI data centers, reports indicate",
-   "url": "https://www.tomshardware.com/video-games/nintendo/nintendo-rom-chip-supplier-macronix-quits-to-focus-on-chips-for-ai-data-centers-game-key-cards-may-be-more-available-as-large-game-storage-chips-become-more-expensive",
-   "source": "Tom's Hardware",
-   "published": "2026-11-04T17:10:59Z",
-   "categories": [
-    "ai",
-    "chips",
-    "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "36fe6ae4a3d8",
-   "title": "God Of War Laufey Delayed",
-   "url": "https://www.gamespot.com/articles/god-of-war-laufey-delayed/",
-   "source": "GameSpot",
-   "published": "2026-11-04T17:08:20Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "742e59d03759",
-   "title": "Amazon knocks $40 off the 2nd Gen Bose SoundLink Micro",
-   "url": "https://www.androidauthority.com/bose-soundlink-micro-2nd-gen-deal-3731721/",
-   "source": "Android Authority",
-   "published": "2026-11-04T17:06:13Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "256c3dfd38fe",
-   "title": "Oppo Find N7 officially confirmed to arrive in Europe",
-   "url": "https://www.gsmarena.com/oppo_find_n7_officially_confirmed_to_arrive_in_europe-news-75346.php",
-   "source": "GSMArena",
-   "published": "2026-11-04T17:02:02Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "b15129ba0c51",
-   "title": "Elon Musk spent nearly $500 million on the midterms and lost big-time",
-   "url": "https://www.engadget.com/2306698/elon-musk-spent-nearly-500-million-on-the-midterms-and-lost-bigtime/",
-   "source": "Engadget",
-   "published": "2026-11-04T17:01:10Z",
-   "categories": [],
    "rumor": false
   }
  ]

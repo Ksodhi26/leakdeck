@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06",
+  "updated": "2026-11-07",
   "items": [
     {
       "id": "gtc-berlin-2026",
@@ -1866,14 +1866,18 @@
         "evs"
       ],
       "type": "Car",
-      "date": "2026-11-30",
-      "date_label": "November 2026 (China launch, day not announced); reservations opened Oct 26",
-      "precision": "window",
+      "date": "2026-11-12",
+      "date_label": "Nov 12, 2026 (China launch event)",
+      "precision": "day",
       "status": "Confirmed",
       "price": "",
-      "summary": "BYD's Denza opened reservations for the all-electric five-seat N8 SUV on Oct 26; the official launch and pricing follow in November.",
-      "details": "Denza general manager Li Hui announced the timeline on Weibo on Oct 22: reservations open Oct 26 and the car officially goes on sale in November, with no launch day, prices or delivery plans yet. MIIT filings show single-motor RWD versions (320 or 370 kW) and a tri-motor AWD version with 890 kW combined; it is 5,150 mm long on a 3,075 mm wheelbase, 50 mm shorter than the six-seat N8L. Denza says it uses BYD's second-generation Blade battery with Flash Charging, and Electrek cites up to 1,003 km of CLTC range. Reservations opened on schedule on Oct 26: a 2,000-yuan deposit earns a 5,000-yuan option credit, but Denza has still not given a pre-sale price. For reference, the six-seat N8L starts at 299,800 yuan. Earlier reports had treated Oct 26 as the launch itself. Xinhua's Oct 28 report adds that the N8 comes as both an EV (RWD or tri-motor) and a plug-in hybrid (tri-motor only). As of Oct 31 Denza still has not named a launch day or price.",
+      "summary": "BYD's Denza holds the launch event for the all-electric five-seat N8 SUV on Nov 12 in China, with up to 1,003 km of CLTC range.",
+      "details": "Denza general manager Li Hui announced the timeline on Weibo on Oct 22: reservations open Oct 26 and the car officially goes on sale in November, with no launch day, prices or delivery plans yet. MIIT filings show single-motor RWD versions (320 or 370 kW) and a tri-motor AWD version with 890 kW combined; it is 5,150 mm long on a 3,075 mm wheelbase, 50 mm shorter than the six-seat N8L. Denza says it uses BYD's second-generation Blade battery with Flash Charging, and Electrek cites up to 1,003 km of CLTC range. Reservations opened on schedule on Oct 26: a 2,000-yuan deposit earns a 5,000-yuan option credit, but Denza has still not given a pre-sale price. For reference, the six-seat N8L starts at 299,800 yuan. Earlier reports had treated Oct 26 as the launch itself. Xinhua's Oct 28 report adds that the N8 comes as both an EV (RWD or tri-motor) and a plug-in hybrid (tri-motor only). As of Oct 31 Denza still has not named a launch day or price. Update Nov 6: Denza announced on Weibo that the N8 EV launch event is set for Nov 12, 2026 (via Electrek); prices are still not public, and the limited-time 5,000-yuan credit for a 2,000-yuan reservation continues.",
       "sources": [
+        {
+          "name": "Electrek (Nov 12 launch date)",
+          "url": "https://electrek.co/2026/11/06/byd-launching-5-seat-luxury-suv-next-week-with-1000-km-range/"
+        },
         {
           "name": "CnEVPost (reservations open)",
           "url": "https://cnevpost.com/2026/10/26/byd-denza-opens-reservations-revamped-n8/"
@@ -2562,8 +2566,12 @@
       "status": "Released",
       "price": "$229",
       "summary": "Samsung's clip-on Galaxy Buds On are on sale in the US from Nov 6 for $229.99, in black only.",
-      "details": "Announced Oct 28, a day after Korean sales began. Samsung lists a TwinBoost speaker with sound-leakage reduction, automatic volume (a Labs feature), three mics plus a voice pickup sensor for calls, head gestures, Gemini Live and Bixby voice access, IP54 earbuds weighing 6.65g each, Bluetooth 6.2 and up to 9.5 hours of playback (38 hours with the case). Samsung's US product page and Android Authority give Nov 6 as the US on-sale date, in one black color and one size; they use Qualcomm's Snapdragon S7 Gen 1 Sound Platform. Update Nov 6: Android Authority and SamMobile report US sales are live at $229.99 from Samsung.com, Experience Stores and retailers.",
+      "details": "Announced Oct 28, a day after Korean sales began. Samsung lists a TwinBoost speaker with sound-leakage reduction, automatic volume (a Labs feature), three mics plus a voice pickup sensor for calls, head gestures, Gemini Live and Bixby voice access, IP54 earbuds weighing 6.65g each, Bluetooth 6.2 and up to 9.5 hours of playback (38 hours with the case). Samsung's US product page and Android Authority give Nov 6 as the US on-sale date, in one black color and one size; they use Qualcomm's Snapdragon S7 Gen 1 Sound Platform. Update Nov 6: Android Authority and SamMobile report US sales are live at $229.99 from Samsung.com, Experience Stores and retailers. Update Nov 7: SamMobile's sources say the European launch comes in the third week of January 2027; Samsung itself has only said 'early 2027'.",
       "sources": [
+        {
+          "name": "SamMobile (Europe timing)",
+          "url": "https://www.sammobile.com/news/samsung-galaxy-buds-on-europe-launch-date/"
+        },
         {
           "name": "Samsung US (product page)",
           "url": "https://www.samsung.com/us/audio-sound/galaxy-buds-on/"
@@ -3468,13 +3476,17 @@
       ],
       "type": "Wearable",
       "date": "2026-11-12",
-      "date_label": "Pre-orders Nov 12, 2026 (US via Warby Parker); ships Dec TBD",
+      "date_label": "Pre-orders Nov 12, 2026 (US via Warby Parker); Gentle Monster collection launches in December",
       "precision": "day",
       "status": "Confirmed",
       "price": "TBD",
       "summary": "Samsung's audio-first Android XR Intelligent Eyewear opens US pre-orders on Nov 12 through Warby Parker, with pricing still TBA.",
-      "details": "Developed with Google; frames from Warby Parker and Gentle Monster. Android Authority and SamMobile say pre-orders open Nov 12, when the full collection, lens options and pricing are due. Shipping has been tipped for mid-December. Audio-first design first; display-integrated Samsung models come later. Privacy features include a recording LED that blocks capture if covered.",
+      "details": "Developed with Google; frames from Warby Parker and Gentle Monster. Android Authority and SamMobile say pre-orders open Nov 12, when the full collection, lens options and pricing are due. Shipping has been tipped for mid-December. Audio-first design first; display-integrated Samsung models come later. Privacy features include a recording LED that blocks capture if covered. Update Nov 6: Gentle Monster posted on X that its first Intelligent Eyewear collection 'launches this December', alongside a Joaquin Phoenix short film due mid-November. That is the first official December release window; Warby Parker has not yet given its ship date.",
       "sources": [
+        {
+          "name": "9to5Google (Gentle Monster: December)",
+          "url": "https://9to5google.com/2026/11/06/android-xr-glasses-release-date-window-confirmed/"
+        },
         {
           "name": "Android Authority",
           "url": "https://www.androidauthority.com/samsung-smart-glasses-pre-orders-3732159/"
@@ -3486,6 +3498,32 @@
         {
           "name": "Android Police",
           "url": "https://www.androidpolice.com/samsung-android-xr-glasses-pre-order-nov-12/"
+        }
+      ]
+    },
+    {
+      "id": "path-of-exile-2-1-0",
+      "name": "Path of Exile 2 1.0 full release",
+      "brand": "Grinding Gear Games",
+      "categories": [
+        "gaming"
+      ],
+      "type": "Game",
+      "date": "2026-12-11",
+      "date_label": "Dec 11, 2026",
+      "precision": "day",
+      "status": "Confirmed",
+      "price": "",
+      "summary": "Path of Exile 2 leaves early access on Dec 11 with its finished six-act campaign, two new classes and a new league.",
+      "details": "Grinding Gear Games' 1.0 update adds the Shadow (daggers, traps, stealth) and Duelist (swords, stances) classes, Acts 5 and 6, the base-building 'Conquerors of Wraeclast' league with faction battles over castles on the Atlas, 25+ new maps, a trimmed atlas passive tree (about 70 nodes instead of 300+), reworked support gems and jewel sockets, and about 40 new uniques, per PC Gamer's breakdown of the reveal.",
+      "sources": [
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/heres-whats-in-path-of-exile-2s-huge-1-0-release-coming-in-december/"
+        },
+        {
+          "name": "PC Gamer (Shadow class)",
+          "url": "https://www.pcgamer.com/games/rpg/path-of-exile-2-announces-a-second-new-class-the-shadow-for-its-december-1-0-release/"
         }
       ]
     }

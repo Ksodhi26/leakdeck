@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T13:56:19Z",
+ "updated": "2026-11-07T14:05:14Z",
  "sources": [
   "9to5Google",
   "9to5Mac",
@@ -23,6 +23,60 @@
  "count": 600,
  "items": [
   {
+   "id": "48dbce431ba6",
+   "title": "My PowerShell profile runs a dozen small jobs every time I open a terminal, and halves my workload",
+   "url": "https://www.xda-developers.com/powershell-profile-runs-jobs-every-time-i-open-a-terminal/",
+   "source": "XDA Developers",
+   "published": "2026-11-07T14:00:20Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "a50143e7575a",
+   "title": "Top Stories: Apple Product Launches, iOS 27.3 Beta, and More",
+   "url": "https://www.macrumors.com/2026/11/07/top-stories-apple-product-launches/",
+   "source": "MacRumors",
+   "published": "2026-11-07T14:00:12Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false,
+   "summary": "MacRumors' weekly recap covers Apple's latest launches and the first iOS 27.3 beta."
+  },
+  {
+   "id": "0e80ce293e8c",
+   "title": "Why PlayStation can't hold a candle to Xbox's backward compatibility",
+   "url": "https://www.engadget.com/2305049/playstation-cant-hold-candle-to-xbox-backwards-compatibility/",
+   "source": "Engadget",
+   "published": "2026-11-07T14:00:00Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "deec94caf8f9",
+   "title": "TeamGroup GA Pro 2TB SSD Review: A faltering attempt at a mid-range PCIe 5.0 SSD",
+   "url": "https://www.tomshardware.com/pc-components/ssds/teamgroup-ga-pro-2tb-ssd-review",
+   "source": "Tom's Hardware",
+   "published": "2026-11-07T14:00:00Z",
+   "categories": [
+    "chips"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "66f45ac4e630",
+   "title": "Zelda is back and better than ever",
+   "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
+   "source": "The Verge",
+   "published": "2026-11-07T13:49:01Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
    "id": "3a8525a67bae",
    "title": "I tried Gemini, Grok, and Claude for a month on Android; one clearly dominated",
    "url": "https://www.androidpolice.com/tried-gemini-grok-claude-for-month-on-android-one-clearly-dominated/",
@@ -30,6 +84,17 @@
    "published": "2026-11-07T13:45:10Z",
    "categories": [
     "ai",
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "76b9e43847b2",
+   "title": "How to use Gboard to boost productivity on your Android phone",
+   "url": "https://www.engadget.com/2305040/how-to-use-gboard-boost-productivity-android-phone/",
+   "source": "Engadget",
+   "published": "2026-11-07T13:45:00Z",
+   "categories": [
     "android"
    ],
    "rumor": false
@@ -63,7 +128,8 @@
    "categories": [
     "chips"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Congress formally summons Nvidia's Jensen Huang after reports of a Chinese plot to spy on him."
   },
   {
    "id": "a960e82b847c",
@@ -84,7 +150,8 @@
     "android",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "A tour of ten standout additions in Samsung's One UI 9 update."
   },
   {
    "id": "9482cb49d4ca",
@@ -95,7 +162,8 @@
    "categories": [
     "android"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "A 3C certification for a 100W Xiaomi phone hints the plain Xiaomi 18 is still coming, likely in December in China."
   },
   {
    "id": "9987021936f5",
@@ -148,7 +216,8 @@
    "categories": [
     "chips"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "TSMC says it isn't developing 3D DRAM for Nvidia and calls the technology years from viability."
   },
   {
    "id": "7233162660c6",
@@ -200,6 +269,18 @@
    "published": "2026-11-07T12:30:00Z",
    "categories": [],
    "rumor": true
+  },
+  {
+   "id": "2134b01cb2d0",
+   "title": "Oppo reportedly cancels Find X10 Ultra thanks to RAMageddon",
+   "url": "https://9to5google.com/2026/11/07/oppo-reportedly-cancels-find-x10-ultra-thanks-to-ramageddon/",
+   "source": "9to5Google",
+   "published": "2026-11-07T12:30:00Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": true,
+   "summary": "Leaker Digital Chat Station says Oppo has shelved the Find X10 Ultra, with high memory prices the suspected cause."
   },
   {
    "id": "ed9448955574",
@@ -425,7 +506,8 @@
     "android",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Galaxy Buds On are reportedly coming to Europe in the third week of January 2027."
   },
   {
    "id": "80246c7ced87",
@@ -493,7 +575,8 @@
     "chips",
     "samsung"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "The Galaxy S27 Ultra is again tipped for Snapdragon, despite earlier overheating reports."
   },
   {
    "id": "f149ed43d2db",
@@ -526,7 +609,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Crusoe sells its troubled Wyoming data center project to Google."
   },
   {
    "id": "d81e5887b64c",
@@ -537,7 +621,8 @@
    "categories": [
     "android"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "A new leak gives the Realme 17 Pro a Dimensity 7300 and 10,000mAh battery, suggesting earlier pricier specs belong to the Pro+."
   },
   {
    "id": "8dbb2e94eb88",
@@ -627,7 +712,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "OpenAI's valuation reportedly reaches $1.25 trillion as Anthropic moves closer to an IPO."
   },
   {
    "id": "73ac0ae30af7",
@@ -636,7 +722,8 @@
    "source": "GSMArena",
    "published": "2026-11-06T23:42:02Z",
    "categories": [],
-   "rumor": true
+   "rumor": true,
+   "summary": "New rumor: future iPhones merge the Action button and Camera Control into one key."
   },
   {
    "id": "5add21425983",
@@ -658,7 +745,8 @@
    "categories": [
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Path of Exile 2 hits 1.0 on Dec 11 with two new classes, a finished campaign and a base-building league."
   },
   {
    "id": "3e4ba4ae558e",
@@ -764,7 +852,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "OpenAI has reportedly raised another $11 billion at a $1.25 trillion valuation."
   },
   {
    "id": "50ed39815b3b",
@@ -804,7 +893,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Gentle Monster says its first Android XR Intelligent Eyewear collection launches in December, the first official release window."
   },
   {
    "id": "bf9a9ba3a288",
@@ -936,7 +1026,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "A rundown of what's new in iOS 27.3 so far and when it's expected to ship in December."
   },
   {
    "id": "565711acaa3d",
@@ -947,7 +1038,8 @@
    "categories": [
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "The dagger-wielding Shadow joins the Duelist as Path of Exile 2's second new class for its December 1.0 launch."
   },
   {
    "id": "546d40337feb",
@@ -1069,7 +1161,8 @@
     "android",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Gentle Monster teases its Samsung-built Android XR glasses with a Joaquin Phoenix short film due mid-November."
   },
   {
    "id": "e62b81bf89b4",
@@ -1155,7 +1248,8 @@
    "categories": [
     "evs"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "EVgo opens its first Tesla-built Supercharger sites, with hundreds more planned."
   },
   {
    "id": "e3f38d772e6e",
@@ -1189,7 +1283,8 @@
    "categories": [
     "evs"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Denza sets Nov 12 for the launch of its all-electric N8 SUV, rated up to 1,003 km on China's CLTC cycle."
   },
   {
    "id": "1ec9d048c38d",
@@ -1372,7 +1467,8 @@
    "categories": [
     "chips"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "Windows 11 27H2 is reportedly a major platform overhaul that keeps the Windows 11 name, with testing starting early."
   },
   {
    "id": "41593e4bb483",
@@ -1416,7 +1512,8 @@
     "apple",
     "samsung"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "Korean sources say Samsung Display supplies most panels for the first OLED iPad Air, due in the first half of 2027."
   },
   {
    "id": "3097f9a9b288",
@@ -1438,7 +1535,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Apple says over 100,000 apps now support the iPhone Duo's foldable layout, though some big names are still missing."
   },
   {
    "id": "3129b0ac4d33",
@@ -1575,7 +1673,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "HomeView and the fourth-gen Apple TV 4K release on Nov 13, closing out Apple's long run of fall launches."
   },
   {
    "id": "41f081e4b50e",
@@ -1763,7 +1862,8 @@
     "chips",
     "samsung"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "A tipster says cost concerns keep the Galaxy S27 Pro and Ultra on Snapdragon even in Korea."
   },
   {
    "id": "5d3f38a57445",
@@ -1987,7 +2087,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "Leak: next year's redesigned iPhone Pro loses its dedicated Action button."
   },
   {
    "id": "16950268ed17",
@@ -2266,7 +2367,8 @@
     "android",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "SamMobile's sources point to a mid-to-late January 2027 European launch for the clip-on Galaxy Buds On."
   },
   {
    "id": "ca8fb0de2394",
@@ -2277,7 +2379,8 @@
    "categories": [
     "android"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "Oppo's Find X10 Ultra camera flagship is reportedly on hold, leaving the Find X10 Pro Max at the top for now."
   },
   {
    "id": "172e7ca5e0d6",
@@ -2299,7 +2402,8 @@
    "categories": [
     "android"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "A well-known Weibo leaker claims Oppo paused work on the Find X10 Ultra; Oppo hasn't commented."
   },
   {
    "id": "7ee4c4dacde4",
@@ -2321,7 +2425,8 @@
    "categories": [
     "android"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "With no November Pixel patch yet, build clues hint Google may ship Android 17 QPR2 early; nothing is confirmed."
   },
   {
    "id": "a23748cd4aff",
@@ -2390,7 +2495,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "A Weibo leaker says 2027 iPhones fold the Action button's job into a long press of Camera Control."
   },
   {
    "id": "b017e07ea018",
@@ -2757,7 +2863,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Oppo reportedly confirms its next foldable, the Find N7, will finally be sold in Europe."
   },
   {
    "id": "c8d92792a1a3",
@@ -6588,92 +6695,6 @@
    "source": "Tom's Hardware",
    "published": "2026-11-05T13:00:00Z",
    "categories": [],
-   "rumor": false
-  },
-  {
-   "id": "fe7769280399",
-   "title": "Motorola Signature 27 announced with 7,000mAh battery and 12,000-nit display",
-   "url": "https://www.techradar.com/phones/motorola-phones/motorola-signature-27-announced-with-a-7-000mah-battery-and-the-brightest-display-available-in-a-smartphone-but-itll-cost-you-more-than-an-iphone-18-pro",
-   "source": "TechRadar",
-   "published": "2026-11-05T13:00:00Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false,
-   "summary": "TechRadar notes the Signature 27's 12,000-nit screen and 7,000mAh battery come at a price above the iPhone 18 Pro."
-  },
-  {
-   "id": "8e7edf89b74f",
-   "title": "The Lincoln Aviator PHEV May Have Died In America, But It’s Coming Back In China",
-   "url": "https://insideevs.com/news/814449/lincoln-aviator-phev-china-new/",
-   "source": "InsideEVs",
-   "published": "2026-11-05T13:00:00Z",
-   "categories": [
-    "evs"
-   ],
-   "rumor": true,
-   "summary": "Lincoln's Aviator plug-in hybrid is gone from the US but is returning in China."
-  },
-  {
-   "id": "55d5803e662b",
-   "title": "Siri AI Waitlist Now Limited to Times of 'High Demand,' Says Apple",
-   "url": "https://www.macrumors.com/2026/11/05/siri-ai-waitlist-limited-times-high-demand-apple/",
-   "source": "MacRumors",
-   "published": "2026-11-05T12:54:10Z",
-   "categories": [
-    "ai",
-    "apple"
-   ],
-   "rumor": false,
-   "summary": "Apple says the waitlist for its new Siri AI will now only kick in when demand is high."
-  },
-  {
-   "id": "440ebaa5b17f",
-   "title": "GrapheneOS brings Linux 6.18 to Pixel 10 series, eyes Android 17 QPR2 for Pixel 11",
-   "url": "https://www.androidauthority.com/grapheneos-pixel-10-linux-6-18-pixel-11-support-3731993/",
-   "source": "Android Authority",
-   "published": "2026-11-05T12:43:48Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false,
-   "summary": "GrapheneOS moves the Pixel 10 series to Linux 6.18 and targets Android 17 QPR2 for Pixel 11 support."
-  },
-  {
-   "id": "e2fa2e072ae5",
-   "title": "OpenAI says it will protect local resources and report on the impact of its data centers",
-   "url": "https://www.engadget.com/2307590/openai-says-it-will-protect-local-resources-and-report-on-the-impact-of-its-data-centers/",
-   "source": "Engadget",
-   "published": "2026-11-05T12:37:38Z",
-   "categories": [
-    "ai"
-   ],
-   "rumor": false,
-   "summary": "OpenAI pledges to protect local resources near its data centers and to report publicly on their impact."
-  },
-  {
-   "id": "cf8c5da6badc",
-   "title": "HomeView will support third-party AI chatbots, suggests code",
-   "url": "https://9to5mac.com/2026/11/05/homeview-will-support-third-party-ai-chatbots-suggests-code/",
-   "source": "9to5Mac",
-   "published": "2026-11-05T12:35:39Z",
-   "categories": [
-    "ai",
-    "apple"
-   ],
-   "rumor": false,
-   "summary": "Code in iOS 27.3 beta 1 points to Apple's HomeView hub supporting third-party AI apps like ChatGPT and Claude."
-  },
-  {
-   "id": "dcc678d0c0b6",
-   "title": "'Nothing will ever replace the emotional depth and creative inspiration of human beings as artists and creators' — Call of Duty: Modern Warfare 4 composer speaks out against AI in video games, says 'music is not just a bunch of notes strung together'",
-   "url": "https://www.techradar.com/gaming/nothing-will-ever-replace-the-emotional-depth-and-creative-inspiration-of-human-beings-as-artists-and-creators-call-of-duty-modern-warfare-4-composer-speaks-out-against-ai-in-video-games-says-music-is-not-just-a-bunch-of-notes-strung-together",
-   "source": "TechRadar",
-   "published": "2026-11-05T12:32:29Z",
-   "categories": [
-    "ai",
-    "gaming"
-   ],
    "rumor": false
   }
  ]

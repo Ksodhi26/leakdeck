@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06",
+  "updated": "2026-11-07",
   "scale": {
     "Confirmed": "Announced by the company or shown in an official source.",
     "Likely": "Multiple credible outlets or hard evidence (certifications, databases, supply chain), but no official word.",
@@ -8,6 +8,142 @@
     "Debunked": "Contradicted by the company or by clear evidence."
   },
   "items": [
+    {
+      "id": "oppo-find-x10-ultra-suspended",
+      "title": "Oppo has suspended the Find X10 Ultra",
+      "rating": "Rumor",
+      "categories": [
+        "android"
+      ],
+      "status": "Active",
+      "first_reported": "2026-11-06",
+      "updated": "2026-11-07",
+      "expected": "Was expected in the first half of 2027",
+      "claim": "Oppo has put its Find X10 Ultra camera flagship on hold, leaving the Find X10 Pro Max as its top phone of this generation.",
+      "why": "From Digital Chat Station on Weibo, relayed by GSMArena, Android Authority and 9to5Google. DCS has a good Oppo record but gave no reason; outlets speculate that soaring memory prices are to blame, and Xiaomi's 18 Ultra has also been reported cancelled. Oppo has not commented, and 'suspended' could mean delayed rather than dead, so it stays a Rumor.",
+      "sources": [
+        {
+          "name": "GSMArena",
+          "url": "https://www.gsmarena.com/oppo_find_x10_ultra_may_have_been_cancelled-news-75380.php"
+        },
+        {
+          "name": "Android Authority",
+          "url": "https://www.androidauthority.com/oppo-find-x10-ultra-development-pause-leak-3732500/"
+        },
+        {
+          "name": "9to5Google",
+          "url": "https://9to5google.com/2026/11/07/oppo-reportedly-cancels-find-x10-ultra-thanks-to-ramageddon/"
+        }
+      ]
+    },
+    {
+      "id": "iphone-action-button-merged-2027",
+      "title": "Apple merges the Action button into Camera Control on 2027 iPhones",
+      "rating": "Rumor",
+      "categories": [
+        "apple"
+      ],
+      "status": "Active",
+      "first_reported": "2026-11-06",
+      "updated": "2026-11-07",
+      "expected": "iPhones from the second half of 2027 (leak)",
+      "claim": "Starting with iPhones released in the second half of 2027, the separate Action button goes away; a press of Camera Control opens the camera and a long press runs the assigned Action.",
+      "why": "From Weibo leaker Instant Digital, relayed by MacRumors, 9to5Mac and GSMArena. The leaker has a mixed record: an earlier claim of a simplified Camera Control for iPhone 18 did not happen. The iPhone Duo already ships without an Action button, which makes the idea plausible, but there is no second source.",
+      "sources": [
+        {
+          "name": "MacRumors",
+          "url": "https://www.macrumors.com/2026/11/06/apple-rumored-to-drop-the-action-button/"
+        },
+        {
+          "name": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/06/next-years-iphone-pro-redesign-will-drop-an-important-button-per-leak/"
+        },
+        {
+          "name": "GSMArena",
+          "url": "https://www.gsmarena.com/future_iphones_will_have_one_less_button_new_rumor_claims-news-75391.php"
+        }
+      ]
+    },
+    {
+      "id": "windows-11-27h2-os-swap",
+      "title": "Windows 11 27H2 is a 'full OS swap', not Windows 12",
+      "rating": "Rumor",
+      "categories": [
+        "chips"
+      ],
+      "status": "Active",
+      "first_reported": "2026-11-06",
+      "updated": "2026-11-07",
+      "expected": "Second half of 2027; Insider testing earlier than June",
+      "claim": "Microsoft's 2027 Windows update, 27H2, is a major platform-level release focused on quality, with a new default wallpaper, Insider testing starting well before June, and the Windows 11 name kept.",
+      "why": "Reported by The Verge from unnamed sources and relayed by TechRadar. One report, though The Verge's Windows sourcing is usually solid. Naming is reportedly not fully final, and Microsoft has not announced 27H2.",
+      "sources": [
+        {
+          "name": "TechRadar (citing The Verge)",
+          "url": "https://www.techradar.com/computing/windows/were-not-getting-windows-12-next-year-but-windows-11-27h2-is-rumored-to-be-a-huge-change-and-its-an-update-microsoft-just-cant-afford-to-mess-up"
+        }
+      ]
+    },
+    {
+      "id": "android-17-qpr2-early",
+      "title": "Android 17 QPR2 reaches Pixels in November instead of December",
+      "rating": "Shaky",
+      "categories": [
+        "android"
+      ],
+      "status": "Active",
+      "first_reported": "2026-11-06",
+      "updated": "2026-11-07",
+      "expected": "November 2026 (theory); December is the usual timing",
+      "claim": "Google skipped the usual first-Tuesday November Pixel patch because it is shipping Android 17 QPR2 early, in November.",
+      "why": "A Reddit theory relayed by Android Authority, based on security-bulletin tags ('17-qpr2-next:2026-11-01'), a large batch of Pixel driver changes and November-dated release-candidate builds on BetaWiki. That is circumstantial: Google has not confirmed anything, and Android 16 QPR2 shipped in December last year.",
+      "sources": [
+        {
+          "name": "Android Authority",
+          "url": "https://www.androidauthority.com/google-pixel-android-17-qpr2-november-release-leak-3732519/"
+        }
+      ]
+    },
+    {
+      "id": "oppo-find-n7-europe",
+      "title": "Oppo's Find N7 foldable launches in Europe",
+      "rating": "Likely",
+      "categories": [
+        "android"
+      ],
+      "status": "Active",
+      "first_reported": "2026-11-06",
+      "updated": "2026-11-07",
+      "expected": "Not announced (Oppo foldables usually launch early in the year)",
+      "claim": "Oppo's next book-style foldable, the Find N7, will be sold in Europe, a first for an Oppo-branded foldable.",
+      "why": "Oppo reportedly confirmed European availability to creator Nixanbal (via GSMArena and 9to5Google). It comes from the company, but second-hand and without a date or price; a March 2027 timing is only an inference from past launches. The rumored wide form factor is not part of this claim.",
+      "sources": [
+        {
+          "name": "9to5Google",
+          "url": "https://9to5google.com/2026/11/06/oppo-find-n7-global-launch-confirmed/"
+        }
+      ]
+    },
+    {
+      "id": "xiaomi-18-december-100w",
+      "title": "The vanilla Xiaomi 18 launches in December with 100W charging",
+      "rating": "Rumor",
+      "categories": [
+        "android"
+      ],
+      "status": "Active",
+      "first_reported": "2026-11-07",
+      "updated": "2026-11-07",
+      "expected": "December 2026 (China, reported)",
+      "claim": "A standard Xiaomi 18 is still coming this year, around December in China, with 100W wired charging, the Snapdragon 8 Elite Gen 6, a 200MP main camera and a 7,200mAh battery.",
+      "why": "A new 3C certification (via GSMArena) lists a Xiaomi phone with 100W charging that is believed, not confirmed, to be the Xiaomi 18. The December timing and other specs come from earlier leaks. Certification is hard evidence that a device exists, but its identity is inferred and Xiaomi has not mentioned the base model.",
+      "sources": [
+        {
+          "name": "GSMArena",
+          "url": "https://www.gsmarena.com/xiaomi_18_might_actually_arrive_this_year_3c_reveals_the_charging_capabilities-news-75396.php"
+        }
+      ]
+    },
     {
       "id": "vivo-widescreen-phone-2027",
       "title": "vivo is developing a wide-screen phone for a 2027 launch",
@@ -764,11 +900,19 @@
       ],
       "status": "Active",
       "first_reported": "2026-10-15",
-      "updated": "2026-11-04",
+      "updated": "2026-11-07",
       "expected": "Decision pending (conflicting reports)",
       "claim": "Samsung found the Snapdragon 8 Elite Extreme Gen 6 overheating in S27 Ultra testing and may use its own Exynos 2700 chip if Qualcomm doesn't fix it by mid-October.",
-      "why": "The report came from Korean outlet SEDaily and was relayed by SamMobile and others. Qualcomm told 9to5Google on Oct 17 the overheating reports are 'inaccurate', and its CMO Don McGuire says there are 'no systemic thermal issues'. A separate Oct 16 MoneyToday report says Samsung has dropped the Exynos plan for the Ultra because of Exynos supply limits and memory costs, and the Ultra will use Snapdragon only. Samsung has not commented. Single-sourced, denied, and now contradicted by another report. An Oct 19 Lanzuk leak (via SamMobile) also says the Ultra may use Qualcomm's chip exclusively. Update Oct 30: Ice Universe says there is still no sign of an Exynos 2700 S27 Ultra for Europe, while Korea remains undecided, so the Snapdragon-only reading still has more support. Update Nov 4: NBD trade records list the European S27 Ultra (SM-S958B/DS) with Qualcomm's SM8975 (Snapdragon 8 Elite Extreme Gen 6), while only the S27 and S27+ get the Exynos 2700. Europe is the market where an Exynos Ultra would most likely appear, so this weighs further against the claim. Not yet Debunked, because trade listings are not final and Samsung has said nothing.",
+      "why": "The report came from Korean outlet SEDaily and was relayed by SamMobile and others. Qualcomm told 9to5Google on Oct 17 the overheating reports are 'inaccurate', and its CMO Don McGuire says there are 'no systemic thermal issues'. A separate Oct 16 MoneyToday report says Samsung has dropped the Exynos plan for the Ultra because of Exynos supply limits and memory costs, and the Ultra will use Snapdragon only. Samsung has not commented. Single-sourced, denied, and now contradicted by another report. An Oct 19 Lanzuk leak (via SamMobile) also says the Ultra may use Qualcomm's chip exclusively. Update Oct 30: Ice Universe says there is still no sign of an Exynos 2700 S27 Ultra for Europe, while Korea remains undecided, so the Snapdragon-only reading still has more support. Update Nov 4: NBD trade records list the European S27 Ultra (SM-S958B/DS) with Qualcomm's SM8975 (Snapdragon 8 Elite Extreme Gen 6), while only the S27 and S27+ get the Exynos 2700. Europe is the market where an Exynos Ultra would most likely appear, so this weighs further against the claim. Not yet Debunked, because trade listings are not final and Samsung has said nothing. Update Nov 6: tipster yeux1122 (via GSMArena) says Samsung will use Snapdragon for both the S27 Pro and S27 Ultra even in South Korea, for cost reasons, despite Exynos 2700 test results. With Korea the last market in question, the Exynos Ultra claim has almost nothing left supporting it; it stays Shaky only until Samsung announces the phones.",
       "sources": [
+        {
+          "name": "Android Police (Nov 6)",
+          "url": "https://www.androidpolice.com/samsung-galaxy-s27-ultra-tipped-use-snapdragon-processor-despite-overheating-concerns/"
+        },
+        {
+          "name": "GSMArena (Nov 6, Korea Snapdragon)",
+          "url": "https://www.gsmarena.com/galaxy_s27_ultra_and_s27_pro_chipset_rumors_take_another_turn_snapdragon_is_back_in_korea-news-75386.php"
+        },
         {
           "name": "Notebookcheck (NBD trade records)",
           "url": "https://www.notebookcheck.net/Galaxy-S27-series-chipset-details-leak-with-a-surprising-entry-for-the-Pro.1441625.0.html"
@@ -1624,11 +1768,15 @@
       ],
       "status": "Active",
       "first_reported": "2026-10-24",
-      "updated": "2026-10-24",
+      "updated": "2026-11-07",
       "expected": "Unknown (the 16 Pro series launched in January)",
       "claim": "An upcoming Realme 17 Pro or 17 Pro+ has a flat 1.5K 120Hz OLED (165Hz in some games), the Dimensity 7500, a 200MP main camera, a 50MP 3.5x telephoto, a 10,000mAh battery and a plastic frame.",
-      "why": "From a single tipster on X, relayed by GSMArena, which notes it is unclear whether this is the Pro or the Pro+. Realme has announced nothing; the leak is plausible given rivals' move to 10,000mAh batteries, but unverified.",
+      "why": "From a single tipster on X, relayed by GSMArena, which notes it is unclear whether this is the Pro or the Pro+. Realme has announced nothing; the leak is plausible given rivals' move to 10,000mAh batteries, but unverified. Update Nov 7: a new report citing industry sources (via GSMArena) gives the plain 17 Pro a 1.5K 120Hz AMOLED, Dimensity 7300, 50MP main and 8MP ultrawide cameras, IP68/IP69 and the same 10,000mAh battery. That suggests the earlier 200MP/3.5x-telephoto leak describes the Pro+ or Pro Max. The 10,000mAh battery now has two sources; the camera specs depend on which model.",
       "sources": [
+        {
+          "name": "GSMArena (Nov 7, 17 Pro specs)",
+          "url": "https://www.gsmarena.com/realme_17_pro_leak_helps_clarify_its_place_in_the_upcoming_lineup-news-75392.php"
+        },
         {
           "name": "GSMArena",
           "url": "https://www.gsmarena.com/upcoming_realme_17_pro_series_phones_key_specs_leak-news-75192.php"
@@ -1855,11 +2003,15 @@
       ],
       "status": "Active",
       "first_reported": "2026-10-26",
-      "updated": "2026-11-05",
+      "updated": "2026-11-07",
       "expected": "First half of 2027 (expected)",
       "claim": "The Find X10 Ultra will have a 200MP 1/1.12-inch main camera with LOFIC, a 200MP periscope, a 50MP 10x periscope and a 100MP square-sensor selfie camera.",
-      "why": "From Weibo tipster Digital Chat Station, who has a decent record on Oppo, relayed by GSMArena. By the leak's own account two sensors (the 200MP periscope and the 10x periscope) are not finalized, and the 10x camera could fall back to a smaller 1/2.76-inch sensor if the preferred 1/1.95-inch part is delayed. The phone is months away and Oppo has said nothing. Update Nov 5: leaker Yogesh Brar (via Android Authority) gives a different setup: 200MP main, 200MP ultrawide, 200MP 3x periscope and 50MP 10x periscope. That conflicts with Digital Chat Station's 50MP-class ultrawide, so the main camera and two periscopes look consistent across tipsters while the ultrawide is disputed.",
+      "why": "From Weibo tipster Digital Chat Station, who has a decent record on Oppo, relayed by GSMArena. By the leak's own account two sensors (the 200MP periscope and the 10x periscope) are not finalized, and the 10x camera could fall back to a smaller 1/2.76-inch sensor if the preferred 1/1.95-inch part is delayed. The phone is months away and Oppo has said nothing. Update Nov 5: leaker Yogesh Brar (via Android Authority) gives a different setup: 200MP main, 200MP ultrawide, 200MP 3x periscope and 50MP 10x periscope. That conflicts with Digital Chat Station's 50MP-class ultrawide, so the main camera and two periscopes look consistent across tipsters while the ultrawide is disputed. Update Nov 6: Digital Chat Station now says the Find X10 Ultra project has been suspended (see the separate cancellation rumor). If true, these specs never ship; Oppo has not commented.",
       "sources": [
+        {
+          "name": "Android Authority (project paused)",
+          "url": "https://www.androidauthority.com/oppo-find-x10-ultra-development-pause-leak-3732500/"
+        },
         {
           "name": "Android Authority (Yogesh Brar leak)",
           "url": "https://www.androidauthority.com/oppo-find-x10-ultra-vivo-x500-ultra-camera-specs-leak-3731990/"
@@ -2125,7 +2277,7 @@
     {
       "id": "samsung-glasses-mid-december",
       "title": "Samsung's Android XR glasses go on sale in mid-December, in Korea and the US only",
-      "rating": "Rumor",
+      "rating": "Likely",
       "categories": [
         "samsung",
         "android",
@@ -2133,11 +2285,15 @@
       ],
       "status": "Active",
       "first_reported": "2026-10-31",
-      "updated": "2026-11-03",
-      "expected": "Mid-December 2026 (Korea and US, reported)",
+      "updated": "2026-11-07",
+      "expected": "December 2026 (Gentle Monster, official); mid-December and Korea/US-first still reported",
       "claim": "Samsung's display-free Intelligent Eyewear (Android XR, Gemini, Snapdragon AR1 Gen 1) goes on sale in mid-December in South Korea and the US first, with Europe, China and Japan later; pricing is not set.",
-      "why": "From a Korean media report relayed by GSMArena. It fits an earlier Korean report quoting a Samsung official on a November launch, and Samsung's playbook for the Galaxy XR headset (Korea and US first). Samsung has shown the glasses and their Gentle Monster and Warby Parker frames but has not given a date or price. Update Nov 3: Android Authority relays the same Chosun Biz report (mid-December, Korea and US first, 'Intelligent Eyewear' name, other markets in 2027). That is wider coverage of one report, not a second source, so it stays a Rumor.",
+      "why": "From a Korean media report relayed by GSMArena. It fits an earlier Korean report quoting a Samsung official on a November launch, and Samsung's playbook for the Galaxy XR headset (Korea and US first). Samsung has shown the glasses and their Gentle Monster and Warby Parker frames but has not given a date or price. Update Nov 3: Android Authority relays the same Chosun Biz report (mid-December, Korea and US first, 'Intelligent Eyewear' name, other markets in 2027). That is wider coverage of one report, not a second source, so it stays a Rumor. Update Nov 6: Gentle Monster, one of the two frame partners, said on X that its Intelligent Eyewear collection launches in December, and Warby Parker opens US pre-orders on Nov 12. The December window is now official, so this moves to Likely; the exact mid-December timing and the Korea/US-only first wave still rest on the Chosun Biz report.",
       "sources": [
+        {
+          "name": "9to5Google (Gentle Monster: December)",
+          "url": "https://9to5google.com/2026/11/06/android-xr-glasses-release-date-window-confirmed/"
+        },
         {
           "name": "Android Authority (Nov 3)",
           "url": "https://www.androidauthority.com/samsung-android-xr-smart-glasses-usa-available-3731079/"
@@ -2179,11 +2335,15 @@
       ],
       "status": "Active",
       "first_reported": "2026-10-31",
-      "updated": "2026-10-31",
+      "updated": "2026-11-07",
       "expected": "First half of 2027 (China, expected)",
       "claim": "The Find X10 Ultra (model PYU110, codename 'Xinyun') uses MediaTek's Dimensity 9600 Pro instead of a Snapdragon chip.",
-      "why": "Tipster Abhishek Yadav on X and Weibo's Smart Pikachu both pointed to the Dimensity 9600 Pro, which Oppo already uses in the Find X10 Pro Max. But Smart Pikachu has since said a Snapdragon 8 Elite Extreme Gen 6 version is now more likely, per Android Central's summary via Gadget Hacks. Conflicting signals from the same small pool of leakers; Oppo has not confirmed the phone exists.",
+      "why": "Tipster Abhishek Yadav on X and Weibo's Smart Pikachu both pointed to the Dimensity 9600 Pro, which Oppo already uses in the Find X10 Pro Max. But Smart Pikachu has since said a Snapdragon 8 Elite Extreme Gen 6 version is now more likely, per Android Central's summary via Gadget Hacks. Conflicting signals from the same small pool of leakers; Oppo has not confirmed the phone exists. Update Nov 6: Digital Chat Station now says the Find X10 Ultra project has been suspended (see the separate cancellation rumor). If true, these specs never ship; Oppo has not commented.",
       "sources": [
+        {
+          "name": "Android Authority (project paused)",
+          "url": "https://www.androidauthority.com/oppo-find-x10-ultra-development-pause-leak-3732500/"
+        },
         {
           "name": "My Mobile India",
           "url": "https://www.mymobileindia.com/alleged-oppo-find-x10-ultra-spotted-with-dimensity-9600-pro-upcoming-oneplus-and-realme-phones-tipped/"
@@ -2274,17 +2434,25 @@
     {
       "id": "apple-ipads-first-half-2027",
       "title": "Apple launches an OLED iPad Air, a vapor-chamber iPad Pro and an A19 base iPad in the first half of 2027",
-      "rating": "Rumor",
+      "rating": "Likely",
       "categories": [
         "apple"
       ],
       "status": "Active",
       "first_reported": "2026-11-01",
-      "updated": "2026-11-02",
+      "updated": "2026-11-07",
       "expected": "First half of 2027 (reported)",
       "claim": "Apple will release three iPads in the first half of 2027: an iPad Air with an OLED screen, an iPad Pro with a new chip and vapor-chamber cooling, and a base iPad with the A19, 8GB of RAM (enabling Apple Intelligence), the N1 wireless chip and the C1X modem.",
-      "why": "From Bloomberg's Mark Gurman (Power On, Nov 1), who called this autumn's MacBook Pro, iPad mini and iMac line-up correctly. Chip choices beyond the base iPad's A19 (M5 for the Air, M6 or later for the Pro) are outlets' expectations, not part of the report. One strong source and no supply-chain confirmation yet, so it stays a Rumor.",
+      "why": "From Bloomberg's Mark Gurman (Power On, Nov 1), who called this autumn's MacBook Pro, iPad mini and iMac line-up correctly. Chip choices beyond the base iPad's A19 (M5 for the Air, M6 or later for the Pro) are outlets' expectations, not part of the report. One strong source and no supply-chain confirmation yet, so it stays a Rumor. Update Nov 6: Korean industry sources (via GSMArena and SamMobile) independently put the first OLED iPad Air in the first half of 2027, with Samsung Display supplying most panels alongside BOE and 4-5 million Air units forecast for 2027. Supply-chain backing for the headline OLED Air moves this to Likely; the iPad Pro and base iPad details are still Gurman-only.",
       "sources": [
+        {
+          "name": "SamMobile",
+          "url": "https://www.sammobile.com/news/samsung-making-it-possible-for-apple-to-launch-its-first-oled-ipad-air-in-2027/"
+        },
+        {
+          "name": "GSMArena (Korean supply chain)",
+          "url": "https://www.gsmarena.com/samsung_display_tipped_to_lead_oled_supply_for_2027_ipad_air-news-75387.php"
+        },
         {
           "name": "MacRumors",
           "url": "https://www.macrumors.com/2026/11/01/three-new-ipads-in-first-half-of-2027/"
@@ -2440,11 +2608,15 @@
       ],
       "status": "Active",
       "first_reported": "2026-11-04",
-      "updated": "2026-11-04",
+      "updated": "2026-11-07",
       "expected": "Galaxy S27 launch (early 2027)",
       "claim": "In Europe, the Galaxy S27 and S27+ use the Exynos 2700, the S27 Pro uses the Snapdragon 8 Elite Gen 6 (SM8950), and only the S27 Ultra gets the Snapdragon 8 Elite Extreme Gen 6, all with 12GB of RAM and 256GB of storage.",
-      "why": "From import-export records on the NBD trade platform, found by Notebookcheck and relayed by SamMobile, GSMArena and Android Police. Shipping records with real model numbers (SM-S952B to SM-S958B) are hard evidence, so this is Likely, but they can reflect test units and Samsung has not announced the phones. The split mirrors Xiaomi's 18 Pro (regular chip) and 18 Pro Max (Extreme).",
+      "why": "From import-export records on the NBD trade platform, found by Notebookcheck and relayed by SamMobile, GSMArena and Android Police. Shipping records with real model numbers (SM-S952B to SM-S958B) are hard evidence, so this is Likely, but they can reflect test units and Samsung has not announced the phones. The split mirrors Xiaomi's 18 Pro (regular chip) and 18 Pro Max (Extreme). Update Nov 6: yeux1122 (via GSMArena) adds that the Pro (Snapdragon 8 Elite Gen 6) and Ultra (Extreme Gen 6) use Snapdragon in South Korea too, while the S27 and S27+ stay on Exynos 2700 outside North America.",
       "sources": [
+        {
+          "name": "GSMArena (Nov 6)",
+          "url": "https://www.gsmarena.com/galaxy_s27_ultra_and_s27_pro_chipset_rumors_take_another_turn_snapdragon_is_back_in_korea-news-75386.php"
+        },
         {
           "name": "Notebookcheck",
           "url": "https://www.notebookcheck.net/Galaxy-S27-series-chipset-details-leak-with-a-surprising-entry-for-the-Pro.1441625.0.html"

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07",
+  "updated": "2026-11-08",
   "items": [
     {
       "id": "gtc-berlin-2026",
@@ -3524,6 +3524,40 @@
         {
           "name": "PC Gamer (Shadow class)",
           "url": "https://www.pcgamer.com/games/rpg/path-of-exile-2-announces-a-second-new-class-the-shadow-for-its-december-1-0-release/"
+        }
+      ]
+    },
+    {
+      "id": "yangwang-altior",
+      "name": "Yangwang Altior (Dingyao)",
+      "brand": "BYD Yangwang",
+      "categories": [
+        "evs"
+      ],
+      "type": "Car",
+      "date": "2026-11-07",
+      "date_label": "Nov 7, 2026 (Abu Dhabi premiere)",
+      "precision": "day",
+      "status": "Released",
+      "price": "Shanhe Dingyun limited edition pre-sale 2,080,000 yuan (300,000 yuan deposit)",
+      "summary": "BYD's Yangwang unveiled the 5.6-meter Altior luxury EV in Abu Dhabi and opened China pre-orders for a limited edition at 2.08 million yuan.",
+      "details": "Yangwang held the Altior's world premiere in Abu Dhabi on Nov 7, 2026, the brand's first full global launch outside China (BYD's official press release is dated Nov 7; Inside China Auto says it was shown that evening, a day after a Dubai brand event). The fully electric four-seat sedan measures 5,600 mm long, 2,030 mm wide and 1,590 mm tall on a 3,500 mm wheelbase. It uses Yangwang's e⁴ platform with four independently controlled motors (tank-turn and emergency flotation), next-generation DiSus active body control, God's Eye A driver assistance, and a second-generation Blade Battery rated at more than 1,000 km of CLTC range with FLASH Charging. Front doors open to 80 degrees and rear coach doors to 90 degrees, with umbrellas stored in the doors. The cabin has zero-gravity rear massage seats, a 21.4-inch folding roof screen, a 39-speaker Dynaudio Platinum Evidence system and a 532-liter boot. China pre-orders opened for the four-seat Shanhe Dingyun limited edition at a pre-sale price of 2,080,000 yuan with a 300,000 yuan deposit; CnEVPost says the run is capped at 399 units worldwide, while Inside China Auto notes Yangwang's Chinese announcements do not give a number. A five-seat version and an Executive edition are planned later. Inside China Auto says deliveries are expected in the second quarter of 2027; BYD has not published power outputs or full charging specs. Official materials specify a Blade Battery, not the solid-state pack earlier reports had suggested.",
+      "sources": [
+        {
+          "name": "BYD (official premiere, German)",
+          "url": "https://www.byd.com/de/presse/yangwang-altior-weltpremiere-2026"
+        },
+        {
+          "name": "CarNewsChina",
+          "url": "https://carnewschina.com/2026/11/07/byd-yangwang-altior-debuts-with-rolls-royce-style-coach-doors-and-5-5-metre-body/"
+        },
+        {
+          "name": "CnEVPost",
+          "url": "https://cnevpost.com/2026/11/07/byd-yangwang-debuts-altior/"
+        },
+        {
+          "name": "Inside China Auto",
+          "url": "https://insidechinaauto.com/2026/11/08/yangwang-altior-revealed-in-abu-dhabi-limited-edition-priced-at-rmb-2-08-million/"
         }
       ]
     }

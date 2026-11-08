@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07",
+  "updated": "2026-11-08",
   "scale": {
     "Confirmed": "Announced by the company or shown in an official source.",
     "Likely": "Multiple credible outlets or hard evidence (certifications, databases, supply chain), but no official word.",
@@ -1230,11 +1230,15 @@
       ],
       "status": "Active",
       "first_reported": "2026-10-19",
-      "updated": "2026-11-05",
+      "updated": "2026-11-08",
       "expected": "Mar-Apr 2027 (China, reported)",
       "claim": "The vivo X500 Ultra launches in China around March-April 2027 with the Snapdragon 8 Elite Extreme Gen 6, a flat 6.85-inch BOE LTPO screen, an ultrasonic fingerprint sensor, a 7,000-8,000mAh battery, a 50MP Sony LYT910 35mm main camera and a 200MP 1/1.2-inch telephoto.",
-      "why": "All from Weibo tipster Digital Chat Station via GSMArena. On Oct 21 he said the latest engineering sample tests a 200MP 1/1.2-inch telephoto sensor, larger than the X300 Ultra's 1/1.4-inch. GSMArena's two write-ups disagree on the battery (about 7,000mAh on Oct 19, about 8,000mAh on Oct 21), and engineering samples often change. The chip choice is the expected default for a 2027 Ultra; vivo has not announced the phone. On Oct 23 he added that the engineering sample's 35mm main camera uses a 50MP Sony LYT910 sensor (down from 200MP on the X300 Ultra, though with larger pixels). Separately, a global model (V2660) and a Brazil 'Jovi' model appeared in an IMEI database, which supports a launch outside China but says nothing about specs. Update Nov 5: leaker Yogesh Brar (via Android Authority) says the X500 Ultra pairs a 200MP main camera with a 50MP ultrawide and a 200MP periscope, which contradicts Digital Chat Station's Oct 23 claim of a 50MP LYT910 main sensor. Two tipsters now disagree on the main camera, so we lower this to Shaky. Brar also warns the memory shortage could limit a global launch.",
+      "why": "All from Weibo tipster Digital Chat Station via GSMArena. On Oct 21 he said the latest engineering sample tests a 200MP 1/1.2-inch telephoto sensor, larger than the X300 Ultra's 1/1.4-inch. GSMArena's two write-ups disagree on the battery (about 7,000mAh on Oct 19, about 8,000mAh on Oct 21), and engineering samples often change. The chip choice is the expected default for a 2027 Ultra; vivo has not announced the phone. On Oct 23 he added that the engineering sample's 35mm main camera uses a 50MP Sony LYT910 sensor (down from 200MP on the X300 Ultra, though with larger pixels). Separately, a global model (V2660) and a Brazil 'Jovi' model appeared in an IMEI database, which supports a launch outside China but says nothing about specs. Update Nov 5: leaker Yogesh Brar (via Android Authority) says the X500 Ultra pairs a 200MP main camera with a 50MP ultrawide and a 200MP periscope, which contradicts Digital Chat Station's Oct 23 claim of a 50MP LYT910 main sensor. Two tipsters now disagree on the main camera, so we lower this to Shaky. Brar also warns the memory shortage could limit a global launch. Update Nov 8: after reports that Oppo paused the Find X10 Ultra and Xiaomi cancelled the 18 Ultra, Digital Chat Station (via GSMArena) says the X500 Ultra is still aimed at March or April 2027 in China and will use the Snapdragon 8 Elite Extreme Gen 6, matching the timing vivo's VP gave in September. That supports the phone still being on track, but it does not settle the conflicting camera-spec leaks, so the rating stays Shaky.",
       "sources": [
+        {
+          "name": "GSMArena (Nov 8, still on track)",
+          "url": "https://www.gsmarena.com/vivo_x500_ultra_launch_timeframe_corroborated-news-75399.php"
+        },
         {
           "name": "Android Authority (Yogesh Brar leak)",
           "url": "https://www.androidauthority.com/oppo-find-x10-ultra-vivo-x500-ultra-camera-specs-leak-3731990/"
@@ -1965,13 +1969,29 @@
       "categories": [
         "evs"
       ],
-      "status": "Active",
+      "status": "Resolved",
       "first_reported": "2026-10-26",
-      "updated": "2026-11-06",
-      "expected": "Nov 8, 2026 (Abu Dhabi debut, BYD teaser); solid-state pack and price still unconfirmed",
+      "updated": "2026-11-08",
+      "expected": "Unveiled Nov 7, 2026 (Abu Dhabi)",
       "claim": "BYD will unveil its 5.5-meter Yangwang Altior executive sedan in Dubai around Nov 5, as the first car with BYD's solid-state batteries, priced around 2 million yuan.",
-      "why": "The name is official: on Oct 27 BYD revealed the sedan as the Yangwang Altior (DingYao in China) with a teaser, and Yangwang's Hu Xiaoqing had already said the global launch will be in the UAE. The Nov 5 date comes from CarNewsChina citing people familiar with the project; BYD has not announced a date. The solid-state battery and the roughly 2 million yuan price are reports only, and BYD's Stella Li has said its first solid-state car debuts in 2027, so that part is the weakest. Rear-hinged coach doors are visible in teasers and prototype photos. Update Oct 30: Hu Xiaoqing confirmed the Altior has rear-hinged (suicide) doors, a first for BYD, and previewed a dot-matrix grille; a teaser shows it at a BYD Flash Charging station. BYD still has not confirmed the Nov 5 date or a solid-state pack. Update Nov 2: several outlets now print Nov 5 as the Dubai debut date, but they trace back to the same CarNewsChina report; BYD still has not published a date or battery chemistry. We will resolve this after Nov 5. Update Nov 5: BYD's own teaser now sets the debut for Nov 8 in Abu Dhabi, not Nov 5 in Dubai, so the reported date was a few days off. Uncamouflaged prototypes show a large chrome grille, rear-hinged doors and roof LiDAR. BYD still has not mentioned solid-state batteries or a price, so the rating stays Rumor until the Nov 8 reveal. Update Nov 6: Still on track for the Nov 8 Abu Dhabi debut per BYD's Nov 5 teaser and CarNewsChina; no new official word on solid-state batteries or pricing, so the rating stays Rumor until the reveal.",
+      "why": "The name is official: on Oct 27 BYD revealed the sedan as the Yangwang Altior (DingYao in China) with a teaser, and Yangwang's Hu Xiaoqing had already said the global launch will be in the UAE. The Nov 5 date comes from CarNewsChina citing people familiar with the project; BYD has not announced a date. The solid-state battery and the roughly 2 million yuan price are reports only, and BYD's Stella Li has said its first solid-state car debuts in 2027, so that part is the weakest. Rear-hinged coach doors are visible in teasers and prototype photos. Update Oct 30: Hu Xiaoqing confirmed the Altior has rear-hinged (suicide) doors, a first for BYD, and previewed a dot-matrix grille; a teaser shows it at a BYD Flash Charging station. BYD still has not confirmed the Nov 5 date or a solid-state pack. Update Nov 2: several outlets now print Nov 5 as the Dubai debut date, but they trace back to the same CarNewsChina report; BYD still has not published a date or battery chemistry. We will resolve this after Nov 5. Update Nov 5: BYD's own teaser now sets the debut for Nov 8 in Abu Dhabi, not Nov 5 in Dubai, so the reported date was a few days off. Uncamouflaged prototypes show a large chrome grille, rear-hinged doors and roof LiDAR. BYD still has not mentioned solid-state batteries or a price, so the rating stays Rumor until the Nov 8 reveal. Update Nov 6: Still on track for the Nov 8 Abu Dhabi debut per BYD's Nov 5 teaser and CarNewsChina; no new official word on solid-state batteries or pricing, so the rating stays Rumor until the reveal. Update Nov 8: BYD's official press release and multiple reports confirm the Altior debuted in Abu Dhabi on Nov 7. It is a 5.6-meter four-seat EV with coach doors, a second-generation Blade Battery and more than 1,000 km of CLTC range. The Shanhe Dingyun limited edition opened pre-orders at 2.08 million yuan. Official materials do not mention solid-state batteries.",
       "sources": [
+        {
+          "name": "BYD (official premiere, German)",
+          "url": "https://www.byd.com/de/presse/yangwang-altior-weltpremiere-2026"
+        },
+        {
+          "name": "CarNewsChina (debut)",
+          "url": "https://carnewschina.com/2026/11/07/byd-yangwang-altior-debuts-with-rolls-royce-style-coach-doors-and-5-5-metre-body/"
+        },
+        {
+          "name": "CnEVPost (debut)",
+          "url": "https://cnevpost.com/2026/11/07/byd-yangwang-debuts-altior/"
+        },
+        {
+          "name": "Inside China Auto",
+          "url": "https://insidechinaauto.com/2026/11/08/yangwang-altior-revealed-in-abu-dhabi-limited-edition-priced-at-rmb-2-08-million/"
+        },
         {
           "name": "CarNewsChina (Nov 8, Abu Dhabi)",
           "url": "https://carnewschina.com/2026/11/05/byds-yangwang-altior-to-debut-in-abu-dhabi-on-november-8/"
@@ -1992,7 +2012,8 @@
           "name": "Electrek (solid-state report)",
           "url": "https://electrek.co/2026/10/26/byds-ultra-luxury-ev-may-debut-next-week-with-solid-state-batteries/"
         }
-      ]
+      ],
+      "outcome": "Mixed. Yangwang unveiled the Altior in Abu Dhabi on Nov 7 (not Dubai around Nov 5 as first reported; BYD later teased Nov 8). It is a 5.6-meter four-seat luxury EV with coach doors, and the Shanhe Dingyun limited edition opened pre-orders at 2.08 million yuan, close to the rumored 2 million yuan. The solid-state battery claim did not hold: BYD's official materials specify a second-generation Blade Battery with more than 1,000 km of CLTC range."
     },
     {
       "id": "oppo-find-x10-ultra-cameras",

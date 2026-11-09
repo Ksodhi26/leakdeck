@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08",
+  "updated": "2026-11-09",
   "scale": {
     "Confirmed": "Announced by the company or shown in an official source.",
     "Likely": "Multiple credible outlets or hard evidence (certifications, databases, supply chain), but no official word.",
@@ -1700,11 +1700,15 @@
       ],
       "status": "Active",
       "first_reported": "2026-10-21",
-      "updated": "2026-11-06",
+      "updated": "2026-11-09",
       "expected": "November 2026 (China; design and pre-orders live Nov 6, launch event date TBA)",
       "claim": "Honor will launch three Honor 700 models in China in November; every model has a built-in rear display, and the 700 Pro adds a stronger camera setup around a roughly 9,000mAh battery class.",
-      "why": "From Weibo tipsters relayed by GSMArena: one says the event is next month and the series has three models; Digital Chat Station has repeated the 200MP camera and rear screen since August. The timing fits Honor's six-month number-series cadence (the 600 launched in May), but Honor has announced nothing. On Oct 24 Digital Chat Station added details he says come from an engineering prototype (codename 'Flora'): a roughly 9,000mAh battery, a 50MP periscope on the Pro and four test colors, while calling the November timing tentative. More detail from the same tipster, so it stays a Rumor. Update Oct 28-Nov 1: two Honor 700 models (FAS-AN00 and FAA-AN00, thought to be the 700 and 700 Pro) passed China's 3C certification, with a tipster saying a third is pending, which usually means a launch within weeks. Tipster Dingjiao Shuma (via Kuai Keji, Oct 31) says the series launches in early November with actress Ju Jingyi as spokesperson, a Snapdragon chip, a periscope and support for a 200mm teleconverter. Certification plus several tipsters agreeing lifts the November timing to Likely; the 9,000mAh battery and exact specs still rest mainly on Digital Chat Station, and Honor has not announced a date. Update Nov 3: Honor CMO Guan Haitao officially announced the Honor 700 series on Weibo, confirmed the 'Flora' codename and said it debuts 'in winter', without a date. Tipster Wangzai Baishitong says the three models (700, 700 Pro and a Vitality Edition) launch this month. The series is now official; the November date and specs are still unconfirmed, so it stays Likely. Update Nov 3: Honor's global CMO Guan Haitao officially announced the Honor 700 series (codename Flora) for a 'winter' debut, and Honor named actress Ju Jingyi as ambassador. A tipster says three models (700, 700 Pro, and a Vitality Edition) are 3C certified and launch this month. Honor still has not given a date, so the November timing stays Likely. Update Nov 6: Honor officially revealed the Honor 700, 700 Pro and 700S with a rear display across the lineup and opened multi-channel pre-orders in China (colors Cold White, Clear Sky, Blue Tone, Pink Mist; memory configs listed on deposit pages). A launch-event date and final prices are still TBA, so the product itself is Confirmed while the exact on-sale day remains open. Camera, battery and chipset figures are still mostly tipster-led.",
+      "why": "From Weibo tipsters relayed by GSMArena: one says the event is next month and the series has three models; Digital Chat Station has repeated the 200MP camera and rear screen since August. The timing fits Honor's six-month number-series cadence (the 600 launched in May), but Honor has announced nothing. On Oct 24 Digital Chat Station added details he says come from an engineering prototype (codename 'Flora'): a roughly 9,000mAh battery, a 50MP periscope on the Pro and four test colors, while calling the November timing tentative. More detail from the same tipster, so it stays a Rumor. Update Oct 28-Nov 1: two Honor 700 models (FAS-AN00 and FAA-AN00, thought to be the 700 and 700 Pro) passed China's 3C certification, with a tipster saying a third is pending, which usually means a launch within weeks. Tipster Dingjiao Shuma (via Kuai Keji, Oct 31) says the series launches in early November with actress Ju Jingyi as spokesperson, a Snapdragon chip, a periscope and support for a 200mm teleconverter. Certification plus several tipsters agreeing lifts the November timing to Likely; the 9,000mAh battery and exact specs still rest mainly on Digital Chat Station, and Honor has not announced a date. Update Nov 3: Honor CMO Guan Haitao officially announced the Honor 700 series on Weibo, confirmed the 'Flora' codename and said it debuts 'in winter', without a date. Tipster Wangzai Baishitong says the three models (700, 700 Pro and a Vitality Edition) launch this month. The series is now official; the November date and specs are still unconfirmed, so it stays Likely. Update Nov 3: Honor's global CMO Guan Haitao officially announced the Honor 700 series (codename Flora) for a 'winter' debut, and Honor named actress Ju Jingyi as ambassador. A tipster says three models (700, 700 Pro, and a Vitality Edition) are 3C certified and launch this month. Honor still has not given a date, so the November timing stays Likely. Update Nov 6: Honor officially revealed the Honor 700, 700 Pro and 700S with a rear display across the lineup and opened multi-channel pre-orders in China (colors Cold White, Clear Sky, Blue Tone, Pink Mist; memory configs listed on deposit pages). A launch-event date and final prices are still TBA, so the product itself is Confirmed while the exact on-sale day remains open. Camera, battery and chipset figures are still mostly tipster-led. Update Nov 9: a new Honor teaser shows heart-rate and blood-oxygen readings on the rear screen (GSMArena); Honor has not explicitly confirmed health sensing, and Digital Chat Station says the rear display also works as a selfie viewfinder and for notifications and mini games. Launch date still TBA.",
       "sources": [
+        {
+          "name": "GSMArena (rear-screen teaser)",
+          "url": "https://www.gsmarena.com/honor_700_devices_teased_to_come_with_an_interesting_feature_on_the_rear_screen-news-75401.php"
+        },
         {
           "name": "IT Home (Chinese, Nov 3)",
           "url": "https://www.ithome.com/1/021/794.htm"
@@ -1748,10 +1752,10 @@
       ],
       "status": "Active",
       "first_reported": "2026-10-24",
-      "updated": "2026-10-30",
-      "expected": "November 2026 (China, leak; no date)",
+      "updated": "2026-11-09",
+      "expected": "Not announced (China; S70 and S70 Pro reportedly together)",
       "claim": "vivo's next S-series phone, the S70, has a 64MP Sony LYT-610 periscope telephoto with support for a 200mm teleconverter, a 6.59-inch 1.5K LTPS OLED screen and the Snapdragon 8s Gen 4.",
-      "why": "From tipster Digital Chat Station on Weibo, relayed by GSMArena; he says it is based on an engineering sample and that vivo tested, then dropped, a rear screen. DCS has a good record on Chinese phones, but this is a single source and vivo has said nothing. The S60 launched in May, so a late-2026 successor fits vivo's cadence. Update Oct 30: DCS added more detail, relayed by Gizmochina: the Snapdragon 8s Gen 4, a 50MP main, 8MP ultrawide and 50MP selfie camera, and support for a 200mm teleconverter. It is still the same single tipster, and reports point to a November launch in China.",
+      "why": "From tipster Digital Chat Station on Weibo, relayed by GSMArena; he says it is based on an engineering sample and that vivo tested, then dropped, a rear screen. DCS has a good record on Chinese phones, but this is a single source and vivo has said nothing. The S60 launched in May, so a late-2026 successor fits vivo's cadence. Update Oct 30: DCS added more detail, relayed by Gizmochina: the Snapdragon 8s Gen 4, a 50MP main, 8MP ultrawide and 50MP selfie camera, and support for a 200mm teleconverter. It is still the same single tipster, and reports point to a November launch in China. Update Nov 9: Digital Chat Station's latest leak (via 91mobiles and My Mobile India) adds an S70 Pro alongside the S70: both reportedly use the Snapdragon 8s Gen 4 and a 6.59-inch 1.5K 144Hz OLED, the S70 with up to an 8,000mAh battery and the Pro with a 200MP main camera, 64MP periscope and 7,000mAh-plus battery, both with 90W charging. 91mobiles says the Pro may go global as the V90 Pro. Still one tipster and no word from vivo, so it stays a Rumor.",
       "sources": [
         {
           "name": "GSMArena",
@@ -1760,6 +1764,14 @@
         {
           "name": "Gizmochina (Oct 30)",
           "url": "https://www.gizmochina.com/2026/10/30/vivo-s70-snapdragon-8s-gen-4-64mp-periscope-200mm-teleconverter/"
+        },
+        {
+          "name": "91mobiles (S70 Pro leak)",
+          "url": "https://www.91mobiles.com/hub/vivo-s70-pro-specifications-leak-vivo-v90-pro-global-variant-tipped/"
+        },
+        {
+          "name": "My Mobile India",
+          "url": "https://www.mymobileindia.com/vivo-s70-s70-pro-specifications-leaked-200mp-camera-snapdragon-8s-gen-4-and-8000mah-battery-expected/"
         }
       ]
     },
@@ -2837,7 +2849,7 @@
     {
       "status": "Active",
       "first_reported": "2026-11-05",
-      "updated": "2026-11-05",
+      "updated": "2026-11-09",
       "id": "homeview-third-party-ai-chatbots",
       "title": "Apple's HomeView will run third-party AI chatbots like ChatGPT and Claude",
       "rating": "Likely",
@@ -2847,11 +2859,15 @@
       ],
       "expected": "Not announced (code is in iOS 27.3 beta 1, not yet active)",
       "claim": "Apple's HomeView hub will allow third-party conversational AI apps such as ChatGPT and Claude.",
-      "why": "Leaker pdfu found an unused ConversationalApps flag earlier this month and says iOS 27.3 beta 1 adds a Conversational Apps category to PebblePlay, HomeView's CarPlay-style app bridge, along with two-way audio routing and session handling (reported by 9to5Mac). Apple uses these category flags to decide which third-party apps can run, so this is hard evidence of intent. It is still 'not fully wired up', and Apple has not named any apps or a date.",
+      "why": "Leaker pdfu found an unused ConversationalApps flag earlier this month and says iOS 27.3 beta 1 adds a Conversational Apps category to PebblePlay, HomeView's CarPlay-style app bridge, along with two-way audio routing and session handling (reported by 9to5Mac). Apple uses these category flags to decide which third-party apps can run, so this is hard evidence of intent. It is still 'not fully wired up', and Apple has not named any apps or a date. Update Nov 8: The Verge also covered the iOS 27.3 code and adds that the same beta brings anti-spoofing protection for HomeView: after three failed attempts the user must authenticate on an iPhone, with lockouts that grow from one hour to eight. Apple still has not announced either feature, so this stays Likely.",
       "sources": [
         {
           "name": "9to5Mac",
           "url": "https://9to5mac.com/2026/11/05/homeview-will-support-third-party-ai-chatbots-suggests-code/"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview"
         }
       ]
     },
@@ -2932,6 +2948,76 @@
         {
           "name": "GSMArena",
           "url": "https://www.gsmarena.com/redmi_turbo_6_maxs_battery_capacity_leaks_and_its_huge-news-75348.php"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-08",
+      "updated": "2026-11-09",
+      "id": "siri-ai-agent-2027",
+      "title": "Apple makes Siri AI a proactive agent as early as 2027",
+      "rating": "Rumor",
+      "categories": [
+        "apple",
+        "ai"
+      ],
+      "expected": "As early as 2027 (no version named)",
+      "claim": "Apple will turn Siri AI into an agent that tracks goals and carries out multi-step tasks on its own, like OpenAI's Dots or Meta's Muse, possibly as soon as next year.",
+      "why": "From Bloomberg's Mark Gurman in his Nov 8 Power On newsletter, relayed by MacRumors, 9to5Mac and Gizmodo. Gurman says he is told Apple ultimately wants Siri to work this way and that he believes it could happen as early as next year, and reports that CEO John Ternus pushed software chief Craig Federighi in a closed-door meeting to accelerate Apple's AI roadmap beyond Siri fixes. Gurman has a strong Apple record, but the timing is partly his own judgment, Apple has not committed to a release, and he also says Siri chief Mike Rockwell is still considering leaving. Rumor until there are concrete features or a version.",
+      "sources": [
+        {
+          "name": "MacRumors",
+          "url": "https://www.macrumors.com/2026/11/08/siri-ai-rumored-to-become-more-agentic/"
+        },
+        {
+          "name": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/08/apple-working-on-agentic-siri-ai-next-year-report/"
+        },
+        {
+          "name": "Gizmodo",
+          "url": "https://gizmodo.com/apples-new-ceo-is-reportedly-pushing-to-stuff-more-ai-into-iphones-2000836769"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-09",
+      "updated": "2026-11-09",
+      "id": "one-ui-9-5-bixby-tasks",
+      "title": "One UI 9.5 lets Bixby run recurring tasks in the background",
+      "rating": "Rumor",
+      "categories": [
+        "samsung",
+        "android"
+      ],
+      "expected": "With the Galaxy S27 series (early 2027, reported)",
+      "claim": "Samsung's One UI 9.5 turns Bixby into a task agent that can run scheduled, recurring jobs in the background (for example a daily exchange-rate report), managed from a new Actions menu with an activity log.",
+      "why": "Reported by SamMobile and relayed by GSMArena, which says the feature is in internal testing and expected to debut with the One UI 9.5-based Galaxy S27 series. SamMobile has good Samsung sources, but this is a single report, Samsung has not announced One UI 9.5 features, and features in internal testing can slip.",
+      "sources": [
+        {
+          "name": "GSMArena",
+          "url": "https://www.gsmarena.com/one_ui_95_to_make_bixby_even_smarter_capable_of_handling_daily_tasks-news-75407.php"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-09",
+      "updated": "2026-11-09",
+      "id": "vivo-12000mah-battery",
+      "title": "vivo has a 12,000mAh-plus phone battery in mass production",
+      "rating": "Rumor",
+      "categories": [
+        "android"
+      ],
+      "expected": "Unknown (no phone named)",
+      "claim": "vivo is already mass-producing a phone battery of 12,000mAh or more, with an even larger cell in development for a new large-screen device.",
+      "why": "From a single Weibo post reported by IT Home and relayed by Gizchina. It names no phone or date and does not say whether 12,000mAh is the rated or typical capacity, which can differ noticeably. Chinese brands are clearly racing past 10,000mAh, so it is plausible, but vivo has not confirmed it.",
+      "sources": [
+        {
+          "name": "Gizchina",
+          "url": "https://www.gizchina.com/vivo-phones/phones-with-12000mah-batteries-are-near-vivo-leak-says"
         }
       ]
     }

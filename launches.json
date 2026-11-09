@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08",
+  "updated": "2026-11-09",
   "items": [
     {
       "id": "gtc-berlin-2026",
@@ -2904,14 +2904,18 @@
         "android"
       ],
       "type": "Phone",
-      "date": "2026-11-30",
-      "date_label": "November 2026 (China; day not announced)",
-      "precision": "window",
+      "date": "2026-11-16",
+      "date_label": "Nov 16, 2026 (China launch)",
+      "precision": "day",
       "status": "Confirmed",
       "price": "",
-      "summary": "Oppo opened blind reservations in China for the Reno17 phones and confirmed a November launch alongside the Pad Air 6 tablet and Watch 5.",
-      "details": "Announced on Oppo's Weibo on Oct 30 without a date, prices or specs. Leaks point to a Reno17 and Reno17 Pro in China on ColorOS 17 (Android 17); Digital Chat Station tips the Pro with a 6.32-inch 1.5K 120Hz OLED, Dimensity 8550 Super, a 200MP main camera, 50MP periscope and about 7,000mAh, but those specs are unconfirmed. Update Nov 3: Digital Chat Station now tips the Reno17 with a 6.5-inch screen, Snapdragon 7 Gen 4 and an 8,000mAh-class battery, and the Reno17 Pro with a 6.3-inch screen, Dimensity 8550 and a 7,200mAh-class battery; both reportedly get a 50MP periscope, in 8GB/256GB to 12GB/512GB versions. Still a leak; Oppo has confirmed only a November launch.",
+      "summary": "Oppo launches the Reno17 and Reno17 Pro in China on Nov 16, alongside the Pad Air 6 tablet and Watch 5.",
+      "details": "Announced on Oppo's Weibo on Oct 30 without a date, prices or specs. Leaks point to a Reno17 and Reno17 Pro in China on ColorOS 17 (Android 17); Digital Chat Station tips the Pro with a 6.32-inch 1.5K 120Hz OLED, Dimensity 8550 Super, a 200MP main camera, 50MP periscope and about 7,000mAh, but those specs are unconfirmed. Update Nov 3: Digital Chat Station now tips the Reno17 with a 6.5-inch screen, Snapdragon 7 Gen 4 and an 8,000mAh-class battery, and the Reno17 Pro with a 6.3-inch screen, Dimensity 8550 and a 7,200mAh-class battery; both reportedly get a 50MP periscope, in 8GB/256GB to 12GB/512GB versions. Still a leak; Oppo has confirmed only a November launch. Update Nov 9: Oppo confirmed on Weibo that the Reno17 series, Watch 5 and Pad Air 6 launch in China on Nov 16, revealed the phones' design and four colors (Adventure Cat, Cocoa Brown, First Snow White, Ice Moon White) and opened pre-orders. Oppo also published the Pad Air 6 spec sheet ahead of launch: a 12.1-inch 2.8K 120Hz LCD (matte option), Dimensity 7360 Super, 10,050mAh battery, 8MP front and rear cameras, up to 12GB/256GB, Wi-Fi and LTE versions, ColorOS 17; pricing comes at launch. The Watch 5 is 9.2mm thick, 25g and rated for up to 7 days. Phone specs are still unannounced.",
       "sources": [
+        {
+          "name": "GSMArena (Nov 16 date)",
+          "url": "https://www.gsmarena.com/the_oppo_reno17_and_reno17_pro_are_launching_next_week-news-75400.php"
+        },
         {
           "name": "Notebookcheck",
           "url": "https://www.notebookcheck.net/Oppo-launches-Reno17-series-blind-pre-orders-ahead-of-November-debut.1438629.0.html"
@@ -3022,14 +3026,18 @@
         "android"
       ],
       "type": "Phone",
-      "date": "2026-11-30",
-      "date_label": "November 2026 (global; day not announced)",
-      "precision": "window",
+      "date": "2026-11-17",
+      "date_label": "Nov 17, 2026 (Paris event, 13:00 UTC)",
+      "precision": "day",
       "status": "Confirmed",
       "price": "",
-      "summary": "Xiaomi says its 18 Pro series, launched in China in September, goes global in November, the first time its Pro models leave China.",
-      "details": "The Xiaomi 18 Pro and 18 Pro Max launched in China on Sept 23 with dual 200MP Leica cameras, rear displays and Snapdragon 8 Elite Gen 6 chips (Extreme Gen 6 on the Pro Max). On Nov 2 Xiaomi said on X that the series is 'going global this November', without a date or prices. Last year only the standard Xiaomi 17 left China. European retailer listings point to smaller batteries and prices from about EUR 1,399; see the rumor tracker. Reports suggest India may get only the 18 Pro. Update Nov 3: Xiaomi president Lu Weibing repeated the November timing on Weibo; still no date, markets or prices.",
+      "summary": "Xiaomi takes its 18 Pro and 18 Pro Max global at a Paris event on Nov 17, the first time its Pro models leave China.",
+      "details": "The Xiaomi 18 Pro and 18 Pro Max launched in China on Sept 23 with dual 200MP Leica cameras, rear displays and Snapdragon 8 Elite Gen 6 chips (Extreme Gen 6 on the Pro Max). On Nov 2 Xiaomi said on X that the series is 'going global this November', without a date or prices. Last year only the standard Xiaomi 17 left China. European retailer listings point to smaller batteries and prices from about EUR 1,399; see the rumor tracker. Reports suggest India may get only the 18 Pro. Update Nov 3: Xiaomi president Lu Weibing repeated the November timing on Weibo; still no date, markets or prices. Update Nov 9: Xiaomi confirmed the global launch for Nov 17 at an event in Paris at 13:00 UTC, streamed on YouTube and X, promising 'more surprises'. Only the two Pro models are named, so a vanilla 18 or an Ultra is not expected; GSMArena suggests the China-only Xiaomi Watch S5 41mm could appear. Global prices and battery sizes are still unannounced.",
       "sources": [
+        {
+          "name": "GSMArena (Nov 17 date)",
+          "url": "https://www.gsmarena.com/its_official_the_xiaomi_18_pro_and_18_pro_max_are_launching_globally_next_week-news-75406.php"
+        },
         {
           "name": "Gizmochina",
           "url": "https://www.gizmochina.com/2026/11/02/xiaomi-18-pro-series-global-launch-november/"
@@ -3558,6 +3566,116 @@
         {
           "name": "Inside China Auto",
           "url": "https://insidechinaauto.com/2026/11/08/yangwang-altior-revealed-in-abu-dhabi-limited-edition-priced-at-rmb-2-08-million/"
+        }
+      ]
+    },
+    {
+      "id": "seedream-5-5",
+      "name": "Seedream 5.5",
+      "brand": "ByteDance Seed",
+      "categories": [
+        "ai"
+      ],
+      "type": "AI model",
+      "date": "2026-11-09",
+      "date_label": "Nov 9, 2026",
+      "precision": "day",
+      "status": "Released",
+      "price": "",
+      "summary": "ByteDance's Seed team introduced Seedream 5.5, an image model focused on stable multi-turn editing, transparent-background output and more realistic images.",
+      "details": "Announced on ByteDance Seed's blog on Nov 9. The team highlights three upgrades: multi-turn editing that keeps unedited regions unchanged at the pixel level across up to 100 rounds of edits, native RGBA output with full or partial transparency so generated elements can be used directly as assets, and more natural lighting, skin and material rendering with clearer small and complex text. ByteDance says its evaluations show leading results in text structure and text-to-image realism; those are the company's own figures. A Pro version of the Seedream 5.5 series is promised later. The post does not detail pricing or which ByteDance products get it first.",
+      "sources": [
+        {
+          "name": "ByteDance Seed (official)",
+          "url": "https://seed.bytedance.com/en/blog/more-realistic-images-more-stable-editing-across-100-rounds-introducing-seedream-5-5"
+        }
+      ]
+    },
+    {
+      "id": "lg-k-exaone-2-5",
+      "name": "K-EXAONE 2.5",
+      "brand": "LG AI Research",
+      "categories": [
+        "ai"
+      ],
+      "type": "AI model",
+      "date": "2026-11-09",
+      "date_label": "Nov 9, 2026 (free API)",
+      "precision": "day",
+      "status": "Released",
+      "price": "Free API (LG AI Research platform)",
+      "summary": "LG AI Research unveiled K-EXAONE 2.5, a retrained version of its sovereign-AI model, and made its API free for everyone.",
+      "details": "Unveiled at NVIDIA AI Day Seoul 2026 on Nov 9. K-EXAONE 2.5 is a technology-validation model: extra training applied to the second model of Korea's sovereign AI project, released in August. LG says performance across 24 internal metrics rose more than 70% in eight weeks. Its published agentic scores put it close to DeepSeek V4.1 Flash and GLM-5.3: 74.6 on AutomationBench, 77.3 on Claw-Eval, 78.0 on BrowseComp and 59.2 on SWE-Bench Pro (ahead of DeepSeek's 58.4, behind GLM's 64.0). These are LG's own evaluations. The API is free to developers, startups, businesses and researchers from Nov 9 through LG's platform. LG says it aims to finish a frontier-level third-generation EXAONE model by January.",
+      "sources": [
+        {
+          "name": "The Asia Business Daily",
+          "url": "https://www.asiae.co.kr/en/article/2026110908593029581"
+        }
+      ]
+    },
+    {
+      "id": "lynk-co-900l",
+      "name": "Lynk & Co 900L (China)",
+      "brand": "Geely Lynk & Co",
+      "categories": [
+        "evs"
+      ],
+      "type": "Car",
+      "date": "2026-11-10",
+      "date_label": "Nov 10, 2026 (global debut)",
+      "precision": "day",
+      "status": "Confirmed",
+      "price": "",
+      "summary": "Lynk & Co debuts the 900L, a seven-seat plug-in hybrid version of its flagship 900 SUV, on Nov 10.",
+      "details": "Lynk & Co announced the Nov 10 global debut on Weibo on Nov 6, without prices or an on-sale date. The 900L is 5,280 mm long, 1,999 mm wide and 1,810 mm tall on a 3,170 mm wheelbase (40 mm longer than the current 900), with roof LiDAR for driver assistance and 21-inch wheels. It is a plug-in hybrid, not a pure EV: a 2.0T engine rated at 160 kW, a 225 km/h top speed and ternary lithium cells from a CATL-Geely joint venture, on Geely's SPA Evo architecture. It joins the six-seat 900 (from 309,900 yuan) and the five-seat 900 (from 299,800 yuan).",
+      "sources": [
+        {
+          "name": "CnEVPost",
+          "url": "https://cnevpost.com/2026/11/06/lynk-co-debut-900l-nov-10/"
+        }
+      ]
+    },
+    {
+      "id": "dongfeng-nissan-nx7",
+      "name": "Dongfeng Nissan NX7 (China)",
+      "brand": "Nissan (Dongfeng Nissan)",
+      "categories": [
+        "evs"
+      ],
+      "type": "Car",
+      "date": "2026-11-13",
+      "date_label": "Nov 13, 2026 (debut and pre-sales)",
+      "precision": "day",
+      "status": "Confirmed",
+      "price": "",
+      "summary": "Dongfeng Nissan debuts the NX7 plug-in hybrid SUV on Nov 13 and opens pre-sales the same day, with sales expected before year-end.",
+      "details": "Dongfeng Nissan announced the date on Nov 9; local media say the debut is at a Nissan Day event in Zhuhai, where Nissan will also show another unnamed model. The NX7 is a five-seat midsize SUV (4,785 mm long, 2,815 mm wheelbase) and the fourth model in the N series after the N7, N6 and NX8. Regulatory filings list a 1.5-liter engine (73 kW) with a 170 kW Bosch motor and a 40.9 kWh CATL LFP battery giving 220-225 km of electric range; roof LiDAR supports urban navigation assist. CnEVPost expects it to be priced below the NX8 (159,900-209,900 yuan). Pre-sale prices have not been announced.",
+      "sources": [
+        {
+          "name": "CnEVPost",
+          "url": "https://cnevpost.com/2026/11/09/dongfeng-nissan-nx7-debut-nov-13/"
+        }
+      ]
+    },
+    {
+      "id": "fang-cheng-bao-tai-9",
+      "name": "Fang Cheng Bao Tai 9 (China)",
+      "brand": "BYD Fang Cheng Bao",
+      "categories": [
+        "evs"
+      ],
+      "type": "Car",
+      "date": "2026-11-30",
+      "date_label": "Late November 2026 (day not announced; Nov 19 rumored)",
+      "precision": "window",
+      "status": "Expected",
+      "price": "",
+      "summary": "BYD's Fang Cheng Bao opened reservations for the Tai 9, a six-seat plug-in hybrid SUV and the first car on BYD's new DMS hybrid platform, due later this month.",
+      "details": "Reservations opened on Nov 9, the same day BYD marked its 19 millionth NEV with a Tai 9 coming off the line. Early reservers get six extra months of free BYD flash charging; no reservation price was given. Brand general manager Xiong Tianbo said on Nov 7 that it launches later this month (on Oct 22 she had said after Nov 15); a Nov 19 date is rumored but not confirmed. The Tai 9 is 5,270 mm long on a 3,130 mm wheelbase, larger than the Bao 8, with a 2+2+2 layout. Official poster details: BYD's new DMS hybrid platform, second-generation Blade Battery, flash charging, DiSus-A body control, God's Eye B 5.0 driver assistance and rear-wheel steering. Filings show a 1.5-liter engine, two 200 kW motors and a 66.48 kWh battery.",
+      "sources": [
+        {
+          "name": "CnEVPost",
+          "url": "https://cnevpost.com/2026/11/09/byd-19-million-nev-production-fang-cheng-bao-tai-9-reservations/"
         }
       ]
     }

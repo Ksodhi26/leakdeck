@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09",
+  "updated": "2026-11-10",
   "scale": {
     "Confirmed": "Announced by the company or shown in an official source.",
     "Likely": "Multiple credible outlets or hard evidence (certifications, databases, supply chain), but no official word.",
@@ -1230,11 +1230,15 @@
       ],
       "status": "Active",
       "first_reported": "2026-10-19",
-      "updated": "2026-11-08",
+      "updated": "2026-11-10",
       "expected": "Mar-Apr 2027 (China, reported)",
       "claim": "The vivo X500 Ultra launches in China around March-April 2027 with the Snapdragon 8 Elite Extreme Gen 6, a flat 6.85-inch BOE LTPO screen, an ultrasonic fingerprint sensor, a 7,000-8,000mAh battery, a 50MP Sony LYT910 35mm main camera and a 200MP 1/1.2-inch telephoto.",
-      "why": "All from Weibo tipster Digital Chat Station via GSMArena. On Oct 21 he said the latest engineering sample tests a 200MP 1/1.2-inch telephoto sensor, larger than the X300 Ultra's 1/1.4-inch. GSMArena's two write-ups disagree on the battery (about 7,000mAh on Oct 19, about 8,000mAh on Oct 21), and engineering samples often change. The chip choice is the expected default for a 2027 Ultra; vivo has not announced the phone. On Oct 23 he added that the engineering sample's 35mm main camera uses a 50MP Sony LYT910 sensor (down from 200MP on the X300 Ultra, though with larger pixels). Separately, a global model (V2660) and a Brazil 'Jovi' model appeared in an IMEI database, which supports a launch outside China but says nothing about specs. Update Nov 5: leaker Yogesh Brar (via Android Authority) says the X500 Ultra pairs a 200MP main camera with a 50MP ultrawide and a 200MP periscope, which contradicts Digital Chat Station's Oct 23 claim of a 50MP LYT910 main sensor. Two tipsters now disagree on the main camera, so we lower this to Shaky. Brar also warns the memory shortage could limit a global launch. Update Nov 8: after reports that Oppo paused the Find X10 Ultra and Xiaomi cancelled the 18 Ultra, Digital Chat Station (via GSMArena) says the X500 Ultra is still aimed at March or April 2027 in China and will use the Snapdragon 8 Elite Extreme Gen 6, matching the timing vivo's VP gave in September. That supports the phone still being on track, but it does not settle the conflicting camera-spec leaks, so the rating stays Shaky.",
+      "why": "All from Weibo tipster Digital Chat Station via GSMArena. On Oct 21 he said the latest engineering sample tests a 200MP 1/1.2-inch telephoto sensor, larger than the X300 Ultra's 1/1.4-inch. GSMArena's two write-ups disagree on the battery (about 7,000mAh on Oct 19, about 8,000mAh on Oct 21), and engineering samples often change. The chip choice is the expected default for a 2027 Ultra; vivo has not announced the phone. On Oct 23 he added that the engineering sample's 35mm main camera uses a 50MP Sony LYT910 sensor (down from 200MP on the X300 Ultra, though with larger pixels). Separately, a global model (V2660) and a Brazil 'Jovi' model appeared in an IMEI database, which supports a launch outside China but says nothing about specs. Update Nov 5: leaker Yogesh Brar (via Android Authority) says the X500 Ultra pairs a 200MP main camera with a 50MP ultrawide and a 200MP periscope, which contradicts Digital Chat Station's Oct 23 claim of a 50MP LYT910 main sensor. Two tipsters now disagree on the main camera, so we lower this to Shaky. Brar also warns the memory shortage could limit a global launch. Update Nov 8: after reports that Oppo paused the Find X10 Ultra and Xiaomi cancelled the 18 Ultra, Digital Chat Station (via GSMArena) says the X500 Ultra is still aimed at March or April 2027 in China and will use the Snapdragon 8 Elite Extreme Gen 6, matching the timing vivo's VP gave in September. That supports the phone still being on track, but it does not settle the conflicting camera-spec leaks, so the rating stays Shaky. Update Nov 10: Digital Chat Station now says the X500 Ultra uses two Sony LYTIA L910 sensors, for the main and ultrawide cameras, with an 'HPU' sensor in the periscope offering LOFIC and DeepPix, and repeats the Snapdragon 8 Elite Extreme Gen 6 and March-April timing. It adds detail to his own earlier claim rather than settling the disagreement with other tipsters, so it stays Shaky.",
       "sources": [
+        {
+          "name": "GSMArena (two LYT-910 sensors)",
+          "url": "https://www.gsmarena.com/vivo_x500_ultra_camera_specs_tipped-news-75419.php"
+        },
         {
           "name": "GSMArena (Nov 8, still on track)",
           "url": "https://www.gsmarena.com/vivo_x500_ultra_launch_timeframe_corroborated-news-75399.php"
@@ -1436,10 +1440,10 @@
       ],
       "status": "Active",
       "first_reported": "2026-10-19",
-      "updated": "2026-11-02",
-      "expected": "Global launch in November 2026 (Xiaomi; day not announced)",
+      "updated": "2026-11-10",
+      "expected": "Nov 17, 2026 (Paris event, official)",
       "claim": "The European Xiaomi 18 Pro will cost EUR 1,449 (256GB) or EUR 1,649 (512GB) with a 6,000mAh-rated battery and 90W charging, and the 18 Pro Max EUR 1,849 (512GB) with a 7,050mAh-rated battery and 100W, both smaller than the Chinese versions' 7,000mAh and 8,500mAh.",
-      "why": "Prices first came from a single unnamed report relayed by GSMArena, and the battery figures matched Xiaomi's published EU energy labels. Update Oct 26: Italian retailer Epto listed both phones with the same smaller batteries (6,000mAh/90W on the Pro, 7,050mAh/100W on the Pro Max) and prices close to the leak: EUR 1,398.90 and 1,591.90 for the 18 Pro (256GB/512GB) and EUR 1,783.90 for the 18 Pro Max, about EUR 50-65 under the leaked figures. Epto's prices are often slightly off the official ones, so we move this to Likely: the batteries look settled, the price range is roughly right, but the exact euro figures and launch date still await Xiaomi. Update Nov 2: Xiaomi confirmed on X that the 18 Pro series goes global this November, which fits the retailer timing; prices and battery sizes are still unconfirmed until the launch event.",
+      "why": "Prices first came from a single unnamed report relayed by GSMArena, and the battery figures matched Xiaomi's published EU energy labels. Update Oct 26: Italian retailer Epto listed both phones with the same smaller batteries (6,000mAh/90W on the Pro, 7,050mAh/100W on the Pro Max) and prices close to the leak: EUR 1,398.90 and 1,591.90 for the 18 Pro (256GB/512GB) and EUR 1,783.90 for the 18 Pro Max, about EUR 50-65 under the leaked figures. Epto's prices are often slightly off the official ones, so we move this to Likely: the batteries look settled, the price range is roughly right, but the exact euro figures and launch date still await Xiaomi. Update Nov 2: Xiaomi confirmed on X that the 18 Pro series goes global this November, which fits the retailer timing; prices and battery sizes are still unconfirmed until the launch event. Update Nov 9-10: Xiaomi set the global launch for Nov 17 in Paris, so the European prices and battery sizes will be checked then.",
       "sources": [
         {
           "name": "Gizmochina (global launch in November)",
@@ -1700,11 +1704,15 @@
       ],
       "status": "Active",
       "first_reported": "2026-10-21",
-      "updated": "2026-11-09",
-      "expected": "November 2026 (China; design and pre-orders live Nov 6, launch event date TBA)",
+      "updated": "2026-11-10",
+      "expected": "Nov 13, 2026 (China, official)",
       "claim": "Honor will launch three Honor 700 models in China in November; every model has a built-in rear display, and the 700 Pro adds a stronger camera setup around a roughly 9,000mAh battery class.",
-      "why": "From Weibo tipsters relayed by GSMArena: one says the event is next month and the series has three models; Digital Chat Station has repeated the 200MP camera and rear screen since August. The timing fits Honor's six-month number-series cadence (the 600 launched in May), but Honor has announced nothing. On Oct 24 Digital Chat Station added details he says come from an engineering prototype (codename 'Flora'): a roughly 9,000mAh battery, a 50MP periscope on the Pro and four test colors, while calling the November timing tentative. More detail from the same tipster, so it stays a Rumor. Update Oct 28-Nov 1: two Honor 700 models (FAS-AN00 and FAA-AN00, thought to be the 700 and 700 Pro) passed China's 3C certification, with a tipster saying a third is pending, which usually means a launch within weeks. Tipster Dingjiao Shuma (via Kuai Keji, Oct 31) says the series launches in early November with actress Ju Jingyi as spokesperson, a Snapdragon chip, a periscope and support for a 200mm teleconverter. Certification plus several tipsters agreeing lifts the November timing to Likely; the 9,000mAh battery and exact specs still rest mainly on Digital Chat Station, and Honor has not announced a date. Update Nov 3: Honor CMO Guan Haitao officially announced the Honor 700 series on Weibo, confirmed the 'Flora' codename and said it debuts 'in winter', without a date. Tipster Wangzai Baishitong says the three models (700, 700 Pro and a Vitality Edition) launch this month. The series is now official; the November date and specs are still unconfirmed, so it stays Likely. Update Nov 3: Honor's global CMO Guan Haitao officially announced the Honor 700 series (codename Flora) for a 'winter' debut, and Honor named actress Ju Jingyi as ambassador. A tipster says three models (700, 700 Pro, and a Vitality Edition) are 3C certified and launch this month. Honor still has not given a date, so the November timing stays Likely. Update Nov 6: Honor officially revealed the Honor 700, 700 Pro and 700S with a rear display across the lineup and opened multi-channel pre-orders in China (colors Cold White, Clear Sky, Blue Tone, Pink Mist; memory configs listed on deposit pages). A launch-event date and final prices are still TBA, so the product itself is Confirmed while the exact on-sale day remains open. Camera, battery and chipset figures are still mostly tipster-led. Update Nov 9: a new Honor teaser shows heart-rate and blood-oxygen readings on the rear screen (GSMArena); Honor has not explicitly confirmed health sensing, and Digital Chat Station says the rear display also works as a selfie viewfinder and for notifications and mini games. Launch date still TBA.",
+      "why": "From Weibo tipsters relayed by GSMArena: one says the event is next month and the series has three models; Digital Chat Station has repeated the 200MP camera and rear screen since August. The timing fits Honor's six-month number-series cadence (the 600 launched in May), but Honor has announced nothing. On Oct 24 Digital Chat Station added details he says come from an engineering prototype (codename 'Flora'): a roughly 9,000mAh battery, a 50MP periscope on the Pro and four test colors, while calling the November timing tentative. More detail from the same tipster, so it stays a Rumor. Update Oct 28-Nov 1: two Honor 700 models (FAS-AN00 and FAA-AN00, thought to be the 700 and 700 Pro) passed China's 3C certification, with a tipster saying a third is pending, which usually means a launch within weeks. Tipster Dingjiao Shuma (via Kuai Keji, Oct 31) says the series launches in early November with actress Ju Jingyi as spokesperson, a Snapdragon chip, a periscope and support for a 200mm teleconverter. Certification plus several tipsters agreeing lifts the November timing to Likely; the 9,000mAh battery and exact specs still rest mainly on Digital Chat Station, and Honor has not announced a date. Update Nov 3: Honor CMO Guan Haitao officially announced the Honor 700 series on Weibo, confirmed the 'Flora' codename and said it debuts 'in winter', without a date. Tipster Wangzai Baishitong says the three models (700, 700 Pro and a Vitality Edition) launch this month. The series is now official; the November date and specs are still unconfirmed, so it stays Likely. Update Nov 3: Honor's global CMO Guan Haitao officially announced the Honor 700 series (codename Flora) for a 'winter' debut, and Honor named actress Ju Jingyi as ambassador. A tipster says three models (700, 700 Pro, and a Vitality Edition) are 3C certified and launch this month. Honor still has not given a date, so the November timing stays Likely. Update Nov 6: Honor officially revealed the Honor 700, 700 Pro and 700S with a rear display across the lineup and opened multi-channel pre-orders in China (colors Cold White, Clear Sky, Blue Tone, Pink Mist; memory configs listed on deposit pages). A launch-event date and final prices are still TBA, so the product itself is Confirmed while the exact on-sale day remains open. Camera, battery and chipset figures are still mostly tipster-led. Update Nov 9: a new Honor teaser shows heart-rate and blood-oxygen readings on the rear screen (GSMArena); Honor has not explicitly confirmed health sensing, and Digital Chat Station says the rear display also works as a selfie viewfinder and for notifications and mini games. Launch date still TBA. Update Nov 10: Honor set the launch for Nov 13 in a Weibo teaser (Notebookcheck, Huawei Central). The November timing and rear screens are now official; the camera and battery claims will be checked at the event.",
       "sources": [
+        {
+          "name": "Notebookcheck (Nov 13 date)",
+          "url": "https://www.notebookcheck.net/Honor-700-series-launch-date-confirmed-and-all-three-get-a-rear-screen.1445629.0.html"
+        },
         {
           "name": "GSMArena (rear-screen teaser)",
           "url": "https://www.gsmarena.com/honor_700_devices_teased_to_come_with_an_interesting_feature_on_the_rear_screen-news-75401.php"
@@ -2473,11 +2481,15 @@
       ],
       "status": "Active",
       "first_reported": "2026-11-01",
-      "updated": "2026-11-07",
+      "updated": "2026-11-10",
       "expected": "First half of 2027 (reported)",
       "claim": "Apple will release three iPads in the first half of 2027: an iPad Air with an OLED screen, an iPad Pro with a new chip and vapor-chamber cooling, and a base iPad with the A19, 8GB of RAM (enabling Apple Intelligence), the N1 wireless chip and the C1X modem.",
-      "why": "From Bloomberg's Mark Gurman (Power On, Nov 1), who called this autumn's MacBook Pro, iPad mini and iMac line-up correctly. Chip choices beyond the base iPad's A19 (M5 for the Air, M6 or later for the Pro) are outlets' expectations, not part of the report. One strong source and no supply-chain confirmation yet, so it stays a Rumor. Update Nov 6: Korean industry sources (via GSMArena and SamMobile) independently put the first OLED iPad Air in the first half of 2027, with Samsung Display supplying most panels alongside BOE and 4-5 million Air units forecast for 2027. Supply-chain backing for the headline OLED Air moves this to Likely; the iPad Pro and base iPad details are still Gurman-only.",
+      "why": "From Bloomberg's Mark Gurman (Power On, Nov 1), who called this autumn's MacBook Pro, iPad mini and iMac line-up correctly. Chip choices beyond the base iPad's A19 (M5 for the Air, M6 or later for the Pro) are outlets' expectations, not part of the report. One strong source and no supply-chain confirmation yet, so it stays a Rumor. Update Nov 6: Korean industry sources (via GSMArena and SamMobile) independently put the first OLED iPad Air in the first half of 2027, with Samsung Display supplying most panels alongside BOE and 4-5 million Air units forecast for 2027. Supply-chain backing for the headline OLED Air moves this to Likely; the iPad Pro and base iPad details are still Gurman-only. Update Nov 10: DigiTimes (via MacRumors) also says both iPad Air sizes move to OLED in the first half of 2027, using the iPad mini's single-stack LTPS panel design (earlier DigiTimes reporting said it stays at 60Hz), with Samsung Display the main supplier and BOE still qualifying. Another supply-chain source for the OLED Air; stays Likely.",
       "sources": [
+        {
+          "name": "MacRumors (DigiTimes)",
+          "url": "https://www.macrumors.com/2026/11/10/oled-ipad-air-rumored-to-launch-in-early-2027/"
+        },
         {
           "name": "SamMobile",
           "url": "https://www.sammobile.com/news/samsung-making-it-possible-for-apple-to-launch-its-first-oled-ipad-air-in-2027/"
@@ -3018,6 +3030,120 @@
         {
           "name": "Gizchina",
           "url": "https://www.gizchina.com/vivo-phones/phones-with-12000mah-batteries-are-near-vivo-leak-says"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-10",
+      "updated": "2026-11-10",
+      "id": "galaxy-s27-camera-sensors",
+      "title": "Galaxy S27 cameras: Ultra drops to a single 5x telephoto, S27 Pro gets a 10MP 3x zoom",
+      "rating": "Rumor",
+      "categories": [
+        "samsung",
+        "android"
+      ],
+      "expected": "Galaxy S27 launch (early 2027)",
+      "claim": "The Galaxy S27 and S27+ keep a 50MP main, 12MP ultrawide and 10MP 3x camera; the S27 Pro and Ultra share a 200MP ISOCELL HP6 main, a 50MP ultrawide and a 16MP selfie camera, but the Pro gets only a 10MP 3x telephoto and the Ultra a single 50MP 5x telephoto.",
+      "why": "From SammyGuru, relayed by Android Authority and GSMArena, with specific sensor part numbers. It fits Ice Universe's August claim that the Ultra has only three rear cameras, and on Nov 10 he said the fourth camera shown on dummy units shared by Sonny Dickson 'does not exist'. The Pro's 10MP 3x camera contradicts earlier leaks of 50MP 5x or 3.5x options. One sourced leak, Samsung has said nothing, so it is a Rumor.",
+      "sources": [
+        {
+          "name": "Android Authority",
+          "url": "https://www.androidauthority.com/samsung-galaxy-s27-series-camera-sensors-leak-3733185/"
+        },
+        {
+          "name": "GSMArena",
+          "url": "https://www.gsmarena.com/samsung_galaxy_s27_series_camera_setup_detailed-news-75416.php"
+        },
+        {
+          "name": "Android Authority (dummy units)",
+          "url": "https://www.androidauthority.com/samsung-galaxy-s27-pro-ultra-plus-dummy-units-leak-3733332/"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-10",
+      "updated": "2026-11-10",
+      "id": "one-ui-9-5-third-party-call-recording",
+      "title": "One UI 9.5 lets Galaxy phones record WhatsApp, Telegram and Google Meet calls",
+      "rating": "Likely",
+      "categories": [
+        "samsung",
+        "android"
+      ],
+      "expected": "One UI 9.5 (with the Galaxy S27 series, early 2027)",
+      "claim": "Samsung's Phone app in One UI 9.5 adds a 'Record calls in other apps' setting with per-app toggles for VoIP calls in WhatsApp, Telegram and Google Meet, possibly limited by country.",
+      "why": "SamMobile found and screenshotted the setting in One UI 9.5 software, which is hard evidence rather than a tip; Android Authority relays it. Samsung has not announced it, features in test builds can change, and availability may depend on local recording laws (some regions may announce the recording to the other caller).",
+      "sources": [
+        {
+          "name": "SamMobile",
+          "url": "https://www.sammobile.com/news/one-ui-9-5-record-calls-meet-telegram-whatsapp/"
+        },
+        {
+          "name": "Android Authority",
+          "url": "https://www.androidauthority.com/one-ui-9-5-call-record-third-party-apps-leak-3733329/"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-10",
+      "updated": "2026-11-10",
+      "id": "oneplus-17-widescreen",
+      "title": "OnePlus 17 gets a wide-screen display",
+      "rating": "Rumor",
+      "categories": [
+        "android"
+      ],
+      "expected": "Around October 2027 (OnePlus's usual timing)",
+      "claim": "The OnePlus 17 will be one of five wide-screen flagship phones launching in 2027, with a wider (roughly 16:9 or 16:10) display aimed at gaming.",
+      "why": "From Weibo tipster Smart Pikachu, relayed by GSMArena. It fits a run of similar reports about Oppo, vivo and Xiaomi wide-screen phones, but there are no specs and OnePlus has said nothing. The aspect-ratio figures come from the reports about the other brands.",
+      "sources": [
+        {
+          "name": "GSMArena",
+          "url": "https://www.gsmarena.com/oneplus_17_could_debut_with_a_widescreen_display_rumor_claims-news-75417.php"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-10",
+      "updated": "2026-11-10",
+      "id": "xiaomi-18-pro-india-december",
+      "title": "Xiaomi 18 Pro reaches India in December, but the 18 Pro Max skips India",
+      "rating": "Rumor",
+      "categories": [
+        "android"
+      ],
+      "expected": "December 2026 (India, leak)",
+      "claim": "After the Nov 17 global launch, only the Xiaomi 18 Pro comes to India, in December; the 18 Pro Max will not be sold there. The same tipster lists Xiaomi 18T specs (Dimensity 8600, 1.5K 165-185Hz OLED, IP69, 200MP main camera).",
+      "why": "From a single tipster on X, relayed by GSMArena. It fits earlier reports that India may get only the 18 Pro, but Xiaomi has not announced Indian plans. The 18T specs have no timing; the 17T launched in May.",
+      "sources": [
+        {
+          "name": "GSMArena",
+          "url": "https://www.gsmarena.com/xiaomi_18_pro_india_launch_month_leaks_along_with_xiaomi_18t_specs-news-75414.php"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-10",
+      "updated": "2026-11-10",
+      "id": "vivo-x500-india-prices",
+      "title": "vivo X500 series costs INR 119,999-229,999 in India, launching late November",
+      "rating": "Rumor",
+      "categories": [
+        "android"
+      ],
+      "expected": "Late November 2026 (India, rumored)",
+      "claim": "The vivo X500 (12/256GB) will cost INR 119,999, the X500 Pro INR 149,999 and the X500 Pro Max INR 159,999 (INR 179,999 for 512GB; INR 229,999 for a 'master set'), with a launch toward the end of November.",
+      "why": "A tipster on X calls these 'tentative' prices; GSMArena relays them. The phones are already out in China and globally, so an Indian launch is very likely, but vivo has not confirmed the date or prices.",
+      "sources": [
+        {
+          "name": "GSMArena",
+          "url": "https://www.gsmarena.com/vivo_x500_x500_pro_and_x500_pro_max_prices_for_india_leak-news-75413.php"
         }
       ]
     }

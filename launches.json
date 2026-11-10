@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09",
+  "updated": "2026-11-10",
   "items": [
     {
       "id": "gtc-berlin-2026",
@@ -1026,8 +1026,12 @@
       "status": "Confirmed",
       "price": "",
       "summary": "Rockstar's GTA VI launches Nov 19 on PS5 and Xbox Series X|S; pre-orders opened June 25.",
-      "details": "Digital preloading is reported to start Nov 12. There is no PC version announced for launch.",
+      "details": "Digital preloading began on Nov 10 (TechRadar), a little earlier than the Nov 12 date reported before; the download is about 212GB. There is no PC version announced for launch.",
       "sources": [
+        {
+          "name": "TechRadar (preload live)",
+          "url": "https://www.techradar.com/computing/wi-fi-broadband/gta-6-preloads-are-live-theres-still-time-to-upgrade-your-nbn-before-launch-day"
+        },
         {
           "name": "Rockstar Games",
           "url": "https://www.rockstargames.com/newswire/article/ak3ak31a49a221/grand-theft-auto-vi-is-now-set-to-launch-november-19-2026"
@@ -3032,7 +3036,7 @@
       "status": "Confirmed",
       "price": "",
       "summary": "Xiaomi takes its 18 Pro and 18 Pro Max global at a Paris event on Nov 17, the first time its Pro models leave China.",
-      "details": "The Xiaomi 18 Pro and 18 Pro Max launched in China on Sept 23 with dual 200MP Leica cameras, rear displays and Snapdragon 8 Elite Gen 6 chips (Extreme Gen 6 on the Pro Max). On Nov 2 Xiaomi said on X that the series is 'going global this November', without a date or prices. Last year only the standard Xiaomi 17 left China. European retailer listings point to smaller batteries and prices from about EUR 1,399; see the rumor tracker. Reports suggest India may get only the 18 Pro. Update Nov 3: Xiaomi president Lu Weibing repeated the November timing on Weibo; still no date, markets or prices. Update Nov 9: Xiaomi confirmed the global launch for Nov 17 at an event in Paris at 13:00 UTC, streamed on YouTube and X, promising 'more surprises'. Only the two Pro models are named, so a vanilla 18 or an Ultra is not expected; GSMArena suggests the China-only Xiaomi Watch S5 41mm could appear. Global prices and battery sizes are still unannounced.",
+      "details": "The Xiaomi 18 Pro and 18 Pro Max launched in China on Sept 23 with dual 200MP Leica cameras, rear displays and Snapdragon 8 Elite Gen 6 chips (Extreme Gen 6 on the Pro Max). On Nov 2 Xiaomi said on X that the series is 'going global this November', without a date or prices. Last year only the standard Xiaomi 17 left China. European retailer listings point to smaller batteries and prices from about EUR 1,399; see the rumor tracker. Reports suggest India may get only the 18 Pro. Update Nov 3: Xiaomi president Lu Weibing repeated the November timing on Weibo; still no date, markets or prices. Update Nov 9: Xiaomi confirmed the global launch for Nov 17 at an event in Paris at 13:00 UTC, streamed on YouTube and X, promising 'more surprises'. Only the two Pro models are named, so a vanilla 18 or an Ultra is not expected; GSMArena suggests the China-only Xiaomi Watch S5 41mm could appear. Global prices and battery sizes are still unannounced. Update Nov 10: a tipster on X (via GSMArena) says India gets only the 18 Pro, in December, and not the Pro Max; see the rumor tracker.",
       "sources": [
         {
           "name": "GSMArena (Nov 17 date)",
@@ -3489,8 +3493,12 @@
       "status": "Confirmed",
       "price": "TBD",
       "summary": "Samsung's audio-first Android XR Intelligent Eyewear opens US pre-orders on Nov 12 through Warby Parker, with pricing still TBA.",
-      "details": "Developed with Google; frames from Warby Parker and Gentle Monster. Android Authority and SamMobile say pre-orders open Nov 12, when the full collection, lens options and pricing are due. Shipping has been tipped for mid-December. Audio-first design first; display-integrated Samsung models come later. Privacy features include a recording LED that blocks capture if covered. Update Nov 6: Gentle Monster posted on X that its first Intelligent Eyewear collection 'launches this December', alongside a Joaquin Phoenix short film due mid-November. That is the first official December release window; Warby Parker has not yet given its ship date.",
+      "details": "Developed with Google; frames from Warby Parker and Gentle Monster. Android Authority and SamMobile say pre-orders open Nov 12, when the full collection, lens options and pricing are due. Shipping has been tipped for mid-December. Audio-first design first; display-integrated Samsung models come later. Privacy features include a recording LED that blocks capture if covered. Update Nov 6: Gentle Monster posted on X that its first Intelligent Eyewear collection 'launches this December', alongside a Joaquin Phoenix short film due mid-November. That is the first official December release window; Warby Parker has not yet given its ship date. Update Nov 10: SamMobile found pairing support and frame images for Gentle Monster and Warby Parker models (codename Jinju, model numbers SM-0200J to SM-0205J and SM-0200P to SM-0204P) in the latest Galaxy Wearable app, another sign the Nov 12 pre-orders are on track.",
       "sources": [
+        {
+          "name": "SamMobile (Wearable app)",
+          "url": "https://www.sammobile.com/news/samsung-readies-wearable-app-smart-glasses-launch/"
+        },
         {
           "name": "9to5Google (Gentle Monster: December)",
           "url": "https://9to5google.com/2026/11/06/android-xr-glasses-release-date-window-confirmed/"
@@ -3622,13 +3630,25 @@
       ],
       "type": "Car",
       "date": "2026-11-10",
-      "date_label": "Nov 10, 2026 (global debut)",
+      "date_label": "Nov 10, 2026 (global debut held; China launch by end of 2026)",
       "precision": "day",
-      "status": "Confirmed",
+      "status": "Released",
       "price": "",
-      "summary": "Lynk & Co debuts the 900L, a seven-seat plug-in hybrid version of its flagship 900 SUV, on Nov 10.",
-      "details": "Lynk & Co announced the Nov 10 global debut on Weibo on Nov 6, without prices or an on-sale date. The 900L is 5,280 mm long, 1,999 mm wide and 1,810 mm tall on a 3,170 mm wheelbase (40 mm longer than the current 900), with roof LiDAR for driver assistance and 21-inch wheels. It is a plug-in hybrid, not a pure EV: a 2.0T engine rated at 160 kW, a 225 km/h top speed and ternary lithium cells from a CATL-Geely joint venture, on Geely's SPA Evo architecture. It joins the six-seat 900 (from 309,900 yuan) and the five-seat 900 (from 299,800 yuan).",
+      "summary": "Lynk & Co held the global debut of the 900L, a seven-seat plug-in hybrid version of its flagship 900 SUV, on Nov 10; prices come later.",
+      "details": "Lynk & Co livestreamed the 900L global debut on its Weibo account on Nov 10 (19:00 Beijing time). Prices and an on-sale date were not part of the pre-event announcements, and we had not seen confirmed pre-sale prices when we checked; CarNewsChina expects the China market launch by the end of 2026. The 900L is 5,280 mm long, 1,999 mm wide and 1,810 mm tall on a 3,170 mm wheelbase (40 mm longer than the current 900), with roof LiDAR for driver assistance and 21-inch wheels. Official interior images show a 2+2+3 seven-seat layout with two second-row captain's chairs, 30-inch front and rear screens and a 31-speaker Harman Kardon system. It is a plug-in hybrid, not a pure EV: a 2.0T engine rated at 160 kW, a 225 km/h top speed and ternary lithium cells from a CATL-Geely joint venture, on Geely's SPA Evo architecture. It joins the six-seat 900 (from 309,900 yuan) and the five-seat 900 (from 299,800 yuan).",
       "sources": [
+        {
+          "name": "Lynk & Co Weibo (via Sina)",
+          "url": "https://www.sina.cn/media/6031625275"
+        },
+        {
+          "name": "CNMO via ifeng (interior)",
+          "url": "https://feng.ifeng.com/c/8xuYj1FNLda"
+        },
+        {
+          "name": "CarNewsChina",
+          "url": "https://carnewschina.com/2026/11/06/lynk-co-900l-flagship-suv-debuts-november-10-with-5280-mm-body-and-range-rover-like-styling/"
+        },
         {
           "name": "CnEVPost",
           "url": "https://cnevpost.com/2026/11/06/lynk-co-debut-900l-nov-10/"
@@ -3676,6 +3696,156 @@
         {
           "name": "CnEVPost",
           "url": "https://cnevpost.com/2026/11/09/byd-19-million-nev-production-fang-cheng-bao-tai-9-reservations/"
+        }
+      ]
+    },
+    {
+      "id": "claude-fable-5-2",
+      "name": "Claude Fable 5.2 and Mythos 5.2",
+      "brand": "Anthropic",
+      "categories": [
+        "ai"
+      ],
+      "type": "AI model",
+      "date": "2026-11-09",
+      "date_label": "Nov 9, 2026",
+      "precision": "day",
+      "status": "Released",
+      "price": "$8 / $40 per million input / output tokens",
+      "summary": "Anthropic released Claude Fable 5.2 for all eligible users and Mythos 5.2 for authorized organizations, faster and cheaper than the 5.1 models.",
+      "details": "Fable 5.2 and Mythos 5.2 share one underlying model with different guardrails: Fable has stronger cybersecurity and biology safeguards and is broadly available (Claude apps, AWS, Google Cloud and Microsoft Azure), while Mythos is limited to authorized organizations. Anthropic says both generate up to 30% faster than 5.1 and cost $8 per million input tokens and $40 per million output tokens. In Anthropic's own tests Fable 5.2 scored 49.1% on FrontierCode 2.0 at XHigh effort (Opus 5.5: 45.5%, GPT-6 Astra: 42.8%) and more than doubled Fable 5.1 and GPT-6 Astra on its internal RoboDojo Sim robotics benchmark. Anthropic also reports less misleading behavior and fewer sandbox-escape attempts by Mythos 5.2 in deliberately weakened test setups (about 3.1% of scenarios vs 21% for Mythos 5.1). These are company figures.",
+      "sources": [
+        {
+          "name": "Anthropic (official)",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+        },
+        {
+          "name": "Android Authority",
+          "url": "https://www.androidauthority.com/anthropic-fable-5-2-mythos-5-2-released-3733161/"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2"
+        }
+      ]
+    },
+    {
+      "id": "ring-drone-cam",
+      "name": "Ring Drone Cam",
+      "brand": "Amazon Ring",
+      "categories": [
+        "ai"
+      ],
+      "type": "Gadget",
+      "date": "2027-01-27",
+      "date_label": "Ships Jan 27, 2027 (US)",
+      "precision": "day",
+      "status": "Confirmed",
+      "price": "$249.99",
+      "summary": "Ring's indoor security drone finally launches at $249.99, shipping Jan 27, 2027, with cloud-based 'AI Pilot' navigation.",
+      "details": "Announced Nov 10 as the first product, with the Rover Cam, in Amazon's new US-only Ring Robotics line. The 165-gram indoor quadcopter has a 2K front camera (148-degree field of view) with LED spotlights and a 1080p downward camera. It can fly scheduled patrols, respond to Ring sensors (motion, door, leak, alarm), or go to a spot you tap on the upcoming Alexa Home Map. Flight time is short: Engadget reports Ring quoting about 8-10 minutes, The Verge 5-8 minutes, and each minute of flight takes about 8 minutes of charging on the dock. Navigation ('AI Pilot') runs mostly in the cloud, so without Wi-Fi it can only land. The camera is covered when docked, and footage uses Ring's new TAKE encryption, which The Verge says rotates keys every five minutes and deletes Ring's copies after 24 hours. A Ring Protect plan is needed for video storage. Ring told The Verge it is still obtaining FCC certification, so the January date depends on that. The drone idea was first shown in 2020 as the Always Home Cam, which never shipped.",
+      "sources": [
+        {
+          "name": "Engadget",
+          "url": "https://www.engadget.com/2311630/amazon-finally-launches-the-250-ring-drone-cam-and-also-the-ring-rover-cam/"
+        },
+        {
+          "name": "The Verge (hands-on)",
+          "url": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/"
+        }
+      ]
+    },
+    {
+      "id": "ring-rover-cam",
+      "name": "Ring Rover Cam",
+      "brand": "Amazon Ring",
+      "categories": [
+        "ai"
+      ],
+      "type": "Gadget",
+      "date": "2026-12-16",
+      "date_label": "Ships Dec 16, 2026 (US; pre-orders open)",
+      "precision": "day",
+      "status": "Confirmed",
+      "price": "$999.99",
+      "summary": "Ring's $999.99 Rover Cam, a security robot built on Amazon's Astro, arrives Dec 16 for small and medium businesses.",
+      "details": "Announced Nov 10 with the Ring Drone Cam. The Rover Cam looks almost identical to Amazon Astro (whose $2,350 business version was discontinued in 2024) and targets small and medium businesses. It has a 4K camera on a periscope that extends up to 4 feet, a siren, a light tower, a speaker and microphone, scheduled or event-triggered patrols, and person-motion detection while docked. Pre-orders are open and The Verge says shipping starts Dec 16, the same day Engadget says the updated Alexa Home Map software arrives. A Ring Protect plan is needed for video storage.",
+      "sources": [
+        {
+          "name": "Engadget",
+          "url": "https://www.engadget.com/2311630/amazon-finally-launches-the-250-ring-drone-cam-and-also-the-ring-rover-cam/"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1030282/amazon-ring-robotics-rover-cam-4k-security-business"
+        },
+        {
+          "name": "The Verge (hands-on)",
+          "url": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot"
+        }
+      ]
+    },
+    {
+      "id": "huawei-matebook-fold-s",
+      "name": "Huawei MateBook Fold S (China)",
+      "brand": "Huawei",
+      "categories": [
+        "chips"
+      ],
+      "type": "Laptop",
+      "date": "2026-11-14",
+      "date_label": "Pre-orders Nov 14, 2026 (China, 10:08 local time)",
+      "precision": "day",
+      "status": "Confirmed",
+      "price": "",
+      "summary": "Huawei's smaller foldable HarmonyOS PC, the 14.7-inch MateBook Fold S, opens China pre-orders on Nov 14 and adds a rear mini display.",
+      "details": "Huawei teased the MateBook Fold S on Nov 10 as the third model in its foldable-PC line after the 18-inch MateBook Fold Ultimate and its 2026 edition. It has a 14.7-inch folding screen and a square 'Live Mini Display' on the back that users can personalize and that works while folded. Colors are Cloud Blue, Sky White and Midnight Black. Huawei has not given specs, chip or price yet.",
+      "sources": [
+        {
+          "name": "GSMArena",
+          "url": "https://www.gsmarena.com/huawei_teases_new_matebook_fold_laptop_with_cover_screen-news-75420.php"
+        },
+        {
+          "name": "IT Home (Chinese)",
+          "url": "https://www.ithome.com/1/024/618.htm"
+        },
+        {
+          "name": "Gizmochina",
+          "url": "https://www.gizmochina.com/2026/11/10/huawei-matebook-fold-s-smaller-foldable-pc-14-7-inch-richard-yu-teases/"
+        }
+      ]
+    },
+    {
+      "id": "honor-700-series",
+      "name": "Honor 700, 700 Pro and 700S (China)",
+      "brand": "Honor",
+      "categories": [
+        "android"
+      ],
+      "type": "Phone",
+      "date": "2026-11-13",
+      "date_label": "Nov 13, 2026 (China launch)",
+      "precision": "day",
+      "status": "Confirmed",
+      "price": "",
+      "summary": "Honor launches the 700, 700 Pro and 700S in China on Nov 13, each with a small rear display in the camera island.",
+      "details": "Honor set the date in a Weibo teaser ('see you on November 13'); reservations opened Nov 6 with a 365-day replacement guarantee and a year of front and rear screen insurance. All three models have a built-in rear screen that can show a clock, animations and a selfie preview. Chips, cameras and battery sizes are still from leaks (reports point to Snapdragon 8s Gen 4 for the 700, Snapdragon 8 Gen 5 for the Pro and Snapdragon 7 Gen 4 for the 700S); prices come at the event. See the rumor tracker for the leaked specs.",
+      "sources": [
+        {
+          "name": "Notebookcheck",
+          "url": "https://www.notebookcheck.net/Honor-700-series-launch-date-confirmed-and-all-three-get-a-rear-screen.1445629.0.html"
+        },
+        {
+          "name": "Huawei Central",
+          "url": "https://www.huaweicentral.com/honor-700-series-launch-scheduled-for-november-13/"
+        },
+        {
+          "name": "Beebom",
+          "url": "https://gadgets.beebom.com/news/honor-700-series-launch-date-in-china-confirmed"
         }
       ]
     }

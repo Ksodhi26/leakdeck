@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "items": [
     {
       "id": "gtc-berlin-2026",
@@ -1024,13 +1024,25 @@
       "date_label": "Nov 19, 2026",
       "precision": "day",
       "status": "Confirmed",
-      "price": "",
+      "price": "$80 Standard, $100 Ultimate",
       "summary": "Rockstar's GTA VI launches Nov 19 on PS5 and Xbox Series X|S; pre-orders opened June 25.",
-      "details": "Digital preloading began on Nov 10 (TechRadar), a little earlier than the Nov 12 date reported before; the download is about 212GB. There is no PC version announced for launch.",
+      "details": "Digital preloading began on Nov 10 (TechRadar), a little earlier than the Nov 12 date reported before; the download is about 212GB. There is no PC version announced for launch. Rockstar says the game targets 30 fps on every console, with PSSR upscaling and ray-traced shadows on PS5 Pro (The Verge). Code-in-box retail copies arrive from Nov 12, and Microsoft says GTA VI streams on Xbox Cloud Gaming from day one (1 a.m. ET, Nov 19), including on Xbox One, using Series S settings.",
       "sources": [
         {
           "name": "TechRadar (preload live)",
           "url": "https://www.techradar.com/computing/wi-fi-broadband/gta-6-preloads-are-live-theres-still-time-to-upgrade-your-nbn-before-launch-day"
+        },
+        {
+          "name": "The Verge (30 fps target)",
+          "url": "https://www.theverge.com/games/1030749/rockstar-gta-6-30fps-ps5-pro-pssr-ray-tracing"
+        },
+        {
+          "name": "GSMArena (Xbox Cloud day one)",
+          "url": "https://www.gsmarena.com/gta_vi_will_be_available_on_xbox_cloud_gaming_from_day_one-news-75429.php"
+        },
+        {
+          "name": "Engadget (preload, price)",
+          "url": "https://www.engadget.com/2311841/gta-6-now-available-for-preload/"
         },
         {
           "name": "Rockstar Games",
@@ -2674,20 +2686,24 @@
     },
     {
       "id": "gemini-4-carbon",
-      "name": "Gemini 4 Carbon (limited access)",
+      "name": "Gemini 4 Carbon",
       "brand": "Google",
       "categories": [
         "ai"
       ],
       "type": "AI model",
       "date": "2026-10-28",
-      "date_label": "Oct 28, 2026 (cyber defenders first; wider release not dated)",
+      "date_label": "Oct 28, 2026 (cyber defenders); wider release Nov 10",
       "precision": "day",
       "status": "Released",
       "price": "$2/$10 per million input/output tokens (introductory), later $4/$20",
-      "summary": "Google announced Gemini 4 Carbon, its new top model for coding and cybersecurity, on Oct 28, but only selected cyber defenders can use it so far.",
-      "details": "Google says Carbon ranks first on the Artificial Analysis Intelligence Index v5.0 (59) and leads on vulnerability-finding, exploitation and patching benchmarks. Access starts this week with a subset of cyber defenders and expands through Google's Fairwind Program before reaching developers, businesses and consumers 'as soon as possible'; no date is set. Its introductory price matches Argon at $2 per million input tokens and $10 per million output tokens, rising to $4 and $20 later. Argon went from defenders-only to public in 13 days, but Google has not promised the same for Carbon.",
+      "summary": "Google's top Gemini 4 model, announced Oct 28 for cyber defenders, reached the Gemini app (AI Ultra) and the paid Gemini API on Nov 10.",
+      "details": "Google says Carbon ranks first on the Artificial Analysis Intelligence Index v5.0 (59) and leads on vulnerability-finding, exploitation and patching benchmarks. Access starts this week with a subset of cyber defenders and expands through Google's Fairwind Program before reaching developers, businesses and consumers 'as soon as possible'; no date is set. Its introductory price matches Argon at $2 per million input tokens and $10 per million output tokens, rising to $4 and $20 later. Argon went from defenders-only to public in 13 days, but Google has not promised the same for Carbon. Update Nov 10: Carbon is now in the Gemini app, AI Mode and Antigravity for AI Ultra subscribers, and on the Gemini API paid tier in AI Studio and Android Studio; Argon stays available for AI Pro and up, and Gemini 3.1 Pro was removed from the app. The introductory $2/$10 price runs until Nov 30, then $4/$20 (9to5Google).",
       "sources": [
+        {
+          "name": "9to5Google (Nov 10 rollout)",
+          "url": "https://9to5google.com/2026/11/10/gemini-app-4-carbon/"
+        },
         {
           "name": "Google blog",
           "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
@@ -3635,8 +3651,12 @@
       "status": "Released",
       "price": "",
       "summary": "Lynk & Co held the global debut of the 900L, a seven-seat plug-in hybrid version of its flagship 900 SUV, on Nov 10; prices come later.",
-      "details": "Lynk & Co livestreamed the 900L global debut on its Weibo account on Nov 10 (19:00 Beijing time). Prices and an on-sale date were not part of the pre-event announcements, and we had not seen confirmed pre-sale prices when we checked; CarNewsChina expects the China market launch by the end of 2026. The 900L is 5,280 mm long, 1,999 mm wide and 1,810 mm tall on a 3,170 mm wheelbase (40 mm longer than the current 900), with roof LiDAR for driver assistance and 21-inch wheels. Official interior images show a 2+2+3 seven-seat layout with two second-row captain's chairs, 30-inch front and rear screens and a 31-speaker Harman Kardon system. It is a plug-in hybrid, not a pure EV: a 2.0T engine rated at 160 kW, a 225 km/h top speed and ternary lithium cells from a CATL-Geely joint venture, on Geely's SPA Evo architecture. It joins the six-seat 900 (from 309,900 yuan) and the five-seat 900 (from 299,800 yuan).",
+      "details": "Lynk & Co livestreamed the 900L global debut on its Weibo account on Nov 10 (19:00 Beijing time). Prices and an on-sale date were not part of the pre-event announcements, and we had not seen confirmed pre-sale prices when we checked; CarNewsChina expects the China market launch by the end of 2026. The 900L is 5,280 mm long, 1,999 mm wide and 1,810 mm tall on a 3,170 mm wheelbase (40 mm longer than the current 900), with roof LiDAR for driver assistance and 21-inch wheels. Official interior images show a 2+2+3 seven-seat layout with two second-row captain's chairs, 30-inch front and rear screens and a 31-speaker Harman Kardon system. It is a plug-in hybrid, not a pure EV: a 2.0T engine rated at 160 kW, a 225 km/h top speed and ternary lithium cells from a CATL-Geely joint venture, on Geely's SPA Evo architecture. It joins the six-seat 900 (from 309,900 yuan) and the five-seat 900 (from 299,800 yuan). Update Nov 11: CnEVPost's English report on the debut confirms 55 kWh and 70 kWh battery options and a 2+2+3 layout, and says Lynk & Co has still not announced pricing; the official China launch is due before the end of 2026.",
       "sources": [
+        {
+          "name": "CnEVPost (Nov 11, debut)",
+          "url": "https://cnevpost.com/2026/11/11/lynk-co-unveils-7-seat-900l-suv/"
+        },
         {
           "name": "Lynk & Co Weibo (via Sina)",
           "url": "https://www.sina.cn/media/6031625275"
@@ -3833,11 +3853,15 @@
       "status": "Confirmed",
       "price": "",
       "summary": "Honor launches the 700, 700 Pro and 700S in China on Nov 13, each with a small rear display in the camera island.",
-      "details": "Honor set the date in a Weibo teaser ('see you on November 13'); reservations opened Nov 6 with a 365-day replacement guarantee and a year of front and rear screen insurance. All three models have a built-in rear screen that can show a clock, animations and a selfie preview. Chips, cameras and battery sizes are still from leaks (reports point to Snapdragon 8s Gen 4 for the 700, Snapdragon 8 Gen 5 for the Pro and Snapdragon 7 Gen 4 for the 700S); prices come at the event. See the rumor tracker for the leaked specs.",
+      "details": "Honor set the date in a Weibo teaser ('see you on November 13'); reservations opened Nov 6 with a 365-day replacement guarantee and a year of front and rear screen insurance. All three models have a built-in rear screen that can show a clock, animations and a selfie preview. Chips, cameras and battery sizes are still from leaks (reports point to Snapdragon 8s Gen 4 for the 700, Snapdragon 8 Gen 5 for the Pro and Snapdragon 7 Gen 4 for the 700S); prices come at the event. See the rumor tracker for the leaked specs. Update Nov 11: a device numbered FAP-AN00, most likely the 700 Pro, ran Geekbench 6 with a Snapdragon 8 Gen 5, 16GB of RAM and Android 17; Honor has listed 12/256GB, 12/512GB and 16/512GB configurations for the Pro (GSMArena).",
       "sources": [
         {
           "name": "Notebookcheck",
           "url": "https://www.notebookcheck.net/Honor-700-series-launch-date-confirmed-and-all-three-get-a-rear-screen.1445629.0.html"
+        },
+        {
+          "name": "GSMArena (Geekbench)",
+          "url": "https://www.gsmarena.com/honor_700_pro_may_have_just_run_geekbench_confirming_its_chipset-news-75440.php"
         },
         {
           "name": "Huawei Central",
@@ -3846,6 +3870,194 @@
         {
           "name": "Beebom",
           "url": "https://gadgets.beebom.com/news/honor-700-series-launch-date-in-china-confirmed"
+        }
+      ]
+    },
+    {
+      "id": "google-pixel-tag",
+      "name": "Google Pixel Tag",
+      "brand": "Google",
+      "categories": [
+        "android"
+      ],
+      "type": "Gadget",
+      "date": "2026-11-11",
+      "date_label": "Nov 11, 2026",
+      "precision": "day",
+      "status": "Released",
+      "price": "$29.99 (one), $99.99 (four-pack)",
+      "summary": "Google's first Find Hub tracker, shown in August with the Pixel 11, goes on sale Nov 11 for $29.99, or $99.99 for four.",
+      "details": "The Pixel Tag works with the Find Hub network of Android devices, has UWB and Bluetooth Channel Sounding for precise nearby finding, an IP67 rating and a replaceable CR2032 battery Google rates at more than a year. A rear button can ring your phone, and 9to5Google found it also has NFC for tap-to-open settings. Google sells Bellroy cases rather than its own.",
+      "sources": [
+        {
+          "name": "Google blog (November Pixel Drop)",
+          "url": "https://blog.google/products-and-platforms/devices/pixel/november-2026-pixel-drop/"
+        },
+        {
+          "name": "Android Authority",
+          "url": "https://www.androidauthority.com/google-pixel-tag-released-3733213/"
+        },
+        {
+          "name": "9to5Google (tidbits)",
+          "url": "https://9to5google.com/2026/11/10/google-pixel-tag-tidbits/"
+        }
+      ]
+    },
+    {
+      "id": "pixel-drop-november-2026",
+      "name": "November 2026 Pixel Drop and Android 17 QPR2",
+      "brand": "Google",
+      "categories": [
+        "android",
+        "ai"
+      ],
+      "type": "Software",
+      "date": "2026-11-10",
+      "date_label": "Nov 10, 2026 (rolling out over several weeks)",
+      "precision": "day",
+      "status": "Released",
+      "price": "Free",
+      "summary": "Google's November Pixel Drop arrives with Android 17 QPR2 a month earlier than the usual December slot, bringing Gemini Intelligence to the Pixel 10.",
+      "details": "The drop brings Gemini Intelligence (Rambler voice typing, proactive suggestions, multi-step app tasks) to the Pixel 10 family except the 10a, AI-made custom widgets, a more conversational Call Screen on the Pixel 11 in the US, HiLight alerts for Google Messages and new icon styles. Android 17 QPR2 adds system color palettes, new status bar options, Voice broadcast for Auracast and anti-scam protections. 9to5Google lists support from the Pixel 6a through the Pixel 11 series; updates roll out over the coming weeks.",
+      "sources": [
+        {
+          "name": "Google blog",
+          "url": "https://blog.google/products-and-platforms/devices/pixel/november-2026-pixel-drop/"
+        },
+        {
+          "name": "Android Authority (QPR2 changes)",
+          "url": "https://www.androidauthority.com/android-17-qpr2-stable-3733645/"
+        },
+        {
+          "name": "9to5Google (QPR2 rollout)",
+          "url": "https://9to5google.com/2026/11/10/android-17-qpr2-pixel/"
+        }
+      ]
+    },
+    {
+      "id": "ernie-5-5-flash-preview",
+      "name": "Baidu ERNIE 5.5 Flash Preview",
+      "brand": "Baidu",
+      "categories": [
+        "ai"
+      ],
+      "type": "AI model",
+      "date": "2026-11-11",
+      "date_label": "Nov 11, 2026 (API; open weights promised)",
+      "precision": "day",
+      "status": "Released",
+      "price": "",
+      "summary": "Baidu released ERNIE 5.5 Flash Preview, a 280B-parameter mixture-of-experts model with 14B active parameters and a 1M-token context.",
+      "details": "Baidu calls it an intermediate post-training checkpoint aimed at coding, 3D modeling, knowledge work and content creation, and warns some capabilities may lag until the final release. The API is live on Baidu's Qianfan platform; Baidu says the weights will be open-sourced under Apache 2.0 'soon', with no date.",
+      "sources": [
+        {
+          "name": "Baidu ERNIE blog",
+          "url": "https://ernie.baidu.com/release/ernie-5-5-flash-preview/"
+        }
+      ]
+    },
+    {
+      "id": "minimax-h3-image",
+      "name": "MiniMax H3-Image (open weights)",
+      "brand": "MiniMax",
+      "categories": [
+        "ai"
+      ],
+      "type": "AI model",
+      "date": "2026-11-11",
+      "date_label": "Nov 11, 2026",
+      "precision": "day",
+      "status": "Released",
+      "price": "",
+      "summary": "MiniMax published open weights for H3-Image, a text-to-image and image-editing model it says renders 4K images in under 10 seconds.",
+      "details": "MiniMax says H3-Image can take up to 16 reference images per request and produce 4,096 x 4,096 images in under 10 seconds (a company claim, not independently tested). The weights are on Hugging Face and the model is also offered through MiniMax's API.",
+      "sources": [
+        {
+          "name": "TechNode",
+          "url": "https://technode.com/2026/11/11/minimax-releases-h3-image-weights-says-model-can-generate-4k-images-in-under-10-seconds/"
+        }
+      ]
+    },
+    {
+      "id": "microsoft-auto-sr-xbox-ally",
+      "name": "Microsoft Auto SR for ROG Xbox Ally X",
+      "brand": "Microsoft",
+      "categories": [
+        "gaming",
+        "chips"
+      ],
+      "type": "Software",
+      "date": "2026-11-11",
+      "date_label": "Nov 11, 2026",
+      "precision": "day",
+      "status": "Released",
+      "price": "Free",
+      "summary": "Microsoft's NPU-based Automatic Super Resolution upscaler left preview on the ROG Xbox Ally X and now works in handheld mode too.",
+      "details": "The official Auto SR rolls out to the ROG Xbox Ally X, the ROG Xbox Ally X20 and select AMD Ryzen Copilot+ PCs. Unlike the preview, it works undocked and with games running at 1080p without lowering the resolution first. A 'Performance Mode' up to 120 fps and HDR support are coming in later Windows updates (Engadget).",
+      "sources": [
+        {
+          "name": "Engadget",
+          "url": "https://www.engadget.com/2313202/microsoft-automatic-super-resolution-comes-to-rog-xbox-ally-x/"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling"
+        }
+      ]
+    },
+    {
+      "id": "vw-id-era-5x",
+      "name": "SAIC Volkswagen ID. ERA 5X (China)",
+      "brand": "SAIC Volkswagen",
+      "categories": [
+        "evs"
+      ],
+      "type": "Car",
+      "date": "2026-11-12",
+      "date_label": "Nov 12, 2026 (China launch)",
+      "precision": "day",
+      "status": "Confirmed",
+      "price": "",
+      "summary": "SAIC VW launches the ID. ERA 5X on Nov 12, the ID. ERA family's first all-electric SUV and VW's first car on its China Main Platform.",
+      "details": "Launch date from official information cited by Yiche and Autohome (via CnEVPost); pre-orders opened Sept 15. The five-seat compact SUV is 4,560 mm long on a 2,815 mm wheelbase, with a 155 kW motor and CATL LFP packs of 45.8 kWh and 58.5 kWh for 415 km and 520 km of range. It uses the CEA electronic architecture co-developed with Xpeng, and higher trims get LiDAR. Prices come at launch.",
+      "sources": [
+        {
+          "name": "CnEVPost",
+          "url": "https://cnevpost.com/2026/11/02/saic-vw-to-launch-id-era-5x-nov-12/"
+        },
+        {
+          "name": "Autohome (Chinese)",
+          "url": "https://m.autohome.com.cn/news/202611/1318120.html"
+        }
+      ]
+    },
+    {
+      "id": "huawei-osta-launch",
+      "name": "Huawei OSTA sub-brand debut (China)",
+      "brand": "Huawei",
+      "categories": [
+        "android"
+      ],
+      "type": "Event",
+      "date": "2026-11-20",
+      "date_label": "Nov 20, 2026, 2:30 PM Beijing time",
+      "precision": "day",
+      "status": "Confirmed",
+      "price": "",
+      "summary": "Huawei's Richard Yu confirmed the new OSTA (Xingmang) phone sub-brand debuts Nov 20, at an event that also covers the Enjoy V8 and SAIC Z7T.",
+      "details": "Yu announced the date on Weibo on Nov 11, and his posts now show the 'OSTA O1 Pro' device label. Huawei has not detailed the phones; the leaked O1 and O1 Pro specs are in the rumor tracker.",
+      "sources": [
+        {
+          "name": "Huawei Central",
+          "url": "https://www.huaweicentral.com/huawei-osta-sub-brand-will-launch-on-november-20/"
+        },
+        {
+          "name": "TechNode",
+          "url": "https://technode.com/2026/11/11/huawei-confirms-new-osta-smartphone-brand-ahead-of-november-20-debut/"
+        },
+        {
+          "name": "IT Home (Chinese)",
+          "url": "https://www.ithome.com/1/025/313.htm"
         }
       ]
     }

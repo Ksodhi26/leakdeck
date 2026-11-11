@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "scale": {
     "Confirmed": "Announced by the company or shown in an official source.",
     "Likely": "Multiple credible outlets or hard evidence (certifications, databases, supply chain), but no official word.",
@@ -87,22 +87,31 @@
     {
       "id": "android-17-qpr2-early",
       "title": "Android 17 QPR2 reaches Pixels in November instead of December",
-      "rating": "Shaky",
+      "rating": "Confirmed",
       "categories": [
         "android"
       ],
-      "status": "Active",
+      "status": "Resolved",
       "first_reported": "2026-11-06",
-      "updated": "2026-11-07",
-      "expected": "November 2026 (theory); December is the usual timing",
+      "updated": "2026-11-11",
+      "expected": "Released Nov 10, 2026",
       "claim": "Google skipped the usual first-Tuesday November Pixel patch because it is shipping Android 17 QPR2 early, in November.",
-      "why": "A Reddit theory relayed by Android Authority, based on security-bulletin tags ('17-qpr2-next:2026-11-01'), a large batch of Pixel driver changes and November-dated release-candidate builds on BetaWiki. That is circumstantial: Google has not confirmed anything, and Android 16 QPR2 shipped in December last year.",
+      "why": "A Reddit theory relayed by Android Authority, based on security-bulletin tags ('17-qpr2-next:2026-11-01'), a large batch of Pixel driver changes and November-dated release-candidate builds on BetaWiki. That is circumstantial: Google has not confirmed anything, and Android 16 QPR2 shipped in December last year. Update Nov 10: Google released Android 17 QPR2 to Pixels with the November Pixel Drop and security patch, a month earlier than Android 16 QPR2 last year.",
       "sources": [
+        {
+          "name": "9to5Google (QPR2 rollout)",
+          "url": "https://9to5google.com/2026/11/10/android-17-qpr2-pixel/"
+        },
+        {
+          "name": "Android Authority (QPR2 stable)",
+          "url": "https://www.androidauthority.com/android-17-qpr2-stable-3733645/"
+        },
         {
           "name": "Android Authority",
           "url": "https://www.androidauthority.com/google-pixel-android-17-qpr2-november-release-leak-3732519/"
         }
-      ]
+      ],
+      "outcome": "Correct. Android 17 QPR2 reached Pixel phones on Nov 10 alongside the November Pixel Drop, as the bulletin-tag theory predicted, instead of in December."
     },
     {
       "id": "oppo-find-n7-europe",
@@ -615,11 +624,15 @@
         "ai"
       ],
       "status": "Active",
-      "updated": "2026-10-17",
+      "updated": "2026-11-11",
       "expected": "June 2027 reveal; late 2027 ship",
       "claim": "Apple will show privacy-focused smart glasses at WWDC 2027 and ship them in late 2027.",
-      "why": "Reporting traces back mainly to Bloomberg's Mark Gurman, who also warns it could slip to late 2028 or 2029. The camera design decision was reported as not final.",
+      "why": "Reporting traces back mainly to Bloomberg's Mark Gurman, who also warns it could slip to late 2028 or 2029. The camera design decision was reported as not final. Update Nov 11: Chinese inspection-equipment maker Quick Intelligent Equipment told investors it is involved in 'Apple's AI glasses and new smart earphones projects' (Securities Times via MacRumors). That supports the glasses being in development but says nothing about a WWDC reveal or ship date.",
       "sources": [
+        {
+          "name": "MacRumors (supplier briefing)",
+          "url": "https://www.macrumors.com/2026/11/11/apple-smart-glasses-mentioned-by-suppliers/"
+        },
         {
           "name": "MacRumors",
           "url": "https://www.macrumors.com/2026/07/26/apple-smart-glasses-wwdc-2027-report/"
@@ -1078,17 +1091,25 @@
     {
       "id": "rtx-5080-24gb-q1-2027",
       "title": "NVIDIA swaps the RTX 5080 to 24GB in Q1 2027",
-      "rating": "Rumor",
+      "rating": "Shaky",
       "categories": [
         "chips",
         "gaming"
       ],
       "status": "Active",
-      "updated": "2026-11-04",
-      "expected": "Q1 2027 (reported; January now unlikely)",
+      "updated": "2026-11-11",
+      "expected": "Q1 2027 (reported), now reportedly canceled",
       "claim": "NVIDIA will release an RTX 5080 with 24GB of GDDR7 in early 2027, gradually replacing the 16GB model.",
-      "why": "Single-source report from Taiwan's BenchLife, relayed by VideoCardz and TechPowerUp. Board partners reportedly have only verbal guidance and no design documents yet, so timing is soft. Technically easy: 3GB memory chips on the same 256-bit bus. NVIDIA has not commented. Comes amid tight RTX 5090 supply, which NVIDIA says is constrained but not discontinued. Update Oct 30: Tom's Hardware found the RTX 5080 removed from Nvidia's US store after the RTX 5090, with street prices about 2.2x the $999 MSRP. That fits a product transition but is not proof of a 24GB model; Nvidia has not commented. Update Nov 3: BenchLife, the original source, now says the 'probability is extremely high' the 24GB card misses January, because board partners expected design details in October and still have none (relayed by VideoCardz and TechRadar). Q1 is still possible but the timing is softer, so it stays Rumor.",
+      "why": "Single-source report from Taiwan's BenchLife, relayed by VideoCardz and TechPowerUp. Board partners reportedly have only verbal guidance and no design documents yet, so timing is soft. Technically easy: 3GB memory chips on the same 256-bit bus. NVIDIA has not commented. Comes amid tight RTX 5090 supply, which NVIDIA says is constrained but not discontinued. Update Oct 30: Tom's Hardware found the RTX 5080 removed from Nvidia's US store after the RTX 5090, with street prices about 2.2x the $999 MSRP. That fits a product transition but is not proof of a 24GB model; Nvidia has not commented. Update Nov 3: BenchLife, the original source, now says the 'probability is extremely high' the 24GB card misses January, because board partners expected design details in October and still have none (relayed by VideoCardz and TechRadar). Q1 is still possible but the timing is softer, so it stays Rumor. Update Nov 11: Board Channels sources (via VideoCardz, Gazlog and leaker Harukaze) say NVIDIA told board partners the planned January 2027 China launch of the 24GB card is canceled because 3GB GDDR7 chips cost about three times as much as 2GB ones, and that the 16GB RTX 5080 stays in production. NVIDIA has neither confirmed nor denied either plan. With leaks now contradicting each other, this drops to Shaky; we will mark it Debunked if NVIDIA or partners confirm the cancellation.",
       "sources": [
+        {
+          "name": "VideoCardz (Nov 11, reported cancellation)",
+          "url": "https://videocardz.com/newz/nvidia-reportedly-cancels-geforce-rtx-5080-24gb-launch-brings-back-16gb-model-over-gddr7-costs"
+        },
+        {
+          "name": "PC Gamer (Nov 11)",
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/apparently-now-we-wont-see-a-24-gb-rtx-5080-which-is-probably-actually-good-for-our-wallets/"
+        },
         {
           "name": "TechRadar (Nov 3, delay)",
           "url": "https://www.techradar.com/computing/gpu/the-probability-is-extremely-high-that-nvidias-rumored-rtx-5080-super-has-been-delayed-and-with-gpu-prices-rocketing-upwards-the-future-looks-bleak"
@@ -1121,11 +1142,15 @@
         "android"
       ],
       "status": "Active",
-      "updated": "2026-11-03",
+      "updated": "2026-11-11",
       "expected": "Early 2027",
       "claim": "The Galaxy S27 Ultra will have 1.28mm screen bezels (vs 1.32mm on the S26 Ultra) and a 4.69mm camera bump, slightly thicker than today's.",
-      "why": "Measurements come from leaker Ice Universe, who has a good Samsung record, relayed by SamMobile. They fit separate case leaks showing a wide camera bar on the Pro and Ultra. Small, unverified numbers; Samsung has said nothing. Update Nov 3: Android Headlines built a dummy from leaked CAD renders showing a camera bar moved higher (leaving room for magnetic accessories), the S Pen slot kept and dimensions of 163.76 x 78.25 x 7.97 mm, slightly larger than the S26 Ultra. A dummy only reflects the renders it is built from.",
+      "why": "Measurements come from leaker Ice Universe, who has a good Samsung record, relayed by SamMobile. They fit separate case leaks showing a wide camera bar on the Pro and Ultra. Small, unverified numbers; Samsung has said nothing. Update Nov 3: Android Headlines built a dummy from leaked CAD renders showing a camera bar moved higher (leaving room for magnetic accessories), the S Pen slot kept and dimensions of 163.76 x 78.25 x 7.97 mm, slightly larger than the S26 Ultra. A dummy only reflects the renders it is built from. Update Nov 10: Sonny Dickson shared dummy units of the S27 Ultra, S27 Pro and S27+, with the wide camera bar on the Ultra and Pro and an S26+-style pill module on the S27+. Like the renders, dummies show design, not the bezel or bump measurements.",
       "sources": [
+        {
+          "name": "GSMArena (Sonny Dickson dummies)",
+          "url": "https://www.gsmarena.com/samsung_galaxy_s27_series_dummy_units_surface_in_new_leak-news-75426.php"
+        },
         {
           "name": "SamMobile (citing Ice Universe)",
           "url": "https://www.sammobile.com/news/galaxy-s27-ultra-slimmer-display-bezels-but-thicker-camera-housing/"
@@ -1386,11 +1411,15 @@
       ],
       "status": "Active",
       "first_reported": "2026-10-19",
-      "updated": "2026-11-02",
+      "updated": "2026-11-11",
       "expected": "Late Nov 2026 (leak)",
       "claim": "Huawei will launch the Mate X8 in China in November with Kirin 9050/9050 Pro chips, an 8.15-inch inner and 6.5-inch cover screen, a 50MP 1/1.28-inch variable-aperture main camera, a 50MP periscope and a battery above 6,000mAh, plus a privacy-display version.",
-      "why": "From Weibo tipster Bai Ze Guan Shan, relayed by Gizmochina and GSMArena. The timing fits Huawei's pattern (the Mate X7 launched in November 2025), but the tipster says the launch was planned alongside a new sub-brand whose timing is uncertain. Huawei has not announced anything. Update Oct 30: tipster Smart Pikachu (via Gizmochina) also lists the Mate X8 among Huawei's November products, with a Kirin 9050 Pro and a 50MP RYYB periscope. A second tipster agreeing lifts the timing a little, but Huawei has set no date; the Mate X7 launched Nov 26 last year. Update Nov 2: a Weibo tipster relayed by Huawei Central says Huawei's Star Shine sub-brand phones come in early November and the Mate X8 later in the month. Still no official date.",
+      "why": "From Weibo tipster Bai Ze Guan Shan, relayed by Gizmochina and GSMArena. The timing fits Huawei's pattern (the Mate X7 launched in November 2025), but the tipster says the launch was planned alongside a new sub-brand whose timing is uncertain. Huawei has not announced anything. Update Oct 30: tipster Smart Pikachu (via Gizmochina) also lists the Mate X8 among Huawei's November products, with a Kirin 9050 Pro and a 50MP RYYB periscope. A second tipster agreeing lifts the timing a little, but Huawei has set no date; the Mate X7 launched Nov 26 last year. Update Nov 2: a Weibo tipster relayed by Huawei Central says Huawei's Star Shine sub-brand phones come in early November and the Mate X8 later in the month. Still no official date. Update Nov 11: Weibo tipster RuryRen says the Mate X8 launches in mid-to-late November, probably after the 20th, with the Kirin 9050 Pro, 16GB of RAM, storage up to 2TB and HarmonyOS 7. Huawei has now dated other November events (MateBook Fold S pre-sale Nov 14, OSTA Nov 20) but still not the Mate X8.",
       "sources": [
+        {
+          "name": "Huawei Central (Nov 11)",
+          "url": "https://www.huaweicentral.com/huawei-mate-x8-to-debut-in-late-november-with-16gb-ram/"
+        },
         {
           "name": "Huawei Central (later in November)",
           "url": "https://www.huaweicentral.com/huawei-sub-brand-phone-series-coming-next-month-mate-x8-to-launch-later/"
@@ -1704,11 +1733,15 @@
       ],
       "status": "Active",
       "first_reported": "2026-10-21",
-      "updated": "2026-11-10",
+      "updated": "2026-11-11",
       "expected": "Nov 13, 2026 (China, official)",
       "claim": "Honor will launch three Honor 700 models in China in November; every model has a built-in rear display, and the 700 Pro adds a stronger camera setup around a roughly 9,000mAh battery class.",
-      "why": "From Weibo tipsters relayed by GSMArena: one says the event is next month and the series has three models; Digital Chat Station has repeated the 200MP camera and rear screen since August. The timing fits Honor's six-month number-series cadence (the 600 launched in May), but Honor has announced nothing. On Oct 24 Digital Chat Station added details he says come from an engineering prototype (codename 'Flora'): a roughly 9,000mAh battery, a 50MP periscope on the Pro and four test colors, while calling the November timing tentative. More detail from the same tipster, so it stays a Rumor. Update Oct 28-Nov 1: two Honor 700 models (FAS-AN00 and FAA-AN00, thought to be the 700 and 700 Pro) passed China's 3C certification, with a tipster saying a third is pending, which usually means a launch within weeks. Tipster Dingjiao Shuma (via Kuai Keji, Oct 31) says the series launches in early November with actress Ju Jingyi as spokesperson, a Snapdragon chip, a periscope and support for a 200mm teleconverter. Certification plus several tipsters agreeing lifts the November timing to Likely; the 9,000mAh battery and exact specs still rest mainly on Digital Chat Station, and Honor has not announced a date. Update Nov 3: Honor CMO Guan Haitao officially announced the Honor 700 series on Weibo, confirmed the 'Flora' codename and said it debuts 'in winter', without a date. Tipster Wangzai Baishitong says the three models (700, 700 Pro and a Vitality Edition) launch this month. The series is now official; the November date and specs are still unconfirmed, so it stays Likely. Update Nov 3: Honor's global CMO Guan Haitao officially announced the Honor 700 series (codename Flora) for a 'winter' debut, and Honor named actress Ju Jingyi as ambassador. A tipster says three models (700, 700 Pro, and a Vitality Edition) are 3C certified and launch this month. Honor still has not given a date, so the November timing stays Likely. Update Nov 6: Honor officially revealed the Honor 700, 700 Pro and 700S with a rear display across the lineup and opened multi-channel pre-orders in China (colors Cold White, Clear Sky, Blue Tone, Pink Mist; memory configs listed on deposit pages). A launch-event date and final prices are still TBA, so the product itself is Confirmed while the exact on-sale day remains open. Camera, battery and chipset figures are still mostly tipster-led. Update Nov 9: a new Honor teaser shows heart-rate and blood-oxygen readings on the rear screen (GSMArena); Honor has not explicitly confirmed health sensing, and Digital Chat Station says the rear display also works as a selfie viewfinder and for notifications and mini games. Launch date still TBA. Update Nov 10: Honor set the launch for Nov 13 in a Weibo teaser (Notebookcheck, Huawei Central). The November timing and rear screens are now official; the camera and battery claims will be checked at the event.",
+      "why": "From Weibo tipsters relayed by GSMArena: one says the event is next month and the series has three models; Digital Chat Station has repeated the 200MP camera and rear screen since August. The timing fits Honor's six-month number-series cadence (the 600 launched in May), but Honor has announced nothing. On Oct 24 Digital Chat Station added details he says come from an engineering prototype (codename 'Flora'): a roughly 9,000mAh battery, a 50MP periscope on the Pro and four test colors, while calling the November timing tentative. More detail from the same tipster, so it stays a Rumor. Update Oct 28-Nov 1: two Honor 700 models (FAS-AN00 and FAA-AN00, thought to be the 700 and 700 Pro) passed China's 3C certification, with a tipster saying a third is pending, which usually means a launch within weeks. Tipster Dingjiao Shuma (via Kuai Keji, Oct 31) says the series launches in early November with actress Ju Jingyi as spokesperson, a Snapdragon chip, a periscope and support for a 200mm teleconverter. Certification plus several tipsters agreeing lifts the November timing to Likely; the 9,000mAh battery and exact specs still rest mainly on Digital Chat Station, and Honor has not announced a date. Update Nov 3: Honor CMO Guan Haitao officially announced the Honor 700 series on Weibo, confirmed the 'Flora' codename and said it debuts 'in winter', without a date. Tipster Wangzai Baishitong says the three models (700, 700 Pro and a Vitality Edition) launch this month. The series is now official; the November date and specs are still unconfirmed, so it stays Likely. Update Nov 3: Honor's global CMO Guan Haitao officially announced the Honor 700 series (codename Flora) for a 'winter' debut, and Honor named actress Ju Jingyi as ambassador. A tipster says three models (700, 700 Pro, and a Vitality Edition) are 3C certified and launch this month. Honor still has not given a date, so the November timing stays Likely. Update Nov 6: Honor officially revealed the Honor 700, 700 Pro and 700S with a rear display across the lineup and opened multi-channel pre-orders in China (colors Cold White, Clear Sky, Blue Tone, Pink Mist; memory configs listed on deposit pages). A launch-event date and final prices are still TBA, so the product itself is Confirmed while the exact on-sale day remains open. Camera, battery and chipset figures are still mostly tipster-led. Update Nov 9: a new Honor teaser shows heart-rate and blood-oxygen readings on the rear screen (GSMArena); Honor has not explicitly confirmed health sensing, and Digital Chat Station says the rear display also works as a selfie viewfinder and for notifications and mini games. Launch date still TBA. Update Nov 10: Honor set the launch for Nov 13 in a Weibo teaser (Notebookcheck, Huawei Central). The November timing and rear screens are now official; the camera and battery claims will be checked at the event. Update Nov 11: a Geekbench 6 listing for FAP-AN00, most likely the 700 Pro, shows a Snapdragon 8 Gen 5 with 16GB of RAM on Android 17, backing the leaked Pro chipset.",
       "sources": [
+        {
+          "name": "GSMArena (Geekbench)",
+          "url": "https://www.gsmarena.com/honor_700_pro_may_have_just_run_geekbench_confirming_its_chipset-news-75440.php"
+        },
         {
           "name": "Notebookcheck (Nov 13 date)",
           "url": "https://www.notebookcheck.net/Honor-700-series-launch-date-confirmed-and-all-three-get-a-rear-screen.1445629.0.html"
@@ -1847,13 +1880,17 @@
       "categories": [
         "ai"
       ],
-      "status": "Active",
+      "status": "Resolved",
       "first_reported": "2026-10-19",
-      "updated": "2026-11-04",
-      "expected": "Announced Oct 28; public release date not set",
+      "updated": "2026-11-11",
+      "expected": "Broadly available Nov 10, 2026",
       "claim": "Google's next Gemini 4 checkpoint, Carbon, is in partner early access and will be released publicly soon.",
-      "why": "Business Insider first reported Carbon inside Google's internal coding tool, The Information said it is coming this month, testers report it on LMArena under Google's early access program, and Carbon 'teamfood' model IDs showed up in a Google server archive. That is strong evidence it exists and is close, but Google has not announced it and the date could slip into November. Early testers say it is better than Argon at 3D work but much slower. Update Oct 29: Google announced Gemini 4 Carbon on Oct 28, confirming it is real and in early access, but only for selected cyber defenders. Public access for developers and consumers is promised 'as soon as possible' with no date, so we keep this open until it is broadly available. Update Nov 4: a week after the announcement, Carbon is still limited to cyber defenders and Fairwind partners. The Gemini API changelog lists Argon (GA Oct 13) but no Carbon model ID, and Google has given no date for developers or consumers. Argon reached the public 13 days after its announcement, but that is not a promise for Carbon.",
+      "why": "Business Insider first reported Carbon inside Google's internal coding tool, The Information said it is coming this month, testers report it on LMArena under Google's early access program, and Carbon 'teamfood' model IDs showed up in a Google server archive. That is strong evidence it exists and is close, but Google has not announced it and the date could slip into November. Early testers say it is better than Argon at 3D work but much slower. Update Oct 29: Google announced Gemini 4 Carbon on Oct 28, confirming it is real and in early access, but only for selected cyber defenders. Public access for developers and consumers is promised 'as soon as possible' with no date, so we keep this open until it is broadly available. Update Nov 4: a week after the announcement, Carbon is still limited to cyber defenders and Fairwind partners. The Gemini API changelog lists Argon (GA Oct 13) but no Carbon model ID, and Google has given no date for developers or consumers. Argon reached the public 13 days after its announcement, but that is not a promise for Carbon. Update Nov 10: Carbon reached the Gemini app, AI Mode and Antigravity for AI Ultra subscribers and the Gemini API paid tier (9to5Google).",
       "sources": [
+        {
+          "name": "9to5Google (Nov 10 rollout)",
+          "url": "https://9to5google.com/2026/11/10/gemini-app-4-carbon/"
+        },
         {
           "name": "Google blog (announcement)",
           "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
@@ -1874,7 +1911,8 @@
           "name": "Gemini API release notes",
           "url": "https://aistudio.google.com/docs/changelog"
         }
-      ]
+      ],
+      "outcome": "Correct. Carbon was real and went public within weeks: announced Oct 28 for cyber defenders, then opened to AI Ultra subscribers and paid API developers on Nov 10, three weeks after the first reports. It launched for paying tiers, not free users."
     },
     {
       "id": "xbox-game-pass-a-la-carte",
@@ -2304,11 +2342,15 @@
       ],
       "status": "Active",
       "first_reported": "2026-10-30",
-      "updated": "2026-10-30",
+      "updated": "2026-11-11",
       "expected": "Spring 2027 with iPhone 18 (rumored)",
       "claim": "The iPhone Air 2 launches next spring with a 6.55-inch flat 120Hz OLED, a 2nm A20-series chip, 48MP wide and 48MP ultrawide rear cameras and a bigger battery than the first Air.",
-      "why": "From tipster Digital Chat Station, relayed by GSMArena; it repeats earlier leaks of a second rear camera and a spring launch. DCS is reliable on Chinese phones but less proven on Apple, and the 5.2mm thickness and battery figures come from other, separate leaks. Apple has said nothing.",
+      "why": "From tipster Digital Chat Station, relayed by GSMArena; it repeats earlier leaks of a second rear camera and a spring launch. DCS is reliable on Chinese phones but less proven on Apple, and the 5.2mm thickness and battery figures come from other, separate leaks. Apple has said nothing. Update Nov 10: tipster Smart Pikachu posted alleged iPhone Air 2 dummy units on Weibo showing two rear cameras and a slimmer body. Dummies are usually built from leaked CAD files, so they back the design but not the chip or screen specs.",
       "sources": [
+        {
+          "name": "GSMArena (dummy units)",
+          "url": "https://www.gsmarena.com/iphone_air_2_and_iphone_18_dummy_models_leak-news-75421.php"
+        },
         {
           "name": "GSMArena",
           "url": "https://www.gsmarena.com/iphone_air_2_specs_surface_again_in_new_leak-news-75274.php"
@@ -2906,17 +2948,25 @@
     {
       "status": "Active",
       "first_reported": "2026-11-05",
-      "updated": "2026-11-05",
+      "updated": "2026-11-11",
       "id": "huawei-osta-subbrand",
       "title": "Huawei's new sub-brand is called Osta and debuts with the flagship-level Osta O1 and wide-screen O1 Pro",
-      "rating": "Rumor",
+      "rating": "Likely",
       "categories": [
         "android"
       ],
-      "expected": "Not announced (earlier tips said November)",
+      "expected": "Nov 20, 2026 (official debut date); phone specs unconfirmed",
       "claim": "Huawei's upcoming sub-brand, reported in Chinese as Xingmang, will be called Osta in English and launch with two flagship-level phones: the Osta O1 with a quad-curved screen and the Osta O1 Pro with a 6.39-inch 1.5K wide-aspect flat screen and up to 16GB/1TB.",
-      "why": "Two Weibo tipsters that GSMArena calls reliable say Osta will be printed on retail boxes. Positioning the phones as flagships contradicts an earlier leak of Kirin 8-series mid-rangers, and an earlier tipster warned the English name might differ. Huawei has not confirmed the brand.",
+      "why": "Two Weibo tipsters that GSMArena calls reliable say Osta will be printed on retail boxes. Positioning the phones as flagships contradicts an earlier leak of Kirin 8-series mid-rangers, and an earlier tipster warned the English name might differ. Huawei has not confirmed the brand. Update Nov 11: Richard Yu officially confirmed the OSTA name and a Nov 20 debut, and his Weibo posts show an 'OSTA O1 Pro' device label, matching the tipsters. The name and O1 Pro model are now confirmed; the quad-curved O1, flagship positioning and 16GB/1TB memory still come from leaks and retail-box photos, so the full claim moves to Likely.",
       "sources": [
+        {
+          "name": "Huawei Central (Nov 20 date)",
+          "url": "https://www.huaweicentral.com/huawei-osta-sub-brand-will-launch-on-november-20/"
+        },
+        {
+          "name": "TechNode",
+          "url": "https://technode.com/2026/11/11/huawei-confirms-new-osta-smartphone-brand-ahead-of-november-20-debut/"
+        },
         {
           "name": "GSMArena",
           "url": "https://www.gsmarena.com/huaweis_upcoming_subbrand_gets_an_english_name_first_two_phones_detailed-news-75343.php"
@@ -3065,7 +3115,7 @@
     {
       "status": "Active",
       "first_reported": "2026-11-10",
-      "updated": "2026-11-10",
+      "updated": "2026-11-11",
       "id": "one-ui-9-5-third-party-call-recording",
       "title": "One UI 9.5 lets Galaxy phones record WhatsApp, Telegram and Google Meet calls",
       "rating": "Likely",
@@ -3084,6 +3134,10 @@
         {
           "name": "Android Authority",
           "url": "https://www.androidauthority.com/one-ui-9-5-call-record-third-party-apps-leak-3733329/"
+        },
+        {
+          "name": "GSMArena (Nov 11)",
+          "url": "https://www.gsmarena.com/samsung_one_ui_9_5_voip_voice_call_recording-news-75433.php"
         }
       ]
     },
@@ -3144,6 +3198,67 @@
         {
           "name": "GSMArena",
           "url": "https://www.gsmarena.com/vivo_x500_x500_pro_and_x500_pro_max_prices_for_india_leak-news-75413.php"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-11",
+      "updated": "2026-11-11",
+      "id": "oppo-a7-ultra-12000mah",
+      "title": "Oppo A7 Ultra launches in December with a 12,000mAh battery",
+      "rating": "Rumor",
+      "categories": [
+        "android"
+      ],
+      "expected": "December 2026 (China, tipster)",
+      "claim": "Oppo will launch an A7 Ultra in December with a 12,000mAh battery and a large horizontal rear camera module.",
+      "why": "The battery has hard evidence behind it: an Oppo phone numbered PNC110 appeared in China's MIIT database with a 12,000mAh cell, and updated MIIT images show a purple phone with a horizontal camera bar. The A7 Ultra name and December timing come only from tipster Digital Chat Station, who is usually reliable on Chinese phones, so linking PNC110 to the A7 Ultra is still an inference. Oppo has said nothing.",
+      "sources": [
+        {
+          "name": "GSMArena",
+          "url": "https://www.gsmarena.com/oppo_a7_ultra_tipped_to_launch_next_month_with_a_12000mah_battery-news-75437.php"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-11",
+      "updated": "2026-11-11",
+      "id": "honor-widescreen-8000mah",
+      "title": "Honor is testing a 6.39-inch wide-screen phone with a 200MP camera and 8,000mAh battery",
+      "rating": "Shaky",
+      "categories": [
+        "android"
+      ],
+      "expected": "Unknown (engineering sample)",
+      "claim": "A wide-screen phone with a 6.39-inch display, a Snapdragon chip, a 200MP main camera, a periscope telephoto and at least 8,000mAh of battery is in development, apparently from Honor.",
+      "why": "Digital Chat Station posted the specs on Weibo but did not name the brand; GSMArena reads Honor from the emoji he used. The specs may be solid, but the brand is a guess and the device is an early engineering sample, so this is Shaky. It joins similar wide-screen reports about Oppo, vivo, Xiaomi, OnePlus and Huawei's OSTA.",
+      "sources": [
+        {
+          "name": "GSMArena",
+          "url": "https://www.gsmarena.com/honor_said_to_be_testing_a_widescreen_phone_with_an_8000mah_battery-news-75432.php"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-11",
+      "updated": "2026-11-11",
+      "id": "samsung-vertical-rollable-phone",
+      "title": "Samsung is developing a phone whose screen slides up from 16:9 to 21:9",
+      "rating": "Rumor",
+      "categories": [
+        "samsung",
+        "android"
+      ],
+      "expected": "No timeline (an earlier rumor said first half of 2028)",
+      "claim": "Samsung is working on a phone with a vertically rolling display that extends from a 16:9 to a 21:9 aspect ratio, with battery capacity as the main challenge because of the sliding mechanism.",
+      "why": "From leaker Ice Universe, who has a good Samsung record, relayed by GSMArena. It fits Samsung's 'Galaxy Z Roll' trademark, a side-rolling patent and a June rumor of a rollable in the first half of 2028, but there is no timing, model name or Samsung comment.",
+      "sources": [
+        {
+          "name": "GSMArena",
+          "url": "https://www.gsmarena.com/samsung_reportedly_working_on_a_phone_with_an_expandable_display-news-75431.php"
         }
       ]
     }

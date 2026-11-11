@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T14:02:53Z",
+ "updated": "2026-11-11T14:24:32Z",
  "sources": [
   "9to5Google",
   "9to5Mac",
@@ -23,6 +23,40 @@
  "count": 600,
  "items": [
   {
+   "id": "6c02a43e93ae",
+   "title": "Genesis reveals GV90 prices start at $100K+ in Korea, but it will cost more for coach doors",
+   "url": "https://electrek.co/2026/11/11/genesis-reveals-gv90-prices-start-at-100k-korea-cost-more-for-coach-doors/",
+   "source": "Electrek",
+   "published": "2026-11-11T14:22:54Z",
+   "categories": [
+    "evs"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "18c739b0c29c",
+   "title": "ASRock quietly rolls out new firmware after disastrous previous update killed Radeon RX 7900-series GPUs",
+   "url": "https://www.tomshardware.com/pc-components/gpus/asrock-attempts-to-correct-botched-radeon-rx-7000-firmware-release-with-new-version-revised-release-should-work-ok-but-company-provides-no-explanation-for-bricked-cards",
+   "source": "Tom's Hardware",
+   "published": "2026-11-11T14:20:00Z",
+   "categories": [
+    "chips",
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "6d9bfd587e80",
+   "title": "If you bought an iPhone Duo, have you kept or returned it? [Poll]",
+   "url": "https://9to5mac.com/2026/11/11/if-you-bought-an-iphone-duo-have-you-kept-or-returned-it-poll/",
+   "source": "9to5Mac",
+   "published": "2026-11-11T14:13:49Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
    "id": "8c8e96e64232",
    "title": "The Samsung Galaxy S26 FE just quietly scored an impressive no-strings discount",
    "url": "https://www.androidpolice.com/samsung-galaxy-s26-fe-deal-early-black-friday-amazon/",
@@ -31,6 +65,17 @@
    "categories": [
     "android",
     "samsung"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "a035529ecf97",
+   "title": "Google’s official Fitbit Air lineup adds dbrand’s $35 Pulse Band",
+   "url": "https://www.androidauthority.com/dbrand-pulse-band-google-fitbit-air-3733624/",
+   "source": "Android Authority",
+   "published": "2026-11-11T14:00:42Z",
+   "categories": [
+    "android"
    ],
    "rumor": false
   },
@@ -76,6 +121,16 @@
    "categories": [
     "evs"
    ],
+   "rumor": false,
+   "summary": "QuantumScape's Osprey moves to a fully solid sulfide design and claims 1,000 cycles at 1 atm, though so far only in small lab cells."
+  },
+  {
+   "id": "4051b0741b49",
+   "title": "Montech King 95 3D Pro case review: The King has returned – bigger, and now with three-pane panoramic views",
+   "url": "https://www.tomshardware.com/pc-components/pc-cases/montech-king-95-3d-pro-case-review",
+   "source": "Tom's Hardware",
+   "published": "2026-11-11T14:00:00Z",
+   "categories": [],
    "rumor": false
   },
   {
@@ -87,7 +142,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "A Chinese inspection-equipment supplier told investors it works on Apple's AI glasses and camera AirPods projects, a hint both are still in development."
   },
   {
    "id": "fbae9c040e38",
@@ -99,7 +155,8 @@
     "android",
     "chips"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "A Geekbench run for what is likely the Honor 700 Pro shows a Snapdragon 8 Gen 5 and 16GB of RAM, two days before the Nov 13 launch."
   },
   {
    "id": "415b8cfe2c86",
@@ -190,7 +247,8 @@
     "chips",
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "A new leak says NVIDIA has dropped the 24GB RTX 5080, the latest twist in a run of contradictory rumors; NVIDIA has not commented."
   },
   {
    "id": "68c9773c5a85",
@@ -245,7 +303,8 @@
    "categories": [
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Microsoft's Auto SR upscaler is now final on the ROG Xbox Ally X and works undocked, with a 120 fps mode and HDR to follow."
   },
   {
    "id": "450a9863af99",
@@ -323,7 +382,8 @@
     "ai",
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Gemini Intelligence's proactive suggestions are coming to Android Auto, but only for drivers using a Pixel phone."
   },
   {
    "id": "a9189b7d909d",
@@ -357,7 +417,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Apple will close its long-running Support Community forum next week, ending a go-to source of user troubleshooting advice."
   },
   {
    "id": "4ef1193fe791",
@@ -368,7 +429,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "After 28 years, Apple is shutting its user-run Support Community forums on Nov 20."
   },
   {
    "id": "7b776347fb11",
@@ -412,7 +474,8 @@
    "categories": [
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Auto SR has left preview on Xbox Ally X handhelds, putting the NPU to work upscaling games as an alternative to AMD's FSR."
   },
   {
    "id": "a97d9d54122b",
@@ -544,7 +607,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "GrapheneOS says its Pixel 11 port is nearly done now that Android 17 QPR2 brings memory tagging, with performance 'more than good enough'."
   },
   {
    "id": "1312ade490e4",
@@ -555,7 +619,8 @@
    "categories": [
     "android"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "A tipster says Oppo's A7 Ultra arrives in December with a 12,000mAh battery, matching a recent MIIT listing for an Oppo phone."
   },
   {
    "id": "84934b4fdd2a",
@@ -656,7 +721,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Apple's Support Community forums are read-only now and close for good on Nov 20; Apple points users to its official support site."
   },
   {
    "id": "5a4398c08a3a",
@@ -879,7 +945,8 @@
     "android",
     "samsung"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "One UI 9.5 code points to a setting for recording WhatsApp, Telegram and Meet voice calls from Samsung's Phone app, where local law allows."
   },
   {
    "id": "7fcd296cfd36",
@@ -1175,7 +1242,8 @@
    "categories": [
     "evs"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Tesla tuner Unplugged Performance publicly offered to take over Cybertruck production, days after Musk said the truck ends around mid-2027."
   },
   {
    "id": "20a5a3d3faa7",
@@ -1219,7 +1287,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "The compact Poco X8s, the first X-series phone with a telephoto camera, is on sale in Europe from EUR 529.90, with launch discounts to Nov 23."
   },
   {
    "id": "3a6423a92821",
@@ -1239,7 +1308,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Apple's holiday gift pages are live, putting the iPhone Duo up front and suggesting engraved AirPods Pro 3, AirTags and iPads."
   },
   {
    "id": "0668b8990eef",
@@ -1262,7 +1332,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Three contract workers died after inhaling gas during wastewater-tank maintenance at Tata Electronics' iPhone parts plant in Hosur, India."
   },
   {
    "id": "d88cdd6507c1",
@@ -1273,7 +1344,8 @@
    "categories": [
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Microsoft's NPU-powered answer to DLSS is officially available for the Xbox Ally X and no longer needs the handheld to be docked."
   },
   {
    "id": "bc12324d64b4",
@@ -1397,7 +1469,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Starlink's Mini 2 dish gets a thinner design and a built-in battery, so it can run off-grid without a separate power source."
   },
   {
    "id": "e1f69aa550fe",
@@ -1419,7 +1492,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "iCloud, Find My and other Apple services went down for a few hours on Tuesday afternoon before Apple reported everything fixed."
   },
   {
    "id": "bd651c0c2d5a",
@@ -1439,7 +1513,8 @@
    "categories": [
     "chips"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "A proposed class action says NVIDIA and Jensen Huang misled investors about his ties to a former Megaspeed executive suspected of spying for China."
   },
   {
    "id": "f18988ab3772",
@@ -1451,7 +1526,8 @@
     "ai",
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Apple's Claris is testing Harbor, an app that turns one or more Apple silicon Macs, pooled over Thunderbolt 5, into a private local AI server."
   },
   {
    "id": "51c33ac2c706",
@@ -1483,7 +1559,8 @@
    "categories": [
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Sony scrapped another unreleased live-service game, Fairgames, and says no layoffs are tied to this cancellation."
   },
   {
    "id": "dd132257e831",
@@ -1507,7 +1584,8 @@
     "apple",
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Nintendo is switching account logins to passkeys and will stop Google and Apple sign-ins after Jan 25, 2027."
   },
   {
    "id": "eae5970b0752",
@@ -1583,7 +1661,8 @@
     "android",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Leaked Galaxy S27 dummies line up the Ultra, Pro and Plus side by side, with the new camera bar reserved for the top two models."
   },
   {
    "id": "53fa7eb08346",
@@ -1657,7 +1736,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Android 17 QPR2 is out for Pixels, adding custom color palettes, new status bar controls, Auracast voice broadcast and anti-scam protections."
   },
   {
    "id": "f3c8b26090ff",
@@ -1761,7 +1841,8 @@
     "android",
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Nintendo will end Google and Apple account linking around late January 2027, so users should set up another sign-in method first."
   },
   {
    "id": "cf8e950269ef",
@@ -1795,7 +1876,8 @@
     "android",
     "samsung"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "Sonny Dickson's dummy units show the S27 Ultra and Pro sharing a wide camera bar, while the S27+ keeps the S26+ look."
   },
   {
    "id": "182e96fc95b6",
@@ -1871,7 +1953,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "A researcher found about 35,000 Grok Build apps exposed through share links, leaking user secrets and some SpaceXSI business data."
   },
   {
    "id": "bd2a6830d8cf",
@@ -1882,7 +1965,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "OpenAI has acqui-hired AI travel-agent startup Odessia and its founder Francis Davidson; the Odessia app has already shut down."
   },
   {
    "id": "f4bafe186672",
@@ -1891,7 +1975,8 @@
    "source": "The Verge",
    "published": "2026-11-10T21:06:12Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "Sony has canceled Fairgames, its live-service shooter, before it ever launched."
   },
   {
    "id": "ee535f82a1c8",
@@ -1902,7 +1987,8 @@
    "categories": [
     "evs"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Lucid's CEO admitted the company recently couldn't locate cars for buyers, so some deliveries took two weeks and orders were lost."
   },
   {
    "id": "69aea194ec2f",
@@ -1933,7 +2019,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "New York opened registration under its RAISE Act: big frontier AI labs must sign up by Jan 1, publish safety frameworks and report incidents within 72 hours."
   },
   {
    "id": "a1fa5806ef47",
@@ -2485,7 +2572,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Google's Pixel Tag finally goes on sale Nov 11 at $29 or $99 for four, with UWB precision finding and a replaceable battery."
   },
   {
    "id": "e9aad2d7d7b3",
@@ -6606,61 +6694,6 @@
    "published": "2026-11-09T18:35:25Z",
    "categories": [
     "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "d0dda3483fc6",
-   "title": "Google Pixel 11 Pro XL vs. Pixel 10 Pro XL",
-   "url": "https://www.gsmarena.com/pixel_11_pro_xl_vs_pixel_10_pro_xl_battery_camera_price_compared-news-75356.php",
-   "source": "GSMArena",
-   "published": "2026-11-09T18:31:02Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "2d6f290ae23e",
-   "title": "Google Store previews Black Friday 2026 deals, starting Nov. 19",
-   "url": "https://9to5google.com/2026/11/09/google-store-black-friday-2026/",
-   "source": "9to5Google",
-   "published": "2026-11-09T18:29:32Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "2d0bb489c054",
-   "title": "Apple Releases iOS 27.2.1 With Bug Fixes",
-   "url": "https://www.macrumors.com/2026/11/09/apple-releases-ios-27-2-1-with-bug-fixes/",
-   "source": "MacRumors",
-   "published": "2026-11-09T18:27:55Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "42cac0b56728",
-   "title": "Apple releases iOS 26.7.3, watchOS 27.2.1, and more",
-   "url": "https://9to5mac.com/2026/11/09/apple-releases-ios-26-7-3-watchos-27-2-1-and-more/",
-   "source": "9to5Mac",
-   "published": "2026-11-09T18:26:35Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "e277fe71b0c4",
-   "title": "Apple releases macOS 27.2.1 Golden Gate, Tahoe 26.7.3, and Sequoia 15.8.3",
-   "url": "https://9to5mac.com/2026/11/09/apple-releases-macos-27-2-1-golden-gate-tahoe-26-7-3-and-sequoia-15-8-3/",
-   "source": "9to5Mac",
-   "published": "2026-11-09T18:25:58Z",
-   "categories": [
-    "apple"
    ],
    "rumor": false
   }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11",
+  "updated": "2026-11-12",
   "scale": {
     "Confirmed": "Announced by the company or shown in an official source.",
     "Likely": "Multiple credible outlets or hard evidence (certifications, databases, supply chain), but no official word.",
@@ -136,20 +136,28 @@
     {
       "id": "xiaomi-18-december-100w",
       "title": "The vanilla Xiaomi 18 launches in December with 100W charging",
-      "rating": "Rumor",
+      "rating": "Likely",
       "categories": [
         "android"
       ],
       "status": "Active",
       "first_reported": "2026-11-07",
-      "updated": "2026-11-07",
+      "updated": "2026-11-12",
       "expected": "December 2026 (China, reported)",
       "claim": "A standard Xiaomi 18 is still coming this year, around December in China, with 100W wired charging, the Snapdragon 8 Elite Gen 6, a 200MP main camera and a 7,200mAh battery.",
-      "why": "A new 3C certification (via GSMArena) lists a Xiaomi phone with 100W charging that is believed, not confirmed, to be the Xiaomi 18. The December timing and other specs come from earlier leaks. Certification is hard evidence that a device exists, but its identity is inferred and Xiaomi has not mentioned the base model.",
+      "why": "A new 3C certification (via GSMArena) lists a Xiaomi phone with 100W charging that is believed, not confirmed, to be the Xiaomi 18. The December timing and other specs come from earlier leaks. Certification is hard evidence that a device exists, but its identity is inferred and Xiaomi has not mentioned the base model. Update Nov 12: a dealer poster on Weibo shows offline retailers in China taking refundable blind deposits for the standard Xiaomi 18 (GSMArena, Gizmochina), and Digital Chat Station tips a 2nm mid-size model with up to 16GB/1TB. Dealer pre-orders plus the 3C listing are hard signs of a near launch, so this moves to Likely; Xiaomi itself has not confirmed a date or specs.",
       "sources": [
+        {
+          "name": "Gizmochina (Nov 12, blind orders)",
+          "url": "https://www.gizmochina.com/2026/11/12/xiaomi-18-blind-orders-begin-launch-fast-approaching/"
+        },
         {
           "name": "GSMArena",
           "url": "https://www.gsmarena.com/xiaomi_18_might_actually_arrive_this_year_3c_reveals_the_charging_capabilities-news-75396.php"
+        },
+        {
+          "name": "GSMArena (Nov 12)",
+          "url": "https://www.gsmarena.com/a_seller_in_china_has_started_taking_blind_preorders_for_the_vanilla_xiaomi_18-news-75452.php"
         }
       ]
     },
@@ -1097,10 +1105,10 @@
         "gaming"
       ],
       "status": "Active",
-      "updated": "2026-11-11",
+      "updated": "2026-11-12",
       "expected": "Q1 2027 (reported), now reportedly canceled",
       "claim": "NVIDIA will release an RTX 5080 with 24GB of GDDR7 in early 2027, gradually replacing the 16GB model.",
-      "why": "Single-source report from Taiwan's BenchLife, relayed by VideoCardz and TechPowerUp. Board partners reportedly have only verbal guidance and no design documents yet, so timing is soft. Technically easy: 3GB memory chips on the same 256-bit bus. NVIDIA has not commented. Comes amid tight RTX 5090 supply, which NVIDIA says is constrained but not discontinued. Update Oct 30: Tom's Hardware found the RTX 5080 removed from Nvidia's US store after the RTX 5090, with street prices about 2.2x the $999 MSRP. That fits a product transition but is not proof of a 24GB model; Nvidia has not commented. Update Nov 3: BenchLife, the original source, now says the 'probability is extremely high' the 24GB card misses January, because board partners expected design details in October and still have none (relayed by VideoCardz and TechRadar). Q1 is still possible but the timing is softer, so it stays Rumor. Update Nov 11: Board Channels sources (via VideoCardz, Gazlog and leaker Harukaze) say NVIDIA told board partners the planned January 2027 China launch of the 24GB card is canceled because 3GB GDDR7 chips cost about three times as much as 2GB ones, and that the 16GB RTX 5080 stays in production. NVIDIA has neither confirmed nor denied either plan. With leaks now contradicting each other, this drops to Shaky; we will mark it Debunked if NVIDIA or partners confirm the cancellation.",
+      "why": "Single-source report from Taiwan's BenchLife, relayed by VideoCardz and TechPowerUp. Board partners reportedly have only verbal guidance and no design documents yet, so timing is soft. Technically easy: 3GB memory chips on the same 256-bit bus. NVIDIA has not commented. Comes amid tight RTX 5090 supply, which NVIDIA says is constrained but not discontinued. Update Oct 30: Tom's Hardware found the RTX 5080 removed from Nvidia's US store after the RTX 5090, with street prices about 2.2x the $999 MSRP. That fits a product transition but is not proof of a 24GB model; Nvidia has not commented. Update Nov 3: BenchLife, the original source, now says the 'probability is extremely high' the 24GB card misses January, because board partners expected design details in October and still have none (relayed by VideoCardz and TechRadar). Q1 is still possible but the timing is softer, so it stays Rumor. Update Nov 11: Board Channels sources (via VideoCardz, Gazlog and leaker Harukaze) say NVIDIA told board partners the planned January 2027 China launch of the 24GB card is canceled because 3GB GDDR7 chips cost about three times as much as 2GB ones, and that the 16GB RTX 5080 stays in production. NVIDIA has neither confirmed nor denied either plan. With leaks now contradicting each other, this drops to Shaky; we will mark it Debunked if NVIDIA or partners confirm the cancellation. Update Nov 12: more outlets (HotHardware, Club386, OC3D, Notebookcheck) repeated the cancellation report, but all trace back to the same Board Channels leak, and NVIDIA still has not commented, so it stays Shaky rather than Debunked.",
       "sources": [
         {
           "name": "VideoCardz (Nov 11, reported cancellation)",
@@ -1129,6 +1137,10 @@
         {
           "name": "igor'sLAB LeakWatch",
           "url": "https://www.igorslab.de/en/leakwatch-week-42-2026-nvidia-denies-rtx-5090-end-amd-takes-time-intel-massive-memory-capacities/"
+        },
+        {
+          "name": "HotHardware (Nov 12)",
+          "url": "https://hothardware.com/news/goodbye-24gb-rtx-5080-nvidia-scraps-high-vram-refresh"
         }
       ],
       "first_reported": "2026-10-12"
@@ -2360,19 +2372,27 @@
     {
       "id": "samsung-glasses-mid-december",
       "title": "Samsung's Android XR glasses go on sale in mid-December, in Korea and the US only",
-      "rating": "Likely",
+      "rating": "Confirmed",
       "categories": [
         "samsung",
         "android",
         "ai"
       ],
-      "status": "Active",
+      "status": "Resolved",
       "first_reported": "2026-10-31",
-      "updated": "2026-11-07",
-      "expected": "December 2026 (Gentle Monster, official); mid-December and Korea/US-first still reported",
+      "updated": "2026-11-12",
+      "expected": "Ships Dec 10, 2026 (US and South Korea, official)",
       "claim": "Samsung's display-free Intelligent Eyewear (Android XR, Gemini, Snapdragon AR1 Gen 1) goes on sale in mid-December in South Korea and the US first, with Europe, China and Japan later; pricing is not set.",
-      "why": "From a Korean media report relayed by GSMArena. It fits an earlier Korean report quoting a Samsung official on a November launch, and Samsung's playbook for the Galaxy XR headset (Korea and US first). Samsung has shown the glasses and their Gentle Monster and Warby Parker frames but has not given a date or price. Update Nov 3: Android Authority relays the same Chosun Biz report (mid-December, Korea and US first, 'Intelligent Eyewear' name, other markets in 2027). That is wider coverage of one report, not a second source, so it stays a Rumor. Update Nov 6: Gentle Monster, one of the two frame partners, said on X that its Intelligent Eyewear collection launches in December, and Warby Parker opens US pre-orders on Nov 12. The December window is now official, so this moves to Likely; the exact mid-December timing and the Korea/US-only first wave still rest on the Chosun Biz report.",
+      "why": "From a Korean media report relayed by GSMArena. It fits an earlier Korean report quoting a Samsung official on a November launch, and Samsung's playbook for the Galaxy XR headset (Korea and US first). Samsung has shown the glasses and their Gentle Monster and Warby Parker frames but has not given a date or price. Update Nov 3: Android Authority relays the same Chosun Biz report (mid-December, Korea and US first, 'Intelligent Eyewear' name, other markets in 2027). That is wider coverage of one report, not a second source, so it stays a Rumor. Update Nov 6: Gentle Monster, one of the two frame partners, said on X that its Intelligent Eyewear collection launches in December, and Warby Parker opens US pre-orders on Nov 12. The December window is now official, so this moves to Likely; the exact mid-December timing and the Korea/US-only first wave still rest on the Chosun Biz report. Update Nov 12: Samsung, Google and the frame partners opened pre-orders in the US and South Korea only, from $395, with retail availability on Dec 10.",
       "sources": [
+        {
+          "name": "SamMobile (Nov 12, Korea and US)",
+          "url": "https://www.sammobile.com/news/samsungs-intelligent-eyewear-glasses-pre-order-today-korea-usa/"
+        },
+        {
+          "name": "9to5Google (Nov 12, ships Dec 10)",
+          "url": "https://9to5google.com/2026/11/12/google-intelligent-eyewear-glasses/"
+        },
         {
           "name": "9to5Google (Gentle Monster: December)",
           "url": "https://9to5google.com/2026/11/06/android-xr-glasses-release-date-window-confirmed/"
@@ -2385,7 +2405,8 @@
           "name": "GSMArena",
           "url": "https://www.gsmarena.com/heres_when_samsung_plans_to_release_its_android_xr_glasses_and_where-news-75290.php"
         }
-      ]
+      ],
+      "outcome": "Mostly correct. The glasses ship on Dec 10, which is early-to-mid December rather than squarely mid-month, and the first wave is the US and South Korea as reported. Pricing, which the report said was not set, starts at $395."
     },
     {
       "id": "galaxy-z-fold9-under-display-camera",
@@ -3184,17 +3205,21 @@
     {
       "status": "Active",
       "first_reported": "2026-11-10",
-      "updated": "2026-11-10",
+      "updated": "2026-11-12",
       "id": "vivo-x500-india-prices",
       "title": "vivo X500 series costs INR 119,999-229,999 in India, launching late November",
       "rating": "Rumor",
       "categories": [
         "android"
       ],
-      "expected": "Late November 2026 (India, rumored)",
+      "expected": "Nov 26, 2026 (India launch, official); prices unconfirmed",
       "claim": "The vivo X500 (12/256GB) will cost INR 119,999, the X500 Pro INR 149,999 and the X500 Pro Max INR 159,999 (INR 179,999 for 512GB; INR 229,999 for a 'master set'), with a launch toward the end of November.",
-      "why": "A tipster on X calls these 'tentative' prices; GSMArena relays them. The phones are already out in China and globally, so an Indian launch is very likely, but vivo has not confirmed the date or prices.",
+      "why": "A tipster on X calls these 'tentative' prices; GSMArena relays them. The phones are already out in China and globally, so an Indian launch is very likely, but vivo has not confirmed the date or prices. Update Nov 12: vivo India confirmed a Nov 26 launch, so the late-November timing is now official; the prices remain a tipster's tentative figures until launch.",
       "sources": [
+        {
+          "name": "Gizmochina (Nov 26 date)",
+          "url": "https://www.gizmochina.com/2026/11/12/vivo-x500-series-india-launch-november-26/"
+        },
         {
           "name": "GSMArena",
           "url": "https://www.gsmarena.com/vivo_x500_x500_pro_and_x500_pro_max_prices_for_india_leak-news-75413.php"
@@ -3259,6 +3284,55 @@
         {
           "name": "GSMArena",
           "url": "https://www.gsmarena.com/samsung_reportedly_working_on_a_phone_with_an_expandable_display-news-75431.php"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-12",
+      "updated": "2026-11-12",
+      "id": "amd-siren-halo-gddr7",
+      "title": "AMD's next Halo APU, 'Siren Halo', adds dedicated GDDR7 memory",
+      "rating": "Rumor",
+      "categories": [
+        "chips"
+      ],
+      "expected": "Not announced (successor to Gorgon Halo; no timing leaked)",
+      "claim": "AMD's next big Ryzen AI Max APU is called Siren Halo, replacing the design previously known as Medusa Halo, and supports dedicated GDDR7 VRAM alongside LPDDR memory, possibly sharing RDNA 5 'AT2' graphics with the next Xbox's Magnus chip.",
+      "why": "From hardware leaker Gotou_3rd on X, relayed by VideoCardz, which adds its own unnamed sources for the Xbox Magnus link; Gotou says that link is 'very likely' but unconfirmed. It fits Kepler_L2's Oct 30 claim that Medusa Halo was renamed. A GDDR7 pool would be a big change from today's LPDDR-only Halo chips. AMD has said nothing.",
+      "sources": [
+        {
+          "name": "VideoCardz",
+          "url": "https://videocardz.com/newz/amd-next-gen-siren-halo-zen6-rdna5-apu-rumored-to-support-gddr7-memory"
+        },
+        {
+          "name": "Notebookcheck",
+          "url": "https://www.notebookcheck.net/AMD-Siren-Halo-APU-rumored-to-feature-dedicated-GDDR7-VRAM-alongside-LPDDR-memory.1448811.0.html"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-12",
+      "updated": "2026-11-12",
+      "id": "iphone-duo-2-plus-wide-foldable",
+      "title": "Apple is working on a bigger wide foldable, an 'iPhone Duo 2 Plus', to rival a Galaxy Z Fold 9 Plus",
+      "rating": "Shaky",
+      "categories": [
+        "apple",
+        "samsung"
+      ],
+      "expected": "2027 (tipster; no timing from Apple)",
+      "claim": "Apple is developing a larger wide-format foldable, dubbed 'iPhone Duo 2 Plus', for 2027 to compete with a rumored bigger Samsung Galaxy Z Fold 9 Plus.",
+      "why": "A single post on X from tipster TheGalox, relayed by GSMArena and Android Headlines; the name is likely a placeholder. Android Headlines calls it the first report of its kind for Apple and urges caution. A bigger or cheaper Fold 9 sibling has been rumored since late October, but the Apple half has no corroboration, and Apple only just launched its first foldable.",
+      "sources": [
+        {
+          "name": "Android Headlines",
+          "url": "https://www.androidheadlines.com/2026/11/bigger-wide-foldables-are-coming-from-both-samsung-and-apple-in-2027-tipster-claims.html"
+        },
+        {
+          "name": "GSMArena",
+          "url": "https://www.gsmarena.com/samsung_and_apple_are_both_working_on_bigger_wide_foldables_new_rumor_claims-news-75446.php"
         }
       ]
     }

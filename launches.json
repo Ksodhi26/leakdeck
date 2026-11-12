@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11",
+  "updated": "2026-11-12",
   "items": [
     {
       "id": "gtc-berlin-2026",
@@ -925,14 +925,22 @@
       "date": "2026-11-12",
       "date_label": "Nov 12, 2026",
       "precision": "day",
-      "status": "Confirmed",
+      "status": "Released",
       "price": "",
-      "summary": "The Switch 2 edition of Pikmin 4, with the Dandori Academy add-on, arrives Nov 12.",
-      "details": "Date taken from VGC's release schedule.",
+      "summary": "The Switch 2 Edition of Pikmin 4 is out, adding Dandori Academy timed challenges, Oatchi voice commands and GameShare battles; owners of the original can buy an upgrade pack.",
+      "details": "Released Nov 12 on Switch 2 (Nintendo). Adds up to 4K output in TV mode, voice commands for Oatchi via the console mic, GameShare for Dandori Battles and the Dandori Academy mode, with 72 stages released six a month and weekend exams. A free demo is on the eShop. Nintendo Life's review round-up is live.",
       "sources": [
+        {
+          "name": "Nintendo UK",
+          "url": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-2-Edition/Pikmin-4-Nintendo-Switch-2-Edition-Dandori-Academy-3188744.html"
+        },
         {
           "name": "Video Games Chronicle",
           "url": "https://www.videogameschronicle.com/guide/upcoming-game-release-dates-schedule/"
+        },
+        {
+          "name": "GoNintendo (launch day)",
+          "url": "https://www.gonintendo.com/contents/67188-pikmin-4-nintendo-switch-2-edition-dandori-academy-plants-itself-on-switch-2-today"
         }
       ]
     },
@@ -1883,13 +1891,17 @@
       ],
       "type": "Car",
       "date": "2026-11-12",
-      "date_label": "Nov 12, 2026 (China launch event)",
+      "date_label": "Nov 12, 2026 (China)",
       "precision": "day",
-      "status": "Confirmed",
-      "price": "",
-      "summary": "BYD's Denza holds the launch event for the all-electric five-seat N8 SUV on Nov 12 in China, with up to 1,003 km of CLTC range.",
-      "details": "Denza general manager Li Hui announced the timeline on Weibo on Oct 22: reservations open Oct 26 and the car officially goes on sale in November, with no launch day, prices or delivery plans yet. MIIT filings show single-motor RWD versions (320 or 370 kW) and a tri-motor AWD version with 890 kW combined; it is 5,150 mm long on a 3,075 mm wheelbase, 50 mm shorter than the six-seat N8L. Denza says it uses BYD's second-generation Blade battery with Flash Charging, and Electrek cites up to 1,003 km of CLTC range. Reservations opened on schedule on Oct 26: a 2,000-yuan deposit earns a 5,000-yuan option credit, but Denza has still not given a pre-sale price. For reference, the six-seat N8L starts at 299,800 yuan. Earlier reports had treated Oct 26 as the launch itself. Xinhua's Oct 28 report adds that the N8 comes as both an EV (RWD or tri-motor) and a plug-in hybrid (tri-motor only). As of Oct 31 Denza still has not named a launch day or price. Update Nov 6: Denza announced on Weibo that the N8 EV launch event is set for Nov 12, 2026 (via Electrek); prices are still not public, and the limited-time 5,000-yuan credit for a 2,000-yuan reservation continues.",
+      "status": "Released",
+      "price": "269,900-329,900 yuan (BEV); PHEV 300,900-320,900 yuan",
+      "summary": "BYD's Denza launched the five-seat N8 SUV in China on Nov 12 from 269,900 yuan (about $40,200), with up to 1,003 km of CLTC range.",
+      "details": "Denza general manager Li Hui announced the timeline on Weibo on Oct 22: reservations open Oct 26 and the car officially goes on sale in November, with no launch day, prices or delivery plans yet. MIIT filings show single-motor RWD versions (320 or 370 kW) and a tri-motor AWD version with 890 kW combined; it is 5,150 mm long on a 3,075 mm wheelbase, 50 mm shorter than the six-seat N8L. Denza says it uses BYD's second-generation Blade battery with Flash Charging, and Electrek cites up to 1,003 km of CLTC range. Reservations opened on schedule on Oct 26: a 2,000-yuan deposit earns a 5,000-yuan option credit, but Denza has still not given a pre-sale price. For reference, the six-seat N8L starts at 299,800 yuan. Earlier reports had treated Oct 26 as the launch itself. Xinhua's Oct 28 report adds that the N8 comes as both an EV (RWD or tri-motor) and a plug-in hybrid (tri-motor only). As of Oct 31 Denza still has not named a launch day or price. Update Nov 6: Denza announced on Weibo that the N8 EV launch event is set for Nov 12, 2026 (via Electrek); prices are still not public, and the limited-time 5,000-yuan credit for a 2,000-yuan reservation continues. Update Nov 12: launched with four BEV versions at 269,900, 279,900, 309,900 and 329,900 yuan (the two dearest with e3 tri-motor tech) and two e3 PHEV versions at 300,900 and 320,900 yuan. Batteries are 105 kWh and 130 kWh. CnEVPost says BEV deliveries start a week after launch and PHEVs follow in one to two months; IT Home describes the PHEVs as coming later. Launch perks include up to 30,000 yuan in options and a year of free flash charging.",
       "sources": [
+        {
+          "name": "CnEVPost (Nov 12 launch)",
+          "url": "https://cnevpost.com/2026/11/12/denza-updated-n8-returns-as-5-seater/"
+        },
         {
           "name": "Electrek (Nov 12 launch date)",
           "url": "https://electrek.co/2026/11/06/byd-launching-5-seat-luxury-suv-next-week-with-1000-km-range/"
@@ -1921,6 +1933,10 @@
         {
           "name": "Xinhua (Chinese)",
           "url": "https://www.news.cn/auto/20261028/6512bea94eda4d87ab7e0ba17a686e0c/c.html"
+        },
+        {
+          "name": "IT Home (Chinese, Nov 12)",
+          "url": "https://www.ithome.com/1/026/389.htm"
         }
       ]
     },
@@ -2925,13 +2941,17 @@
       ],
       "type": "Phone",
       "date": "2026-11-16",
-      "date_label": "Nov 16, 2026 (China launch)",
+      "date_label": "Nov 16, 2026, 7 PM China time (China launch)",
       "precision": "day",
       "status": "Confirmed",
       "price": "",
       "summary": "Oppo launches the Reno17 and Reno17 Pro in China on Nov 16, alongside the Pad Air 6 tablet and Watch 5.",
-      "details": "Announced on Oppo's Weibo on Oct 30 without a date, prices or specs. Leaks point to a Reno17 and Reno17 Pro in China on ColorOS 17 (Android 17); Digital Chat Station tips the Pro with a 6.32-inch 1.5K 120Hz OLED, Dimensity 8550 Super, a 200MP main camera, 50MP periscope and about 7,000mAh, but those specs are unconfirmed. Update Nov 3: Digital Chat Station now tips the Reno17 with a 6.5-inch screen, Snapdragon 7 Gen 4 and an 8,000mAh-class battery, and the Reno17 Pro with a 6.3-inch screen, Dimensity 8550 and a 7,200mAh-class battery; both reportedly get a 50MP periscope, in 8GB/256GB to 12GB/512GB versions. Still a leak; Oppo has confirmed only a November launch. Update Nov 9: Oppo confirmed on Weibo that the Reno17 series, Watch 5 and Pad Air 6 launch in China on Nov 16, revealed the phones' design and four colors (Adventure Cat, Cocoa Brown, First Snow White, Ice Moon White) and opened pre-orders. Oppo also published the Pad Air 6 spec sheet ahead of launch: a 12.1-inch 2.8K 120Hz LCD (matte option), Dimensity 7360 Super, 10,050mAh battery, 8MP front and rear cameras, up to 12GB/256GB, Wi-Fi and LTE versions, ColorOS 17; pricing comes at launch. The Watch 5 is 9.2mm thick, 25g and rated for up to 7 days. Phone specs are still unannounced.",
+      "details": "Announced on Oppo's Weibo on Oct 30 without a date, prices or specs. Leaks point to a Reno17 and Reno17 Pro in China on ColorOS 17 (Android 17); Digital Chat Station tips the Pro with a 6.32-inch 1.5K 120Hz OLED, Dimensity 8550 Super, a 200MP main camera, 50MP periscope and about 7,000mAh, but those specs are unconfirmed. Update Nov 3: Digital Chat Station now tips the Reno17 with a 6.5-inch screen, Snapdragon 7 Gen 4 and an 8,000mAh-class battery, and the Reno17 Pro with a 6.3-inch screen, Dimensity 8550 and a 7,200mAh-class battery; both reportedly get a 50MP periscope, in 8GB/256GB to 12GB/512GB versions. Still a leak; Oppo has confirmed only a November launch. Update Nov 9: Oppo confirmed on Weibo that the Reno17 series, Watch 5 and Pad Air 6 launch in China on Nov 16, revealed the phones' design and four colors (Adventure Cat, Cocoa Brown, First Snow White, Ice Moon White) and opened pre-orders. Oppo also published the Pad Air 6 spec sheet ahead of launch: a 12.1-inch 2.8K 120Hz LCD (matte option), Dimensity 7360 Super, 10,050mAh battery, 8MP front and rear cameras, up to 12GB/256GB, Wi-Fi and LTE versions, ColorOS 17; pricing comes at launch. The Watch 5 is 9.2mm thick, 25g and rated for up to 7 days. Phone specs are still unannounced. Update Nov 11: Oppo's official teaser confirms the standard Reno17 has four 50MP cameras (main, periscope telephoto and ultra-wide on the back, plus an ultra-wide selfie camera), dropping the 200MP main sensor of the Reno16; the Reno17 Pro's cameras are not yet confirmed. The event starts at 7 PM China time (Gizmochina).",
       "sources": [
+        {
+          "name": "Gizmochina (Nov 11, cameras)",
+          "url": "https://www.gizmochina.com/2026/11/11/oppo-reno-17-series-four-50mp-cameras-officially-confirmed/"
+        },
         {
           "name": "GSMArena (Nov 16 date)",
           "url": "https://www.gsmarena.com/the_oppo_reno17_and_reno17_pro_are_launching_next_week-news-75400.php"
@@ -3178,11 +3198,15 @@
       "date": "2026-11-12",
       "date_label": "Nov 12, 2026 (China)",
       "precision": "day",
-      "status": "Confirmed",
-      "price": "Pre-sale 128,800-158,800 yuan (about $19,200-23,700)",
-      "summary": "GAC Aion's low-drag electric fastback with Huawei lidar and drive hardware officially launches in China on Nov 12.",
-      "details": "Pre-sales began Oct 17 with five trims. The 4.96-meter sedan has a 0.22 drag coefficient, a Huawei DriveONE drive unit and a driver-assist system with a Huawei 192-line lidar and 27 sensors, using software derived from WeRide's robotaxi work. It uses LFP batteries in two sizes, rated at 530 km or 702 km CLTC. Final prices come at launch.",
+      "status": "Released",
+      "price": "114,700-144,700 yuan limited-time launch price (about $17,100-21,500)",
+      "summary": "GAC Aion launched the Ray 7 electric fastback in China on Nov 12 at 114,700-144,700 yuan, below its pre-sale prices.",
+      "details": "Pre-sales began Oct 17 with five trims. The 4.96-meter sedan has a 0.22 drag coefficient, a Huawei DriveONE drive unit and a driver-assist system with a Huawei 192-line lidar and 27 sensors, using software derived from WeRide's robotaxi work. It uses LFP batteries in two sizes, rated at 530 km or 702 km CLTC. Final prices come at launch. Update Nov 12: launched in Shanghai in five versions at limited-time prices of 114,700-144,700 yuan, about 14,100 yuan below the pre-sale range, with launch perks (Sina Auto). We have only Chinese-language coverage of the final prices so far.",
       "sources": [
+        {
+          "name": "Sina Auto (Chinese, Nov 12 launch)",
+          "url": "https://auto.sina.com.cn/newcar/2026-11-12/detail-iniyntuy8493942.shtml"
+        },
         {
           "name": "CarNewsChina",
           "url": "https://carnewschina.com/2026/11/03/gac-aions-half-priced-xiaomi-su7-ray-7-set-for-november-12-launch/"
@@ -3503,14 +3527,22 @@
         "ai"
       ],
       "type": "Wearable",
-      "date": "2026-11-12",
-      "date_label": "Pre-orders Nov 12, 2026 (US via Warby Parker); Gentle Monster collection launches in December",
+      "date": "2026-12-10",
+      "date_label": "Ships Dec 10, 2026 (US and South Korea); pre-orders opened Nov 12",
       "precision": "day",
       "status": "Confirmed",
-      "price": "TBD",
-      "summary": "Samsung's audio-first Android XR Intelligent Eyewear opens US pre-orders on Nov 12 through Warby Parker, with pricing still TBA.",
-      "details": "Developed with Google; frames from Warby Parker and Gentle Monster. Android Authority and SamMobile say pre-orders open Nov 12, when the full collection, lens options and pricing are due. Shipping has been tipped for mid-December. Audio-first design first; display-integrated Samsung models come later. Privacy features include a recording LED that blocks capture if covered. Update Nov 6: Gentle Monster posted on X that its first Intelligent Eyewear collection 'launches this December', alongside a Joaquin Phoenix short film due mid-November. That is the first official December release window; Warby Parker has not yet given its ship date. Update Nov 10: SamMobile found pairing support and frame images for Gentle Monster and Warby Parker models (codename Jinju, model numbers SM-0200J to SM-0205J and SM-0200P to SM-0204P) in the latest Galaxy Wearable app, another sign the Nov 12 pre-orders are on track.",
+      "price": "$395-$489 (Warby Parker from $395, Gentle Monster from $449)",
+      "summary": "Samsung and Google's audio-first Android XR Intelligent Eyewear is on pre-order in the US and Korea from $395 and ships Dec 10.",
+      "details": "Developed with Google; frames from Warby Parker and Gentle Monster. Android Authority and SamMobile say pre-orders open Nov 12, when the full collection, lens options and pricing are due. Shipping has been tipped for mid-December. Audio-first design first; display-integrated Samsung models come later. Privacy features include a recording LED that blocks capture if covered. Update Nov 6: Gentle Monster posted on X that its first Intelligent Eyewear collection 'launches this December', alongside a Joaquin Phoenix short film due mid-November. That is the first official December release window; Warby Parker has not yet given its ship date. Update Nov 10: SamMobile found pairing support and frame images for Gentle Monster and Warby Parker models (codename Jinju, model numbers SM-0200J to SM-0205J and SM-0200P to SM-0204P) in the latest Galaxy Wearable app, another sign the Nov 12 pre-orders are on track. Update Nov 12: pre-orders opened in the US and South Korea through Warby Parker, Gentle Monster and select Samsung stores, with retail availability on Dec 10. Prices run $395-$489 (Warby Parker from $395 in 14 variants; Gentle Monster from $449 in 16). Specs: Snapdragon AR1 Gen 1, 2GB RAM, 64GB storage, 12MP ultra-wide camera (3K 30fps video), four mics, open-ear speakers, 9 hours per charge, IPX4, about 41g. Works with Galaxy phones on One UI 9.0+, Pixel 7 and newer, and iPhone 13 and newer (9to5Google, SamMobile).",
       "sources": [
+        {
+          "name": "SamMobile (Nov 12, Korea and US)",
+          "url": "https://www.sammobile.com/news/samsungs-intelligent-eyewear-glasses-pre-order-today-korea-usa/"
+        },
+        {
+          "name": "9to5Google (Nov 12, price and ship date)",
+          "url": "https://9to5google.com/2026/11/12/google-intelligent-eyewear-glasses/"
+        },
         {
           "name": "SamMobile (Wearable app)",
           "url": "https://www.sammobile.com/news/samsung-readies-wearable-app-smart-glasses-launch/"
@@ -3651,8 +3683,12 @@
       "status": "Released",
       "price": "",
       "summary": "Lynk & Co held the global debut of the 900L, a seven-seat plug-in hybrid version of its flagship 900 SUV, on Nov 10; prices come later.",
-      "details": "Lynk & Co livestreamed the 900L global debut on its Weibo account on Nov 10 (19:00 Beijing time). Prices and an on-sale date were not part of the pre-event announcements, and we had not seen confirmed pre-sale prices when we checked; CarNewsChina expects the China market launch by the end of 2026. The 900L is 5,280 mm long, 1,999 mm wide and 1,810 mm tall on a 3,170 mm wheelbase (40 mm longer than the current 900), with roof LiDAR for driver assistance and 21-inch wheels. Official interior images show a 2+2+3 seven-seat layout with two second-row captain's chairs, 30-inch front and rear screens and a 31-speaker Harman Kardon system. It is a plug-in hybrid, not a pure EV: a 2.0T engine rated at 160 kW, a 225 km/h top speed and ternary lithium cells from a CATL-Geely joint venture, on Geely's SPA Evo architecture. It joins the six-seat 900 (from 309,900 yuan) and the five-seat 900 (from 299,800 yuan). Update Nov 11: CnEVPost's English report on the debut confirms 55 kWh and 70 kWh battery options and a 2+2+3 layout, and says Lynk & Co has still not announced pricing; the official China launch is due before the end of 2026.",
+      "details": "Lynk & Co livestreamed the 900L global debut on its Weibo account on Nov 10 (19:00 Beijing time). Prices and an on-sale date were not part of the pre-event announcements, and we had not seen confirmed pre-sale prices when we checked; CarNewsChina expects the China market launch by the end of 2026. The 900L is 5,280 mm long, 1,999 mm wide and 1,810 mm tall on a 3,170 mm wheelbase (40 mm longer than the current 900), with roof LiDAR for driver assistance and 21-inch wheels. Official interior images show a 2+2+3 seven-seat layout with two second-row captain's chairs, 30-inch front and rear screens and a 31-speaker Harman Kardon system. It is a plug-in hybrid, not a pure EV: a 2.0T engine rated at 160 kW, a 225 km/h top speed and ternary lithium cells from a CATL-Geely joint venture, on Geely's SPA Evo architecture. It joins the six-seat 900 (from 309,900 yuan) and the five-seat 900 (from 299,800 yuan). Update Nov 11: CnEVPost's English report on the debut confirms 55 kWh and 70 kWh battery options and a 2+2+3 layout, and says Lynk & Co has still not announced pricing; the official China launch is due before the end of 2026. Update Nov 12: CarNewsChina (English) adds WLTC electric ranges of 245 km and 320 km for the 55 kWh and 70 kWh batteries, powered 180-degree rotating second-row seats, and confirms pricing is still unannounced.",
       "sources": [
+        {
+          "name": "CarNewsChina (Nov 11, debut)",
+          "url": "https://carnewschina.com/2026/11/11/lynk-co-unveils-seven-seat-900l-phev-with-70-kwh-battery-in-china/"
+        },
         {
           "name": "CnEVPost (Nov 11, debut)",
           "url": "https://cnevpost.com/2026/11/11/lynk-co-unveils-7-seat-900l-suv/"
@@ -3853,7 +3889,7 @@
       "status": "Confirmed",
       "price": "",
       "summary": "Honor launches the 700, 700 Pro and 700S in China on Nov 13, each with a small rear display in the camera island.",
-      "details": "Honor set the date in a Weibo teaser ('see you on November 13'); reservations opened Nov 6 with a 365-day replacement guarantee and a year of front and rear screen insurance. All three models have a built-in rear screen that can show a clock, animations and a selfie preview. Chips, cameras and battery sizes are still from leaks (reports point to Snapdragon 8s Gen 4 for the 700, Snapdragon 8 Gen 5 for the Pro and Snapdragon 7 Gen 4 for the 700S); prices come at the event. See the rumor tracker for the leaked specs. Update Nov 11: a device numbered FAP-AN00, most likely the 700 Pro, ran Geekbench 6 with a Snapdragon 8 Gen 5, 16GB of RAM and Android 17; Honor has listed 12/256GB, 12/512GB and 16/512GB configurations for the Pro (GSMArena).",
+      "details": "Honor set the date in a Weibo teaser ('see you on November 13'); reservations opened Nov 6 with a 365-day replacement guarantee and a year of front and rear screen insurance. All three models have a built-in rear screen that can show a clock, animations and a selfie preview. Chips, cameras and battery sizes are still from leaks (reports point to Snapdragon 8s Gen 4 for the 700, Snapdragon 8 Gen 5 for the Pro and Snapdragon 7 Gen 4 for the 700S); prices come at the event. See the rumor tracker for the leaked specs. Update Nov 11: a device numbered FAP-AN00, most likely the 700 Pro, ran Geekbench 6 with a Snapdragon 8 Gen 5, 16GB of RAM and Android 17; Honor has listed 12/256GB, 12/512GB and 16/512GB configurations for the Pro (GSMArena). Update Nov 12: Gizmochina relays a fuller spec leak ahead of the event (6.57-inch 1.5K screen, 1.72-inch rear screen, 200MP main camera and a 9,000mAh battery with 80W charging on all three; 50MP periscope and 50W wireless on the Pro), plus another Geekbench run for the Pro. Still unconfirmed until launch.",
       "sources": [
         {
           "name": "Notebookcheck",
@@ -3870,6 +3906,10 @@
         {
           "name": "Beebom",
           "url": "https://gadgets.beebom.com/news/honor-700-series-launch-date-in-china-confirmed"
+        },
+        {
+          "name": "Gizmochina (Nov 12 spec leak)",
+          "url": "https://www.gizmochina.com/2026/11/12/honor-700-series-specs-leak-all-three-phones-tipped-with-a-rear-screen-and-a-9000mah-battery/"
         }
       ]
     },
@@ -4014,13 +4054,17 @@
       ],
       "type": "Car",
       "date": "2026-11-12",
-      "date_label": "Nov 12, 2026 (China launch)",
+      "date_label": "Nov 12, 2026 (China)",
       "precision": "day",
-      "status": "Confirmed",
-      "price": "",
-      "summary": "SAIC VW launches the ID. ERA 5X on Nov 12, the ID. ERA family's first all-electric SUV and VW's first car on its China Main Platform.",
-      "details": "Launch date from official information cited by Yiche and Autohome (via CnEVPost); pre-orders opened Sept 15. The five-seat compact SUV is 4,560 mm long on a 2,815 mm wheelbase, with a 155 kW motor and CATL LFP packs of 45.8 kWh and 58.5 kWh for 415 km and 520 km of range. It uses the CEA electronic architecture co-developed with Xpeng, and higher trims get LiDAR. Prices come at launch.",
+      "status": "Released",
+      "price": "119,900-159,900 yuan guide price; 99,900-139,900 yuan limited-time (about $14,900-20,800)",
+      "summary": "SAIC VW launched the ID. ERA 5X in China on Nov 12, its first all-electric ID. ERA SUV, from 99,900 yuan with a launch offer.",
+      "details": "Launch date from official information cited by Yiche and Autohome (via CnEVPost); pre-orders opened Sept 15. The five-seat compact SUV is 4,560 mm long on a 2,815 mm wheelbase, with a 155 kW motor and CATL LFP packs of 45.8 kWh and 58.5 kWh for 415 km and 520 km of range. It uses the CEA electronic architecture co-developed with Xpeng, and higher trims get LiDAR. Prices come at launch. Update Nov 12: launched in four trims (Pro, Pro+, Max, Ultra) at guide prices of 119,900-159,900 yuan, each 20,000 yuan less for a limited time (99,900, 115,900, 127,900 and 139,900 yuan), with a buyback guarantee based on the promo price. The Ultra trim gets a 192-line LiDAR and a Horizon Journey 6H chip (CnEVPost, IT Home, NetEase).",
       "sources": [
+        {
+          "name": "CnEVPost (Nov 12 launch)",
+          "url": "https://cnevpost.com/2026/11/12/saic-vw-launches-id-era-5x/"
+        },
         {
           "name": "CnEVPost",
           "url": "https://cnevpost.com/2026/11/02/saic-vw-to-launch-id-era-5x-nov-12/"
@@ -4028,6 +4072,10 @@
         {
           "name": "Autohome (Chinese)",
           "url": "https://m.autohome.com.cn/news/202611/1318120.html"
+        },
+        {
+          "name": "IT Home (Chinese, prices)",
+          "url": "https://www.ithome.com/1/026/379.htm"
         }
       ]
     },
@@ -4058,6 +4106,80 @@
         {
           "name": "IT Home (Chinese)",
           "url": "https://www.ithome.com/1/025/313.htm"
+        }
+      ]
+    },
+    {
+      "id": "baic-xingtan-5x",
+      "name": "BAIC Xingtan 5X (China)",
+      "brand": "BAIC Beijing Off-road",
+      "categories": [
+        "evs"
+      ],
+      "type": "Car",
+      "date": "2026-11-12",
+      "date_label": "Nov 12, 2026 (China)",
+      "precision": "day",
+      "status": "Released",
+      "price": "129,900-174,900 yuan guide price; from 126,900 yuan limited-time (about $18,900)",
+      "summary": "BAIC's boxy Xingtan 5X SUV launched in China on Nov 12 as a BEV or PHEV, with Huawei driver assistance on upper trims.",
+      "details": "The first model in Beijing Off-road's Xingtan NEV line comes in seven versions: three rear-drive BEVs (227 kW, 81.9 kWh, 625 km CLTC, 800V charging 30-80% in 14.5 minutes) at 129,900-159,900 yuan and four PHEVs (1.5T plus 50.4 kWh, 310 km or 285 km electric range) at 134,900-174,900 yuan, each 3,000 yuan less for a limited time. Trims with Huawei Qiankun ADS 5 Pro start at 146,900 yuan (BEV) and 151,900 yuan (PHEV). BAIC says pre-sales since Oct 21 drew 30,208 orders in 23 days.",
+      "sources": [
+        {
+          "name": "CnEVPost",
+          "url": "https://cnevpost.com/2026/11/12/baic-launches-xingtan-5x/"
+        }
+      ]
+    },
+    {
+      "id": "gemini-decision-1",
+      "name": "Gemini Decision 1 and the Gemini Decisions API",
+      "brand": "Google",
+      "categories": [
+        "ai"
+      ],
+      "type": "Software",
+      "date": "2026-11-11",
+      "date_label": "Nov 11, 2026",
+      "precision": "day",
+      "status": "Released",
+      "price": "$0.10 per 1M input tokens; no output charge; free tier in AI Studio",
+      "summary": "Google released a scoring-only Gemini model that answers up to 1,000 yes/no, multiple-choice or rubric questions about one multimodal input in a single pass.",
+      "details": "Available through the Gemini API in Google AI Studio as gemini-decision-1. Instead of generating text it returns probabilities and confidence scores, which Google pitches for routing, policy checks and grading, with 150-250 ms end-to-end latency and inputs up to 256K tokens across text, images, audio, video and PDFs. Google says it already powers model routing in Gemini Notebook and tools in Stitch and Search; Google Cloud support is coming later.",
+      "sources": [
+        {
+          "name": "Google blog",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+        },
+        {
+          "name": "VentureBeat",
+          "url": "https://venturebeat.com/technology/googles-gemini-decision-1-model-scores-up-to-1-000-questions-in-one-api-call"
+        }
+      ]
+    },
+    {
+      "id": "vivo-x500-india",
+      "name": "vivo X500 series (India launch)",
+      "brand": "vivo",
+      "categories": [
+        "android"
+      ],
+      "type": "Phone",
+      "date": "2026-11-26",
+      "date_label": "Nov 26, 2026 (India)",
+      "precision": "day",
+      "status": "Confirmed",
+      "price": "",
+      "summary": "vivo India confirmed the X500 series launches in India on Nov 26, with a red finish not sold in other markets.",
+      "details": "vivo India announced the date on X on Nov 12 with a teaser showing three colors, including a new red X500. The post does not list models; reports expect the X500, X500 Pro and X500 Pro Max together. Indian prices and configurations are not announced; leaked prices are in the rumor tracker. The series launched in China on Sept 21 and the Pro models reached Europe on Oct 27.",
+      "sources": [
+        {
+          "name": "Gizmochina",
+          "url": "https://www.gizmochina.com/2026/11/12/vivo-x500-series-india-launch-november-26/"
+        },
+        {
+          "name": "India Today",
+          "url": "https://www.indiatoday.in/technology/news/story/vivo-x500-series-to-launch-in-india-on-november-26-here-is-what-you-can-expect-3037294-2026-11-12"
         }
       ]
     }

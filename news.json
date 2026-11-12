@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T14:12:19Z",
+ "updated": "2026-11-12T14:24:37Z",
  "sources": [
   "9to5Google",
   "9to5Mac",
@@ -22,6 +22,63 @@
  ],
  "count": 600,
  "items": [
+  {
+   "id": "9c99dcab1272",
+   "title": "Apple Home Collection accessories available for pre-order this Friday",
+   "url": "https://9to5mac.com/2026/11/12/apple-home-collection-accessories-available-for-pre-order-this-friday/",
+   "source": "9to5Mac",
+   "published": "2026-11-12T14:19:22Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "408c902589ba",
+   "title": "Apple Says HomeView Software Update Coming Next Month With Siri Fix",
+   "url": "https://www.macrumors.com/2026/11/12/apple-plans-homeview-update-with-siri-fix/",
+   "source": "MacRumors",
+   "published": "2026-11-12T14:19:22Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "f88abaa8ff1f",
+   "title": "Yes, Samsung’s new Intelligent Eyewear smart glasses work with iPhones",
+   "url": "https://www.sammobile.com/news/samsung-new-intelligent-eyewear-smart-glasses-work-with-iphones/",
+   "source": "SamMobile",
+   "published": "2026-11-12T14:16:24Z",
+   "categories": [
+    "android",
+    "samsung"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "db1836747be5",
+   "title": "Here’s how Google’s Android XR glasses are handling the camera & privacy",
+   "url": "https://9to5google.com/2026/11/12/google-android-xr-glasses-camera-privacy/",
+   "source": "9to5Google",
+   "published": "2026-11-12T14:15:00Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "dc852ea30247",
+   "title": "Samsung Intelligent Eyewear compatibility extends beyond Galaxy phones",
+   "url": "https://www.sammobile.com/news/samsung-intelligent-eyewear-compatibility-extends-beyond-galaxy-phones/",
+   "source": "SamMobile",
+   "published": "2026-11-12T14:14:52Z",
+   "categories": [
+    "android",
+    "samsung"
+   ],
+   "rumor": false
+  },
   {
    "id": "84726a0527db",
    "title": "Nvidia’s Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO",
@@ -168,6 +225,17 @@
    ],
    "rumor": false,
    "summary": "SamMobile lists every Intelligent Eyewear frame and price, from $395 to $489, plus where to pre-order."
+  },
+  {
+   "id": "dae5557da26f",
+   "title": "You can now buy Nothing headphones and earbuds at select Target stores in the US",
+   "url": "https://www.androidauthority.com/nothing-audio-at-target-stores-3734345/",
+   "source": "Android Authority",
+   "published": "2026-11-12T14:00:52Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
   },
   {
    "id": "0409147db19c",
@@ -6700,73 +6768,6 @@
    "url": "https://www.gamespot.com/articles/take-two-boss-says-ocarina-of-time-is-terrific-but-is-it-competing-with-gta-6/",
    "source": "GameSpot",
    "published": "2026-11-10T16:49:21Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "932a98d96c25",
-   "title": "Deals: Amazon early Black Friday sale, Dell Googlebook, Google Home Speaker, Galaxy Tab S12 Ultra up to $330 off, more",
-   "url": "https://9to5google.com/2026/11/10/deals-amazon-early-black-friday-googlebook-tab-s12/",
-   "source": "9to5Google",
-   "published": "2026-11-10T16:47:19Z",
-   "categories": [
-    "android",
-    "samsung"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "1700c436418e",
-   "title": "BYD offices raided as JLR legal battle heats up over alleged Defender lookalike",
-   "url": "https://electrek.co/2026/11/10/byd-offices-raided-jlr-legal-battle-heats-up-over-defender-lookalike/",
-   "source": "Electrek",
-   "published": "2026-11-10T16:46:54Z",
-   "categories": [
-    "evs"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "09f486474059",
-   "title": "The coolest ride in town is England’s first electric ice cream truck",
-   "url": "https://electrek.co/2026/11/10/the-coolest-ride-in-town-is-englands-first-electric-ice-cream-truck/",
-   "source": "Electrek",
-   "published": "2026-11-10T16:44:34Z",
-   "categories": [
-    "evs"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "5205543aba4b",
-   "title": "Blink Mini Pan-Tilt 2K+ falls to $19.99 in first real discount",
-   "url": "https://www.androidauthority.com/blink-mini-pan-tilt-2k-deal-3733531/",
-   "source": "Android Authority",
-   "published": "2026-11-10T16:40:20Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "cef1b587298a",
-   "title": "A Google TV Ambient Mode issue is causing repetitive photo slideshows and frozen screens",
-   "url": "https://www.androidauthority.com/google-tv-ambient-mode-freezing-photos-bug-3733457/",
-   "source": "Android Authority",
-   "published": "2026-11-10T16:38:12Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "6ba363014bd7",
-   "title": "Death Stranding 2 Headlines PlayStation Plus Game Catalog For November",
-   "url": "https://www.gamespot.com/articles/death-stranding-2-headlines-playstation-plus-game-catalog-for-november/",
-   "source": "GameSpot",
-   "published": "2026-11-10T16:36:53Z",
    "categories": [
     "gaming"
    ],

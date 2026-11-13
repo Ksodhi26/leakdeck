@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T14:09:35Z",
+ "updated": "2026-11-13T14:23:43Z",
  "sources": [
   "9to5Google",
   "9to5Mac",
@@ -22,6 +22,52 @@
  ],
  "count": 600,
  "items": [
+  {
+   "id": "a110f3e1143f",
+   "title": "PSA: YouTube app not working on your new Apple TV? Here’s the fix",
+   "url": "https://9to5mac.com/2026/11/13/new-apple-tv-youtube-broken-fix/",
+   "source": "9to5Mac",
+   "published": "2026-11-13T14:21:50Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "88de68e2b6b8",
+   "title": "This Quest 3 golf club actually improved my scores, but it comes at a cost",
+   "url": "https://9to5google.com/2026/11/13/amvr-ga2-golf-club-meta-quest-review/",
+   "source": "9to5Google",
+   "published": "2026-11-13T14:16:45Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "4d037b7b27d1",
+   "title": "tvOS 27.2.1 launching soon with Siri AI for older Apple TV 4K models",
+   "url": "https://9to5mac.com/2026/11/13/tvos-27-2-1-launching-soon-with-siri-ai-for-older-apple-tv-4k-models/",
+   "source": "9to5Mac",
+   "published": "2026-11-13T14:15:56Z",
+   "categories": [
+    "ai",
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "f36f93f18e6f",
+   "title": "Samsung updates Galaxy Tab S10 FE series with November 2026 security patch",
+   "url": "https://www.sammobile.com/news/samsung-updates-galaxy-tab-s10-fe-series-with-november-2026-security-patch/",
+   "source": "SamMobile",
+   "published": "2026-11-13T14:12:47Z",
+   "categories": [
+    "android",
+    "samsung"
+   ],
+   "rumor": false
+  },
   {
    "id": "f501e1e0dcbc",
    "title": "Microsoft's major outage drags on, leaving Outlook, Teams, OneDrive, and other services disrupted",
@@ -71,7 +117,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Engadget's first look finds Motorola's $1,600 Signature 27 pairing a tandem OLED screen with a 7,000mAh battery and premium cameras."
   },
   {
    "id": "6b6949e20dd8",
@@ -82,7 +129,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "A look at why Apple leans on each household member's iPhone to make the shared HomeView feel personal."
   },
   {
    "id": "4be096efb99e",
@@ -91,7 +139,8 @@
    "source": "The Verge",
    "published": "2026-11-13T13:59:42Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "Microsoft's Outlook and 365 outage stretched into a second day, though service is starting to come back for some users."
   },
   {
    "id": "c7e17ef3b488",
@@ -102,7 +151,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "HomeView and the A19-powered Apple TV 4K are now in stores at $299 each, with online orders slipping to early December."
   },
   {
    "id": "87ff68356e77",
@@ -113,7 +163,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Apple opened orders for three LG-made Home Collection security devices: an indoor cam, an outdoor cam and a video doorbell."
   },
   {
    "id": "6b37f7879226",
@@ -148,7 +199,8 @@
     "android",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Samsung is pushing the November 2026 security patch to the Galaxy Tab S11 and Tab S11 Ultra."
   },
   {
    "id": "dc208a6a3b27",
@@ -183,6 +235,17 @@
    "rumor": false
   },
   {
+   "id": "2f42977b3799",
+   "title": "I’d rather use Android XR glasses over Meta Ray-Bans for the app alone",
+   "url": "https://9to5google.com/2026/11/13/id-rather-use-android-xr-glasses-over-meta-ray-bans-for-the-app-alone/",
+   "source": "9to5Google",
+   "published": "2026-11-13T13:30:00Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
    "id": "fc9592a49f06",
    "title": "The Xbox 25th Anniversary Console Restock Sold Out Before You Could Finish Reading This Headline",
    "url": "https://www.gamespot.com/articles/the-xbox-25th-anniversary-console-restock-sold-out-before-you-could-finish-reading-this-headline/",
@@ -202,7 +265,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "An app teardown shows Google Wallet testing a reworked floating bottom bar that splits search from adding a new pass."
   },
   {
    "id": "ee3f2ed9920a",
@@ -213,7 +277,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Honor set the 700 series launch for Nov 23 in China, and a China Telecom listing spells out chips, cameras and the shared 9,000mAh battery."
   },
   {
    "id": "e734eb03ab12",
@@ -224,7 +289,8 @@
    "categories": [
     "chips"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "A report describes Jensen Huang's final meeting before resigning, as Nvidia staff post internally asking for his return."
   },
   {
    "id": "49b313dc82ed",
@@ -236,7 +302,8 @@
     "android",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "The Galaxy A37 is getting the October 2026 patch, which Samsung says fixes 62 vulnerabilities."
   },
   {
    "id": "3a1a97888143",
@@ -248,7 +315,8 @@
     "chips",
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "New congressional letters to Jensen Huang cite national security concerns and raise the prospect of subpoenas if he does not appear."
   },
   {
    "id": "775a157f6dab",
@@ -259,7 +327,8 @@
    "categories": [
     "evs"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "TechRadar relays reporting that a SpaceX-Tesla merger could be announced within weeks; neither company has confirmed a deal."
   },
   {
    "id": "9f4c0400ebd6",
@@ -271,7 +340,8 @@
     "ai",
     "gaming"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "A French bank reportedly lost about $110 million to a scam that used AI tools, roughly a quarter's worth of its profit."
   },
   {
    "id": "37b639aaa9f3",
@@ -283,7 +353,8 @@
     "android",
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Peanuts Native repackages 12 Switch games as standalone Android apps, with companion support for dual-screen handhelds."
   },
   {
    "id": "0ea9a3677089",
@@ -331,7 +402,8 @@
     "ai",
     "chips"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Bloomberg maps a network of Chinese AI firms using smuggled Nvidia chips, with Alice Huang at the center."
   },
   {
    "id": "ce37d0a1f48e",
@@ -340,7 +412,8 @@
    "source": "Tom's Hardware",
    "published": "2026-11-13T12:57:37Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "With Microsoft 365 down for nearly a day, some offices in Japan fell back on fax machines."
   },
   {
    "id": "ffe510cf8b97",
@@ -351,7 +424,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Gmail's settings on Android are getting the Material 3 Expressive look, with colorful icons and rounded cards."
   },
   {
    "id": "f240bb31094b",
@@ -362,7 +436,8 @@
    "categories": [
     "chips"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Israeli investors see an opening for Nvidia rivals after Huang's exit, while worrying about Nvidia's large footprint in the country."
   },
   {
    "id": "38ff9ea087d8",
@@ -374,7 +449,8 @@
     "android",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "The Galaxy Z Fold 7 and Z Flip 7 are receiving the November 2026 security update, starting in South Korea."
   },
   {
    "id": "faea49b37bb6",
@@ -420,7 +496,8 @@
     "android",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Google's privacy rules keep Samsung's Intelligent Eyewear from live-streaming to social apps, a gap versus Meta's Ray-Bans."
   },
   {
    "id": "0d4614944ee4",
@@ -462,7 +539,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Email, Teams and Copilot remain disrupted in the ongoing global Microsoft 365 outage, though Microsoft reports progress."
   },
   {
    "id": "bff153cb3140",
@@ -482,7 +560,8 @@
    "source": "GSMArena",
    "published": "2026-11-13T11:52:02Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "Microsoft blames overloaded servers, not a cyberattack, for a 12-hour-plus outage across Outlook, Teams, OneDrive and Azure."
   },
   {
    "id": "cec77830a784",
@@ -504,7 +583,8 @@
     "android",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Gemini's task automation will soon support 134 apps on select Galaxy phones and tablets running Android 17 or later."
   },
   {
    "id": "3693875e139c",
@@ -564,7 +644,8 @@
     "gaming",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "One UI 9.5 will tie Samsung Contacts into Gaming Hub to make mobile gaming more social."
   },
   {
    "id": "4f108f493f85",
@@ -575,7 +656,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Huawei revealed the Sense G1, its first continuous glucose monitor, which pairs with its watches and phones; price and date are TBA."
   },
   {
    "id": "4b0e835affc1",
@@ -597,7 +679,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "A survey suggests workers accept AI productivity gains at their employer as long as their pay keeps up."
   },
   {
    "id": "634ac3cf264d",
@@ -677,7 +760,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Pixel Weather now has a way to flag when the displayed conditions don't match what's outside."
   },
   {
    "id": "aad001a500bf",
@@ -700,7 +784,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Android 17 has started reaching the Razr Plus 2024 outside the US; the standard Razr 2024 is still waiting."
   },
   {
    "id": "ffc3d85b7797",
@@ -722,7 +807,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Motorola Germany now lists the full 7,000mAh battery for the Signature 27, reversing an earlier 5,500mAh figure."
   },
   {
    "id": "c5a0d0cd2398",
@@ -731,7 +817,8 @@
    "source": "Engadget",
    "published": "2026-11-13T10:39:44Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "Whoop's new Humans feed lets fitness-tracker users post and compare workouts, sleep and recovery."
   },
   {
    "id": "9b4972b4ebb0",
@@ -742,7 +829,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "HomeView and the fourth-generation Apple TV 4K officially go on sale today after a month of pre-orders."
   },
   {
    "id": "307292fbf5d7",
@@ -753,7 +841,8 @@
    "categories": [
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Microsoft says it has found no sign of an attack behind the outage hitting governments and companies worldwide."
   },
   {
    "id": "a7d1f7417433",
@@ -810,7 +899,8 @@
     "android",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Samsung's Intelligent Eyewear can be controlled with Galaxy Watch hand gestures, the company says as pre-orders begin."
   },
   {
    "id": "eda5690fe8f2",
@@ -867,7 +957,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Some Pixel owners say the November update broke the always-on display, lock screen and notifications."
   },
   {
    "id": "5af3953328b1",
@@ -878,7 +969,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "The Chinese vivo X300 Ultra is getting Android 17-based OriginOS 7 with a redesigned camera app and battery tweaks."
   },
   {
    "id": "74fbe900f804",
@@ -889,7 +981,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Google Messages' reworked search, which makes old chats, media and links easier to find, is reaching beta testers."
   },
   {
    "id": "6eb1752f9325",
@@ -925,7 +1018,8 @@
     "android",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "The budget Galaxy M06 is getting One UI 9.0 based on Android 17."
   },
   {
    "id": "1b9807715c88",
@@ -945,7 +1039,8 @@
    "categories": [
     "android"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "Tipster Digital Chat Station says Oppo's pocket gimbal camera arrives by year-end, with a wide foldable and a 16:9 flagship to follow."
   },
   {
    "id": "1811b092b555",
@@ -967,7 +1062,8 @@
    "categories": [
     "evs"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "BYD apologized for a wheel assembly mistake on its flagship electric SUV and says it will fix affected cars."
   },
   {
    "id": "4178d452c592",
@@ -989,7 +1085,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Meta's Muse can now phone US businesses for paying subscribers ($20/month), similar to Pixel's Call for Me."
   },
   {
    "id": "c5a7d9fc11d0",
@@ -1001,7 +1098,8 @@
     "android",
     "samsung"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "A Galaxy A18 5G has passed Bluetooth certification under seven model numbers, hinting at a launch in the coming months."
   },
   {
    "id": "48379431f86a",
@@ -1012,7 +1110,8 @@
    "categories": [
     "android"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "A 3C listing tipped as a Redmi Note 18 model shows 67W charging, ahead of a rumored pre-Lunar New Year launch."
   },
   {
    "id": "6ac130b3500d",
@@ -1034,7 +1133,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Google Health 5.12.2 restores missing vitals and step totals, and Google says no data was lost."
   },
   {
    "id": "e3951cbbd087",
@@ -1056,7 +1156,8 @@
    "categories": [
     "android"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "A Chinese rumor puts the Huawei Mate X8 launch on Nov 24, with support for the Ruiying Z10 zoom camera add-on; Huawei hasn't confirmed."
   },
   {
    "id": "eb7172323701",
@@ -1067,7 +1168,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Oppo confirmed a 200MP main camera and Dimensity 8550 Super for the Reno17 Pro and Snapdragon 7 Gen 4 for the Reno17, ahead of Nov 16."
   },
   {
    "id": "794fdf5cb0f8",
@@ -1100,7 +1202,8 @@
    "categories": [
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "MachineGames has officially confirmed Wolfenstein 3 is in production; there is no release date yet."
   },
   {
    "id": "040b7f4a33e1",
@@ -1111,7 +1214,8 @@
    "categories": [
     "android"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "Digital Chat Station says the vivo X500s gets a Dimensity 9-series chip, a 64MP periscope and a bigger battery than the X300s."
   },
   {
    "id": "998a2c0bc8ab",
@@ -1122,7 +1226,8 @@
    "categories": [
     "chips"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Seagate's FireCuda Forge pairs 20TB of hard drive capacity with SSD-like speeds, at a premium price."
   },
   {
    "id": "65b54a2f2dc8",
@@ -1145,7 +1250,8 @@
     "apple",
     "chips"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "President Trump is publicly floating former Apple CEO Tim Cook as Nvidia's next chief."
   },
   {
    "id": "a4007d1e5441",
@@ -1157,7 +1263,8 @@
     "ai",
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "MacRumors tries the A19-based Apple TV 4K and its Siri AI features ahead of the Nov 13 release."
   },
   {
    "id": "d6d016e127d2",
@@ -1179,7 +1286,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "The Verge finds Anthropic's consumer Duet agent a bit anxious but useful at catching tasks that would slip by."
   },
   {
    "id": "dca781018f4f",
@@ -1190,7 +1298,8 @@
    "categories": [
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Xbox used its 25th-anniversary news to confirm Wolfenstein 3 is in the works at MachineGames."
   },
   {
    "id": "313c0e792df5",
@@ -1222,7 +1331,8 @@
     "ai",
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Apple says tvOS 27.2.1 will add Siri AI to the 2nd- and 3rd-gen Apple TV 4K; no release date yet."
   },
   {
    "id": "e7ee85415204",
@@ -1231,7 +1341,8 @@
    "source": "The Verge",
    "published": "2026-11-12T23:43:22Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "Whoop added Whoop Humans, an in-app social network where members share data from their trackers."
   },
   {
    "id": "7a023e844510",
@@ -1240,7 +1351,8 @@
    "source": "Engadget",
    "published": "2026-11-12T23:32:00Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "Paid Muse subscribers can have Meta's AI agent book appointments, make reservations and wait on hold for them."
   },
   {
    "id": "030d0bd341f8",
@@ -6704,63 +6816,6 @@
    "categories": [
     "chips",
     "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "a86af765ffaf",
-   "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
-   "source": "The Verge",
-   "published": "2026-11-11T14:18:08Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "2d8f602ac5a8",
-   "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
-   "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
-   "source": "The Verge",
-   "published": "2026-11-11T14:15:27Z",
-   "categories": [
-    "ai",
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "6d9bfd587e80",
-   "title": "If you bought an iPhone Duo, have you kept or returned it? [Poll]",
-   "url": "https://9to5mac.com/2026/11/11/if-you-bought-an-iphone-duo-have-you-kept-or-returned-it-poll/",
-   "source": "9to5Mac",
-   "published": "2026-11-11T14:13:49Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "ef892408bebc",
-   "title": "Google DeepMind just mathematically verified key parts of Signal",
-   "url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
-   "source": "Ars Technica",
-   "published": "2026-11-11T14:08:57Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "8c8e96e64232",
-   "title": "The Samsung Galaxy S26 FE just quietly scored an impressive no-strings discount",
-   "url": "https://www.androidpolice.com/samsung-galaxy-s26-fe-deal-early-black-friday-amazon/",
-   "source": "Android Police",
-   "published": "2026-11-11T14:01:10Z",
-   "categories": [
-    "android",
-    "samsung"
    ],
    "rumor": false
   }

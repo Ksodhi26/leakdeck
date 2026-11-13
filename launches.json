@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12",
+  "updated": "2026-11-13",
   "items": [
     {
       "id": "gtc-berlin-2026",
@@ -956,11 +956,19 @@
       "date": "2026-11-13",
       "date_label": "Nov 13, 2026",
       "precision": "day",
-      "status": "Confirmed",
+      "status": "Released",
       "price": "$299 each",
-      "summary": "Apple's new 7-inch HomeView smart-home hub and the Siri AI-enabled Apple TV 4K both arrive Nov 13.",
-      "details": "Both devices were announced Oct 13 and are built to showcase Apple's upgraded Siri.",
+      "summary": "Apple's 7-inch HomeView smart-home hub and the new Siri AI-enabled Apple TV 4K went on sale Nov 13, with first pre-orders arriving the same day.",
+      "details": "Both devices were announced Oct 13 and are built to showcase Apple's upgraded Siri. Update Nov 13: both are now available in Apple Stores and the first pre-orders are being delivered. HomeView (A18 chip, 12MP Center Stage camera, tabletop or wall-mounted) launches in the US, UK, Australia, Canada, India, New Zealand, Singapore and South Africa but not the EU; the Apple TV 4K moves to an A19 chip with far-field microphones. Online orders are backordered into early December, so stores are the fastest option. Apple says Siri AI also comes to the 2nd- and 3rd-gen Apple TV 4K in tvOS 27.2.1, which has no release date yet.",
       "sources": [
+        {
+          "name": "9to5Mac (Nov 13, now available)",
+          "url": "https://9to5mac.com/2026/11/13/new-apple-tv-4k-and-homeview-now-available-heres-everything-you-need-to-know/"
+        },
+        {
+          "name": "AppleInsider (Nov 13, shipping)",
+          "url": "https://appleinsider.com/articles/26/11/13/first-homeview-and-apple-tv-4k-pre-orders-are-arriving"
+        },
         {
           "name": "Apple Newsroom: HomeView",
           "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/"
@@ -2946,8 +2954,12 @@
       "status": "Confirmed",
       "price": "",
       "summary": "Oppo launches the Reno17 and Reno17 Pro in China on Nov 16, alongside the Pad Air 6 tablet and Watch 5.",
-      "details": "Announced on Oppo's Weibo on Oct 30 without a date, prices or specs. Leaks point to a Reno17 and Reno17 Pro in China on ColorOS 17 (Android 17); Digital Chat Station tips the Pro with a 6.32-inch 1.5K 120Hz OLED, Dimensity 8550 Super, a 200MP main camera, 50MP periscope and about 7,000mAh, but those specs are unconfirmed. Update Nov 3: Digital Chat Station now tips the Reno17 with a 6.5-inch screen, Snapdragon 7 Gen 4 and an 8,000mAh-class battery, and the Reno17 Pro with a 6.3-inch screen, Dimensity 8550 and a 7,200mAh-class battery; both reportedly get a 50MP periscope, in 8GB/256GB to 12GB/512GB versions. Still a leak; Oppo has confirmed only a November launch. Update Nov 9: Oppo confirmed on Weibo that the Reno17 series, Watch 5 and Pad Air 6 launch in China on Nov 16, revealed the phones' design and four colors (Adventure Cat, Cocoa Brown, First Snow White, Ice Moon White) and opened pre-orders. Oppo also published the Pad Air 6 spec sheet ahead of launch: a 12.1-inch 2.8K 120Hz LCD (matte option), Dimensity 7360 Super, 10,050mAh battery, 8MP front and rear cameras, up to 12GB/256GB, Wi-Fi and LTE versions, ColorOS 17; pricing comes at launch. The Watch 5 is 9.2mm thick, 25g and rated for up to 7 days. Phone specs are still unannounced. Update Nov 11: Oppo's official teaser confirms the standard Reno17 has four 50MP cameras (main, periscope telephoto and ultra-wide on the back, plus an ultra-wide selfie camera), dropping the 200MP main sensor of the Reno16; the Reno17 Pro's cameras are not yet confirmed. The event starts at 7 PM China time (Gizmochina).",
+      "details": "Announced on Oppo's Weibo on Oct 30 without a date, prices or specs. Leaks point to a Reno17 and Reno17 Pro in China on ColorOS 17 (Android 17); Digital Chat Station tips the Pro with a 6.32-inch 1.5K 120Hz OLED, Dimensity 8550 Super, a 200MP main camera, 50MP periscope and about 7,000mAh, but those specs are unconfirmed. Update Nov 3: Digital Chat Station now tips the Reno17 with a 6.5-inch screen, Snapdragon 7 Gen 4 and an 8,000mAh-class battery, and the Reno17 Pro with a 6.3-inch screen, Dimensity 8550 and a 7,200mAh-class battery; both reportedly get a 50MP periscope, in 8GB/256GB to 12GB/512GB versions. Still a leak; Oppo has confirmed only a November launch. Update Nov 9: Oppo confirmed on Weibo that the Reno17 series, Watch 5 and Pad Air 6 launch in China on Nov 16, revealed the phones' design and four colors (Adventure Cat, Cocoa Brown, First Snow White, Ice Moon White) and opened pre-orders. Oppo also published the Pad Air 6 spec sheet ahead of launch: a 12.1-inch 2.8K 120Hz LCD (matte option), Dimensity 7360 Super, 10,050mAh battery, 8MP front and rear cameras, up to 12GB/256GB, Wi-Fi and LTE versions, ColorOS 17; pricing comes at launch. The Watch 5 is 9.2mm thick, 25g and rated for up to 7 days. Phone specs are still unannounced. Update Nov 11: Oppo's official teaser confirms the standard Reno17 has four 50MP cameras (main, periscope telephoto and ultra-wide on the back, plus an ultra-wide selfie camera), dropping the 200MP main sensor of the Reno16; the Reno17 Pro's cameras are not yet confirmed. The event starts at 7 PM China time (Gizmochina). Update Nov 13: Oppo confirmed a 200MP main camera for the Reno17 Pro, the Dimensity 8550 Super chip for the Pro and the Snapdragon 7 Gen 4 for the Reno17, which gets four 50MP cameras; both run ColorOS 17 on Android 17.",
       "sources": [
+        {
+          "name": "GSMArena (Nov 13, chips and camera)",
+          "url": "https://www.gsmarena.com/oppo_confirms_the_reno17_pros_main_camera_and_the_chipsets_powering_it_and_the_reno17-news-75462.php"
+        },
         {
           "name": "Gizmochina (Nov 11, cameras)",
           "url": "https://www.gizmochina.com/2026/11/11/oppo-reno-17-series-four-50mp-cameras-officially-confirmed/"
@@ -3719,14 +3731,22 @@
         "evs"
       ],
       "type": "Car",
-      "date": "2026-11-13",
-      "date_label": "Nov 13, 2026 (debut and pre-sales)",
+      "date": "2026-11-27",
+      "date_label": "Nov 27, 2026 (official launch at Guangzhou Auto Show; pre-sales opened Nov 13)",
       "precision": "day",
       "status": "Confirmed",
-      "price": "",
-      "summary": "Dongfeng Nissan debuts the NX7 plug-in hybrid SUV on Nov 13 and opens pre-sales the same day, with sales expected before year-end.",
-      "details": "Dongfeng Nissan announced the date on Nov 9; local media say the debut is at a Nissan Day event in Zhuhai, where Nissan will also show another unnamed model. The NX7 is a five-seat midsize SUV (4,785 mm long, 2,815 mm wheelbase) and the fourth model in the N series after the N7, N6 and NX8. Regulatory filings list a 1.5-liter engine (73 kW) with a 170 kW Bosch motor and a 40.9 kWh CATL LFP battery giving 220-225 km of electric range; roof LiDAR supports urban navigation assist. CnEVPost expects it to be priced below the NX8 (159,900-209,900 yuan). Pre-sale prices have not been announced.",
+      "price": "Pre-sale 129,900-149,900 yuan",
+      "summary": "Dongfeng Nissan opened NX7 plug-in hybrid SUV pre-sales on Nov 13 from 129,900 yuan; the official launch is Nov 27 at the Guangzhou Auto Show.",
+      "details": "Dongfeng Nissan announced the date on Nov 9; local media say the debut is at a Nissan Day event in Zhuhai, where Nissan will also show another unnamed model. The NX7 is a five-seat midsize SUV (4,785 mm long, 2,815 mm wheelbase) and the fourth model in the N series after the N7, N6 and NX8. Regulatory filings list a 1.5-liter engine (73 kW) with a 170 kW Bosch motor and a 40.9 kWh CATL LFP battery giving 220-225 km of electric range; roof LiDAR supports urban navigation assist. CnEVPost expects it to be priced below the NX8 (159,900-209,900 yuan). Pre-sale prices have not been announced. Update Nov 13: Nissan unveiled the NX7 at Nissan Day in Zhuhai and opened pre-sales for three trims: 320 Pro (129,900 yuan), 320 Max (139,900 yuan) and 320 Ultra LiDAR (149,900 yuan). All use a 40.9 kWh CATL battery with about 320 km of CLTC electric range (325 km on the Pro) and up to 1,666 km combined. The official launch, with final prices, is Nov 27 at the Guangzhou Auto Show; final prices in China are often below pre-sale prices.",
       "sources": [
+        {
+          "name": "CnEVPost (Nov 13, pre-sales)",
+          "url": "https://cnevpost.com/2026/11/13/nissan-opens-pre-sales-nx7-china/"
+        },
+        {
+          "name": "Dongfeng Nissan (official spec sheet, Chinese)",
+          "url": "https://www.dongfeng-nissan.com.cn/car/NX7/detail"
+        },
         {
           "name": "CnEVPost",
           "url": "https://cnevpost.com/2026/11/09/dongfeng-nissan-nx7-debut-nov-13/"
@@ -3883,14 +3903,22 @@
         "android"
       ],
       "type": "Phone",
-      "date": "2026-11-13",
-      "date_label": "Nov 13, 2026 (China launch)",
+      "date": "2026-11-23",
+      "date_label": "Nov 23, 2026 (China launch, 2:30 PM in Wuhan)",
       "precision": "day",
       "status": "Confirmed",
       "price": "",
-      "summary": "Honor launches the 700, 700 Pro and 700S in China on Nov 13, each with a small rear display in the camera island.",
-      "details": "Honor set the date in a Weibo teaser ('see you on November 13'); reservations opened Nov 6 with a 365-day replacement guarantee and a year of front and rear screen insurance. All three models have a built-in rear screen that can show a clock, animations and a selfie preview. Chips, cameras and battery sizes are still from leaks (reports point to Snapdragon 8s Gen 4 for the 700, Snapdragon 8 Gen 5 for the Pro and Snapdragon 7 Gen 4 for the 700S); prices come at the event. See the rumor tracker for the leaked specs. Update Nov 11: a device numbered FAP-AN00, most likely the 700 Pro, ran Geekbench 6 with a Snapdragon 8 Gen 5, 16GB of RAM and Android 17; Honor has listed 12/256GB, 12/512GB and 16/512GB configurations for the Pro (GSMArena). Update Nov 12: Gizmochina relays a fuller spec leak ahead of the event (6.57-inch 1.5K screen, 1.72-inch rear screen, 200MP main camera and a 9,000mAh battery with 80W charging on all three; 50MP periscope and 50W wireless on the Pro), plus another Geekbench run for the Pro. Still unconfirmed until launch.",
+      "summary": "Honor launches the 700, 700 Pro and 700S in China on Nov 23 in Wuhan, each with a small rear display in the camera island and a 9,000mAh battery.",
+      "details": "Honor set the date in a Weibo teaser ('see you on November 13'); reservations opened Nov 6 with a 365-day replacement guarantee and a year of front and rear screen insurance. All three models have a built-in rear screen that can show a clock, animations and a selfie preview. Chips, cameras and battery sizes are still from leaks (reports point to Snapdragon 8s Gen 4 for the 700, Snapdragon 8 Gen 5 for the Pro and Snapdragon 7 Gen 4 for the 700S); prices come at the event. See the rumor tracker for the leaked specs. Update Nov 11: a device numbered FAP-AN00, most likely the 700 Pro, ran Geekbench 6 with a Snapdragon 8 Gen 5, 16GB of RAM and Android 17; Honor has listed 12/256GB, 12/512GB and 16/512GB configurations for the Pro (GSMArena). Update Nov 12: Gizmochina relays a fuller spec leak ahead of the event (6.57-inch 1.5K screen, 1.72-inch rear screen, 200MP main camera and a 9,000mAh battery with 80W charging on all three; 50MP periscope and 50W wireless on the Pro), plus another Geekbench run for the Pro. Still unconfirmed until launch. Update Nov 13: the launch did not happen on Nov 13 as earlier reported. Honor CEO Li Jian set the event for Nov 23 at 2:30 PM in Wuhan; reservations stay open. A China Telecom product listing (via GSMArena) now backs most specs: 6.57-inch screen, 50MP selfie camera, 9,000mAh battery, MagicOS 11 on Android 17 and 156.0x74.7x7.96mm on all three; Snapdragon 8 Gen 5 (Pro), 8s Gen 4 (700) and 7 Gen 4 (700S); a 200MP main camera on all, plus a 50MP 3.5x periscope on the 700 and Pro. Prices come at the event.",
       "sources": [
+        {
+          "name": "GSMArena (Nov 13, date and carrier listing)",
+          "url": "https://www.gsmarena.com/honor_700_series_launch_date_is_official_just_as_a_carrier_listing_reveals_most_specs-news-75471.php"
+        },
+        {
+          "name": "Gizmochina (Nov 13, Nov 23 event)",
+          "url": "https://www.gizmochina.com/2026/11/13/honor-700-series-launch-event-officially-set-november-23/"
+        },
         {
           "name": "Notebookcheck",
           "url": "https://www.notebookcheck.net/Honor-700-series-launch-date-confirmed-and-all-three-get-a-rear-screen.1445629.0.html"
@@ -4180,6 +4208,62 @@
         {
           "name": "India Today",
           "url": "https://www.indiatoday.in/technology/news/story/vivo-x500-series-to-launch-in-india-on-november-26-here-is-what-you-can-expect-3037294-2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "gemini-4-hydrogen",
+      "name": "Gemini 4 Hydrogen",
+      "brand": "Google",
+      "categories": [
+        "ai"
+      ],
+      "type": "AI model",
+      "date": "2026-11-12",
+      "date_label": "Nov 12, 2026",
+      "precision": "day",
+      "status": "Released",
+      "price": "$1.50 / $7.50 per million input / output tokens",
+      "summary": "Google released Gemini 4 Hydrogen, a faster successor to Gemini 3.8 Flash aimed at coding and agents, and made it the default model for AI Mode in Search.",
+      "details": "Hydrogen is rolling out in the Gemini API, AI Studio, Google Cloud (generally available as gemini-4-hydrogen), Gemini for business, the Gemini app and Google Search, where it now powers AI Mode and handles more complex, multi-part questions. Google says it finishes tasks 2.5 times as fast as Gemini 3.8 Flash and scores 57% on its Terminal-Bench 4.1 test vs 18.2% for Flash (company figures). It defaults to high reasoning and adds an xhigh setting. Standard API pricing is $1.50 per million input and $7.50 per million output tokens, twice Flash's introductory rate; Batch and Flex tiers cost half.",
+      "sources": [
+        {
+          "name": "Google blog",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+        },
+        {
+          "name": "VentureBeat",
+          "url": "https://venturebeat.com/technology/google-launches-gemini-4-hydrogen-a-faster-smarter-pricier-flash-successor"
+        },
+        {
+          "name": "The Verge (Search)",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen"
+        }
+      ]
+    },
+    {
+      "id": "apple-home-collection-lg-cameras",
+      "name": "Apple Home Collection: LG Indoor Cam, Outdoor Cam and Video Doorbell",
+      "brand": "Apple / LG",
+      "categories": [
+        "apple"
+      ],
+      "type": "Gadget",
+      "date": "2026-12-14",
+      "date_label": "Ships Dec 14-18, 2026 (orders opened Nov 13)",
+      "precision": "window",
+      "status": "Confirmed",
+      "price": "$199.95 (Indoor Cam), $299.95 (Outdoor Cam), $249.95 (Video Doorbell)",
+      "summary": "The first three HomeView-compatible Apple Home Collection accessories, all LG security devices, opened for orders Nov 13 and ship in mid-December.",
+      "details": "Apple opened orders on Nov 13 for the LG Indoor Cam, LG Outdoor Cam and LG Video Doorbell, with delivery dates of Dec 14-18 listed at launch. The doorbell and outdoor camera come in Essence Silver and Essence Graphite; the indoor camera only in white. The rest of the Apple Home Collection from LG and Schneider Home rolls out from December into early 2027.",
+      "sources": [
+        {
+          "name": "MacRumors",
+          "url": "https://www.macrumors.com/2026/11/13/apple-home-collection-orders-begin/"
+        },
+        {
+          "name": "AppleInsider",
+          "url": "https://appleinsider.com/articles/26/11/13/first-apple-home-collection-devices-can-now-be-ordered"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "items": [
     {
       "id": "gtc-berlin-2026",
@@ -959,8 +959,12 @@
       "status": "Released",
       "price": "$299 each",
       "summary": "Apple's 7-inch HomeView smart-home hub and the new Siri AI-enabled Apple TV 4K went on sale Nov 13, with first pre-orders arriving the same day.",
-      "details": "Both devices were announced Oct 13 and are built to showcase Apple's upgraded Siri. Update Nov 13: both are now available in Apple Stores and the first pre-orders are being delivered. HomeView (A18 chip, 12MP Center Stage camera, tabletop or wall-mounted) launches in the US, UK, Australia, Canada, India, New Zealand, Singapore and South Africa but not the EU; the Apple TV 4K moves to an A19 chip with far-field microphones. Online orders are backordered into early December, so stores are the fastest option. Apple says Siri AI also comes to the 2nd- and 3rd-gen Apple TV 4K in tvOS 27.2.1, which has no release date yet.",
+      "details": "Both devices were announced Oct 13 and are built to showcase Apple's upgraded Siri. Update Nov 13: both are now available in Apple Stores and the first pre-orders are being delivered. HomeView (A18 chip, 12MP Center Stage camera, tabletop or wall-mounted) launches in the US, UK, Australia, Canada, India, New Zealand, Singapore and South Africa but not the EU; the Apple TV 4K moves to an A19 chip with far-field microphones. Online orders are backordered into early December, so stores are the fastest option. Apple says Siri AI also comes to the 2nd- and 3rd-gen Apple TV 4K in tvOS 27.2.1, which has no release date yet. Update Nov 13: Apple released tvOS 27.2.1 the same day, bringing Siri AI to the 2nd- and 3rd-gen Apple TV 4K (a paired iPhone 15 Pro or later is required), along with HomePod Software 27.2.1.",
       "sources": [
+        {
+          "name": "MacRumors (Nov 13, tvOS 27.2.1)",
+          "url": "https://www.macrumors.com/2026/11/13/apple-releases-tvos-27-2-1/"
+        },
         {
           "name": "9to5Mac (Nov 13, now available)",
           "url": "https://9to5mac.com/2026/11/13/new-apple-tv-4k-and-homeview-now-available-heres-everything-you-need-to-know/"
@@ -1958,13 +1962,21 @@
       ],
       "type": "Car",
       "date": "2026-12-31",
-      "date_label": "By end of 2026 (Tesla target)",
+      "date_label": "December 2026 (estimated first deliveries in Austin; invite-only orders opened Nov 13)",
       "precision": "window",
-      "status": "Estimated",
-      "price": "",
-      "summary": "Tesla said on its Q3 earnings call that it will start selling the steering-wheel-free Cybercab to customers by the end of 2026.",
-      "details": "Tesla engineering VP Lars Moravy said current Cybercab production goes to Tesla's own robotaxi fleet, with customer deliveries starting small later. Musk said most Cybercabs will still be Tesla-owned and sold as transport-as-a-service. NHTSA opened an investigation in September into whether the Cybercab meets federal safety standards, which could affect the plan. On the same call CFO Vaibhav Taneja said Cybercab robotaxi service expands from Austin to Dallas next month and to more cities by year-end. Treat Tesla timelines with caution.",
+      "status": "Confirmed",
+      "price": "$29,990 plus a required $299/month Autonomy Subscription",
+      "summary": "Tesla is inviting select customers to buy the steering-wheel-free Cybercab for $29,990, with a required $299-a-month subscription and first deliveries estimated for December in Austin.",
+      "details": "Tesla engineering VP Lars Moravy said current Cybercab production goes to Tesla's own robotaxi fleet, with customer deliveries starting small later. Musk said most Cybercabs will still be Tesla-owned and sold as transport-as-a-service. NHTSA opened an investigation in September into whether the Cybercab meets federal safety standards, which could affect the plan. On the same call CFO Vaibhav Taneja said Cybercab robotaxi service expands from Austin to Dallas next month and to more cities by year-end. Treat Tesla timelines with caution. Update Nov 13: Tesla's Robotaxi account on X said select customers are being invited to buy the Cybercab for personal use. The order page shown in screenshots lists $29,990 before taxes, a $1,000 non-refundable deposit and estimated delivery in December 2026 in Austin. A $299-per-month Autonomy Subscription is required for the car to operate (one month included), and it works only in Tesla's supported Robotaxi service areas, currently cities in Texas and Florida. It is unclear when or whether sales open to the general public, and NHTSA has not yet ruled on whether a car without pedals meets federal safety standards.",
       "sources": [
+        {
+          "name": "Electrek (Nov 13, orders open)",
+          "url": "https://electrek.co/2026/11/13/tesla-cybercab-personal-use-orders-299-subscription-geofence/"
+        },
+        {
+          "name": "InsideEVs (Nov 13, pricing)",
+          "url": "https://insideevs.com/news/815473/tesla-cybercab-pricing-sales-announced/"
+        },
         {
           "name": "TechCrunch",
           "url": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/"
@@ -2954,8 +2966,12 @@
       "status": "Confirmed",
       "price": "",
       "summary": "Oppo launches the Reno17 and Reno17 Pro in China on Nov 16, alongside the Pad Air 6 tablet and Watch 5.",
-      "details": "Announced on Oppo's Weibo on Oct 30 without a date, prices or specs. Leaks point to a Reno17 and Reno17 Pro in China on ColorOS 17 (Android 17); Digital Chat Station tips the Pro with a 6.32-inch 1.5K 120Hz OLED, Dimensity 8550 Super, a 200MP main camera, 50MP periscope and about 7,000mAh, but those specs are unconfirmed. Update Nov 3: Digital Chat Station now tips the Reno17 with a 6.5-inch screen, Snapdragon 7 Gen 4 and an 8,000mAh-class battery, and the Reno17 Pro with a 6.3-inch screen, Dimensity 8550 and a 7,200mAh-class battery; both reportedly get a 50MP periscope, in 8GB/256GB to 12GB/512GB versions. Still a leak; Oppo has confirmed only a November launch. Update Nov 9: Oppo confirmed on Weibo that the Reno17 series, Watch 5 and Pad Air 6 launch in China on Nov 16, revealed the phones' design and four colors (Adventure Cat, Cocoa Brown, First Snow White, Ice Moon White) and opened pre-orders. Oppo also published the Pad Air 6 spec sheet ahead of launch: a 12.1-inch 2.8K 120Hz LCD (matte option), Dimensity 7360 Super, 10,050mAh battery, 8MP front and rear cameras, up to 12GB/256GB, Wi-Fi and LTE versions, ColorOS 17; pricing comes at launch. The Watch 5 is 9.2mm thick, 25g and rated for up to 7 days. Phone specs are still unannounced. Update Nov 11: Oppo's official teaser confirms the standard Reno17 has four 50MP cameras (main, periscope telephoto and ultra-wide on the back, plus an ultra-wide selfie camera), dropping the 200MP main sensor of the Reno16; the Reno17 Pro's cameras are not yet confirmed. The event starts at 7 PM China time (Gizmochina). Update Nov 13: Oppo confirmed a 200MP main camera for the Reno17 Pro, the Dimensity 8550 Super chip for the Pro and the Snapdragon 7 Gen 4 for the Reno17, which gets four 50MP cameras; both run ColorOS 17 on Android 17.",
+      "details": "Announced on Oppo's Weibo on Oct 30 without a date, prices or specs. Leaks point to a Reno17 and Reno17 Pro in China on ColorOS 17 (Android 17); Digital Chat Station tips the Pro with a 6.32-inch 1.5K 120Hz OLED, Dimensity 8550 Super, a 200MP main camera, 50MP periscope and about 7,000mAh, but those specs are unconfirmed. Update Nov 3: Digital Chat Station now tips the Reno17 with a 6.5-inch screen, Snapdragon 7 Gen 4 and an 8,000mAh-class battery, and the Reno17 Pro with a 6.3-inch screen, Dimensity 8550 and a 7,200mAh-class battery; both reportedly get a 50MP periscope, in 8GB/256GB to 12GB/512GB versions. Still a leak; Oppo has confirmed only a November launch. Update Nov 9: Oppo confirmed on Weibo that the Reno17 series, Watch 5 and Pad Air 6 launch in China on Nov 16, revealed the phones' design and four colors (Adventure Cat, Cocoa Brown, First Snow White, Ice Moon White) and opened pre-orders. Oppo also published the Pad Air 6 spec sheet ahead of launch: a 12.1-inch 2.8K 120Hz LCD (matte option), Dimensity 7360 Super, 10,050mAh battery, 8MP front and rear cameras, up to 12GB/256GB, Wi-Fi and LTE versions, ColorOS 17; pricing comes at launch. The Watch 5 is 9.2mm thick, 25g and rated for up to 7 days. Phone specs are still unannounced. Update Nov 11: Oppo's official teaser confirms the standard Reno17 has four 50MP cameras (main, periscope telephoto and ultra-wide on the back, plus an ultra-wide selfie camera), dropping the 200MP main sensor of the Reno16; the Reno17 Pro's cameras are not yet confirmed. The event starts at 7 PM China time (Gizmochina). Update Nov 13: Oppo confirmed a 200MP main camera for the Reno17 Pro, the Dimensity 8550 Super chip for the Pro and the Snapdragon 7 Gen 4 for the Reno17, which gets four 50MP cameras; both run ColorOS 17 on Android 17. Update Nov 14: Digital Chat Station leaked near-complete specs (via Gizmochina): the Reno17 with a 6.56-inch 1.5K flat screen, Snapdragon 7 Gen 4, four 50MP cameras including a 3.5x periscope, and an 8,000mAh battery with 80W charging; the Reno17 Pro with a 6.32-inch 1.5K flat screen, Dimensity 8550 Super, a 200MP main camera plus 50MP ultrawide and 50MP 3.5x periscope, and a 7,200mAh battery with 80W charging. Battery, charging and screen figures are still leaks until the Nov 16 event (7 PM China time); prices are unannounced.",
       "sources": [
+        {
+          "name": "Gizmochina (Nov 14, spec leak)",
+          "url": "https://www.gizmochina.com/2026/11/14/oppo-reno-17-reno-17-pro-full-specs-leaked-ahead-launch/"
+        },
         {
           "name": "GSMArena (Nov 13, chips and camera)",
           "url": "https://www.gsmarena.com/oppo_confirms_the_reno17_pros_main_camera_and_the_chipsets_powering_it_and_the_reno17-news-75462.php"
@@ -3761,14 +3777,18 @@
         "evs"
       ],
       "type": "Car",
-      "date": "2026-11-30",
-      "date_label": "Late November 2026 (day not announced; Nov 19 rumored)",
-      "precision": "window",
-      "status": "Expected",
+      "date": "2026-11-19",
+      "date_label": "Nov 19, 2026 (China launch, 7 PM Beijing time)",
+      "precision": "day",
+      "status": "Confirmed",
       "price": "",
-      "summary": "BYD's Fang Cheng Bao opened reservations for the Tai 9, a six-seat plug-in hybrid SUV and the first car on BYD's new DMS hybrid platform, due later this month.",
-      "details": "Reservations opened on Nov 9, the same day BYD marked its 19 millionth NEV with a Tai 9 coming off the line. Early reservers get six extra months of free BYD flash charging; no reservation price was given. Brand general manager Xiong Tianbo said on Nov 7 that it launches later this month (on Oct 22 she had said after Nov 15); a Nov 19 date is rumored but not confirmed. The Tai 9 is 5,270 mm long on a 3,130 mm wheelbase, larger than the Bao 8, with a 2+2+2 layout. Official poster details: BYD's new DMS hybrid platform, second-generation Blade Battery, flash charging, DiSus-A body control, God's Eye B 5.0 driver assistance and rear-wheel steering. Filings show a 1.5-liter engine, two 200 kW motors and a 66.48 kWh battery.",
+      "summary": "BYD's Fang Cheng Bao launches the Tai 9, a six-seat plug-in hybrid SUV and the first car on BYD's new DMS hybrid platform, in China on Nov 19.",
+      "details": "Reservations opened on Nov 9, the same day BYD marked its 19 millionth NEV with a Tai 9 coming off the line. Early reservers get six extra months of free BYD flash charging; no reservation price was given. Brand general manager Xiong Tianbo said on Nov 7 that it launches later this month (on Oct 22 she had said after Nov 15); a Nov 19 date is rumored but not confirmed. The Tai 9 is 5,270 mm long on a 3,130 mm wheelbase, larger than the Bao 8, with a 2+2+2 layout. Official poster details: BYD's new DMS hybrid platform, second-generation Blade Battery, flash charging, DiSus-A body control, God's Eye B 5.0 driver assistance and rear-wheel steering. Filings show a 1.5-liter engine, two 200 kW motors and a 66.48 kWh battery. Update Nov 13: Fang Cheng Bao announced on Weibo that the launch event starts at 7 PM Beijing time on Nov 19. Reservations need a 3,000-yuan deposit that converts to a purchase deposit after launch, and purchase agreements open on launch day. Show cars are in stores in seven cities, including Shanghai and Beijing. Prices have still not been announced; for reference, the Tai 7 starts at 189,800 yuan and the Bao 8 at 419,800 yuan.",
       "sources": [
+        {
+          "name": "CnEVPost (Nov 13, Nov 19 launch)",
+          "url": "https://cnevpost.com/2026/11/13/byd-fang-cheng-bao-launch-tai-9-nov-19/"
+        },
         {
           "name": "CnEVPost",
           "url": "https://cnevpost.com/2026/11/09/byd-19-million-nev-production-fang-cheng-bao-tai-9-reservations/"
@@ -3873,14 +3893,22 @@
         "chips"
       ],
       "type": "Laptop",
-      "date": "2026-11-14",
-      "date_label": "Pre-orders Nov 14, 2026 (China, 10:08 local time)",
+      "date": "2026-11-24",
+      "date_label": "Nov 24, 2026 (final payment and expected launch; China pre-orders opened Nov 14)",
       "precision": "day",
       "status": "Confirmed",
       "price": "",
-      "summary": "Huawei's smaller foldable HarmonyOS PC, the 14.7-inch MateBook Fold S, opens China pre-orders on Nov 14 and adds a rear mini display.",
-      "details": "Huawei teased the MateBook Fold S on Nov 10 as the third model in its foldable-PC line after the 18-inch MateBook Fold Ultimate and its 2026 edition. It has a 14.7-inch folding screen and a square 'Live Mini Display' on the back that users can personalize and that works while folded. Colors are Cloud Blue, Sky White and Midnight Black. Huawei has not given specs, chip or price yet.",
+      "summary": "Huawei opened China pre-orders for the 14.7-inch MateBook Fold S foldable HarmonyOS PC on Nov 14, without a price; final payments are due Nov 24.",
+      "details": "Huawei teased the MateBook Fold S on Nov 10 as the third model in its foldable-PC line after the 18-inch MateBook Fold Ultimate and its 2026 edition. It has a 14.7-inch folding screen and a square 'Live Mini Display' on the back that users can personalize and that works while folded. Colors are Cloud Blue, Sky White and Midnight Black. Huawei has not given specs, chip or price yet. Update Nov 14: pre-orders opened as planned at 10:08 on Huawei Mall, authorized e-commerce stores and Huawei retail stores, in Cloud Sea Blue, Sky White and black. The pre-order page lists four versions: 16GB/256GB, 16GB/512GB and 24GB/512GB (each bundled with the keyboard and a sleeve) and 32GB/1TB (also with a stylus). IT Home says it folds to 10.7 inches. Huawei still has not given a price; IT Home notes the page mentions a 1,500-yuan national subsidy, which it reads as a price above 9,999 yuan, but that is an inference. Final payments are due Nov 24, which points to a launch event that day; we will mark it Released once it goes on sale with a price.",
       "sources": [
+        {
+          "name": "IT Home (Nov 14, pre-orders, Chinese)",
+          "url": "https://www.ithome.com/1/027/053.htm"
+        },
+        {
+          "name": "Huawei Central (Nov 14, pre-order page)",
+          "url": "https://www.huaweicentral.com/huawei-matebook-fold-s-pre-order/"
+        },
         {
           "name": "GSMArena",
           "url": "https://www.gsmarena.com/huawei_teases_new_matebook_fold_laptop_with_cover_screen-news-75420.php"
@@ -4264,6 +4292,62 @@
         {
           "name": "AppleInsider",
           "url": "https://appleinsider.com/articles/26/11/13/first-apple-home-collection-devices-can-now-be-ordered"
+        }
+      ]
+    },
+    {
+      "id": "byd-tang-3rd-gen",
+      "name": "BYD Tang, third generation (China)",
+      "brand": "BYD",
+      "categories": [
+        "evs"
+      ],
+      "type": "Car",
+      "date": "2026-12-31",
+      "date_label": "Q4 2026 (pre-sales opened Nov 13; launch date not announced)",
+      "precision": "window",
+      "status": "Expected",
+      "price": "Pre-sale 225,000-260,000 yuan",
+      "summary": "BYD opened pre-sales for the third-generation Tang, a five-seat electric SUV with up to 850 km of CLTC range, from 225,000 yuan; the formal launch is promised for Q4.",
+      "details": "BYD Dynasty sales chief Lu Tian announced pre-sales on Weibo on Nov 13, with cars already arriving at dealerships. Three versions: two rear-wheel-drive versions (850 km CLTC) at 225,000 and 240,000 yuan, and a dual-motor all-wheel-drive version (770 km, 515 kW combined) at 260,000 yuan. It uses BYD's second-generation Blade Battery with flash charging (10-70% in about 5 minutes), measures 5,045 mm long on a 2,950 mm wheelbase, and has a 35.4-inch display above a 30-inch panoramic touchscreen and a 205-liter frunk. It sits below the seven-seat Da Tang (from 239,900 yuan). The SUV debuted at the Chengdu Auto Show in August with a launch promised for the fourth quarter; final prices and full equipment come at launch, which has no date yet.",
+      "sources": [
+        {
+          "name": "CnEVPost (Nov 13, pre-sales)",
+          "url": "https://cnevpost.com/2026/11/13/byd-opens-pre-sales-3rd-gen-tang/"
+        },
+        {
+          "name": "GlobalChinaEV (versions and Q4 launch)",
+          "url": "https://www.globalchinaev.com/post/byd-opens-third-gen-tang-pre-sales-at-225000-cny-14900-below-the-da-tang"
+        },
+        {
+          "name": "Electrek",
+          "url": "https://electrek.co/2026/11/13/byd-opens-tang-ev-orders-two-enormous-screens-for-34000/"
+        }
+      ]
+    },
+    {
+      "id": "chatgpt-wallet",
+      "name": "ChatGPT Wallet (agent payments in dots)",
+      "brand": "OpenAI",
+      "categories": [
+        "ai"
+      ],
+      "type": "Software",
+      "date": "2026-11-13",
+      "date_label": "Nov 13, 2026 (rolling out to US ChatGPT Pro)",
+      "precision": "day",
+      "status": "Released",
+      "price": "Included with ChatGPT Pro (US)",
+      "summary": "OpenAI's ChatGPT Wallet lets its dots agents complete purchases using payment tokens instead of real card numbers, starting with US ChatGPT Pro subscribers.",
+      "details": "Built with American Express, Mastercard and Visa, the wallet stores eligible US-issued cards once; at checkout the agent pays with a network token, so neither the agent nor the merchant sees the card number. Every purchase needs a security check such as Face ID or a fingerprint after the user reviews the items and total. It is rolling out in limited form to ChatGPT Pro subscribers 18 and older in the US; OpenAI says spending limits and pre-approved categories come later.",
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/introducing-chatgpt-wallet/"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
         }
       ]
     }

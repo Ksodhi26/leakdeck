@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T13:58:03Z",
+ "updated": "2026-11-14T14:10:48Z",
  "sources": [
   "9to5Google",
   "9to5Mac",
@@ -22,6 +22,95 @@
  ],
  "count": 600,
  "items": [
+  {
+   "id": "7c4d76d17465",
+   "title": "Here's what the OnePlus 16's launch in India is rumored to depend on",
+   "url": "https://www.gsmarena.com/heres_what_the_oneplus_16s_launch_in_india_is_rumored_to_depend_on-news-75475.php",
+   "source": "GSMArena",
+   "published": "2026-11-14T14:04:02Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": true,
+   "summary": "A tipster says OnePlus will decide on an Indian OnePlus 16 launch only after seeing how the Oppo Find X10 sells there."
+  },
+  {
+   "id": "ace5d1eb8200",
+   "title": "I ditched my laptop for a mini PC and tablet, and it's the best tech decision I've made in years",
+   "url": "https://www.xda-developers.com/ditched-laptop-for-mini-pc-tablet-best-tech-decision-ive-made-in-years/",
+   "source": "XDA Developers",
+   "published": "2026-11-14T14:01:21Z",
+   "categories": [
+    "chips"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "e222d80d15fb",
+   "title": "Top Stories: Apple's New Software Approach, iPhone Duo-Optimized Apps, and More",
+   "url": "https://www.macrumors.com/2026/11/14/top-stories-apple-new-software-approach/",
+   "source": "MacRumors",
+   "published": "2026-11-14T14:00:08Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "17d64f06767f",
+   "title": "How to use the new remote finding features on the Apple TV 4K (4th gen)",
+   "url": "https://www.engadget.com/2316344/how-to-use-apple-tv-4k-remote-finding-feature/",
+   "source": "Engadget",
+   "published": "2026-11-14T14:00:00Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "fce0f631d2f8",
+   "title": "Apple @ Work: The spiritual successor to the Xserve is here, thanks to Apple silicon and MLX",
+   "url": "https://9to5mac.com/2026/11/14/apple-work-the-spiritual-successor-to-the-xserve-is-here-and-apple-never-had-to-ship-an-llm-to-get-there/",
+   "source": "9to5Mac",
+   "published": "2026-11-14T14:00:00Z",
+   "categories": [
+    "apple",
+    "chips"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "97a7b8e55c28",
+   "title": "Pentagon ‘struggles to account for’ $31 billion in missing F-35 aircraft parts, weeks after shipment was swiped by China",
+   "url": "https://www.tomshardware.com/tech-industry/pentagon-struggles-to-account-for-usd31-billion-in-missing-f-35-aircraft-parts-weeks-after-shipment-was-swiped-by-china-tracking-of-estimated-26-million-parts-is-outdated-inaccurate-and-incomplete-says-watchdog",
+   "source": "Tom's Hardware",
+   "published": "2026-11-14T14:00:00Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "ac11ba91e981",
+   "title": "Formula 1 just found a bizarre financial supporter in horse girl gacha Umamusume: Pretty Derby",
+   "url": "https://www.pcgamer.com/games/sports/formula-1-just-found-a-bizarre-financial-supporter-in-horse-girl-gacha-umamusume-pretty-derby/",
+   "source": "PC Gamer",
+   "published": "2026-11-14T14:00:00Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "13c95fb22a8a",
+   "title": "Tesla starts taking Cybercab orders for personal use",
+   "url": "https://www.engadget.com/2316848/tesla-starts-taking-cybercab-orders-for-personal-use/",
+   "source": "Engadget",
+   "published": "2026-11-14T13:59:48Z",
+   "categories": [
+    "evs"
+   ],
+   "rumor": false,
+   "summary": "Tesla has begun accepting Cybercab orders from invited customers who want the two-seater for personal use."
+  },
   {
    "id": "de8e53c8d55d",
    "title": "I played WoW Forever on my Galaxy Z Fold 8, and it performed perfectly",
@@ -54,7 +143,8 @@
    "categories": [
     "evs"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Electrek digs into the Cybercab's purchase terms, where the car will not drive unless the $299-a-month autonomy plan stays active."
   },
   {
    "id": "062e6337ddc4",
@@ -86,7 +176,8 @@
     "android",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Several older Galaxy phones will get One UI 9 as their last major Android upgrade."
   },
   {
    "id": "d5dd068ae286",
@@ -175,7 +266,8 @@
     "ai",
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "A new survey finds 40% of game developers use generative AI, while most think it is bad for the industry."
   },
   {
    "id": "470ab561f6f8",
@@ -208,7 +300,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "XDA argues Claude Code is turning into a handy tool for hardware tinkering, with Linux support on the way."
   },
   {
    "id": "e66c3b08e9bd",
@@ -226,7 +319,8 @@
    "source": "Ars Technica",
    "published": "2026-11-14T12:15:48Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "Webb observations point to ice around a young star that predates the star itself."
   },
   {
    "id": "c03a709644df",
@@ -277,7 +371,8 @@
    "categories": [
     "chips"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Denny's took down the plaque marking the booth where Nvidia was founded after the Jensen Huang scandal."
   },
   {
    "id": "bc00384dbf9e",
@@ -330,7 +425,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "A Jeep Cherokee owner used Claude and a $3 Arduino to decode a 1994 engine computer and get through a California emissions test."
   },
   {
    "id": "29b2473243fb",
@@ -353,7 +449,8 @@
     "android",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Samsung's Contacts app in One UI 9.5 adds birthday reminders."
   },
   {
    "id": "1d4d88e2c430",
@@ -365,7 +462,8 @@
     "android",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Early UK Black Friday deals cut the Galaxy S26 Ultra by up to £570, with smaller discounts on Pixel 11 phones and the Oppo Find X10."
   },
   {
    "id": "62667d00245c",
@@ -441,7 +539,8 @@
    "source": "Engadget",
    "published": "2026-11-14T08:54:55Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "A Workday outage left millions of workers unable to sign in to the HR platform."
   },
   {
    "id": "8e6e797d19a8",
@@ -454,7 +553,8 @@
     "chips",
     "samsung"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "The Galaxy A18 4G reaches Singapore with a MediaTek Helio G99+ instead of the Exynos chip used in Europe; the rest of the hardware matches."
   },
   {
    "id": "1b8f2f598ff0",
@@ -463,7 +563,8 @@
    "source": "Engadget",
    "published": "2026-11-14T06:35:40Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "US flights resumed after an hours-long FAA ground stop, with aging equipment in the spotlight."
   },
   {
    "id": "606f9d44c698",
@@ -494,7 +595,8 @@
    "categories": [
     "android"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "A Weibo tipster says Huawei's 2027 nova Flip turns into a small wide foldable with a 6.3-inch screen and a Kirin 9-series chip."
   },
   {
    "id": "82161e45e01a",
@@ -506,7 +608,8 @@
     "ai",
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Google says Android XR glasses will blur faces before Gemini sees them and will not allow real-time facial recognition."
   },
   {
    "id": "7d8582f5159b",
@@ -518,7 +621,8 @@
     "ai",
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Gemini's Personal Intelligence can now connect to Google Wallet and answer budgeting questions based on your spending."
   },
   {
    "id": "4dbfb303f191",
@@ -529,7 +633,8 @@
    "categories": [
     "evs"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Tesla is inviting select buyers to order a Cybercab for $29,990, but it needs a $299 monthly subscription and only runs inside Robotaxi zones."
   },
   {
    "id": "1ff2d9e323bc",
@@ -538,7 +643,8 @@
    "source": "The Verge",
    "published": "2026-11-14T01:53:09Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "The FAA lifted a nationwide ground stop that had kept US flights from taking off for hours."
   },
   {
    "id": "567fa298898a",
@@ -559,7 +665,8 @@
     "ai",
     "chips"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Gigabyte's AI TOP AERO is a compact workstation built on Nvidia's Spark platform with up to 128GB of memory."
   },
   {
    "id": "871eab182217",
@@ -571,7 +678,8 @@
     "android",
     "samsung"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "Leaked Galaxy S27 wallpapers hint at five colors, including burgundy, pink and two shades of blue."
   },
   {
    "id": "96b0fbe99592",
@@ -602,7 +710,8 @@
    "source": "Ars Technica",
    "published": "2026-11-14T00:49:13Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "SpaceX's 15th Starship flight reached orbit, setting up a possible ship catch attempt on Saturday."
   },
   {
    "id": "f6ab18d54d4e",
@@ -662,7 +771,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "OpenAI's new ChatGPT Wallet lets its dots agents finish purchases for US Pro subscribers, with a security check on each one."
   },
   {
    "id": "610feeb0202c",
@@ -673,7 +783,8 @@
    "categories": [
     "evs"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Tesla opens invite-only Cybercab sales at $29,990, its cheapest car yet, with a mandatory $299-per-month self-driving subscription."
   },
   {
    "id": "70d4621d9810",
@@ -724,7 +835,8 @@
    "source": "Ars Technica",
    "published": "2026-11-13T23:17:38Z",
    "categories": [],
-   "rumor": false
+   "rumor": false,
+   "summary": "The FAA ordered only the third nationwide ground stop in its history, halting departures across the US."
   },
   {
    "id": "17fa7a268ac8",
@@ -764,7 +876,8 @@
    "categories": [
     "gaming"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "Certain international physical GTA VI copies can reportedly be redeemed without breaking the seal."
   },
   {
    "id": "ce3a545d38cf",
@@ -797,7 +910,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Investors and founders say Jensen Huang's exit leaves a gap in AI startup funding, where Nvidia had been a major backer."
   },
   {
    "id": "2de39d2b7e10",
@@ -840,7 +954,8 @@
    "categories": [
     "evs"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "A VW trademark filing suggests its roughly €20,000 entry EV due in 2027 could be called the ID. UP."
   },
   {
    "id": "3322be9d9288",
@@ -851,7 +966,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Motorola has started rolling out Android 17 to the Razr 50 Ultra in Europe, with a caveat."
   },
   {
    "id": "a1b157b50672",
@@ -924,7 +1040,8 @@
    "categories": [
     "evs"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "BYD opens pre-sales for the five-seat third-gen Tang SUV in China from about $34,000, with up to 850 km of CLTC range."
   },
   {
    "id": "3a297162a83a",
@@ -947,7 +1064,8 @@
     "ai",
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Tagging Google Wallet in Gemini lets it break down where your money goes and suggest savings, with optional bank links via Plaid."
   },
   {
    "id": "6b12221ebe12",
@@ -1011,7 +1129,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Google appears ready to retire Magic Cue on the Pixel 10 in favor of a feature called Proactive Assistance."
   },
   {
    "id": "4ff8bca9c165",
@@ -1022,7 +1141,8 @@
    "categories": [
     "gaming"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "Some boxed GTA 6 copies reportedly let a flashlight reveal the download code without opening the package."
   },
   {
    "id": "963e97359675",
@@ -1033,7 +1153,8 @@
    "categories": [
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Take-Two says it is not looking to sell itself after EA's $55 billion take-private deal."
   },
   {
    "id": "9dac422a5c30",
@@ -1055,7 +1176,8 @@
    "categories": [
     "chips"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "Nvidia's board reportedly sounded out Arm CEO Rene Haas as it searches for a permanent CEO."
   },
   {
    "id": "58c0264aeed5",
@@ -1077,7 +1199,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "ChatGPT Wallet gives OpenAI's dots agents a way to pay for things using tokenized cards from Visa, Mastercard and Amex."
   },
   {
    "id": "85befe00ae20",
@@ -1100,7 +1223,8 @@
     "ai",
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Even after the latest update, the HomePod mini 2 still does not have Siri AI turned on."
   },
   {
    "id": "33748a9e4fb2",
@@ -1111,7 +1235,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Xiaomi confirms Google Maps, Spotify and other apps will run on the Xiaomi 18 Pro's rear screen."
   },
   {
    "id": "577455be57bd",
@@ -1131,7 +1256,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Epic has asked the Supreme Court to leave the contempt ruling against Apple in place."
   },
   {
    "id": "4877cebda37b",
@@ -1154,7 +1280,8 @@
     "ai",
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Microsoft apologized for its global 365 outage and said neither AI nor hackers caused it."
   },
   {
    "id": "61497b9e7ad8",
@@ -1175,7 +1302,8 @@
     "android",
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Early owners of the new Apple TV 4K report the YouTube app failing to work properly."
   },
   {
    "id": "645e798427f9",
@@ -1186,7 +1314,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "AI agent framework maker LangChain is now valued at $3 billion."
   },
   {
    "id": "978f252d423a",
@@ -1197,7 +1326,8 @@
    "categories": [
     "gaming"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "An analyst report projects GTA 6 could sell around 55 million copies by early next year at an average price near $90."
   },
   {
    "id": "a64912cefb00",
@@ -1208,7 +1338,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Apple shipped tvOS 27.2.1 and HomePod Software 27.2.1, extending Siri AI to older Apple TV 4K models."
   },
   {
    "id": "eacd1464b0e7",
@@ -1220,7 +1351,8 @@
     "ai",
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Perplexity's Teammates AI agents feature is now available on the Mac."
   },
   {
    "id": "e30060ff4951",
@@ -1231,7 +1363,8 @@
    "categories": [
     "gaming"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Rockstar's latest GTA 6 trailer promotes a fictional TV show you can watch inside the game."
   },
   {
    "id": "fabb0b03532a",
@@ -1254,7 +1387,8 @@
     "ai",
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "tvOS 27.2.1 is out and brings Siri AI to the 2nd- and 3rd-gen Apple TV 4K."
   },
   {
    "id": "ecbb932b99bc",
@@ -1275,7 +1409,8 @@
     "ai",
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Google now lets Gemini users link bank and card accounts through Wallet so the assistant can analyze their finances."
   },
   {
    "id": "896120c256bf",
@@ -1309,7 +1444,8 @@
     "ai",
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "OpenAI is rolling out ChatGPT Wallet so its dots agents can check out for you without seeing your real card number."
   },
   {
    "id": "7f552ecbf250",
@@ -1331,7 +1467,8 @@
    "categories": [
     "evs"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Volkswagen is pushing back another EV planned for its delayed SSP platform."
   },
   {
    "id": "ca036c561f12",
@@ -1418,7 +1555,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "A durability test pushed the iPhone Duo past 450,000 folds, though its hinge began to loosen."
   },
   {
    "id": "8b5d5510e409",
@@ -1441,7 +1579,8 @@
     "ai",
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "In the US, Gemini can now read your Google Wallet transactions to chart spending and flag subscriptions."
   },
   {
    "id": "3dc626ea28ff",
@@ -1453,7 +1592,8 @@
     "ai",
     "chips"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "TechCrunch reports China's top AI models were trained on Nvidia chips that are banned from export there."
   },
   {
    "id": "c4780fab5c4c",
@@ -1495,7 +1635,8 @@
    "categories": [
     "evs"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Tesla has cut the Cybertruck lineup to just the $109,990 Cyberbeast."
   },
   {
    "id": "3ddb6357a255",
@@ -1636,7 +1777,8 @@
    "categories": [
     "evs"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Volkswagen's ID. Buzz is being put to work as a robotaxi."
   },
   {
    "id": "421a91837307",
@@ -1680,7 +1822,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Engadget takes a skeptical look at handing card details to ChatGPT's new agent-payments wallet."
   },
   {
    "id": "8953a183d3b9",
@@ -1768,7 +1911,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "The new Apple TV 4K is showing YouTube errors for some buyers on launch day."
   },
   {
    "id": "e6ee539b0fbc",
@@ -1790,7 +1934,8 @@
    "categories": [
     "android"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Android Auto 18.2 is rolling out, with code hinting again at a light mode."
   },
   {
    "id": "ad44bff51d44",
@@ -1866,7 +2011,8 @@
     "chips",
     "gaming"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "An unannounced Intel Core Ultra 7 260K has appeared in prebuilt gaming PC listings on Newegg."
   },
   {
    "id": "c01109cb83f1",
@@ -1899,7 +2045,8 @@
    "categories": [
     "chips"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "A researcher publicly released an unpatched Windows flaw that can give attackers System-level access."
   },
   {
    "id": "187a58491854",
@@ -1911,7 +2058,8 @@
     "ai",
     "chips"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Malaysia and Singapore are widening investigations into Nvidia AI chip shipments amid the Huang controversy."
   },
   {
    "id": "d3d65edd7602",
@@ -1944,7 +2092,8 @@
    "categories": [
     "ai"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "ChatGPT can now shop on your behalf: you approve each agent purchase with Face ID or a fingerprint, starting with US Pro users."
   },
   {
    "id": "c80886225bdd",
@@ -2000,7 +2149,8 @@
     "chips",
     "gaming"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "TSMC found a large leak of employee data that was reportedly offered for sale online."
   },
   {
    "id": "8a4c87d6a10f",
@@ -2012,7 +2162,8 @@
     "ai",
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "OpenAI launches ChatGPT Wallet, letting dot agents complete purchases with payment tokens and biometric approval."
   },
   {
    "id": "0d9e6dd3a7b2",
@@ -2067,7 +2218,8 @@
    "categories": [
     "evs"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Tesla dropped its cheapest Model Y AWD, so all-wheel drive now costs $8,000 more."
   },
   {
    "id": "625517f21d45",
@@ -2076,7 +2228,8 @@
    "source": "Ars Technica",
    "published": "2026-11-13T15:26:53Z",
    "categories": [],
-   "rumor": true
+   "rumor": true,
+   "summary": "Microsoft blames failed server health checks for its worldwide outage; one expert calls it worse than recent AWS and CrowdStrike incidents."
   },
   {
    "id": "caaef83549a1",
@@ -2100,7 +2253,8 @@
     "chips",
     "gaming"
    ],
-   "rumor": true
+   "rumor": true,
+   "summary": "New figures show Intel winning back a big share of the desktop CPU market from AMD."
   },
   {
    "id": "75b790346384",
@@ -2144,7 +2298,8 @@
    "categories": [
     "apple"
    ],
-   "rumor": false
+   "rumor": false,
+   "summary": "Apple Home's new video doorbell and smart cameras, made with LG, are now open for orders."
   },
   {
    "id": "39962983b577",
@@ -5347,6 +5502,15 @@
    "rumor": false
   },
   {
+   "id": "30ba9526ee50",
+   "title": "This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers",
+   "url": "https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on",
+   "source": "The Verge",
+   "published": "2026-11-12T16:04:43Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
    "id": "592cae364194",
    "title": "Is Samsung the reason behind Apple’s iPhone 18 launch delay?",
    "url": "https://www.sammobile.com/news/is-samsung-reason-apple-iphone-18-launch-delay/",
@@ -6637,111 +6801,6 @@
     "android"
    ],
    "rumor": false
-  },
-  {
-   "id": "6fbd542b4794",
-   "title": "Samsung starts developing One UI 9.5 for Galaxy S25",
-   "url": "https://www.sammobile.com/news/samsung-starts-developing-one-ui-9-5-galaxy-s25/",
-   "source": "SamMobile",
-   "published": "2026-11-12T12:00:04Z",
-   "categories": [
-    "android",
-    "samsung"
-   ],
-   "rumor": false,
-   "summary": "SamMobile spotted One UI 9.5 test builds for the Galaxy S25, so last year's flagships are in line for the update."
-  },
-  {
-   "id": "b084d5fe4921",
-   "title": "You can get the REDMAGIC 12 Pro a day early, here is how",
-   "url": "https://www.gsmarena.com/you_can_get_the_redmagic_12_pro_a_day_early_here_is_how-news-75244.php",
-   "source": "GSMArena",
-   "published": "2026-11-12T12:00:02Z",
-   "categories": [],
-   "rumor": false
-  },
-  {
-   "id": "d12becf8e4ba",
-   "title": "The iPhone Duo’s rocky launch is a reminder of how far Android foldables have come",
-   "url": "https://9to5google.com/2026/11/12/the-iphone-duos-rocky-launch-is-a-reminder-of-how-far-android-foldables-have-come/",
-   "source": "9to5Google",
-   "published": "2026-11-12T12:00:00Z",
-   "categories": [
-    "android",
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "740b2beb5ad1",
-   "title": "Nvidia CEO Jensen Huang set to be fired, with Johny Srouji among possible replacements [U]",
-   "url": "https://9to5mac.com/2026/11/12/nvidia-ceo-jensen-huang-set-to-be-fired-with-johny-srouji-listed-among-possible-replacements/",
-   "source": "9to5Mac",
-   "published": "2026-11-12T11:59:29Z",
-   "categories": [
-    "apple",
-    "chips"
-   ],
-   "rumor": false,
-   "summary": "Before Huang resigned, reports said Nvidia's board was moving to fire him, with Apple's Johny Srouji floated as a replacement."
-  },
-  {
-   "id": "47a85f59b09b",
-   "title": "Here’s Apple’s new ad for the holiday season, featuring MacBook Neo",
-   "url": "https://9to5mac.com/2026/11/12/heres-apples-new-ad-for-the-holiday-season-featuring-macbook-neo/",
-   "source": "9to5Mac",
-   "published": "2026-11-12T11:47:20Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "fb3048092708",
-   "title": "Nvidia stock price plunges amid second Jensen Huang affair allegation — the AI company could be set to lose hundreds of billions in value",
-   "url": "https://www.pcgamer.com/hardware/nvidia-stock-price-plunges-amid-second-jensen-huang-affair-allegation-the-ai-company-could-be-set-to-lose-hundreds-of-billions-in-value/",
-   "source": "PC Gamer",
-   "published": "2026-11-12T11:46:58Z",
-   "categories": [
-    "ai",
-    "chips",
-    "gaming"
-   ],
-   "rumor": true
-  },
-  {
-   "id": "464d1601c2bd",
-   "title": "Marvel 1943: Rise Of Hydra Isn’t Canceled, But Don’t Get Too Excited",
-   "url": "https://www.gamespot.com/articles/marvel-1943-rise-of-hydra-isnt-canceled-but-dont-get-too-excited/",
-   "source": "GameSpot",
-   "published": "2026-11-12T11:35:04Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "d2b29f63f74f",
-   "title": "5 tricks I use to search through my massive 60,000 Google Photos library",
-   "url": "https://www.androidpolice.com/5-tricks-i-use-to-search-thousand-google-photos-library/",
-   "source": "Android Police",
-   "published": "2026-11-12T11:30:10Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false
-  },
-  {
-   "id": "7ea9182cf39c",
-   "title": "Nvidia RTX 5080 Super GPU is canned, rumor claims — and I'm not surprised",
-   "url": "https://www.techradar.com/computing/gpu/nvidia-rtx-5080-super-gpu-is-canned-rumor-claims-and-im-not-surprised-in-the-slightest",
-   "source": "TechRadar",
-   "published": "2026-11-12T11:24:43Z",
-   "categories": [
-    "chips",
-    "gaming"
-   ],
-   "rumor": true
   }
  ]
 }

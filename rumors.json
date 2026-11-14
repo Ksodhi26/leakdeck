@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "scale": {
     "Confirmed": "Announced by the company or shown in an official source.",
     "Likely": "Multiple credible outlets or hard evidence (certifications, databases, supply chain), but no official word.",
@@ -3205,17 +3205,25 @@
     {
       "status": "Active",
       "first_reported": "2026-11-10",
-      "updated": "2026-11-10",
+      "updated": "2026-11-14",
       "id": "xiaomi-18-pro-india-december",
       "title": "Xiaomi 18 Pro reaches India in December, but the 18 Pro Max skips India",
-      "rating": "Rumor",
+      "rating": "Shaky",
       "categories": [
         "android"
       ],
-      "expected": "December 2026 (India, leak)",
+      "expected": "December 2026 or early January 2027 (conflicting leaks; India model BIS-certified)",
       "claim": "After the Nov 17 global launch, only the Xiaomi 18 Pro comes to India, in December; the 18 Pro Max will not be sold there. The same tipster lists Xiaomi 18T specs (Dimensity 8600, 1.5K 165-185Hz OLED, IP69, 200MP main camera).",
-      "why": "From a single tipster on X, relayed by GSMArena. It fits earlier reports that India may get only the 18 Pro, but Xiaomi has not announced Indian plans. The 18T specs have no timing; the 17T launched in May.",
+      "why": "From a single tipster on X, relayed by GSMArena. It fits earlier reports that India may get only the 18 Pro, but Xiaomi has not announced Indian plans. The 18T specs have no timing; the 17T launched in May. Update Nov 13-14: the Indian Xiaomi 18 Pro (2609BPN61I) passed BIS certification (GSMArena), which supports an India launch. But tipster Abhishek Yadav (via The Tech Outlook) now says it launches in India in the first week of January 2027, with sales the following week, contradicting the December timing. With the leaks conflicting on the month this drops to Shaky; the 18 Pro Max skipping India is still uncontested but unconfirmed.",
       "sources": [
+        {
+          "name": "GSMArena (Nov 13, BIS)",
+          "url": "https://www.gsmarena.com/xiaomi_18_pro_gets_one_step_closer_to_launching_in_india-news-75472.php"
+        },
+        {
+          "name": "The Tech Outlook (Nov 14, January tip)",
+          "url": "https://www.thetechoutlook.com/tech-whispers/xiaomi-18-pro-indian-variant-appears-on-bis-january-2027-launch-tipped-alongside-more-xiaomi-and-redmi-devices/"
+        },
         {
           "name": "GSMArena",
           "url": "https://www.gsmarena.com/xiaomi_18_pro_india_launch_month_leaks_along_with_xiaomi_18t_specs-news-75414.php"
@@ -3411,6 +3419,103 @@
         {
           "name": "Electrek",
           "url": "https://electrek.co/2026/11/12/spacex-tesla-merger-announcement-december-report/"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-12",
+      "updated": "2026-11-14",
+      "id": "galaxy-s27-five-colors",
+      "title": "Galaxy S27 series comes in five colors: white, dark blue, light blue, pink and burgundy",
+      "rating": "Rumor",
+      "categories": [
+        "samsung",
+        "android"
+      ],
+      "expected": "Galaxy S27 launch (early 2027)",
+      "claim": "Samsung will offer the Galaxy S27 series in five colors matching leaked stock wallpapers: white/cream, dark blue, light blue, pink and burgundy.",
+      "why": "Based on five color-matched stock wallpapers from what SammyGuru says are leaked firmware files, relayed by SamMobile, Android Authority and Android Police. Samsung usually ships wallpapers that match its phone colors, but wallpapers are not a color list, which models get which colors is unknown, and Samsung has said nothing.",
+      "sources": [
+        {
+          "name": "SamMobile",
+          "url": "https://www.sammobile.com/news/galaxy-s27-wallpapers-surface-hinting-possible-color-options/"
+        },
+        {
+          "name": "Android Authority",
+          "url": "https://www.androidauthority.com/samsung-galaxy-s27-series-wallpapers-leak-3734394/"
+        },
+        {
+          "name": "Android Police",
+          "url": "https://www.androidpolice.com/samsung-might-leaked-galaxy-s27-most-eye-catching-feature-colors/"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-13",
+      "updated": "2026-11-14",
+      "id": "vw-id-up-affordable-ev-name",
+      "title": "Volkswagen's €20,000 entry-level EV will be called the ID. UP",
+      "rating": "Rumor",
+      "categories": [
+        "evs"
+      ],
+      "expected": "2027 (VW has confirmed the car, not the name)",
+      "claim": "The production version of Volkswagen's ID. EVERY1 concept, due in 2027 from about €20,000, will be sold as the ID. UP.",
+      "why": "Volkswagen filed an 'ID. UP' trademark with the EU and German trademark offices on Oct 22, 2026 (reported by Electrek), and earlier reports said VW wanted to revive the Up! name. VW has confirmed the car, its 2027 timing and roughly €20,000 price, but not the name; carmakers often register names they never use.",
+      "sources": [
+        {
+          "name": "Electrek",
+          "url": "https://electrek.co/2026/11/13/volkswagen-trademark-name-next-affordable-ev/"
+        },
+        {
+          "name": "Electrek (2027, €20K)",
+          "url": "https://electrek.co/2026/10/22/vw-launch-most-affordable-ev-2027-starting-e20k/"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-13",
+      "updated": "2026-11-14",
+      "id": "oppo-fuyao-gimbal-camera-2026",
+      "title": "Oppo's 'Fuyao' pocket gimbal camera debuts by the end of 2026",
+      "rating": "Rumor",
+      "categories": [
+        "android"
+      ],
+      "expected": "By end of 2026 (tipster)",
+      "claim": "Oppo will launch a pocket gimbal camera, codenamed Fuyao, before the end of 2026; its wide-screen foldable (likely Find N7) with a 2nm Snapdragon chip and a 16:9 'Reno X' bar phone are also near launch.",
+      "why": "From Weibo tipster Digital Chat Station, relayed by GSMArena and Android Headlines. Earlier rumors gave the camera a 200MP 1/1.12-inch sensor and Hasselblad branding. Digital Chat Station has a decent record on Oppo, but this is one tipster with no official teaser, and the year-end timing leaves little room.",
+      "sources": [
+        {
+          "name": "GSMArena",
+          "url": "https://www.gsmarena.com/oppos_pocket_gimbal_camera_said_to_debut_this_year_widefoldable_also_coming_soon-news-75466.php"
+        },
+        {
+          "name": "Android Headlines",
+          "url": "https://www.androidheadlines.com/2026/11/oppo-is-working-on-three-first-of-a-kind-products-wide-foldable-a-wide-phone-and-a-gimbal-camera.html"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-14",
+      "updated": "2026-11-14",
+      "id": "huawei-nova-flip-wide-2027",
+      "title": "Huawei's next nova Flip becomes a small wide foldable with a Kirin 9-series chip",
+      "rating": "Rumor",
+      "categories": [
+        "android"
+      ],
+      "expected": "2027 (tipster; no date)",
+      "claim": "Huawei will refresh the nova Flip line in 2027 with a small wide-aspect foldable that has a 6.3-inch screen and a Kirin 9-series chip.",
+      "why": "From a single Weibo tipster, relayed by GSMArena. Digital Chat Station said in July that Huawei would release a new small wide foldable next year, which GSMArena had assumed was a Pura X successor. Plausible, but one source with no official word.",
+      "sources": [
+        {
+          "name": "GSMArena",
+          "url": "https://www.gsmarena.com/huaweis_next_nova_flip_could_switch_to_a_wide_form_factor-news-75479.php"
         }
       ]
     }

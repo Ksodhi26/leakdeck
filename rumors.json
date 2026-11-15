@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14",
+  "updated": "2026-11-15",
   "scale": {
     "Confirmed": "Announced by the company or shown in an official source.",
     "Likely": "Multiple credible outlets or hard evidence (certifications, databases, supply chain), but no official word.",
@@ -2180,17 +2180,25 @@
     {
       "id": "iphone-18e-specs",
       "title": "iPhone 18e keeps a 60Hz screen but gets the A20 and possibly a 24MP selfie camera",
-      "rating": "Rumor",
+      "rating": "Shaky",
       "categories": [
         "apple"
       ],
       "status": "Active",
       "first_reported": "2026-10-27",
-      "updated": "2026-11-04",
+      "updated": "2026-11-15",
       "expected": "Spring 2027 (expected)",
       "claim": "The iPhone 18e will have a 6.12-inch 60Hz LTPS OLED screen, the 2nm A20 chip, a single 48MP rear camera and maybe a 24MP front camera.",
-      "why": "From Weibo tipster Digital Chat Station, relayed by MacRumors and Android Authority. The 60Hz display repeats this leaker's earlier claim and fits Apple's pattern for the 16e and 17e, and the A20 matches what is expected for the standard iPhone 18. The leaker hedged on the front camera, and MacRumors notes 24MP may be a mix-up with the 18MP Center Stage camera. Apple has not announced the phone. Update Nov 4: a second Weibo leaker, Fixed Focus Digital, says a new chip is the only upgrade they can confirm so far and hints the notch may stay. That agrees on the chip but adds nothing on the screen or cameras.",
+      "why": "From Weibo tipster Digital Chat Station, relayed by MacRumors and Android Authority. The 60Hz display repeats this leaker's earlier claim and fits Apple's pattern for the 16e and 17e, and the A20 matches what is expected for the standard iPhone 18. The leaker hedged on the front camera, and MacRumors notes 24MP may be a mix-up with the 18MP Center Stage camera. Apple has not announced the phone. Update Nov 4: a second Weibo leaker, Fixed Focus Digital, says a new chip is the only upgrade they can confirm so far and hints the notch may stay. That agrees on the chip but adds nothing on the screen or cameras. Update Nov 15: Fixed Focus Digital now says (Nov 9, via GSMArena and 91mobiles) the 18e gets a 6.3-inch 60Hz OLED, the same size as the iPhone 18, plus the same 4,430 mAh battery and a single 48MP camera. That directly contradicts Digital Chat Station's 6.12-inch claim, so this is re-rated Shaky until the screen size settles; the 60Hz panel, A20-class chip and single 48MP camera are where the leakers agree.",
       "sources": [
+        {
+          "name": "GSMArena (Nov 9, 6.3-inch claim)",
+          "url": "https://www.gsmarena.com/iphone_18_and_18e_to_feature_same_sized_screens_and_batteries__-news-75403.php"
+        },
+        {
+          "name": "91mobiles (conflicting screen sizes)",
+          "url": "https://www.91mobiles.com/hub/iphone-18-18e-battery-capacity-tipped/"
+        },
         {
           "name": "MacRumors (Nov 4)",
           "url": "https://www.macrumors.com/2026/11/04/iphone-18e-rumored-to-focus-on-chip-upgrade/"
@@ -2772,11 +2780,19 @@
       ],
       "status": "Active",
       "first_reported": "2026-11-03",
-      "updated": "2026-11-04",
+      "updated": "2026-11-15",
       "expected": "Spring 2027 (with iPhone 18e and iPhone Air 2, rumored)",
-      "claim": "The standard iPhone 18 will have a larger battery than the iPhone 17's 3,692 mAh, keep a 6.3-inch 120Hz OLED with Dynamic Island, use the 2nm A20 and dual 48MP cameras, and may cost more.",
-      "why": "From Weibo leaker Digital Chat Station, relayed by MacRumors, The Verge and AppleInsider. DCS has a fair supply-chain record, and a battery bump fits Apple raising capacities on the iPhone 18 Pro. But no capacity was given, and the price part is the leaker's own speculation with no figure or market; Apple already raised the iPhone 17 to $899 in September. Apple has said nothing.",
+      "claim": "The standard iPhone 18 will have a larger battery than the iPhone 17's 3,692 mAh (reportedly 4,430 mAh), keep a 6.3-inch 120Hz OLED with Dynamic Island, use the 2nm A20 and dual 48MP cameras, and may cost more.",
+      "why": "From Weibo leaker Digital Chat Station, relayed by MacRumors, The Verge and AppleInsider. DCS has a fair supply-chain record, and a battery bump fits Apple raising capacities on the iPhone 18 Pro. But no capacity was given, and the price part is the leaker's own speculation with no figure or market; Apple already raised the iPhone 17 to $899 in September. Apple has said nothing. Update Nov 15 (catching up on Nov 5-9 leaks): alleged X-ray images shared by leaker Littertree66 put the battery at 4,430 mAh, and Weibo tipster Fixed Focus Digital gave the same 4,430 mAh figure on Nov 9, adding that the physical SIM slot is dropped and the main sensor is physically smaller. Two leaks now agree on the capacity, but the higher price is still speculation, so the claim as a whole stays a Rumor.",
       "sources": [
+        {
+          "name": "GSMArena (Nov 9, Fixed Focus Digital: 4,430 mAh)",
+          "url": "https://www.gsmarena.com/iphone_18_and_18e_to_feature_same_sized_screens_and_batteries__-news-75403.php"
+        },
+        {
+          "name": "PhoneArena (4,430 mAh report)",
+          "url": "https://www.phonearena.com/news/iphone-18-battery-capacity-leak_id184653"
+        },
         {
           "name": "MacRumors",
           "url": "https://www.macrumors.com/2026/11/03/iphone-18-rumored-to-get-larger-battery/"
@@ -3107,7 +3123,7 @@
     {
       "status": "Active",
       "first_reported": "2026-11-09",
-      "updated": "2026-11-09",
+      "updated": "2026-11-15",
       "id": "vivo-12000mah-battery",
       "title": "vivo has a 12,000mAh-plus phone battery in mass production",
       "rating": "Rumor",
@@ -3116,8 +3132,12 @@
       ],
       "expected": "Unknown (no phone named)",
       "claim": "vivo is already mass-producing a phone battery of 12,000mAh or more, with an even larger cell in development for a new large-screen device.",
-      "why": "From a single Weibo post reported by IT Home and relayed by Gizchina. It names no phone or date and does not say whether 12,000mAh is the rated or typical capacity, which can differ noticeably. Chinese brands are clearly racing past 10,000mAh, so it is plausible, but vivo has not confirmed it.",
+      "why": "From a single Weibo post reported by IT Home and relayed by Gizchina. It names no phone or date and does not say whether 12,000mAh is the rated or typical capacity, which can differ noticeably. Chinese brands are clearly racing past 10,000mAh, so it is plausible, but vivo has not confirmed it. Update Nov 15: Digital Chat Station also says vivo is mass-producing the cell and gives its rated capacity as 11,970mAh (so roughly 12,000mAh typical), and that vivo is testing even larger batteries for big-screen devices (via GSMArena's week 46 recap). Still no phone or date; it stays a Rumor.",
       "sources": [
+        {
+          "name": "GSMArena (week 46 recap, DCS: 11,970mAh rated)",
+          "url": "https://www.gsmarena.com/galaxy_s27_dummies_xiaomi_18s_land_in_the_office_week_46_in_review-news-75478.php"
+        },
         {
           "name": "Gizchina",
           "url": "https://www.gizchina.com/vivo-phones/phones-with-12000mah-batteries-are-near-vivo-leak-says"
@@ -3367,7 +3387,7 @@
     {
       "status": "Active",
       "first_reported": "2026-11-08",
-      "updated": "2026-11-13",
+      "updated": "2026-11-15",
       "id": "samsung-galaxy-ai-premium-subscription",
       "title": "Samsung is testing a $4.99-a-month Galaxy AI Premium subscription",
       "rating": "Rumor",
@@ -3378,8 +3398,12 @@
       ],
       "expected": "Early-access test first; possibly around the Galaxy S27 launch (speculation)",
       "claim": "Samsung will offer a paid Galaxy AI Premium plan at $4.99 a month or $47.99 a year, with higher usage limits and paid-only features such as Gen Video, Bixby Action and Daily Briefing, while core features stay free with usage caps.",
-      "why": "From SammyGuru (Nov 8), with screenshots of an opt-in early-access program in which test charges are refunded; relayed by SamMobile and Android Authority. Samsung told Tech Advisor that core Galaxy AI features will remain free but that some advanced capabilities or new services 'may be offered as paid options' in the future. That supports the idea of a paid tier but not the price, the feature list or the timing, which all rest on the one leak.",
+      "why": "From SammyGuru (Nov 8), with screenshots of an opt-in early-access program in which test charges are refunded; relayed by SamMobile and Android Authority. Samsung told Tech Advisor that core Galaxy AI features will remain free but that some advanced capabilities or new services 'may be offered as paid options' in the future. That supports the idea of a paid tier but not the price, the feature list or the timing, which all rest on the one leak. Update Nov 15: screenshots from a leaked One UI 9.5 build, posted by the Telegram channel The Cipher Project and reported by Appdated, show a Galaxy AI Premium upsell with a 'Try free' button listing full access to a new Bixby Work agent, Gen Video and higher limits. It backs the existence of a paid tier with a free trial; price and timing still rest on the original leak.",
       "sources": [
+        {
+          "name": "Appdated (Nov 15, One UI 9.5 leak)",
+          "url": "https://appdated.de/171561/one-ui-9-5-leak-samsung-enthuellt-bixby-work-und-galaxy-ai-premium-abo/"
+        },
         {
           "name": "Tech Advisor (Samsung statement)",
           "url": "https://www.techadvisor.com/article/3279846/exclusive-samsung-galaxy-ai-subscription-official-response.html"
@@ -3516,6 +3540,97 @@
         {
           "name": "GSMArena",
           "url": "https://www.gsmarena.com/huaweis_next_nova_flip_could_switch_to_a_wide_form_factor-news-75479.php"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-14",
+      "updated": "2026-11-15",
+      "id": "honor-magic10-200mp-lofic",
+      "title": "Honor's Magic10 series gets a 200MP LOFIC main camera and possibly a dual-layer OLED",
+      "rating": "Rumor",
+      "categories": [
+        "android"
+      ],
+      "expected": "2027 (Magic9 series launched in September 2026; no date leaked)",
+      "claim": "Honor's next flagship line, the Magic10 series, will use a large 200MP main camera sensor with LOFIC (lateral overflow integration capacitor) tech for wider dynamic range, may bring back a variable aperture, and could use a dual-layer (tandem) OLED screen.",
+      "why": "From Weibo tipster Smart Pikachu, relayed by GSMArena. The same tipster earlier suggested variable aperture is returning. On the screen, he only said Honor is evaluating dual-layer OLED for tablets and phones and tagged the post #HonorMagic10, while ruling out dual-layer OLED on all 2027 flagships. One tipster, no model named for the camera (GSMArena guesses the Magic10 Pro Max), and Honor has said nothing.",
+      "sources": [
+        {
+          "name": "GSMArena",
+          "url": "https://www.gsmarena.com/honor_magic10_series_200mp_camera_lofic_tech_dual_layer_oled_display-news-75485.php"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-14",
+      "updated": "2026-11-15",
+      "id": "samsung-health-scan-meal-one-ui-9-5",
+      "title": "Samsung Health gets a Galaxy AI 'Scan meal' calorie estimator, possibly paid later",
+      "rating": "Likely",
+      "categories": [
+        "samsung",
+        "ai",
+        "android"
+      ],
+      "expected": "One UI 9.5 (with the Galaxy S27 series, early 2027, expected)",
+      "claim": "Samsung Health will add Scan meal, a Galaxy AI feature that identifies food, ingredients and portion sizes from a photo and estimates calories; it is labeled beta and its terms say it could become a paid feature.",
+      "why": "SamMobile found the feature inside the Samsung Health app, including Samsung's own beta label, accuracy warnings and a note that photos are processed on servers. That is hard evidence the feature exists, so it is Likely. The One UI 9.5 timing is SamMobile's expectation, and 'could become paid' is Samsung hedging, not a price.",
+      "sources": [
+        {
+          "name": "SamMobile (exclusive)",
+          "url": "https://www.sammobile.com/news/samsung-health-galaxy-ai-scan-meal-feature-one-ui-9-5/"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-14",
+      "updated": "2026-11-15",
+      "id": "expert-raw-redesign-galaxy-s27",
+      "title": "Expert RAW gets a redesign, burst DNG mode and wider virtual aperture for the Galaxy S27",
+      "rating": "Likely",
+      "categories": [
+        "samsung",
+        "android"
+      ],
+      "expected": "Galaxy S27 launch / One UI 9.5 (early 2027)",
+      "claim": "Samsung's Expert RAW camera app will be redesigned for the Galaxy S27 and One UI 9.5, with two customizable buttons beside the shutter, a settings lock, a bigger RGB histogram, a separate tint control, a burst mode saving up to 30 DNG shots, virtual aperture from f/1.4 to f/22 (vs up to f/16 on the S26 Ultra), and signs of video recording.",
+      "why": "SamMobile says it got access to an early version of the app and shows the new interface. That is hard evidence of work in progress, so it is Likely; Samsung may still change features, and video capture does not work in the build tested.",
+      "sources": [
+        {
+          "name": "SamMobile (exclusive)",
+          "url": "https://www.sammobile.com/news/samsung-expert-raw-galaxy-s27-one-ui-9-5-redesign-features/"
+        },
+        {
+          "name": "SamMobile (One UI 9.5 roundup)",
+          "url": "https://www.sammobile.com/news/samsung-one-ui-9-5-new-features-changes-leak-roundup/"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-13",
+      "updated": "2026-11-15",
+      "id": "meta-muse-spark-1-4",
+      "title": "Meta's Muse Spark 1.4 is already in internal use",
+      "rating": "Likely",
+      "categories": [
+        "ai"
+      ],
+      "expected": "Not announced (Muse Spark 1.3 shipped Sept 2)",
+      "claim": "Meta's next model, Muse Spark 1.4, is already running inside Meta's internal tools ahead of any public release.",
+      "why": "A public pull request on Meta's RocksDB GitHub repository includes auto-generated test notes showing a real call to 'muse-spark-1.4-internal' (about 33,500 input tokens, 8,169 output tokens, 65 seconds), spotted by @LuminaBench and reported by TestingCatalog. That is hard evidence the model exists internally, so it is Likely. The internal name may change, and there is no word on release date, benchmarks or price; Meta has not commented.",
+      "sources": [
+        {
+          "name": "TestingCatalog",
+          "url": "https://www.testingcatalog.com/meta-muse-spark-1-4-surfaces-in-rocksdb-pull-request/"
+        },
+        {
+          "name": "ORIENS",
+          "url": "https://ai-oriens.com/en/news/muse-spark-1-4/"
         }
       ]
     }

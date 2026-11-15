@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14",
+  "updated": "2026-11-15",
   "items": [
     {
       "id": "gtc-berlin-2026",
@@ -2762,14 +2762,22 @@
         "android"
       ],
       "type": "Wearable",
-      "date": "2026-11-15",
-      "date_label": "Mid-Nov 2026 shipping (orders open Oct 28; Japan sale Nov 2)",
-      "precision": "window",
+      "date": "2026-11-17",
+      "date_label": "Ships from Nov 17, 2026 (Founder Editions first; Japan general sale Nov 27)",
+      "precision": "day",
       "status": "Confirmed",
       "price": "$1,099 (12GB/256GB), $1,299 (16GB/512GB) through 2026",
-      "summary": "The first Android XR glasses, XREAL's tethered Aura, went on sale Oct 28 for $1,099 and start shipping in mid-November.",
-      "details": "The 95-gram transparent glasses connect by cable to a compute puck running Android XR, with a 70-degree field of view, multiple virtual screens and Gemini. Orders are open in the US, Canada and South Korea; Japan sales start Nov 2 and wider availability comes next year. The launch prices of $1,099 and $1,299 run through the end of 2026 (regular prices $1,279 and $1,499), and XREAL says earlier pre-order buyers get the difference refunded.",
+      "summary": "The first Android XR glasses, XREAL's tethered Aura, went on sale Oct 28 for $1,099; XREAL says Founder Edition orders start shipping Nov 17.",
+      "details": "The 95-gram transparent glasses connect by cable to a compute puck running Android XR, with a 70-degree field of view, multiple virtual screens and Gemini. Orders are open in the US, Canada and South Korea; Japan sales start Nov 2 and wider availability comes next year. The launch prices of $1,099 and $1,299 run through the end of 2026 (regular prices $1,279 and $1,499), and XREAL says earlier pre-order buyers get the difference refunded. Update Nov 15: XREAL said on Threads that Founder Edition orders begin shipping on Nov 17, with first deliveries in the following days; other orders ship in batches by priority tier and payment date. XREAL Japan lists the general Japanese release for Nov 27 at 14:00, with shipping from late November.",
       "sources": [
+        {
+          "name": "XREAL on Threads (ships Nov 17)",
+          "url": "https://www.threads.com/@xreal_global/post/DftbxriG2AV/xreal-aura-founder-editions-are-officially-getting-ready-to-ship-shipping/"
+        },
+        {
+          "name": "XREAL Japan (PR Times, Nov 27 Japan release)",
+          "url": "https://prtimes.jp/main/html/rd/p/000000312.000070978.html"
+        },
         {
           "name": "Google blog",
           "url": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/"

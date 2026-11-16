@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15",
+  "updated": "2026-11-16",
   "scale": {
     "Confirmed": "Announced by the company or shown in an official source.",
     "Likely": "Multiple credible outlets or hard evidence (certifications, databases, supply chain), but no official word.",
@@ -632,11 +632,15 @@
         "ai"
       ],
       "status": "Active",
-      "updated": "2026-11-11",
+      "updated": "2026-11-16",
       "expected": "June 2027 reveal; late 2027 ship",
       "claim": "Apple will show privacy-focused smart glasses at WWDC 2027 and ship them in late 2027.",
-      "why": "Reporting traces back mainly to Bloomberg's Mark Gurman, who also warns it could slip to late 2028 or 2029. The camera design decision was reported as not final. Update Nov 11: Chinese inspection-equipment maker Quick Intelligent Equipment told investors it is involved in 'Apple's AI glasses and new smart earphones projects' (Securities Times via MacRumors). That supports the glasses being in development but says nothing about a WWDC reveal or ship date.",
+      "why": "Reporting traces back mainly to Bloomberg's Mark Gurman, who also warns it could slip to late 2028 or 2029. The camera design decision was reported as not final. Update Nov 11: Chinese inspection-equipment maker Quick Intelligent Equipment told investors it is involved in 'Apple's AI glasses and new smart earphones projects' (Securities Times via MacRumors). That supports the glasses being in development but says nothing about a WWDC reveal or ship date. Update Nov 15: in Power On, Gurman repeated the plan to unveil the glasses (codename N50) at WWDC in June 2027 and ship before year-end, with no AR display and Siri controlling actions in paired iPhone apps; he warns that late software and AI work could delay it. More detail from the same reporter, so it stays a Rumor.",
       "sources": [
+        {
+          "name": "MacRumors (Nov 15, Power On)",
+          "url": "https://www.macrumors.com/2026/11/15/apple-smart-glasses-hinge-on-siri/"
+        },
         {
           "name": "MacRumors (supplier briefing)",
           "url": "https://www.macrumors.com/2026/11/11/apple-smart-glasses-mentioned-by-suppliers/"
@@ -1417,17 +1421,21 @@
     {
       "id": "huawei-mate-x8-november",
       "title": "Huawei Mate X8 foldable launches in November",
-      "rating": "Rumor",
+      "rating": "Confirmed",
       "categories": [
         "android"
       ],
       "status": "Active",
       "first_reported": "2026-10-19",
-      "updated": "2026-11-13",
-      "expected": "Nov 24, 2026 (tipster) or December (conflicting report)",
+      "updated": "2026-11-16",
+      "expected": "Nov 24, 2026 (China, official)",
       "claim": "Huawei will launch the Mate X8 in China in November with Kirin 9050/9050 Pro chips, an 8.15-inch inner and 6.5-inch cover screen, a 50MP 1/1.28-inch variable-aperture main camera, a 50MP periscope and a battery above 6,000mAh, plus a privacy-display version.",
-      "why": "From Weibo tipster Bai Ze Guan Shan, relayed by Gizmochina and GSMArena. The timing fits Huawei's pattern (the Mate X7 launched in November 2025), but the tipster says the launch was planned alongside a new sub-brand whose timing is uncertain. Huawei has not announced anything. Update Oct 30: tipster Smart Pikachu (via Gizmochina) also lists the Mate X8 among Huawei's November products, with a Kirin 9050 Pro and a 50MP RYYB periscope. A second tipster agreeing lifts the timing a little, but Huawei has set no date; the Mate X7 launched Nov 26 last year. Update Nov 2: a Weibo tipster relayed by Huawei Central says Huawei's Star Shine sub-brand phones come in early November and the Mate X8 later in the month. Still no official date. Update Nov 11: Weibo tipster RuryRen says the Mate X8 launches in mid-to-late November, probably after the 20th, with the Kirin 9050 Pro, 16GB of RAM, storage up to 2TB and HarmonyOS 7. Huawei has now dated other November events (MateBook Fold S pre-sale Nov 14, OSTA Nov 20) but still not the Mate X8. Update Nov 13: a Chinese rumor relayed by GSMArena and Huawei Central puts the launch on Nov 24, with support for Huawei's Ruiying Z10 10x camera add-on, and Richard Yu was photographed carrying what looks like the Mate X8 in light purple (Gizmochina). But a NetEase report says the November timing is a mistake and the window is December, noting no blind orders or reservations have opened. Huawei has not announced a date, so it stays a Rumor.",
+      "why": "From Weibo tipster Bai Ze Guan Shan, relayed by Gizmochina and GSMArena. The timing fits Huawei's pattern (the Mate X7 launched in November 2025), but the tipster says the launch was planned alongside a new sub-brand whose timing is uncertain. Huawei has not announced anything. Update Oct 30: tipster Smart Pikachu (via Gizmochina) also lists the Mate X8 among Huawei's November products, with a Kirin 9050 Pro and a 50MP RYYB periscope. A second tipster agreeing lifts the timing a little, but Huawei has set no date; the Mate X7 launched Nov 26 last year. Update Nov 2: a Weibo tipster relayed by Huawei Central says Huawei's Star Shine sub-brand phones come in early November and the Mate X8 later in the month. Still no official date. Update Nov 11: Weibo tipster RuryRen says the Mate X8 launches in mid-to-late November, probably after the 20th, with the Kirin 9050 Pro, 16GB of RAM, storage up to 2TB and HarmonyOS 7. Huawei has now dated other November events (MateBook Fold S pre-sale Nov 14, OSTA Nov 20) but still not the Mate X8. Update Nov 13: a Chinese rumor relayed by GSMArena and Huawei Central puts the launch on Nov 24, with support for Huawei's Ruiying Z10 10x camera add-on, and Richard Yu was photographed carrying what looks like the Mate X8 in light purple (Gizmochina). But a NetEase report says the November timing is a mistake and the window is December, noting no blind orders or reservations have opened. Huawei has not announced a date, so it stays a Rumor. Update Nov 16: Huawei officially set the Mate X8 launch event for Nov 24 at 2:30 PM China time, matching the tipped date, and the teaser shows the purple color. The November timing is now Confirmed; the chip, screen and battery claims will be checked at the event, and we will resolve this after Nov 24.",
       "sources": [
+        {
+          "name": "Huawei Central (Nov 16, official date)",
+          "url": "https://www.huaweicentral.com/huawei-mate-x8-launch-november-24/"
+        },
         {
           "name": "GSMArena (Nov 13, Nov 24 rumor)",
           "url": "https://www.gsmarena.com/huawei_mate_x8_now_has_a_rumored_launch_date-news-75463.php"
@@ -1610,11 +1618,15 @@
       ],
       "status": "Active",
       "first_reported": "2026-10-22",
-      "updated": "2026-10-24",
+      "updated": "2026-11-16",
       "expected": "Fall 2027 (if it ships)",
       "claim": "Apple's second-generation iPhone Duo, expected next fall, adds Face ID under the outer display, and Apple is also considering an Action button.",
-      "why": "From Bloomberg's Mark Gurman on his Power On podcast, relayed by MacRumors and 9to5Mac. Gurman has a strong Apple record, but he says Apple is only testing Face ID on prototypes and has not decided whether it will ship, so this stays a Rumor. The first iPhone Duo uses Touch ID in the side button. Early iPhone Duo reviews criticized the Touch ID placement, which makes Face ID a likely priority, but there is still no second source beyond Gurman.",
+      "why": "From Bloomberg's Mark Gurman on his Power On podcast, relayed by MacRumors and 9to5Mac. Gurman has a strong Apple record, but he says Apple is only testing Face ID on prototypes and has not decided whether it will ship, so this stays a Rumor. The first iPhone Duo uses Touch ID in the side button. Early iPhone Duo reviews criticized the Touch ID placement, which makes Face ID a likely priority, but there is still no second source beyond Gurman. Update Nov 15: Gurman says Apple has built iPhone Duo 2 prototypes with Face ID in the outer display and calls it a top priority, but Apple is 'running out of time' for next fall's model and the feature may slip to the iPhone Duo 3. That makes it no more likely than before, so it stays a Rumor.",
       "sources": [
+        {
+          "name": "MacRumors (Nov 15, Power On)",
+          "url": "https://www.macrumors.com/2026/11/15/apple-aims-to-upgrade-iphone-duo-in-four-ways/"
+        },
         {
           "name": "MacRumors (citing Bloomberg)",
           "url": "https://www.macrumors.com/2026/10/22/iphone-duo-2-prototypes-under-display-face-id/"
@@ -3147,7 +3159,7 @@
     {
       "status": "Active",
       "first_reported": "2026-11-10",
-      "updated": "2026-11-10",
+      "updated": "2026-11-16",
       "id": "galaxy-s27-camera-sensors",
       "title": "Galaxy S27 cameras: Ultra drops to a single 5x telephoto, S27 Pro gets a 10MP 3x zoom",
       "rating": "Rumor",
@@ -3157,8 +3169,12 @@
       ],
       "expected": "Galaxy S27 launch (early 2027)",
       "claim": "The Galaxy S27 and S27+ keep a 50MP main, 12MP ultrawide and 10MP 3x camera; the S27 Pro and Ultra share a 200MP ISOCELL HP6 main, a 50MP ultrawide and a 16MP selfie camera, but the Pro gets only a 10MP 3x telephoto and the Ultra a single 50MP 5x telephoto.",
-      "why": "From SammyGuru, relayed by Android Authority and GSMArena, with specific sensor part numbers. It fits Ice Universe's August claim that the Ultra has only three rear cameras, and on Nov 10 he said the fourth camera shown on dummy units shared by Sonny Dickson 'does not exist'. The Pro's 10MP 3x camera contradicts earlier leaks of 50MP 5x or 3.5x options. One sourced leak, Samsung has said nothing, so it is a Rumor.",
+      "why": "From SammyGuru, relayed by Android Authority and GSMArena, with specific sensor part numbers. It fits Ice Universe's August claim that the Ultra has only three rear cameras, and on Nov 10 he said the fourth camera shown on dummy units shared by Sonny Dickson 'does not exist'. The Pro's 10MP 3x camera contradicts earlier leaks of 50MP 5x or 3.5x options. One sourced leak, Samsung has said nothing, so it is a Rumor. Update Nov 16: Ice Universe posted what he calls the '100% confirmed' final camera layout for the S27 Pro and Ultra: a wide rectangular island with two large stacked lenses and one smaller lens, which fits three rear cameras. SamMobile's summary lists the Pro's 3x zoom as 12MP rather than 10MP, so the Pro telephoto spec is still unsettled. It stays a Rumor.",
       "sources": [
+        {
+          "name": "SamMobile (Nov 16, Ice Universe design)",
+          "url": "https://www.sammobile.com/news/leaker-100-percent-sure-final-galaxy-s27-pro-and-ultra-camera-design/"
+        },
         {
           "name": "Android Authority",
           "url": "https://www.androidauthority.com/samsung-galaxy-s27-series-camera-sensors-leak-3733185/"
@@ -3631,6 +3647,88 @@
         {
           "name": "ORIENS",
           "url": "https://ai-oriens.com/en/news/muse-spark-1-4/"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-16",
+      "updated": "2026-11-16",
+      "id": "iphone-20-pro-curved-glass",
+      "title": "The 'iPhone 20 Pro' uses iPhone Air-style glass that curves on all four sides",
+      "rating": "Rumor",
+      "categories": [
+        "apple"
+      ],
+      "expected": "Fall 2027 (20th-anniversary iPhones)",
+      "claim": "Apple's 2027 anniversary Pro iPhones use the same glass material as the iPhone Air, shaped with more curvature so the front and back curve on all four edges around a thin polished metal frame.",
+      "why": "From Weibo leaker Fixed Focus Digital, relayed by MacRumors, who earlier said Apple modified iPhone Air production equipment to make more rounded glass. The broad direction matches Bloomberg's Mark Gurman, who has reported glass curving into the sides on the anniversary Pro models. The material detail and the 'iPhone 20 Pro' name rest on one leaker, and Apple's naming is unknown, so it is a Rumor.",
+      "sources": [
+        {
+          "name": "MacRumors",
+          "url": "https://www.macrumors.com/2026/11/16/iphone-20-pro-to-be-based-on-iphone-air/"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-15",
+      "updated": "2026-11-16",
+      "id": "intel-razor-lake-12p-bllc",
+      "title": "Intel's Razor Lake desktop line gets a 12 P-core gaming chip with big cache and no regular E-cores",
+      "rating": "Rumor",
+      "categories": [
+        "chips"
+      ],
+      "expected": "2028 (Razor Lake-S, reported)",
+      "claim": "Intel's 2028 Razor Lake-S lineup includes an unlocked '12+0+4' chip with 12 P-cores, four low-power E-cores and Intel's big Last Level Cache (bLLC), built on Intel 18A-P, replacing a planned 8+0+4 part; a 6+12+4 bLLC chip moves from Nova Lake to Razor Lake.",
+      "why": "From Intel leaker Jaykihn on X, reported by TechPowerUp. He has a decent record on Intel roadmaps, and Intel has listed Razor Lake model IDs in its ISA reference, but none of these configurations are official and plans two years out often change. One source, so it is a Rumor.",
+      "sources": [
+        {
+          "name": "TechPowerUp",
+          "url": "https://www.techpowerup.com/354867/intel-razor-lake-gets-a-12-p-core-bllc-chip-with-no-e-cores-per-leak"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-16",
+      "updated": "2026-11-16",
+      "id": "one-ui-9-5-daily-brief",
+      "title": "One UI 9.5 adds a 'Daily Brief' that summarizes your emails and app notifications",
+      "rating": "Rumor",
+      "categories": [
+        "samsung",
+        "android",
+        "ai"
+      ],
+      "expected": "One UI 9.5 (with or after the Galaxy S27)",
+      "claim": "Samsung's Now Brief gains a Daily Brief that pulls notifications from apps such as WhatsApp, Telegram, LINE, KakaoTalk and SMS/RCS plus your email, and sorts them into cards for finance and payments, bookings and appointments, and work email at a set time of day.",
+      "why": "From an Android Authority APK teardown of Samsung's Personal Agent Core package, with developer strings naming the feature and its card categories. Code evidence shows Samsung is building it, but Android Authority stresses the code is work in progress and may not ship, and it suggests these agent features may sit in a paid Galaxy AI tier. Samsung has said nothing, so it is a Rumor.",
+      "sources": [
+        {
+          "name": "Android Authority",
+          "url": "https://www.androidauthority.com/one-ui-9-5-galaxy-claw-agentic-now-daily-brief-3735370/"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-15",
+      "updated": "2026-11-16",
+      "id": "lenovo-googlebook-duet-13-january",
+      "title": "Lenovo's Googlebook Duet 13 detachable launches in January",
+      "rating": "Likely",
+      "categories": [
+        "android"
+      ],
+      "expected": "January 2027 (likely CES)",
+      "claim": "Lenovo's first detachable Googlebook, the Googlebook Duet 13, with a 13-inch screen, a detachable keyboard, a stylus and a kickstand cover, launches in January 2027.",
+      "why": "From Evan Blass, who shared new images and said it is 'launching in January' (via 9to5Google and Android Authority). Google has already teased detachable Googlebooks as coming soon, and Blass's leaked images and track record are strong, so the product looks real and the timing is Likely. Lenovo and Google have not announced a date, name or price.",
+      "sources": [
+        {
+          "name": "9to5Google",
+          "url": "https://9to5google.com/2026/11/15/lenovo-googlebook-duet-13-leak/"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16",
+  "updated": "2026-11-17",
   "scale": {
     "Confirmed": "Announced by the company or shown in an official source.",
     "Likely": "Multiple credible outlets or hard evidence (certifications, databases, supply chain), but no official word.",
@@ -142,11 +142,15 @@
       ],
       "status": "Active",
       "first_reported": "2026-11-07",
-      "updated": "2026-11-12",
+      "updated": "2026-11-17",
       "expected": "December 2026 (China, reported)",
       "claim": "A standard Xiaomi 18 is still coming this year, around December in China, with 100W wired charging, the Snapdragon 8 Elite Gen 6, a 200MP main camera and a 7,200mAh battery.",
-      "why": "A new 3C certification (via GSMArena) lists a Xiaomi phone with 100W charging that is believed, not confirmed, to be the Xiaomi 18. The December timing and other specs come from earlier leaks. Certification is hard evidence that a device exists, but its identity is inferred and Xiaomi has not mentioned the base model. Update Nov 12: a dealer poster on Weibo shows offline retailers in China taking refundable blind deposits for the standard Xiaomi 18 (GSMArena, Gizmochina), and Digital Chat Station tips a 2nm mid-size model with up to 16GB/1TB. Dealer pre-orders plus the 3C listing are hard signs of a near launch, so this moves to Likely; Xiaomi itself has not confirmed a date or specs.",
+      "why": "A new 3C certification (via GSMArena) lists a Xiaomi phone with 100W charging that is believed, not confirmed, to be the Xiaomi 18. The December timing and other specs come from earlier leaks. Certification is hard evidence that a device exists, but its identity is inferred and Xiaomi has not mentioned the base model. Update Nov 12: a dealer poster on Weibo shows offline retailers in China taking refundable blind deposits for the standard Xiaomi 18 (GSMArena, Gizmochina), and Digital Chat Station tips a 2nm mid-size model with up to 16GB/1TB. Dealer pre-orders plus the 3C listing are hard signs of a near launch, so this moves to Likely; Xiaomi itself has not confirmed a date or specs. Update Nov 17: XiaomiTime reports a Xiaomi Weibo poster announcing blind bookings for the 'Xiaomi 18 Standard Edition', and Lei Jun was photographed with a white phone believed to be the Xiaomi 18 at the APEC CEO Summit (Gizmochina). The phone is now effectively official, but Xiaomi has not given a date or confirmed the 100W and battery specs, so it stays Likely.",
       "sources": [
+        {
+          "name": "Gizmochina (Lei Jun at APEC)",
+          "url": "https://www.gizmochina.com/2026/11/17/xiaomi-18-appears-in-real-ceo-flaunts-it-at-apec/"
+        },
         {
           "name": "Gizmochina (Nov 12, blind orders)",
           "url": "https://www.gizmochina.com/2026/11/12/xiaomi-18-blind-orders-begin-launch-fast-approaching/"
@@ -158,6 +162,10 @@
         {
           "name": "GSMArena (Nov 12)",
           "url": "https://www.gsmarena.com/a_seller_in_china_has_started_taking_blind_preorders_for_the_vanilla_xiaomi_18-news-75452.php"
+        },
+        {
+          "name": "XiaomiTime (blind booking poster)",
+          "url": "https://ximitime.com/xiaomi-18-standard-edition-officially-teased-for-december-launch-101752/"
         }
       ]
     },
@@ -1501,11 +1509,15 @@
       ],
       "status": "Active",
       "first_reported": "2026-10-19",
-      "updated": "2026-11-10",
-      "expected": "Nov 17, 2026 (Paris event, official)",
+      "updated": "2026-11-17",
+      "expected": "Launched Nov 17, 2026 (batteries confirmed; euro prices pending)",
       "claim": "The European Xiaomi 18 Pro will cost EUR 1,449 (256GB) or EUR 1,649 (512GB) with a 6,000mAh-rated battery and 90W charging, and the 18 Pro Max EUR 1,849 (512GB) with a 7,050mAh-rated battery and 100W, both smaller than the Chinese versions' 7,000mAh and 8,500mAh.",
-      "why": "Prices first came from a single unnamed report relayed by GSMArena, and the battery figures matched Xiaomi's published EU energy labels. Update Oct 26: Italian retailer Epto listed both phones with the same smaller batteries (6,000mAh/90W on the Pro, 7,050mAh/100W on the Pro Max) and prices close to the leak: EUR 1,398.90 and 1,591.90 for the 18 Pro (256GB/512GB) and EUR 1,783.90 for the 18 Pro Max, about EUR 50-65 under the leaked figures. Epto's prices are often slightly off the official ones, so we move this to Likely: the batteries look settled, the price range is roughly right, but the exact euro figures and launch date still await Xiaomi. Update Nov 2: Xiaomi confirmed on X that the 18 Pro series goes global this November, which fits the retailer timing; prices and battery sizes are still unconfirmed until the launch event. Update Nov 9-10: Xiaomi set the global launch for Nov 17 in Paris, so the European prices and battery sizes will be checked then.",
+      "why": "Prices first came from a single unnamed report relayed by GSMArena, and the battery figures matched Xiaomi's published EU energy labels. Update Oct 26: Italian retailer Epto listed both phones with the same smaller batteries (6,000mAh/90W on the Pro, 7,050mAh/100W on the Pro Max) and prices close to the leak: EUR 1,398.90 and 1,591.90 for the 18 Pro (256GB/512GB) and EUR 1,783.90 for the 18 Pro Max, about EUR 50-65 under the leaked figures. Epto's prices are often slightly off the official ones, so we move this to Likely: the batteries look settled, the price range is roughly right, but the exact euro figures and launch date still await Xiaomi. Update Nov 2: Xiaomi confirmed on X that the 18 Pro series goes global this November, which fits the retailer timing; prices and battery sizes are still unconfirmed until the launch event. Update Nov 9-10: Xiaomi set the global launch for Nov 17 in Paris, so the European prices and battery sizes will be checked then. Update Nov 17: after the Paris launch, Xiaomi's global and French product pages confirm the battery half of the claim: 6,000mAh with 90W on the 18 Pro and 7,050mAh with 100W on the 18 Pro Max. Official euro prices were not yet in the sources we checked, so it stays Likely until prices can be compared; a newer Dealabs leak put them EUR 50 lower than this claim (EUR 1,399/1,599 for the Pro, 1,599/1,799 for the Pro Max).",
       "sources": [
+        {
+          "name": "Xiaomi Global (18 Pro specs)",
+          "url": "https://www.mi.com/global/product/xiaomi-18-pro/specs/"
+        },
         {
           "name": "Gizmochina (global launch in November)",
           "url": "https://www.gizmochina.com/2026/11/02/xiaomi-18-pro-series-global-launch-november/"
@@ -1521,6 +1533,10 @@
         {
           "name": "Android Authority",
           "url": "https://www.androidauthority.com/xiaomi-18-pro-series-global-pricing-3725353/"
+        },
+        {
+          "name": "Notebookcheck (Dealabs prices)",
+          "url": "https://www.notebookcheck.net/Xiaomi-18-Pro-Max-Slightly-different-global-prices-leak-with-final-specs.1431681.0.html"
         }
       ]
     },
@@ -3017,7 +3033,7 @@
     {
       "status": "Active",
       "first_reported": "2026-11-05",
-      "updated": "2026-11-11",
+      "updated": "2026-11-17",
       "id": "huawei-osta-subbrand",
       "title": "Huawei's new sub-brand is called Osta and debuts with the flagship-level Osta O1 and wide-screen O1 Pro",
       "rating": "Likely",
@@ -3026,8 +3042,12 @@
       ],
       "expected": "Nov 20, 2026 (official debut date); phone specs unconfirmed",
       "claim": "Huawei's upcoming sub-brand, reported in Chinese as Xingmang, will be called Osta in English and launch with two flagship-level phones: the Osta O1 with a quad-curved screen and the Osta O1 Pro with a 6.39-inch 1.5K wide-aspect flat screen and up to 16GB/1TB.",
-      "why": "Two Weibo tipsters that GSMArena calls reliable say Osta will be printed on retail boxes. Positioning the phones as flagships contradicts an earlier leak of Kirin 8-series mid-rangers, and an earlier tipster warned the English name might differ. Huawei has not confirmed the brand. Update Nov 11: Richard Yu officially confirmed the OSTA name and a Nov 20 debut, and his Weibo posts show an 'OSTA O1 Pro' device label, matching the tipsters. The name and O1 Pro model are now confirmed; the quad-curved O1, flagship positioning and 16GB/1TB memory still come from leaks and retail-box photos, so the full claim moves to Likely.",
+      "why": "Two Weibo tipsters that GSMArena calls reliable say Osta will be printed on retail boxes. Positioning the phones as flagships contradicts an earlier leak of Kirin 8-series mid-rangers, and an earlier tipster warned the English name might differ. Huawei has not confirmed the brand. Update Nov 11: Richard Yu officially confirmed the OSTA name and a Nov 20 debut, and his Weibo posts show an 'OSTA O1 Pro' device label, matching the tipsters. The name and O1 Pro model are now confirmed; the quad-curved O1, flagship positioning and 16GB/1TB memory still come from leaks and retail-box photos, so the full claim moves to Likely. Update Nov 17: Huawei's Vmall pre-order page for the OSTA O1 Pro confirms memory options up to 16GB/1TB (16GB only in Starburst Purple) and three colors. The flagship-level specs and the quad-curved O1 still rest on leaks, so it stays Likely until the Nov 20 launch.",
       "sources": [
+        {
+          "name": "Gizmochina (Vmall listing)",
+          "url": "https://www.gizmochina.com/2026/11/17/huawei-osta-o1-pro-pre-order-vmall-three-colors/"
+        },
         {
           "name": "Huawei Central (Nov 20 date)",
           "url": "https://www.huaweicentral.com/huawei-osta-sub-brand-will-launch-on-november-20/"
@@ -3653,7 +3673,7 @@
     {
       "status": "Active",
       "first_reported": "2026-11-16",
-      "updated": "2026-11-16",
+      "updated": "2026-11-17",
       "id": "iphone-20-pro-curved-glass",
       "title": "The 'iPhone 20 Pro' uses iPhone Air-style glass that curves on all four sides",
       "rating": "Rumor",
@@ -3662,11 +3682,19 @@
       ],
       "expected": "Fall 2027 (20th-anniversary iPhones)",
       "claim": "Apple's 2027 anniversary Pro iPhones use the same glass material as the iPhone Air, shaped with more curvature so the front and back curve on all four edges around a thin polished metal frame.",
-      "why": "From Weibo leaker Fixed Focus Digital, relayed by MacRumors, who earlier said Apple modified iPhone Air production equipment to make more rounded glass. The broad direction matches Bloomberg's Mark Gurman, who has reported glass curving into the sides on the anniversary Pro models. The material detail and the 'iPhone 20 Pro' name rest on one leaker, and Apple's naming is unknown, so it is a Rumor.",
+      "why": "From Weibo leaker Fixed Focus Digital, relayed by MacRumors, who earlier said Apple modified iPhone Air production equipment to make more rounded glass. The broad direction matches Bloomberg's Mark Gurman, who has reported glass curving into the sides on the anniversary Pro models. The material detail and the 'iPhone 20 Pro' name rest on one leaker, and Apple's naming is unknown, so it is a Rumor. Update Nov 17: Ice Universe posted videos of an 'approved' quad-curved cover glass sample and screen protectors with very thin borders and a Dynamic Island cutout (MacRumors, GSMArena). MacRumors notes such parts are often early manufacturing tests built from rumors rather than Apple's final specs, and they say nothing about the glass material, so this stays a Rumor.",
       "sources": [
+        {
+          "name": "MacRumors (screen protectors)",
+          "url": "https://www.macrumors.com/2026/11/17/iphone-20-pro-screen-protectors-rumored-design/"
+        },
         {
           "name": "MacRumors",
           "url": "https://www.macrumors.com/2026/11/16/iphone-20-pro-to-be-based-on-iphone-air/"
+        },
+        {
+          "name": "GSMArena (front glass video)",
+          "url": "https://www.gsmarena.com/new_leak_offers_a_first_look_at_the_iphone_20_pros_front_glass-news-75503.php"
         }
       ]
     },
@@ -3729,6 +3757,112 @@
         {
           "name": "9to5Google",
           "url": "https://9to5google.com/2026/11/15/lenovo-googlebook-duet-13-leak/"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-16",
+      "updated": "2026-11-17",
+      "id": "galaxy-s28-variable-aperture",
+      "title": "Variable aperture returns on the Galaxy S28 Pro and S28 Ultra, not the S27",
+      "rating": "Rumor",
+      "categories": [
+        "samsung",
+        "android"
+      ],
+      "expected": "Early 2028 (Galaxy S28 Pro and Ultra)",
+      "claim": "Samsung brings back a variable-aperture main camera on the Galaxy S28 Pro and S28 Ultra, which implies the Galaxy S27 Pro and Ultra keep fixed apertures.",
+      "why": "From a single tipster on X, relayed by SamMobile and GSMArena. Apple added variable aperture to the iPhone 18 Pro this year and Honor is reportedly bringing it back, so the idea is plausible, but an earlier Ice Universe claim that the S26 Ultra would get it did not pan out, and the S28 is more than a year away. Samsung has said nothing.",
+      "sources": [
+        {
+          "name": "GSMArena",
+          "url": "https://www.gsmarena.com/heres_when_samsung_is_now_rumored_to_bring_variable_aperture_to_its_pro_and_ultra_flagships-news-75499.php"
+        },
+        {
+          "name": "SamMobile",
+          "url": "https://www.sammobile.com/news/the-galaxy-s28-ultra-and-s28-pro-could-feature-variable-aperture-cameras/"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-17",
+      "updated": "2026-11-17",
+      "id": "oppo-find-x11-pro-max-quad-curved",
+      "title": "Oppo's next Pro Max hides its bezels under four-sided curved glass (about 0.3mm)",
+      "rating": "Rumor",
+      "categories": [
+        "android"
+      ],
+      "expected": "Next Find X flagship series (likely Find X11 Pro Max; no date)",
+      "claim": "Oppo's next top flagship, likely the Find X11 Pro Max, pairs a flat panel with cover glass curved on all four sides for a visual bezel of about 0.3mm; the tech is pricey, so only top models get it and OnePlus stays flat.",
+      "why": "From Digital Chat Station on Weibo (via GSMArena), who called it a 'super early preview' and answered 'PM' when asked which phone gets it. DCS has a good record on Oppo, and it fits last week's report that the Find X11 Pro Max inherits parts from the reportedly suspended Find X10 Ultra. It is one tipster, very early, and Oppo has not commented.",
+      "sources": [
+        {
+          "name": "GSMArena",
+          "url": "https://www.gsmarena.com/oppos_next_pro_max_may_hide_its_bezels_under_foursided_curved_glass-news-75495.php"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-17",
+      "updated": "2026-11-17",
+      "id": "huawei-watch-air-6-9mm",
+      "title": "Huawei Watch Air is a 6.9mm titanium smartwatch with up to 5 days of battery",
+      "rating": "Rumor",
+      "categories": [
+        "android"
+      ],
+      "expected": "Soon (no date)",
+      "claim": "Huawei's upcoming Watch Air has a 6.9mm titanium unibody, an irregular high-silicon stacked battery (over 10% silicon) for up to five days of use, Watch GT 7 Pro-level activity tracking and Watch 6 sensors including ECG.",
+      "why": "From Weibo tipster Fixed Focus Digital, relayed by GSMArena with leaked images. The name and thin design have been rumored before, but the specs come from one leaker and Huawei has not announced the watch or a date.",
+      "sources": [
+        {
+          "name": "GSMArena",
+          "url": "https://www.gsmarena.com/huawei_watch_air_leaks_with_impressively_thin_design-news-75504.php"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-17",
+      "updated": "2026-11-17",
+      "id": "one-ui-9-5-tap-to-share",
+      "title": "Samsung held Quick Share's Tap to Share back for One UI 9.5",
+      "rating": "Likely",
+      "categories": [
+        "samsung",
+        "android"
+      ],
+      "expected": "One UI 9.5 (with the Galaxy S27 series, early 2027)",
+      "claim": "Quick Share's NFC Tap to Share, which Google promised for the Galaxy Z8 foldables 'soon' after the Pixel 11 launch, arrives on Galaxy phones with One UI 9.5 rather than earlier.",
+      "why": "The Cipher Project on Telegram (via Android Authority) found a complete 'Tap to share' settings page in the latest Quick Share and Connectivity apps that only appears when a device is spoofed as One UI 9.5. Working code in shipping apps is hard evidence and the feature is officially promised, so it is Likely; Samsung has not confirmed the timing, and it could still arrive earlier through an app update.",
+      "sources": [
+        {
+          "name": "Android Authority",
+          "url": "https://www.androidauthority.com/samsung-one-ui-9-5-quick-share-tap-to-share-leak-3735920/"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-16",
+      "updated": "2026-11-17",
+      "id": "iphone-20-pro-new-sensor-17nm-isp",
+      "title": "The 'iPhone 20 Pro' gets a new main camera sensor with a 17nm image processor",
+      "rating": "Rumor",
+      "categories": [
+        "apple"
+      ],
+      "expected": "Fall 2027 (20th-anniversary iPhones)",
+      "claim": "Apple's 2027 anniversary Pro iPhones use a new main camera sensor paired with a new image signal processor built on a 17nm process.",
+      "why": "From Ice Universe on Weibo, relayed by GSMArena. A new sensor is expected for a flagship redesign, but the 17nm ISP detail is from one leaker with no stated benefits, and Apple's naming and specs are unknown.",
+      "sources": [
+        {
+          "name": "GSMArena",
+          "url": "https://www.gsmarena.com/iphone_20_pro_tipped_to_feature_new_main_camera_sensor_and_isp-news-75497.php"
         }
       ]
     }

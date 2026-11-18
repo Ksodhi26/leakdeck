@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17",
+  "updated": "2026-11-18",
   "scale": {
     "Confirmed": "Announced by the company or shown in an official source.",
     "Likely": "Multiple credible outlets or hard evidence (certifications, databases, supply chain), but no official word.",
@@ -142,11 +142,19 @@
       ],
       "status": "Active",
       "first_reported": "2026-11-07",
-      "updated": "2026-11-17",
+      "updated": "2026-11-18",
       "expected": "December 2026 (China, reported)",
       "claim": "A standard Xiaomi 18 is still coming this year, around December in China, with 100W wired charging, the Snapdragon 8 Elite Gen 6, a 200MP main camera and a 7,200mAh battery.",
-      "why": "A new 3C certification (via GSMArena) lists a Xiaomi phone with 100W charging that is believed, not confirmed, to be the Xiaomi 18. The December timing and other specs come from earlier leaks. Certification is hard evidence that a device exists, but its identity is inferred and Xiaomi has not mentioned the base model. Update Nov 12: a dealer poster on Weibo shows offline retailers in China taking refundable blind deposits for the standard Xiaomi 18 (GSMArena, Gizmochina), and Digital Chat Station tips a 2nm mid-size model with up to 16GB/1TB. Dealer pre-orders plus the 3C listing are hard signs of a near launch, so this moves to Likely; Xiaomi itself has not confirmed a date or specs. Update Nov 17: XiaomiTime reports a Xiaomi Weibo poster announcing blind bookings for the 'Xiaomi 18 Standard Edition', and Lei Jun was photographed with a white phone believed to be the Xiaomi 18 at the APEC CEO Summit (Gizmochina). The phone is now effectively official, but Xiaomi has not given a date or confirmed the 100W and battery specs, so it stays Likely.",
+      "why": "A new 3C certification (via GSMArena) lists a Xiaomi phone with 100W charging that is believed, not confirmed, to be the Xiaomi 18. The December timing and other specs come from earlier leaks. Certification is hard evidence that a device exists, but its identity is inferred and Xiaomi has not mentioned the base model. Update Nov 12: a dealer poster on Weibo shows offline retailers in China taking refundable blind deposits for the standard Xiaomi 18 (GSMArena, Gizmochina), and Digital Chat Station tips a 2nm mid-size model with up to 16GB/1TB. Dealer pre-orders plus the 3C listing are hard signs of a near launch, so this moves to Likely; Xiaomi itself has not confirmed a date or specs. Update Nov 17: XiaomiTime reports a Xiaomi Weibo poster announcing blind bookings for the 'Xiaomi 18 Standard Edition', and Lei Jun was photographed with a white phone believed to be the Xiaomi 18 at the APEC CEO Summit (Gizmochina). The phone is now effectively official, but Xiaomi has not given a date or confirmed the 100W and battery specs, so it stays Likely. Update Nov 18: tipster Debayan Roy (Gadgetsdata) posted a purported live image of a white Xiaomi 18 with a metal frame, a three-camera square island and no rear screen, and lists 100W wired charging, the Snapdragon 8 Elite Gen 6 and a 200MP main camera, but a battery of about 7,000mAh (not 7,200mAh) and a 50MP telephoto instead of the 200MP periscope from earlier leaks (GSMArena, Gadgets360). The 100W and chip details agree; the exact battery size is now disputed. Stays Likely.",
       "sources": [
+        {
+          "name": "GSMArena (Nov 17, live image)",
+          "url": "https://www.gsmarena.com/xiaomi_18_purportedly_leaks_in_live_image-news-75515.php"
+        },
+        {
+          "name": "Gadgets360 (live image, specs)",
+          "url": "https://www.gadgets360.com/mobiles/news/xiaomi-18-live-image-design-specifications-leak-12343129"
+        },
         {
           "name": "Gizmochina (Lei Jun at APEC)",
           "url": "https://www.gizmochina.com/2026/11/17/xiaomi-18-appears-in-real-ceo-flaunts-it-at-apec/"
@@ -367,11 +375,15 @@
         "apple"
       ],
       "status": "Active",
-      "updated": "2026-10-17",
+      "updated": "2026-11-18",
       "expected": "About March 2027",
       "claim": "Apple is splitting its iPhone releases: Pro and foldable models in fall, the standard iPhone 18 and 18e in spring.",
-      "why": "Reported repeatedly by Mark Gurman and echoed by several outlets. The fall 2026 lineup (iPhone 18 Pro and the foldable iPhone Duo) matched the split. Apple has not confirmed the spring models or date.",
+      "why": "Reported repeatedly by Mark Gurman and echoed by several outlets. The fall 2026 lineup (iPhone 18 Pro and the foldable iPhone Duo) matched the split. Apple has not confirmed the spring models or date. Update Nov 18: Korea's ETNews says Samsung Display and LG Display will start mass-producing OLED panels for the iPhone 18 and iPhone Air 2 in late December and early January, lining up with a March 2027 launch (MacRumors). Supply-chain timing that fits the spring window; Apple still has not confirmed anything, so it stays Likely.",
       "sources": [
+        {
+          "name": "MacRumors (Nov 18, ETNews panel production)",
+          "url": "https://www.macrumors.com/2026/11/18/iphone-18-iphone-air-2-display-production-begins/"
+        },
         {
           "name": "MacRumors",
           "url": "https://www.macrumors.com/2026/04/08/iphone-air-2-and-iphone-18e-early-next-year/"
@@ -764,19 +776,23 @@
     },
     {
       "id": "oneplus-turbo-pro-snapdragon-pro",
-      "title": "OnePlus readies a Turbo Pro phone with an unreleased Snapdragon 8 Gen 5 Pro",
-      "rating": "Rumor",
+      "title": "OnePlus readies a Turbo 7 Pro with an unreleased Snapdragon 'Pro' chip and 100W charging",
+      "rating": "Likely",
       "categories": [
         "android",
         "chips"
       ],
       "status": "Active",
       "first_reported": "2026-10-21",
-      "updated": "2026-11-03",
-      "expected": "Around the end of 2026 (leak)",
+      "updated": "2026-11-18",
+      "expected": "December 2026 (tipster)",
       "claim": "OnePlus is developing a Turbo Pro (possibly Turbo 7 Pro) with a new 3nm Snapdragon 8 Gen 5 Pro (SM8845 Pro), a 6.78-inch 1.5K 185Hz screen, a 200MP main camera and a 9,000mAh battery, launching around the end of the year.",
-      "why": "From Digital Chat Station, a prolific Weibo tipster with a decent record, in a post he later edited; Android Authority reported it. Qualcomm has not announced a Snapdragon 8 Gen 5 Pro, and OnePlus has not mentioned the phone. The timing is vague. GSMArena adds that the tipster also mentioned a clip-on external fan accessory, and that the screen, camera and battery match the OnePlus 16; the same SM8845 Pro chip is rumored for the iQOO Z12 Turbo/iQOO 16R. Update Nov 2: another Weibo tipster says a OnePlus Turbo 7 will use the unannounced 'Snapdragon 8 Gen 6' with a 200MP main camera and a 185Hz screen, and launch by the end of the year; GSMArena notes it may be the same phone. Similar details from a second tipster, but Qualcomm and OnePlus have announced nothing, so it stays a Rumor.",
+      "why": "From Digital Chat Station, a prolific Weibo tipster with a decent record, in a post he later edited; Android Authority reported it. Qualcomm has not announced a Snapdragon 8 Gen 5 Pro, and OnePlus has not mentioned the phone. The timing is vague. GSMArena adds that the tipster also mentioned a clip-on external fan accessory, and that the screen, camera and battery match the OnePlus 16; the same SM8845 Pro chip is rumored for the iQOO Z12 Turbo/iQOO 16R. Update Nov 2: another Weibo tipster says a OnePlus Turbo 7 will use the unannounced 'Snapdragon 8 Gen 6' with a 200MP main camera and a 185Hz screen, and launch by the end of the year; GSMArena notes it may be the same phone. Similar details from a second tipster, but Qualcomm and OnePlus have announced nothing, so it stays a Rumor. Update Nov 18: a OnePlus phone with model number PYP110, which Digital Chat Station says is the Turbo 7 Pro, passed China's 3C certification with 100W chargers. DCS adds a 185Hz screen (165Hz system-wide), a 200MP main camera, a battery of at least 9,000mAh, no built-in fan and a December launch; a tipster on X lists the SM8845 Pro chip and about 10,000mAh. The certification is hard evidence that the phone exists and charges at 100W, so this moves to Likely; the chip name, battery size and date are still unconfirmed.",
       "sources": [
+        {
+          "name": "GSMArena (Nov 18, 3C certification)",
+          "url": "https://www.gsmarena.com/oneplus_turbo_7_pro_gets_certified_ahead_of_launch_more_specs_leak-news-75524.php"
+        },
         {
           "name": "GSMArena (Turbo 7, Nov 2)",
           "url": "https://www.gsmarena.com/oneplus_turbo_7_key_specs_leak_and_its_a_big_step_up-news-75314.php"
@@ -1507,13 +1523,21 @@
       "categories": [
         "android"
       ],
-      "status": "Active",
+      "status": "Resolved",
       "first_reported": "2026-10-19",
-      "updated": "2026-11-17",
-      "expected": "Launched Nov 17, 2026 (batteries confirmed; euro prices pending)",
+      "updated": "2026-11-18",
+      "expected": "Launched Nov 17, 2026 (EUR 1,399 / 1,599; Pro Max EUR 1,599 / 1,799 / 2,099)",
       "claim": "The European Xiaomi 18 Pro will cost EUR 1,449 (256GB) or EUR 1,649 (512GB) with a 6,000mAh-rated battery and 90W charging, and the 18 Pro Max EUR 1,849 (512GB) with a 7,050mAh-rated battery and 100W, both smaller than the Chinese versions' 7,000mAh and 8,500mAh.",
-      "why": "Prices first came from a single unnamed report relayed by GSMArena, and the battery figures matched Xiaomi's published EU energy labels. Update Oct 26: Italian retailer Epto listed both phones with the same smaller batteries (6,000mAh/90W on the Pro, 7,050mAh/100W on the Pro Max) and prices close to the leak: EUR 1,398.90 and 1,591.90 for the 18 Pro (256GB/512GB) and EUR 1,783.90 for the 18 Pro Max, about EUR 50-65 under the leaked figures. Epto's prices are often slightly off the official ones, so we move this to Likely: the batteries look settled, the price range is roughly right, but the exact euro figures and launch date still await Xiaomi. Update Nov 2: Xiaomi confirmed on X that the 18 Pro series goes global this November, which fits the retailer timing; prices and battery sizes are still unconfirmed until the launch event. Update Nov 9-10: Xiaomi set the global launch for Nov 17 in Paris, so the European prices and battery sizes will be checked then. Update Nov 17: after the Paris launch, Xiaomi's global and French product pages confirm the battery half of the claim: 6,000mAh with 90W on the 18 Pro and 7,050mAh with 100W on the 18 Pro Max. Official euro prices were not yet in the sources we checked, so it stays Likely until prices can be compared; a newer Dealabs leak put them EUR 50 lower than this claim (EUR 1,399/1,599 for the Pro, 1,599/1,799 for the Pro Max).",
+      "why": "Prices first came from a single unnamed report relayed by GSMArena, and the battery figures matched Xiaomi's published EU energy labels. Update Oct 26: Italian retailer Epto listed both phones with the same smaller batteries (6,000mAh/90W on the Pro, 7,050mAh/100W on the Pro Max) and prices close to the leak: EUR 1,398.90 and 1,591.90 for the 18 Pro (256GB/512GB) and EUR 1,783.90 for the 18 Pro Max, about EUR 50-65 under the leaked figures. Epto's prices are often slightly off the official ones, so we move this to Likely: the batteries look settled, the price range is roughly right, but the exact euro figures and launch date still await Xiaomi. Update Nov 2: Xiaomi confirmed on X that the 18 Pro series goes global this November, which fits the retailer timing; prices and battery sizes are still unconfirmed until the launch event. Update Nov 9-10: Xiaomi set the global launch for Nov 17 in Paris, so the European prices and battery sizes will be checked then. Update Nov 17: after the Paris launch, Xiaomi's global and French product pages confirm the battery half of the claim: 6,000mAh with 90W on the 18 Pro and 7,050mAh with 100W on the 18 Pro Max. Official euro prices were not yet in the sources we checked, so it stays Likely until prices can be compared; a newer Dealabs leak put them EUR 50 lower than this claim (EUR 1,399/1,599 for the Pro, 1,599/1,799 for the Pro Max). Update Nov 18: official euro prices are now out: EUR 1,399 and 1,599 for the 18 Pro (256GB/512GB) and EUR 1,599, 1,799 and 2,099 for the 18 Pro Max (256GB/512GB/1TB), as reported by Gadgets360, Tweakers and MobiDevices. Each matching configuration is EUR 50 below this claim, and there is a cheaper 256GB Pro Max the claim did not include.",
       "sources": [
+        {
+          "name": "Gadgets360 (official euro prices)",
+          "url": "https://www.gadgets360.com/mobiles/news/xiaomi-18-pro-max-price-launch-global-sale-date-specifications-features-12339828"
+        },
+        {
+          "name": "Tweakers (EUR 1,399 / 1,599)",
+          "url": "https://tweakers.net/nieuws/254634/xiaomi-18-pro-en-pro-max-komen-uit-in-nederland-en-belgie-voor-1399-en-1599-euro.html"
+        },
         {
           "name": "Xiaomi Global (18 Pro specs)",
           "url": "https://www.mi.com/global/product/xiaomi-18-pro/specs/"
@@ -1538,7 +1562,8 @@
           "name": "Notebookcheck (Dealabs prices)",
           "url": "https://www.notebookcheck.net/Xiaomi-18-Pro-Max-Slightly-different-global-prices-leak-with-final-specs.1431681.0.html"
         }
-      ]
+      ],
+      "outcome": "Partly correct. The smaller global batteries were exactly right (6,000mAh/90W and 7,050mAh/100W), but every price in the claim was EUR 50 too high: the 18 Pro costs EUR 1,399/1,599 and the 18 Pro Max EUR 1,799 for 512GB, with a EUR 1,599 256GB Pro Max and a EUR 2,099 1TB model the leak did not mention. The later Dealabs leak had the prices right."
     },
     {
       "id": "snapdragon-two-flagships",
@@ -1628,17 +1653,21 @@
     {
       "id": "iphone-duo-2-face-id",
       "title": "iPhone Duo 2 gets under-display Face ID",
-      "rating": "Rumor",
+      "rating": "Shaky",
       "categories": [
         "apple"
       ],
       "status": "Active",
       "first_reported": "2026-10-22",
-      "updated": "2026-11-16",
+      "updated": "2026-11-18",
       "expected": "Fall 2027 (if it ships)",
       "claim": "Apple's second-generation iPhone Duo, expected next fall, adds Face ID under the outer display, and Apple is also considering an Action button.",
-      "why": "From Bloomberg's Mark Gurman on his Power On podcast, relayed by MacRumors and 9to5Mac. Gurman has a strong Apple record, but he says Apple is only testing Face ID on prototypes and has not decided whether it will ship, so this stays a Rumor. The first iPhone Duo uses Touch ID in the side button. Early iPhone Duo reviews criticized the Touch ID placement, which makes Face ID a likely priority, but there is still no second source beyond Gurman. Update Nov 15: Gurman says Apple has built iPhone Duo 2 prototypes with Face ID in the outer display and calls it a top priority, but Apple is 'running out of time' for next fall's model and the feature may slip to the iPhone Duo 3. That makes it no more likely than before, so it stays a Rumor.",
+      "why": "From Bloomberg's Mark Gurman on his Power On podcast, relayed by MacRumors and 9to5Mac. Gurman has a strong Apple record, but he says Apple is only testing Face ID on prototypes and has not decided whether it will ship, so this stays a Rumor. The first iPhone Duo uses Touch ID in the side button. Early iPhone Duo reviews criticized the Touch ID placement, which makes Face ID a likely priority, but there is still no second source beyond Gurman. Update Nov 15: Gurman says Apple has built iPhone Duo 2 prototypes with Face ID in the outer display and calls it a top priority, but Apple is 'running out of time' for next fall's model and the feature may slip to the iPhone Duo 3. That makes it no more likely than before, so it stays a Rumor. Update Nov 18: Digital Chat Station says iPhone Duo 2 engineering units still have the 7.6-inch inner and 5.4-inch outer screens and a side fingerprint sensor, with no clear sign of Face ID (MacRumors). That is a second, independent source pointing against Face ID on next year's model, so this drops to Shaky.",
       "sources": [
+        {
+          "name": "MacRumors (Nov 18, DCS: Touch ID stays)",
+          "url": "https://www.macrumors.com/2026/11/18/iphone-duo-2-likely-to-retain-touch-id/"
+        },
         {
           "name": "MacRumors (Nov 15, Power On)",
           "url": "https://www.macrumors.com/2026/11/15/apple-aims-to-upgrade-iphone-duo-in-four-ways/"
@@ -2170,11 +2199,15 @@
       ],
       "status": "Active",
       "first_reported": "2026-10-26",
-      "updated": "2026-10-27",
-      "expected": "Soon (no date)",
+      "updated": "2026-11-18",
+      "expected": "Nov 24, 2026 (India launch, official)",
       "claim": "The Edge 70 Neo will have a 6.78-inch 144Hz AMOLED, Snapdragon 7s Gen 3, 50MP Sony LYTIA 710 main camera, 32MP selfie camera, 7,000mAh battery with 45W charging and IP64.",
-      "why": "The phone itself is real: Motorola accidentally teased it in August and renders followed. The spec list comes from a single leak reported by GSMArena with no certification or official backing yet. Motorola has not announced a launch date.",
+      "why": "The phone itself is real: Motorola accidentally teased it in August and renders followed. The spec list comes from a single leak reported by GSMArena with no certification or official backing yet. Motorola has not announced a launch date. Update Nov 18: Motorola's Flipkart teaser sets an India launch for Nov 24 and shows '50MP', 'OIS' and 'Lytia' on the camera ring, matching the leaked 50MP Lytia main camera (earlier renders showed 200MP). The chip, battery and screen are still unconfirmed, so it stays a Rumor until the launch.",
       "sources": [
+        {
+          "name": "GSMArena (Nov 18, Flipkart teaser)",
+          "url": "https://www.gsmarena.com/motorola_starts_teasing_the_edge_70_neo_hints_at_when_it_will_be_announced-news-75516.php"
+        },
         {
           "name": "GSMArena",
           "url": "https://www.gsmarena.com/motorola_edge_70_neo_key_specifications_leak-news-75214.php"
@@ -2410,11 +2443,19 @@
       ],
       "status": "Active",
       "first_reported": "2026-10-30",
-      "updated": "2026-11-11",
+      "updated": "2026-11-18",
       "expected": "Spring 2027 with iPhone 18 (rumored)",
       "claim": "The iPhone Air 2 launches next spring with a 6.55-inch flat 120Hz OLED, a 2nm A20-series chip, 48MP wide and 48MP ultrawide rear cameras and a bigger battery than the first Air.",
-      "why": "From tipster Digital Chat Station, relayed by GSMArena; it repeats earlier leaks of a second rear camera and a spring launch. DCS is reliable on Chinese phones but less proven on Apple, and the 5.2mm thickness and battery figures come from other, separate leaks. Apple has said nothing. Update Nov 10: tipster Smart Pikachu posted alleged iPhone Air 2 dummy units on Weibo showing two rear cameras and a slimmer body. Dummies are usually built from leaked CAD files, so they back the design but not the chip or screen specs.",
+      "why": "From tipster Digital Chat Station, relayed by GSMArena; it repeats earlier leaks of a second rear camera and a spring launch. DCS is reliable on Chinese phones but less proven on Apple, and the 5.2mm thickness and battery figures come from other, separate leaks. Apple has said nothing. Update Nov 10: tipster Smart Pikachu posted alleged iPhone Air 2 dummy units on Weibo showing two rear cameras and a slimmer body. Dummies are usually built from leaked CAD files, so they back the design but not the chip or screen specs. Update Nov 18: Korea's ETNews reports the Air 2 keeps the first Air's display specs so Apple can use existing OLED inventory, with Samsung Display the only supplier and panel production starting in late December or early January for a March launch (MacRumors). That supports the spring timing and an unchanged screen, but says nothing about the chip or cameras, so it stays a Rumor.",
       "sources": [
+        {
+          "name": "MacRumors (ETNews, same display)",
+          "url": "https://www.macrumors.com/2026/11/18/iphone-air-2-reportedly-sticks-with-same-display/"
+        },
+        {
+          "name": "MacRumors (ETNews, panel production)",
+          "url": "https://www.macrumors.com/2026/11/18/iphone-18-iphone-air-2-display-production-begins/"
+        },
         {
           "name": "GSMArena (dummy units)",
           "url": "https://www.gsmarena.com/iphone_air_2_and_iphone_18_dummy_models_leak-news-75421.php"
@@ -3134,7 +3175,7 @@
     {
       "status": "Active",
       "first_reported": "2026-11-09",
-      "updated": "2026-11-09",
+      "updated": "2026-11-18",
       "id": "one-ui-9-5-bixby-tasks",
       "title": "One UI 9.5 lets Bixby run recurring tasks in the background",
       "rating": "Rumor",
@@ -3144,8 +3185,12 @@
       ],
       "expected": "With the Galaxy S27 series (early 2027, reported)",
       "claim": "Samsung's One UI 9.5 turns Bixby into a task agent that can run scheduled, recurring jobs in the background (for example a daily exchange-rate report), managed from a new Actions menu with an activity log.",
-      "why": "Reported by SamMobile and relayed by GSMArena, which says the feature is in internal testing and expected to debut with the One UI 9.5-based Galaxy S27 series. SamMobile has good Samsung sources, but this is a single report, Samsung has not announced One UI 9.5 features, and features in internal testing can slip.",
+      "why": "Reported by SamMobile and relayed by GSMArena, which says the feature is in internal testing and expected to debut with the One UI 9.5-based Galaxy S27 series. SamMobile has good Samsung sources, but this is a single report, Samsung has not announced One UI 9.5 features, and features in internal testing can slip. Update Nov 18: the first One UI 9.5 beta changelog does not mention Bixby background tasks. That fits SamMobile's original report that the feature would debut with the Galaxy S27, so it stays a Rumor.",
       "sources": [
+        {
+          "name": "SamMobile (One UI 9.5 beta changelog)",
+          "url": "https://www.sammobile.com/news/galaxy-s26-one-ui-9-5-new-features-improvements-changelog/"
+        },
         {
           "name": "GSMArena",
           "url": "https://www.gsmarena.com/one_ui_95_to_make_bixby_even_smarter_capable_of_handling_daily_tasks-news-75407.php"
@@ -3212,7 +3257,7 @@
     {
       "status": "Active",
       "first_reported": "2026-11-10",
-      "updated": "2026-11-11",
+      "updated": "2026-11-18",
       "id": "one-ui-9-5-third-party-call-recording",
       "title": "One UI 9.5 lets Galaxy phones record WhatsApp, Telegram and Google Meet calls",
       "rating": "Likely",
@@ -3222,8 +3267,12 @@
       ],
       "expected": "One UI 9.5 (with the Galaxy S27 series, early 2027)",
       "claim": "Samsung's Phone app in One UI 9.5 adds a 'Record calls in other apps' setting with per-app toggles for VoIP calls in WhatsApp, Telegram and Google Meet, possibly limited by country.",
-      "why": "SamMobile found and screenshotted the setting in One UI 9.5 software, which is hard evidence rather than a tip; Android Authority relays it. Samsung has not announced it, features in test builds can change, and availability may depend on local recording laws (some regions may announce the recording to the other caller).",
+      "why": "SamMobile found and screenshotted the setting in One UI 9.5 software, which is hard evidence rather than a tip; Android Authority relays it. Samsung has not announced it, features in test builds can change, and availability may depend on local recording laws (some regions may announce the recording to the other caller). Update Nov 18: the first One UI 9.5 beta changelog for the Galaxy S26 does not mention recording calls in other apps. Samsung often holds features for the stable release with new phones, so it stays Likely, but it is now unconfirmed by the first official feature list.",
       "sources": [
+        {
+          "name": "SamMobile (One UI 9.5 beta changelog)",
+          "url": "https://www.sammobile.com/news/galaxy-s26-one-ui-9-5-new-features-improvements-changelog/"
+        },
         {
           "name": "SamMobile",
           "url": "https://www.sammobile.com/news/one-ui-9-5-record-calls-meet-telegram-whatsapp/"
@@ -3600,26 +3649,31 @@
       ]
     },
     {
-      "status": "Active",
+      "status": "Resolved",
       "first_reported": "2026-11-14",
-      "updated": "2026-11-15",
+      "updated": "2026-11-18",
       "id": "samsung-health-scan-meal-one-ui-9-5",
       "title": "Samsung Health gets a Galaxy AI 'Scan meal' calorie estimator, possibly paid later",
-      "rating": "Likely",
+      "rating": "Confirmed",
       "categories": [
         "samsung",
         "ai",
         "android"
       ],
-      "expected": "One UI 9.5 (with the Galaxy S27 series, early 2027, expected)",
+      "expected": "One UI 9.5 beta, Nov 18, 2026 (US only)",
       "claim": "Samsung Health will add Scan meal, a Galaxy AI feature that identifies food, ingredients and portion sizes from a photo and estimates calories; it is labeled beta and its terms say it could become a paid feature.",
-      "why": "SamMobile found the feature inside the Samsung Health app, including Samsung's own beta label, accuracy warnings and a note that photos are processed on servers. That is hard evidence the feature exists, so it is Likely. The One UI 9.5 timing is SamMobile's expectation, and 'could become paid' is Samsung hedging, not a price.",
+      "why": "SamMobile found the feature inside the Samsung Health app, including Samsung's own beta label, accuracy warnings and a note that photos are processed on servers. That is hard evidence the feature exists, so it is Likely. The One UI 9.5 timing is SamMobile's expectation, and 'could become paid' is Samsung hedging, not a price. Update Nov 18: Samsung's official One UI 9.5 beta changelog for the Galaxy S26 lists 'Scan meals and log them instantly': one photo of a meal gives nutrition details, ingredients and a calorie estimate, available in the US only. The feature is real and part of One UI 9.5, so this resolves.",
       "sources": [
+        {
+          "name": "SamMobile (One UI 9.5 changelog)",
+          "url": "https://www.sammobile.com/news/galaxy-s26-one-ui-9-5-new-features-improvements-changelog/"
+        },
         {
           "name": "SamMobile (exclusive)",
           "url": "https://www.sammobile.com/news/samsung-health-galaxy-ai-scan-meal-feature-one-ui-9-5/"
         }
-      ]
+      ],
+      "outcome": "Correct on the feature: meal scanning with ingredient and calorie estimates is in Samsung's One UI 9.5 changelog. It arrived earlier than expected (in the Galaxy S26 beta on Nov 18 rather than first with the S27) and is US-only. Whether it becomes paid later is still unknown; the changelog says nothing about pricing."
     },
     {
       "status": "Active",
@@ -3721,10 +3775,10 @@
     {
       "status": "Active",
       "first_reported": "2026-11-16",
-      "updated": "2026-11-16",
+      "updated": "2026-11-18",
       "id": "one-ui-9-5-daily-brief",
       "title": "One UI 9.5 adds a 'Daily Brief' that summarizes your emails and app notifications",
-      "rating": "Rumor",
+      "rating": "Likely",
       "categories": [
         "samsung",
         "android",
@@ -3732,8 +3786,20 @@
       ],
       "expected": "One UI 9.5 (with or after the Galaxy S27)",
       "claim": "Samsung's Now Brief gains a Daily Brief that pulls notifications from apps such as WhatsApp, Telegram, LINE, KakaoTalk and SMS/RCS plus your email, and sorts them into cards for finance and payments, bookings and appointments, and work email at a set time of day.",
-      "why": "From an Android Authority APK teardown of Samsung's Personal Agent Core package, with developer strings naming the feature and its card categories. Code evidence shows Samsung is building it, but Android Authority stresses the code is work in progress and may not ship, and it suggests these agent features may sit in a paid Galaxy AI tier. Samsung has said nothing, so it is a Rumor.",
+      "why": "From an Android Authority APK teardown of Samsung's Personal Agent Core package, with developer strings naming the feature and its card categories. Code evidence shows Samsung is building it, but Android Authority stresses the code is work in progress and may not ship, and it suggests these agent features may sit in a paid Galaxy AI tier. Samsung has said nothing, so it is a Rumor. Update Nov 18: SamMobile published screenshots of the feature working (as 'Daily Briefing'), with reminder cards built from payment notices, maintenance fees, appointments and email deadlines, grouped into categories such as Finance, Work and Productivity, and Mobility and Traffic (relayed by Android Authority). SamMobile also showed a related Recall card that pulls reservations and tickets from Gmail. Screenshots of a working build from a second outlet move this to Likely. It is not in the first One UI 9.5 beta changelog, it may launch with the Galaxy S27 instead, and it appears on a leaked list of paid Galaxy AI Premium features.",
       "sources": [
+        {
+          "name": "Android Authority (Nov 18, Daily Briefing screenshots)",
+          "url": "https://www.androidauthority.com/samsung-one-ui-9-5-now-brief-daily-briefing-leak-3736393/"
+        },
+        {
+          "name": "SamMobile (Daily Briefing)",
+          "url": "https://www.sammobile.com/news/one-ui-9-5-daily-briefing-make-now-brief-more-useful/"
+        },
+        {
+          "name": "SamMobile (Recall card)",
+          "url": "https://www.sammobile.com/news/now-brief-one-ui-9-5-remind-important-things/"
+        },
         {
           "name": "Android Authority",
           "url": "https://www.androidauthority.com/one-ui-9-5-galaxy-claw-agentic-now-daily-brief-3735370/"
@@ -3828,7 +3894,7 @@
     {
       "status": "Active",
       "first_reported": "2026-11-17",
-      "updated": "2026-11-17",
+      "updated": "2026-11-18",
       "id": "one-ui-9-5-tap-to-share",
       "title": "Samsung held Quick Share's Tap to Share back for One UI 9.5",
       "rating": "Likely",
@@ -3838,8 +3904,12 @@
       ],
       "expected": "One UI 9.5 (with the Galaxy S27 series, early 2027)",
       "claim": "Quick Share's NFC Tap to Share, which Google promised for the Galaxy Z8 foldables 'soon' after the Pixel 11 launch, arrives on Galaxy phones with One UI 9.5 rather than earlier.",
-      "why": "The Cipher Project on Telegram (via Android Authority) found a complete 'Tap to share' settings page in the latest Quick Share and Connectivity apps that only appears when a device is spoofed as One UI 9.5. Working code in shipping apps is hard evidence and the feature is officially promised, so it is Likely; Samsung has not confirmed the timing, and it could still arrive earlier through an app update.",
+      "why": "The Cipher Project on Telegram (via Android Authority) found a complete 'Tap to share' settings page in the latest Quick Share and Connectivity apps that only appears when a device is spoofed as One UI 9.5. Working code in shipping apps is hard evidence and the feature is officially promised, so it is Likely; Samsung has not confirmed the timing, and it could still arrive earlier through an app update. Update Nov 18: Tap to Share is not in the changelog for the first One UI 9.5 beta on the Galaxy S26, which does not rule it out for later betas or the stable release with the Galaxy S27. It stays Likely.",
       "sources": [
+        {
+          "name": "SamMobile (One UI 9.5 beta changelog)",
+          "url": "https://www.sammobile.com/news/galaxy-s26-one-ui-9-5-new-features-improvements-changelog/"
+        },
         {
           "name": "Android Authority",
           "url": "https://www.androidauthority.com/samsung-one-ui-9-5-quick-share-tap-to-share-leak-3735920/"
@@ -3863,6 +3933,91 @@
         {
           "name": "GSMArena",
           "url": "https://www.gsmarena.com/iphone_20_pro_tipped_to_feature_new_main_camera_sensor_and_isp-news-75497.php"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-17",
+      "updated": "2026-11-18",
+      "id": "galaxy-s27-bezel-less-display",
+      "title": "One Galaxy S27 model gets an 'extremely bezel-less' display",
+      "rating": "Shaky",
+      "categories": [
+        "samsung",
+        "android"
+      ],
+      "expected": "Early 2027 (Galaxy S27 launch), if at all",
+      "claim": "A Samsung supplier is preparing an 'extremely bezel-less' display, and Samsung may pull it forward into one of the Galaxy S27 models, most likely the Ultra or Pro.",
+      "why": "From Korean leaker Lanzuk on Naver, citing a Samsung supplier, relayed by 9to5Google and GSMArena. The original post is vague, machine translation does not clarify what 'extremely bezel-less' means, the leaker himself sounds unsure, and 9to5Google calls it about a 50/50 shot. Which model would get it is pure speculation. It also sits awkwardly with Ice Universe's earlier, much more modest 1.28mm S27 Ultra bezel figure.",
+      "sources": [
+        {
+          "name": "9to5Google",
+          "url": "https://9to5google.com/2026/11/17/leak-rumors-bezel-less-galaxy-s27-display/"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-18",
+      "updated": "2026-11-18",
+      "id": "iqoo-z12-lite-rebadged-z11-lite",
+      "title": "The iQOO Z12 Lite is a renamed Z11 Lite with a Dimensity 6300",
+      "rating": "Likely",
+      "categories": [
+        "android"
+      ],
+      "expected": "Soon (no date)",
+      "claim": "iQOO's next budget phone, the Z12 Lite (model I2510), uses the MediaTek Dimensity 6300 with 4GB or 6GB of RAM, a 720x1600 screen with a waterdrop notch and Android 16, the same specs as the Z11 Lite.",
+      "why": "The specs come from a Google Play Console listing (via GSMArena), which is hard evidence and usually means a launch is close; the same entry lists the Z11 Lite (I2515) as a variant, hence the rebrand reading. A separate 5G 'Z12 Lite' (I2603) reportedly passed Bluetooth SIG, so there may be different versions by market, and iQOO has not announced the phone or a date.",
+      "sources": [
+        {
+          "name": "GSMArena",
+          "url": "https://www.gsmarena.com/iqoo_z12_lite_shows_up_in_the_google_play_console_has_key_specs_revealed-news-75514.php"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-17",
+      "updated": "2026-11-18",
+      "id": "pixel-tag-europe-soon",
+      "title": "Google's Pixel Tag goes on sale in the EU 'pretty soon'",
+      "rating": "Rumor",
+      "categories": [
+        "android"
+      ],
+      "expected": "Soon (no date given)",
+      "claim": "Google will start selling the Pixel Tag Find Hub tracker in European Union countries soon; it launched with the Pixel 11 in eight countries including the UK but none in the EU.",
+      "why": "From leaker Roland Quandt on Bluesky (via 9to5Google), who has a strong record on European retail plans. It is one short post with no date, markets or price, and Google has said nothing about EU availability.",
+      "sources": [
+        {
+          "name": "9to5Google",
+          "url": "https://9to5google.com/2026/11/17/pixel-tag-coming-to-europe-leak-says/"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-18",
+      "updated": "2026-11-18",
+      "id": "iphone-20th-anniversary-four-models",
+      "title": "Apple is developing four 20th-anniversary iPhones in two designs, curved and flat",
+      "rating": "Rumor",
+      "categories": [
+        "apple"
+      ],
+      "expected": "Fall 2027 (anniversary iPhones)",
+      "claim": "Apple is working on four anniversary iPhone models: two with glass curving along all four edges and roughly 1mm bezels, and two with flat cover glass.",
+      "why": "From Ice Universe on Weibo, relayed by MacRumors and 9to5Mac. It fits Gurman's August report that Apple toned down a more radical anniversary design but still uses curved front and rear glass. What the flat models are is unclear: MacRumors suggests they could be fallback versions of the Pro and Pro Max or standard models launching later, so this does not mean Apple will sell four new designs. One leaker, no official word.",
+      "sources": [
+        {
+          "name": "MacRumors",
+          "url": "https://www.macrumors.com/2026/11/18/two-designs-for-20th-anniversary-iphone/"
+        },
+        {
+          "name": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/18/leaker-claims-apple-developing-four-models-of-20th-anniversary-iphone/"
         }
       ]
     }

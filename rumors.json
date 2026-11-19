@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18",
+  "updated": "2026-11-19",
   "scale": {
     "Confirmed": "Announced by the company or shown in an official source.",
     "Likely": "Multiple credible outlets or hard evidence (certifications, databases, supply chain), but no official word.",
@@ -1104,10 +1104,10 @@
         "gaming"
       ],
       "status": "Active",
-      "updated": "2026-10-18",
+      "updated": "2026-11-19",
       "expected": "Jan-Mar 2027 (reported)",
       "claim": "Rockstar plans to release the PC version of Grand Theft Auto VI in the first quarter of 2027, a few months after the Nov 19 console launch.",
-      "why": "GamesBeat reports this from four anonymous industry sources; The Verge, Polygon and others relayed it, but nobody has independent confirmation. Rockstar did not comment, and its store page still lists only PS5 and Xbox Series X|S. It would be a much shorter gap than GTA V's 19-month wait for PC.",
+      "why": "GamesBeat reports this from four anonymous industry sources; The Verge, Polygon and others relayed it, but nobody has independent confirmation. Rockstar did not comment, and its store page still lists only PS5 and Xbox Series X|S. It would be a much shorter gap than GTA V's 19-month wait for PC. Update Nov 19: the console version launched on Nov 19 and Rockstar has still not announced a PC version or date, so the Q1 2027 report remains unconfirmed.",
       "sources": [
         {
           "name": "GamesBeat",
@@ -2193,17 +2193,21 @@
     {
       "id": "motorola-edge-70-neo-specs",
       "title": "Motorola Edge 70 Neo has a Snapdragon 7s Gen 3, 7,000mAh battery and 144Hz screen",
-      "rating": "Rumor",
+      "rating": "Confirmed",
       "categories": [
         "android"
       ],
       "status": "Active",
       "first_reported": "2026-10-26",
-      "updated": "2026-11-18",
+      "updated": "2026-11-19",
       "expected": "Nov 24, 2026 (India launch, official)",
       "claim": "The Edge 70 Neo will have a 6.78-inch 144Hz AMOLED, Snapdragon 7s Gen 3, 50MP Sony LYTIA 710 main camera, 32MP selfie camera, 7,000mAh battery with 45W charging and IP64.",
-      "why": "The phone itself is real: Motorola accidentally teased it in August and renders followed. The spec list comes from a single leak reported by GSMArena with no certification or official backing yet. Motorola has not announced a launch date. Update Nov 18: Motorola's Flipkart teaser sets an India launch for Nov 24 and shows '50MP', 'OIS' and 'Lytia' on the camera ring, matching the leaked 50MP Lytia main camera (earlier renders showed 200MP). The chip, battery and screen are still unconfirmed, so it stays a Rumor until the launch.",
+      "why": "The phone itself is real: Motorola accidentally teased it in August and renders followed. The spec list comes from a single leak reported by GSMArena with no certification or official backing yet. Motorola has not announced a launch date. Update Nov 18: Motorola's Flipkart teaser sets an India launch for Nov 24 and shows '50MP', 'OIS' and 'Lytia' on the camera ring, matching the leaked 50MP Lytia main camera (earlier renders showed 200MP). The chip, battery and screen are still unconfirmed, so it stays a Rumor until the launch. Update Nov 19: Motorola has now confirmed the Snapdragon 7s Gen 3, a 6.8-inch 144Hz AMOLED, the 50MP Lytia 710 main camera, a 7,000mAh battery with 45W charging and IP64, matching the leak. Only the 32MP selfie camera is unconfirmed; we will resolve this after the Nov 24 launch.",
       "sources": [
+        {
+          "name": "GSMArena (official specs)",
+          "url": "https://www.gsmarena.com/motorola_edge_70_neo_now_has_an_official_launch_date_and_its_main_specs_confirmed-news-75533.php"
+        },
         {
           "name": "GSMArena (Nov 18, Flipkart teaser)",
           "url": "https://www.gsmarena.com/motorola_starts_teasing_the_edge_70_neo_hints_at_when_it_will_be_announced-news-75516.php"
@@ -2991,11 +2995,15 @@
       ],
       "status": "Active",
       "first_reported": "2026-11-04",
-      "updated": "2026-11-04",
+      "updated": "2026-11-19",
       "expected": "Early 2027 (speculation; possibly with Galaxy S27)",
       "claim": "Samsung will launch ear-hook fitness earbuds, model SM-R545 and codenamed Galaxy T1, in several markets including the US.",
-      "why": "The earbuds passed the FCC on Nov 4 (IDs ZCASMR545L and ZCASMR545R, case EP-QR545) after certifications in China, South Korea and Indonesia, and the filings mention a 'T1 Project'. That is strong evidence a product is coming, as Android Authority reports. The retail name, price and early-2027 timing are not confirmed; earlier leaks of a 595mAh case and a fit test come from software code.",
+      "why": "The earbuds passed the FCC on Nov 4 (IDs ZCASMR545L and ZCASMR545R, case EP-QR545) after certifications in China, South Korea and Indonesia, and the filings mention a 'T1 Project'. That is strong evidence a product is coming, as Android Authority reports. The retail name, price and early-2027 timing are not confirmed; earlier leaks of a 595mAh case and a fit test come from software code. Update Nov 19: SammyGuru found the earbuds in the One UI 9.5 beta under the name Galaxy Buds Active: in-ear with ear hooks, IP68, ANC, 360 Audio (no head tracking), up to 96kHz audio and Auracast, apparently without wear detection (Android Authority). Samsung's own software naming them makes the product even more certain, but price and date are still unknown, so it stays Likely.",
       "sources": [
+        {
+          "name": "Android Authority (Buds Active in One UI 9.5)",
+          "url": "https://www.androidauthority.com/samsung-galaxy-buds-active-features-design-leak-3736998/"
+        },
         {
           "name": "Android Authority",
           "url": "https://www.androidauthority.com/samsung-galaxy-t1-earbuds-fcc-certification-3731590/"
@@ -3104,24 +3112,33 @@
       ]
     },
     {
-      "status": "Active",
+      "status": "Resolved",
       "first_reported": "2026-11-05",
-      "updated": "2026-11-05",
+      "updated": "2026-11-19",
       "id": "huawei-mate-80-air-december",
       "title": "Huawei Mate 80 Air launches in December",
-      "rating": "Rumor",
+      "rating": "Confirmed",
       "categories": [
         "android"
       ],
-      "expected": "December 2026 (leak)",
+      "expected": "Nov 24, 2026 (official, as Mate 90 Air)",
       "claim": "Huawei will launch the Mate 80 Air thin phone next month, with the MatePad Mini 2 arriving separately, possibly also in December.",
-      "why": "A single Weibo tipster via GSMArena. Another tipster said a few days ago that a Mate-series Air arrives within two months with 12GB of RAM and a circular camera island; the Kirin 9030 and curved screen are expected but unconfirmed. The Mate 70 Air launched about a year ago, so the timing is plausible, but Huawei has said nothing.",
+      "why": "A single Weibo tipster via GSMArena. Another tipster said a few days ago that a Mate-series Air arrives within two months with 12GB of RAM and a circular camera island; the Kirin 9030 and curved screen are expected but unconfirmed. The Mate 70 Air launched about a year ago, so the timing is plausible, but Huawei has said nothing. Update Nov 19: Huawei officially announced a thin Mate phone for its Nov 24 event, but it is called the Mate 90 Air, and Vmall reservations are open with 12GB of RAM and 256GB/512GB storage.",
       "sources": [
+        {
+          "name": "GSMArena (Mate 90 Air listing)",
+          "url": "https://www.gsmarena.com/huawei_mate_90_air_listed_ahead_of_launch-news-75537.php"
+        },
+        {
+          "name": "IT Home (official, Chinese)",
+          "url": "https://www.ithome.com/1/029/151.htm"
+        },
         {
           "name": "GSMArena",
           "url": "https://www.gsmarena.com/heres_when_the_huawei_mate_80_air_is_rumored_to_launch-news-75352.php"
         }
-      ]
+      ],
+      "outcome": "Partly correct. Huawei's thin Mate phone is real and launches before the end of the year, but it is called the Mate 90 Air (Huawei skipped the 'Mate 80 Air' name) and it is unveiled on Nov 24, about a week before the December window. The 12GB of RAM and round camera island from the second tipster were right."
     },
     {
       "status": "Active",
@@ -3874,17 +3891,21 @@
     {
       "status": "Active",
       "first_reported": "2026-11-17",
-      "updated": "2026-11-17",
+      "updated": "2026-11-19",
       "id": "huawei-watch-air-6-9mm",
       "title": "Huawei Watch Air is a 6.9mm titanium smartwatch with up to 5 days of battery",
-      "rating": "Rumor",
+      "rating": "Likely",
       "categories": [
         "android"
       ],
-      "expected": "Soon (no date)",
+      "expected": "Nov 24, 2026 (official launch event, China)",
       "claim": "Huawei's upcoming Watch Air has a 6.9mm titanium unibody, an irregular high-silicon stacked battery (over 10% silicon) for up to five days of use, Watch GT 7 Pro-level activity tracking and Watch 6 sensors including ECG.",
-      "why": "From Weibo tipster Fixed Focus Digital, relayed by GSMArena with leaked images. The name and thin design have been rumored before, but the specs come from one leaker and Huawei has not announced the watch or a date.",
+      "why": "From Weibo tipster Fixed Focus Digital, relayed by GSMArena with leaked images. The name and thin design have been rumored before, but the specs come from one leaker and Huawei has not announced the watch or a date. Update Nov 19: Huawei's official teaser confirms the Watch Air name, the 6.9mm thickness and a titanium unibody, with launch on Nov 24. The battery is still unconfirmed, and Digital Chat Station now says about a week rather than five days, so the claim moves to Likely until launch.",
       "sources": [
+        {
+          "name": "Beebom (official teaser)",
+          "url": "https://gadgets.beebom.com/news/huawei-watch-air-officially-teased-ahead-of-launch"
+        },
         {
           "name": "GSMArena",
           "url": "https://www.gsmarena.com/huawei_watch_air_leaks_with_impressively_thin_design-news-75504.php"
@@ -4018,6 +4039,206 @@
         {
           "name": "9to5Mac",
           "url": "https://9to5mac.com/2026/11/18/leaker-claims-apple-developing-four-models-of-20th-anniversary-iphone/"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-19",
+      "updated": "2026-11-19",
+      "id": "oled-imac-delayed-or-cancelled",
+      "title": "Apple may delay or cancel its OLED iMac",
+      "rating": "Rumor",
+      "categories": [
+        "apple"
+      ],
+      "expected": "Previously 2029-2030; a new LCD iMac reportedly around 2029",
+      "claim": "Apple is talking to Samsung Display about delaying, or possibly shelving, the OLED iMac because of high panel costs and weak OLED demand, and has asked LCD makers including BOE for panels for an iMac around 2029.",
+      "why": "From Korea's The Elec citing industry sources, relayed by MacRumors and 9to5Mac. One source said talks focus on a delay rather than cancellation. It fits weak OLED iPad Pro sales and rising memory costs, but in October Mark Gurman said Apple was still testing OLED for the iMac and MacBook Air. Single-outlet supply-chain report; Apple never announced an OLED iMac.",
+      "sources": [
+        {
+          "name": "MacRumors",
+          "url": "https://www.macrumors.com/2026/11/19/apple-may-cancel-oled-imac/"
+        },
+        {
+          "name": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/19/oled-imac-plans-may-be-cancelled-by-apple-for-two-reasons/"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-19",
+      "updated": "2026-11-19",
+      "id": "openai-smartphone-foxconn",
+      "title": "Foxconn will assemble OpenAI's first smartphone, due late 2027 or 2028",
+      "rating": "Rumor",
+      "categories": [
+        "ai"
+      ],
+      "expected": "Late 2027 or 2028 (reported)",
+      "claim": "Foxconn subsidiary FIH Mobile has won the order to assemble OpenAI's first smartphone, with Apple suppliers Luxshare, Lingyi iTech and AAC supplying parts, for a debut in late 2027 or 2028.",
+      "why": "From Chinese outlets Securities Times and Cailian Press citing supply-chain sources, relayed by Android Authority. Ming-Chi Kuo earlier reported an OpenAI phone with a custom MediaTek chip and named Luxshare as its manufacturing partner. Neither OpenAI nor Foxconn has confirmed anything, and this is separate from OpenAI's first Jony Ive device (see the launch calendar).",
+      "sources": [
+        {
+          "name": "Android Authority",
+          "url": "https://www.androidauthority.com/openai-phone-foxconn-assembly-3737193/"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-19",
+      "updated": "2026-11-19",
+      "id": "samsung-origin-android-laptops",
+      "title": "Samsung readies 14- and 16-inch Android laptops codenamed 'Origin' with Snapdragon X Elite",
+      "rating": "Likely",
+      "categories": [
+        "samsung",
+        "android",
+        "chips"
+      ],
+      "expected": "Around or after the Galaxy S27 launch (early 2027, speculation)",
+      "claim": "Samsung is building two Wi-Fi-only Android laptops, codenamed origin14 and origin16 (model numbers XE940XSA and XE960XSA), with a 12-core Snapdragon X Elite; the 16-inch model may have a touchscreen.",
+      "why": "Android Authority found the codenames, model numbers and chip profile in Samsung's own One UI 9.5 beta code, and an XE940XSA running Android 17 on a Snapdragon X Elite appeared on Geekbench in October. That is hard evidence of real devices. The branding (Googlebook or not), price and launch timing are unknown; the timing is Android Authority's guess.",
+      "sources": [
+        {
+          "name": "Android Authority",
+          "url": "https://www.androidauthority.com/samsung-origin-android-laptops-one-ui-9-5-apk-teardown-3737102/"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-19",
+      "updated": "2026-11-19",
+      "id": "samsung-galaxy-studio-headphones",
+      "title": "Samsung's Galaxy Studio over-ear headphones have an 870mAh battery, ANC and wired audio",
+      "rating": "Likely",
+      "categories": [
+        "samsung"
+      ],
+      "expected": "Not announced (no date)",
+      "claim": "Samsung's upcoming Galaxy Studio headphones have an 870mAh battery, USB-C charging and wired audio (plus 3.5mm support), ANC, wear detection, touch controls, 360 Audio with head tracking, Auracast and Samsung Find.",
+      "why": "SammyGuru found the headphones and their feature list in Samsung's One UI 9.5 firmware, reported by SamMobile, Android Authority and The Verge. Firmware references are strong evidence that the product exists, but whether it has a dedicated 3.5mm port is unclear, and price and launch date are unknown.",
+      "sources": [
+        {
+          "name": "SamMobile",
+          "url": "https://www.sammobile.com/news/new-galaxy-studio-specs-leak-solid-airpods-max-sony-xm6-rival/"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/gadgets/1037474/samsungs-over-ear-studio-headphones-leak-in-one-ui-beta"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-19",
+      "updated": "2026-11-19",
+      "id": "one-ui-9-5-open-gate-dual-panorama",
+      "title": "One UI 9.5 adds Open Gate full-sensor video and a front-and-rear 'dual cam panorama'",
+      "rating": "Likely",
+      "categories": [
+        "samsung",
+        "android"
+      ],
+      "expected": "A later One UI 9.5 update or the Galaxy S27 (early 2027)",
+      "claim": "Samsung's Camera app will offer Open Gate video that records the full sensor area (24 to 60 fps) and a Dual cam panorama that uses the front and rear cameras together for a 360-degree shot.",
+      "why": "Android Authority found strings for both features in the One UI 9.5 beta Camera app, relayed by GSMArena and SamMobile. Code is solid evidence Samsung is working on them, but code features do not always ship, and which phones get them is unknown.",
+      "sources": [
+        {
+          "name": "GSMArena",
+          "url": "https://www.gsmarena.com/samsung_one_ui_9_5_open_gate_video_recording_dual_cam_panorama-news-75538.php"
+        },
+        {
+          "name": "SamMobile",
+          "url": "https://www.sammobile.com/news/one-ui-9-5-camera-open-gate-video-recording-galaxy-s27/"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-19",
+      "updated": "2026-11-19",
+      "id": "honor-magic-v7-wide-foldable",
+      "title": "Honor Magic V7 is a wide foldable, with no regular-shaped Magic V model next year",
+      "rating": "Rumor",
+      "categories": [
+        "android"
+      ],
+      "expected": "2027 (an October rumor said January)",
+      "claim": "Honor's next book-style foldable, the Magic V7, uses a wide form factor, and Honor won't release a conventional tall foldable alongside it.",
+      "why": "From a tipster on X, reported by GSMArena. An earlier leak described an Honor wide foldable with a Snapdragon 8 Elite Gen 6, a 7.6-inch inner screen, a 5.5-inch cover screen and over 7,000mAh from CNY 9,999, but it did not name the model. Honor has not announced anything.",
+      "sources": [
+        {
+          "name": "GSMArena",
+          "url": "https://www.gsmarena.com/honor_magic_v7_will_reportedly_be_a_wide_foldable-news-75534.php"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-19",
+      "updated": "2026-11-19",
+      "id": "razr-flex-2027-snapdragon-8-gen-5-pro",
+      "title": "Motorola Razr Flex 2027 uses an unreleased Snapdragon 8 Gen 5 Pro",
+      "rating": "Likely",
+      "categories": [
+        "android",
+        "chips"
+      ],
+      "expected": "2027 (no date)",
+      "claim": "The Razr Flex 2027 (XT2761, codename Parker), a compact wide foldable, runs Android 17 on Qualcomm's unannounced SM8845 Pro chip, with an under-display fingerprint reader and Bluetooth 6.0.",
+      "why": "Android Authority cites a security certification document for the XT2761, a model number already tied to the Razr Flex 27 in UAE filings, and the phone appeared on Motorola's own website earlier this month. A certification listing is good evidence for the chip; the 'Snapdragon 8 Gen 5 Pro' name is the expected branding, not confirmed. A rear photo from Reddit is unverified, and the in-display fingerprint contradicts earlier leaks.",
+      "sources": [
+        {
+          "name": "Android Authority",
+          "url": "https://www.androidauthority.com/motorola-razr-flex-2027-snapdragon-chip-design-leak-3737039/"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-19",
+      "updated": "2026-11-19",
+      "id": "iphone-20-pro-titanium-frame",
+      "title": "iPhone 20 Pro brings back a titanium frame",
+      "rating": "Rumor",
+      "categories": [
+        "apple"
+      ],
+      "expected": "Fall 2027 (20th-anniversary iPhones)",
+      "claim": "Apple has started early engineering work on a titanium frame for the curved 2027 iPhone 20 Pro, similar to the iPhone Air's but more rounded, ending two generations of aluminum Pro frames.",
+      "why": "From Weibo tipster Fixed Focus Digital, relayed by GSMArena; the same tipster is behind our iPhone 20 Pro curved-glass rumor. 'Early-stage engineering work' does not mean Apple has decided, and Apple has said nothing. One leaker, so it is a Rumor.",
+      "sources": [
+        {
+          "name": "GSMArena",
+          "url": "https://www.gsmarena.com/iphone_20_pro_may_bring_back_titanium-news-75535.php"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-19",
+      "updated": "2026-11-19",
+      "id": "tesla-model-y-no-steering-wheel",
+      "title": "Tesla builds a driverless Model Y with no steering wheel or pedals for 6-7 people",
+      "rating": "Rumor",
+      "categories": [
+        "evs"
+      ],
+      "expected": "No timeline given",
+      "claim": "Tesla plans an autonomous version of the Model Y with no steering wheel or pedals, aimed at carrying groups of six or seven people.",
+      "why": "Elon Musk said this on stage at the New York Times DealBook Summit on Nov 18 (Electrek, InsideEVs). It comes from Tesla's CEO, but there is no timeline, price, factory or regulatory path. A second car without controls would also face the same federal safety-standard fight as the Cybercab, and Musk's product timelines have a poor track record. We rate it a Rumor until Tesla puts a product and date behind it.",
+      "sources": [
+        {
+          "name": "Electrek",
+          "url": "https://electrek.co/2026/11/19/musk-tesla-model-y-no-steering-wheel-7-seat/"
+        },
+        {
+          "name": "Business Insider",
+          "url": "https://www.businessinsider.com/elon-musk-tesla-robotaxi-autonomous-model-y-more-seats-cybercab-2026-11"
         }
       ]
     }

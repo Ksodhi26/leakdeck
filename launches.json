@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18",
+  "updated": "2026-11-19",
   "items": [
     {
       "id": "gtc-berlin-2026",
@@ -1002,8 +1002,12 @@
       "status": "Released",
       "price": "",
       "summary": "Microsoft's big AI, cloud and security conference runs Nov 17-20 at Moscone Center in San Francisco, with an online option.",
-      "details": "Watch for Copilot and Windows AI announcements. Satya Nadella and Judson Althoff give the opening keynote on Nov 17 from 10 AM to noon PT at Chase Center; Microsoft's agenda highlights Copilot, AI agents (Agent 365), Microsoft IQ, cloud and security. Update Nov 18: at the Nov 17 keynote Nadella called Copilot 'the new OS for work' and made Word, Excel and PowerPoint inside Copilot generally available, along with Microsoft IQ (including Work IQ). Microsoft also announced Copilot Autopilot, a persistent agent you can delegate ongoing responsibilities to, billed through Copilot Credits with pricing not yet set, plus expanded Agent 365 controls and an Agent 365 Business Analytics dashboard for AI spending. The conference runs through Nov 20.",
+      "details": "Watch for Copilot and Windows AI announcements. Satya Nadella and Judson Althoff give the opening keynote on Nov 17 from 10 AM to noon PT at Chase Center; Microsoft's agenda highlights Copilot, AI agents (Agent 365), Microsoft IQ, cloud and security. Update Nov 18: at the Nov 17 keynote Nadella called Copilot 'the new OS for work' and made Word, Excel and PowerPoint inside Copilot generally available, along with Microsoft IQ (including Work IQ). Microsoft also announced Copilot Autopilot, a persistent agent you can delegate ongoing responsibilities to, billed through Copilot Credits with pricing not yet set, plus expanded Agent 365 controls and an Agent 365 Business Analytics dashboard for AI spending. The conference runs through Nov 20. Update Nov 19: Microsoft also launched Decision 1.1, a routing and classification model built on Google's open Gemma, and new MAI models: MAI-Code-2 (on GitHub, $1/$5 per million input/output tokens), MAI-Code-2-Flash, MAI-Cyber-2-Flash (preview) and MAI-Image-2.7 (preview) (TechTarget).",
       "sources": [
+        {
+          "name": "TechTarget (MAI models)",
+          "url": "https://www.techtarget.com/news/microsoft-unveils-ai-models-to-compete-on-cost-and-performance/875045/"
+        },
         {
           "name": "Ars Technica (keynote)",
           "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/"
@@ -1047,11 +1051,23 @@
       "date": "2026-11-19",
       "date_label": "Nov 19, 2026",
       "precision": "day",
-      "status": "Confirmed",
+      "status": "Released",
       "price": "$80 Standard, $100 Ultimate",
-      "summary": "Rockstar's GTA VI launches Nov 19 on PS5 and Xbox Series X|S; pre-orders opened June 25.",
-      "details": "Digital preloading began on Nov 10 (TechRadar), a little earlier than the Nov 12 date reported before; the download is about 212GB. There is no PC version announced for launch. Rockstar says the game targets 30 fps on every console, with PSSR upscaling and ray-traced shadows on PS5 Pro (The Verge). Code-in-box retail copies arrive from Nov 12, and Microsoft says GTA VI streams on Xbox Cloud Gaming from day one (1 a.m. ET, Nov 19), including on Xbox One, using Series S settings. Update Nov 18: the review embargo has lifted and GameSpot reports a Metacritic score in the high 90s from more than 140 reviews, among the highest ever recorded. Sony says PS5 owners need the latest system update to play at launch.",
+      "summary": "Rockstar's GTA VI is out now on PS5 and Xbox Series X|S, after a rolling midnight launch that started in New Zealand; there is still no PC version.",
+      "details": "Digital preloading began on Nov 10 (TechRadar), a little earlier than the Nov 12 date reported before; the download is about 212GB. There is no PC version announced for launch. Rockstar says the game targets 30 fps on every console, with PSSR upscaling and ray-traced shadows on PS5 Pro (The Verge). Code-in-box retail copies arrive from Nov 12, and Microsoft says GTA VI streams on Xbox Cloud Gaming from day one (1 a.m. ET, Nov 19), including on Xbox One, using Series S settings. Update Nov 18: the review embargo has lifted and GameSpot reports a Metacritic score in the high 90s from more than 140 reviews, among the highest ever recorded. Sony says PS5 owners need the latest system update to play at launch. Update Nov 19: Rockstar and Take-Two announced the game is now available on PS5 and Xbox Series X|S (Xbox Wire: 'out now'). It unlocked at midnight local time in each market, starting in New Zealand, and PlayStation briefly reported connection problems on its status page before services recovered (Euronews). Euronews reports more than 17 million copies sold at launch and a Metacritic score of 99; that sales figure is an early estimate, not a number from Take-Two. No PC version has been announced (see the rumor tracker).",
       "sources": [
+        {
+          "name": "Take-Two (now available)",
+          "url": "https://taketwointeractivesoftwareinc.gcs-web.com/news-releases/news-release-details/rockstar-games-announces-grand-theft-auto-vi-now-available"
+        },
+        {
+          "name": "Xbox Wire (out now)",
+          "url": "https://news.xbox.com/en-us/2026/11/19/grand-theft-auto-vi-is-out-now/"
+        },
+        {
+          "name": "Euronews (launch)",
+          "url": "https://www.euronews.com/2026/11/19/grand-theft-auto-vi-released-after-13-year-wait-selling-over-17-million-copies"
+        },
         {
           "name": "GameSpot (Metacritic)",
           "url": "https://www.gamespot.com/articles/gta-6-has-a-metacritic-score-so-high-its-only-happened-once-before/"
@@ -2780,7 +2796,7 @@
       "status": "Confirmed",
       "price": "$1,099 (12GB/256GB), $1,299 (16GB/512GB) through 2026",
       "summary": "The first Android XR glasses, XREAL's tethered Aura, went on sale Oct 28 for $1,099; XREAL says Founder Edition orders start shipping Nov 17.",
-      "details": "The 95-gram transparent glasses connect by cable to a compute puck running Android XR, with a 70-degree field of view, multiple virtual screens and Gemini. Orders are open in the US, Canada and South Korea; Japan sales start Nov 2 and wider availability comes next year. The launch prices of $1,099 and $1,299 run through the end of 2026 (regular prices $1,279 and $1,499), and XREAL says earlier pre-order buyers get the difference refunded. Update Nov 15: XREAL said on Threads that Founder Edition orders begin shipping on Nov 17, with first deliveries in the following days; other orders ship in batches by priority tier and payment date. XREAL Japan lists the general Japanese release for Nov 27 at 14:00, with shipping from late November. Update Nov 17: 9to5Google published an initial review on the day XREAL said Founder Edition shipments begin; we will mark it Released once deliveries are confirmed. Update Nov 18: Tom's Hardware has also published a review, but we have not yet seen confirmation of customer deliveries, so it stays Confirmed for now.",
+      "details": "The 95-gram transparent glasses connect by cable to a compute puck running Android XR, with a 70-degree field of view, multiple virtual screens and Gemini. Orders are open in the US, Canada and South Korea; Japan sales start Nov 2 and wider availability comes next year. The launch prices of $1,099 and $1,299 run through the end of 2026 (regular prices $1,279 and $1,499), and XREAL says earlier pre-order buyers get the difference refunded. Update Nov 15: XREAL said on Threads that Founder Edition orders begin shipping on Nov 17, with first deliveries in the following days; other orders ship in batches by priority tier and payment date. XREAL Japan lists the general Japanese release for Nov 27 at 14:00, with shipping from late November. Update Nov 17: 9to5Google published an initial review on the day XREAL said Founder Edition shipments begin; we will mark it Released once deliveries are confirmed. Update Nov 18: Tom's Hardware has also published a review, but we have not yet seen confirmation of customer deliveries, so it stays Confirmed for now. Update Nov 19: Engadget and WIRED have published reviews too, but we still have not seen confirmed customer deliveries, so it stays Confirmed.",
       "sources": [
         {
           "name": "XREAL on Threads (ships Nov 17)",
@@ -2809,6 +2825,10 @@
         {
           "name": "Tom's Hardware (review)",
           "url": "https://www.tomshardware.com/peripherals/wearable-tech/xreal-aura-review"
+        },
+        {
+          "name": "Engadget (review)",
+          "url": "https://www.engadget.com/2320945/xreal-aura-review/"
         }
       ]
     },
@@ -2820,14 +2840,26 @@
         "android"
       ],
       "type": "Phone",
-      "date": "2026-11-19",
-      "date_label": "Nov 19, 2026 (US; pre-orders open Nov 5); Nov 16 in Europe",
+      "date": "2026-11-26",
+      "date_label": "Nov 26, 2026 (US sales; pre-orders from Nov 19)",
       "precision": "day",
       "status": "Confirmed",
       "price": "$1,599 (12GB/512GB, US)",
-      "summary": "Motorola's Signature 27 is official at $1,599 in the US, with pre-orders open now and sales from Nov 19; Europe gets it Nov 16.",
-      "details": "Unveiled at Qualcomm's Snapdragon Summit in September with the Snapdragon 8 Elite Gen 6 (Motorola's page calls it 'Extreme'). Motorola's US landing page says 'coming this November', and an India page now says the same. European retailer listings point to about EUR 1,595 (see the rumor tracker); Motorola has not given US pricing. Update Oct 30: Motorola said on X that it will show the phone on Nov 5; it has not said whether that is also the US on-sale date. Update Oct 31: a Signature 27 on Android 17 with 12GB of RAM appeared on Geekbench (3,313 single-core, 11,088 multi-core); Motorola has confirmed a 50MP Sony LYT 910 main camera, a 200MP periscope, a larger vapor chamber and seven years of OS updates, but still no US price or on-sale date. Update Nov 2: Motorola confirmed more specs through a sponsored preview with YouTuber Danny Winget, including a tandem OLED screen it rates at up to 12,000 nits peak, a 50MP Sony LYTIA main sensor with LOFIC, aluminum and ceramic materials and two Pantone colors. Price and US on-sale date are still expected on Nov 5. Update Nov 5: Motorola fully announced the phone. US: one 12GB/512GB model at $1,599, pre-orders open on Motorola.com, Best Buy and Amazon, on sale Nov 19, unlocked, in Coal Smoke and Capulet Olive, with a free Moto Watch Ultra as a pre-order offer; no Canada launch. Europe, Middle East and Africa: Nov 16, at a recommended EUR 1,899, though GSMArena says some retailers and partners will sell it for EUR 1,399. Specs: Snapdragon 8 Elite Extreme Gen 6, 6.8-inch tandem OLED (12,000 nits peak), 7,000mAh silicon-carbon battery with 90W wired and 50W wireless charging, 50MP main, 50MP ultrawide and 200MP 3x periscope cameras plus a dedicated event-vision 'action' sensor, IP68/IP69, 227 g, Android 17 with seven years of updates. Update Nov 17: Motorola told Android Authority that the German Signature 27 uses a 5,500mAh battery instead of 7,000mAh because of local lithium-battery transport rules; the EU energy label rates it at about 61.5 hours per charge versus about 77.75 hours for the 7,000mAh model.",
+      "summary": "Motorola's Signature 27 costs $1,599.99 unlocked in the US; pre-orders open Nov 19 at Motorola, Amazon and Best Buy, with sales from Nov 26.",
+      "details": "Unveiled at Qualcomm's Snapdragon Summit in September with the Snapdragon 8 Elite Gen 6 (Motorola's page calls it 'Extreme'). Motorola's US landing page says 'coming this November', and an India page now says the same. European retailer listings point to about EUR 1,595 (see the rumor tracker); Motorola has not given US pricing. Update Oct 30: Motorola said on X that it will show the phone on Nov 5; it has not said whether that is also the US on-sale date. Update Oct 31: a Signature 27 on Android 17 with 12GB of RAM appeared on Geekbench (3,313 single-core, 11,088 multi-core); Motorola has confirmed a 50MP Sony LYT 910 main camera, a 200MP periscope, a larger vapor chamber and seven years of OS updates, but still no US price or on-sale date. Update Nov 2: Motorola confirmed more specs through a sponsored preview with YouTuber Danny Winget, including a tandem OLED screen it rates at up to 12,000 nits peak, a 50MP Sony LYTIA main sensor with LOFIC, aluminum and ceramic materials and two Pantone colors. Price and US on-sale date are still expected on Nov 5. Update Nov 5: Motorola fully announced the phone. US: one 12GB/512GB model at $1,599, pre-orders open on Motorola.com, Best Buy and Amazon, on sale Nov 19, unlocked, in Coal Smoke and Capulet Olive, with a free Moto Watch Ultra as a pre-order offer; no Canada launch. Europe, Middle East and Africa: Nov 16, at a recommended EUR 1,899, though GSMArena says some retailers and partners will sell it for EUR 1,399. Specs: Snapdragon 8 Elite Extreme Gen 6, 6.8-inch tandem OLED (12,000 nits peak), 7,000mAh silicon-carbon battery with 90W wired and 50W wireless charging, 50MP main, 50MP ultrawide and 200MP 3x periscope cameras plus a dedicated event-vision 'action' sensor, IP68/IP69, 227 g, Android 17 with seven years of updates. Update Nov 17: Motorola told Android Authority that the German Signature 27 uses a 5,500mAh battery instead of 7,000mAh because of local lithium-battery transport rules; the EU energy label rates it at about 61.5 hours per charge versus about 77.75 hours for the 7,000mAh model. Correction Nov 19: we had listed Nov 19 as the US on-sale date, based on 9to5Google's launch report. Android Authority, Android Headlines and AndroidPure (citing Motorola's release) say US pre-orders open Nov 19 and sales begin Nov 26, so we moved the date. Motorola's own US store page currently shows an expected ship date of Dec 4 for new orders.",
       "sources": [
+        {
+          "name": "Android Authority (US pre-orders Nov 19)",
+          "url": "https://www.androidauthority.com/motorola-signature-27-launch-3731987/"
+        },
+        {
+          "name": "Android Headlines (US dates)",
+          "url": "https://www.androidheadlines.com/motorola-signature-27-price-release-date-pre-order"
+        },
+        {
+          "name": "Motorola US store (ship date)",
+          "url": "https://www.motorola.com/us/en/p/phones/signature/motorola-signature/pmipmka46mo"
+        },
         {
           "name": "Android Authority (Germany 5,500mAh)",
           "url": "https://www.androidauthority.com/motorola-signature-27-battery-downgrade-confirmed-3735801/"
@@ -3457,8 +3489,12 @@
       "precision": "window",
       "status": "Expected",
       "summary": "Carl Pei says Nothing's first AI-native product launches next month; it has no screen and 'couldn't have been an app'.",
-      "details": "Pei announced the December timing in an essay posted on X on Nov 4, with a teaser image showing only rounded corners and curved edges. Nothing has not named the product or given its form factor, price or exact date, and pitches it as a productivity tool first. Earlier reports said Nothing is working on AI wearables, including smart glasses, but that is not confirmed as this device.",
+      "details": "Pei announced the December timing in an essay posted on X on Nov 4, with a teaser image showing only rounded corners and curved edges. Nothing has not named the product or given its form factor, price or exact date, and pitches it as a productivity tool first. Earlier reports said Nothing is working on AI wearables, including smart glasses, but that is not confirmed as this device. Update Nov 19: a photo posted by DJ Sebastian Ingrosso shows a small, screenless palm-sized device that Android Authority says its sources confirm is Nothing's AI product. It has two buttons (one for recording, one labeled 'TALK') and red and green LEDs, which hints at voice notes or meeting capture, but Nothing has not said what it does.",
       "sources": [
+        {
+          "name": "Android Authority (leaked photo)",
+          "url": "https://www.androidauthority.com/nothing-ai-hardware-leak-3737082/"
+        },
         {
           "name": "TechCrunch",
           "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/"
@@ -3573,13 +3609,13 @@
         "android"
       ],
       "type": "Wearable",
-      "date": "2026-11-20",
-      "date_label": "Coming weeks from Nov 5, 2026 (some markets: Moto Watch Fit 27)",
+      "date": "2026-12-04",
+      "date_label": "Early December 2026 (Europe, per Dutch and Swedish reports) (some markets: Moto Watch Fit 27)",
       "precision": "window",
       "status": "Expected",
       "price": "From €119 (~$133)",
       "summary": "Motorola's Polar-powered Moto Watch 2 Fit fitness watch was announced Nov 5 and arrives in the coming weeks from €119.",
-      "details": "Announced alongside the Signature 27 ecosystem push. 1.85-inch always-on OLED (1,500 nits, 60Hz), Gorilla Glass 3, IP68 and 5ATM, up to 12 days of battery, and Polar features such as Running Index, Nightly Recharge and Daily Activity Score. Colors: Stratified Sea, Pigeon and Ballerina. Selling in Europe, Middle East, Latin America, North America and Asia-Pacific; some markets use the name Moto Watch Fit 27. An Ask Anything / 'Hey Qira' AI coach is promised later.",
+      "details": "Announced alongside the Signature 27 ecosystem push. 1.85-inch always-on OLED (1,500 nits, 60Hz), Gorilla Glass 3, IP68 and 5ATM, up to 12 days of battery, and Polar features such as Running Index, Nightly Recharge and Daily Activity Score. Colors: Stratified Sea, Pigeon and Ballerina. Selling in Europe, Middle East, Latin America, North America and Asia-Pacific; some markets use the name Moto Watch Fit 27. An Ask Anything / 'Hey Qira' AI coach is promised later. Update Nov 19: Dutch site Want and Swedish site Mobil.se both say sales start in early December; Motorola has not given an exact date.",
       "sources": [
         {
           "name": "Android Authority",
@@ -3588,6 +3624,14 @@
         {
           "name": "GSMArena",
           "url": "https://www.gsmarena.com/moto_watch_2_fit_and_moto_buds_2_ultra_launch_with_polar_and_bose_on_board-news-75366.php"
+        },
+        {
+          "name": "Want.nl (early December)",
+          "url": "https://www.want.nl/motorola-moto-watch-fit-2-moto-buds-2-ultra/"
+        },
+        {
+          "name": "Mobil.se (early December)",
+          "url": "https://www.mobil.se/nyheter/motorola-lanserar-horlurarna-moto-buds-2-ultra-med-ljud-fran-bose-och-klockan-moto-watch-2-fit/1706175"
         }
       ]
     },
@@ -3599,13 +3643,13 @@
         "android"
       ],
       "type": "Gadget",
-      "date": "2026-11-20",
-      "date_label": "Coming weeks from Nov 5, 2026 (some markets: Moto Buds Ultra 27)",
+      "date": "2026-12-04",
+      "date_label": "Early December 2026 (Europe, per Dutch and Swedish reports) (some markets: Moto Buds Ultra 27)",
       "precision": "window",
       "status": "Expected",
       "price": "€199 (~$223)",
       "summary": "Motorola's Bose-tuned Moto Buds 2 Ultra earbuds were announced Nov 5 for €199, arriving in the coming weeks.",
-      "details": "11mm drivers with Bose SoundDesign tuning and Bose QuietControl ANC, Transparency Mode, Dolby Atmos with head tracking, AI live translation on compatible Moto phones, IP57, and up to 8 hours per charge (37 hours with the case). Same regional rollout as the Watch 2 Fit; some markets call them Moto Buds Ultra 27.",
+      "details": "11mm drivers with Bose SoundDesign tuning and Bose QuietControl ANC, Transparency Mode, Dolby Atmos with head tracking, AI live translation on compatible Moto phones, IP57, and up to 8 hours per charge (37 hours with the case). Same regional rollout as the Watch 2 Fit; some markets call them Moto Buds Ultra 27. Update Nov 19: Dutch site Want and Swedish site Mobil.se both say sales start in early December; Motorola has not given an exact date.",
       "sources": [
         {
           "name": "Android Authority",
@@ -3614,6 +3658,14 @@
         {
           "name": "GSMArena",
           "url": "https://www.gsmarena.com/moto_watch_2_fit_and_moto_buds_2_ultra_launch_with_polar_and_bose_on_board-news-75366.php"
+        },
+        {
+          "name": "Want.nl (early December)",
+          "url": "https://www.want.nl/motorola-moto-watch-fit-2-moto-buds-2-ultra/"
+        },
+        {
+          "name": "Mobil.se (early December)",
+          "url": "https://www.mobil.se/nyheter/motorola-lanserar-horlurarna-moto-buds-2-ultra-med-ljud-fran-bose-och-klockan-moto-watch-2-fit/1706175"
         }
       ]
     },
@@ -3856,11 +3908,19 @@
       "date": "2026-11-19",
       "date_label": "Nov 19, 2026 (China launch, 7 PM Beijing time)",
       "precision": "day",
-      "status": "Confirmed",
-      "price": "",
-      "summary": "BYD's Fang Cheng Bao launches the Tai 9, a six-seat plug-in hybrid SUV and the first car on BYD's new DMS hybrid platform, in China on Nov 19.",
-      "details": "Reservations opened on Nov 9, the same day BYD marked its 19 millionth NEV with a Tai 9 coming off the line. Early reservers get six extra months of free BYD flash charging; no reservation price was given. Brand general manager Xiong Tianbo said on Nov 7 that it launches later this month (on Oct 22 she had said after Nov 15); a Nov 19 date is rumored but not confirmed. The Tai 9 is 5,270 mm long on a 3,130 mm wheelbase, larger than the Bao 8, with a 2+2+2 layout. Official poster details: BYD's new DMS hybrid platform, second-generation Blade Battery, flash charging, DiSus-A body control, God's Eye B 5.0 driver assistance and rear-wheel steering. Filings show a 1.5-liter engine, two 200 kW motors and a 66.48 kWh battery. Update Nov 13: Fang Cheng Bao announced on Weibo that the launch event starts at 7 PM Beijing time on Nov 19. Reservations need a 3,000-yuan deposit that converts to a purchase deposit after launch, and purchase agreements open on launch day. Show cars are in stores in seven cities, including Shanghai and Beijing. Prices have still not been announced; for reference, the Tai 7 starts at 189,800 yuan and the Bao 8 at 419,800 yuan.",
+      "status": "Released",
+      "price": "From 279,900 yuan (about $41,700); 299,900 and 329,900 yuan trims",
+      "summary": "BYD's Fang Cheng Bao launched the Tai 9, its largest six-seat plug-in hybrid SUV, in China on Nov 19 from 279,900 yuan.",
+      "details": "Reservations opened on Nov 9, the same day BYD marked its 19 millionth NEV with a Tai 9 coming off the line. Early reservers get six extra months of free BYD flash charging; no reservation price was given. Brand general manager Xiong Tianbo said on Nov 7 that it launches later this month (on Oct 22 she had said after Nov 15); a Nov 19 date is rumored but not confirmed. The Tai 9 is 5,270 mm long on a 3,130 mm wheelbase, larger than the Bao 8, with a 2+2+2 layout. Official poster details: BYD's new DMS hybrid platform, second-generation Blade Battery, flash charging, DiSus-A body control, God's Eye B 5.0 driver assistance and rear-wheel steering. Filings show a 1.5-liter engine, two 200 kW motors and a 66.48 kWh battery. Update Nov 13: Fang Cheng Bao announced on Weibo that the launch event starts at 7 PM Beijing time on Nov 19. Reservations need a 3,000-yuan deposit that converts to a purchase deposit after launch, and purchase agreements open on launch day. Show cars are in stores in seven cities, including Shanghai and Beijing. Prices have still not been announced; for reference, the Tai 7 starts at 189,800 yuan and the Bao 8 at 419,800 yuan. Update Nov 19: the Tai 9 is on sale in three trims at 279,900, 299,900 and 329,900 yuan (273,900 yuan and up with trade-in subsidies). It is the first car on BYD's DMS hybrid platform: a 1.5T engine plus front and rear motors with 400 kW combined, 0-100 km/h in 4.8 seconds, a 66.48 kWh Blade Battery with flash charging, up to 400 km of CLTC electric range and 1,630 km combined. Every trim gets LiDAR, God's Eye B 5.0, DiSus-A and rear-wheel steering, and the top 'Foldable Smart Cabin' trim has a steer-by-wire wheel that folds away (CnEVPost, IT Home).",
       "sources": [
+        {
+          "name": "CnEVPost (launch)",
+          "url": "https://cnevpost.com/2026/11/19/byd-fang-cheng-bao-launches-tai-9/"
+        },
+        {
+          "name": "IT Home (prices, Chinese)",
+          "url": "https://www.ithome.com/1/029/684.htm"
+        },
         {
           "name": "CnEVPost (Nov 13, Nov 19 launch)",
           "url": "https://cnevpost.com/2026/11/13/byd-fang-cheng-bao-launch-tai-9-nov-19/"
@@ -4487,7 +4547,7 @@
       "status": "Confirmed",
       "price": "",
       "summary": "Huawei will unveil the Mate X8 book-style foldable at a China launch event on Nov 24, alongside other new devices.",
-      "details": "Huawei announced the event on Weibo on Nov 16. The teaser shows a purple Mate X8 with a round, four-camera Mate-style camera island. Huawei Central lists a 50MP variable-aperture main camera, a 40MP ultrawide and a 50MP 3.5x telephoto macro; leaks point to an 8.15-inch inner and 6.5-inch cover screen and a Kirin 9050-series chip, but specs and prices are not official yet. See the rumor tracker for the leaked details.",
+      "details": "Huawei announced the event on Weibo on Nov 16. The teaser shows a purple Mate X8 with a round, four-camera Mate-style camera island. Huawei Central lists a 50MP variable-aperture main camera, a 40MP ultrawide and a 50MP 3.5x telephoto macro; leaks point to an 8.15-inch inner and 6.5-inch cover screen and a Kirin 9050-series chip, but specs and prices are not official yet. See the rumor tracker for the leaked details. Update Nov 19: Huawei says the Mate 90 Air thin phone and the Watch Air will also be unveiled at this event (see their entries).",
       "sources": [
         {
           "name": "Huawei Central",
@@ -4577,9 +4637,13 @@
       "precision": "day",
       "status": "Confirmed",
       "price": "",
-      "summary": "Motorola will launch the Edge 70 Neo in India on Nov 24, with a Flipkart teaser showing a curved screen and a 50MP Lytia main camera with OIS.",
-      "details": "Motorola's Flipkart teaser page shows a sage-colored phone with a raised rounded-square camera island marked '50MP', 'Ultra HDR', 'OIS' and 'Lytia', a curved display with a centered punch-hole, and prompt-based AI photo editing. Motorola has not published specs or a price; the leaked spec list (Snapdragon 7s Gen 3, 7,000mAh battery, 144Hz screen) is in the rumor tracker.",
+      "summary": "Motorola launches the Edge 70 Neo in India on Nov 24 with a Snapdragon 7s Gen 3, a 7,000mAh battery and a 144Hz 6.8-inch screen.",
+      "details": "Motorola's Flipkart teaser page shows a sage-colored phone with a raised rounded-square camera island marked '50MP', 'Ultra HDR', 'OIS' and 'Lytia', a curved display with a centered punch-hole, and prompt-based AI photo editing. Motorola has not published specs or a price; the leaked spec list (Snapdragon 7s Gen 3, 7,000mAh battery, 144Hz screen) is in the rumor tracker. Update Nov 19: Motorola has confirmed the main specs: a 6.8-inch 1.5K 144Hz AMOLED (5,200 nits peak, Gorilla Glass 7i), Snapdragon 7s Gen 3 with up to 8GB of RAM, a 50MP Sony Lytia 710 main camera, a 7,000mAh battery with 45W charging and 7.5W reverse wired charging, IP64, and four Pantone colors. The price is still unannounced.",
       "sources": [
+        {
+          "name": "GSMArena (official specs)",
+          "url": "https://www.gsmarena.com/motorola_edge_70_neo_now_has_an_official_launch_date_and_its_main_specs_confirmed-news-75533.php"
+        },
         {
           "name": "GSMArena (Flipkart teaser)",
           "url": "https://www.gsmarena.com/motorola_starts_teasing_the_edge_70_neo_hints_at_when_it_will_be_announced-news-75516.php"
@@ -4659,6 +4723,84 @@
         {
           "name": "Electrek",
           "url": "https://electrek.co/2026/11/17/bmws-first-us-built-ev-delivers-435-miles-range-fast-charging/"
+        }
+      ]
+    },
+    {
+      "id": "gemini-4-neon",
+      "name": "Gemini 4 Neon",
+      "brand": "Google",
+      "categories": [
+        "ai"
+      ],
+      "type": "AI model",
+      "date": "2026-11-18",
+      "date_label": "Nov 18, 2026",
+      "precision": "day",
+      "status": "Released",
+      "price": "$3/$15 per million input/output tokens",
+      "summary": "Google's new mid-tier Gemini 4 model sits between Carbon and Hydrogen and is rolling out in the Gemini API and to AI Pro and Ultra subscribers.",
+      "details": "Google pitches Neon as frontier-level reasoning at lower cost for coding, knowledge work and science. It costs $3 per million input tokens ($0.15 cached) and $15 per million output tokens, with a 1 million-token context window and four thinking levels. Google says it scores 61 on the Artificial Analysis Intelligence Index at its highest setting (third overall) and costs 32% less per task than Carbon at its default level. It is rolling out in the Gemini API paid tier (AI Studio, Android Studio), Gemini for business, Google Antigravity for paid AI Pro and Ultra subscribers, and the Gemini app model picker for Pro and Ultra. A cyber-defense version goes to Fairwind Program members over the coming days. Benchmark claims are Google's own.",
+      "sources": [
+        {
+          "name": "Google blog",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+        }
+      ]
+    },
+    {
+      "id": "huawei-mate-90-air",
+      "name": "Huawei Mate 90 Air (China)",
+      "brand": "Huawei",
+      "categories": [
+        "android"
+      ],
+      "type": "Phone",
+      "date": "2026-11-24",
+      "date_label": "Nov 24, 2026, 2:30 PM China time (Mate X8 event)",
+      "precision": "day",
+      "status": "Confirmed",
+      "price": "",
+      "summary": "Huawei will unveil the Mate 90 Air, its thinnest Mate phone, at the Nov 24 Mate X8 event; reservations are open on Vmall.",
+      "details": "Huawei announced the phone on Nov 19, skipping the Mate 80 Air name that leaks had used. The Vmall reservation listing shows Rose Gold, Moon Silver and Obsidian Black with 12GB of RAM and 256GB or 512GB of storage, and a large round camera island like the rest of the Mate 90 series; full pre-sale payment opens after the launch. Tipster Digital Chat Station claims a 7-inch quad-curved screen, four rear cameras and 66W charging, but Huawei has not confirmed specs or prices. The Mate 70 Air was 6.6mm thick with a 6,500mAh battery.",
+      "sources": [
+        {
+          "name": "IT Home (official date, Chinese)",
+          "url": "https://www.ithome.com/1/029/151.htm"
+        },
+        {
+          "name": "Huawei Central (Vmall listing)",
+          "url": "https://www.huaweicentral.com/huawei-mate-90-air-coming-in-three-colors-two-storage-variants/"
+        },
+        {
+          "name": "GSMArena",
+          "url": "https://www.gsmarena.com/huawei_mate_90_air_listed_ahead_of_launch-news-75537.php"
+        }
+      ]
+    },
+    {
+      "id": "huawei-watch-air",
+      "name": "Huawei Watch Air (China)",
+      "brand": "Huawei",
+      "categories": [
+        "android"
+      ],
+      "type": "Wearable",
+      "date": "2026-11-24",
+      "date_label": "Nov 24, 2026 (Mate X8 event)",
+      "precision": "day",
+      "status": "Confirmed",
+      "price": "",
+      "summary": "Huawei's 6.9mm titanium Watch Air, its thinnest smartwatch, launches at the Nov 24 event in China.",
+      "details": "Huawei's teaser confirms a 6.9mm titanium unibody, a square screen under sapphire glass with 1.4mm bezels, and Black, Silver and Light Gold finishes with sport, woven and Milanese straps. Tipster Digital Chat Station claims a 1.92-inch LTPO AMOLED at 3,500 nits, under 30 grams and about a week of battery, but those specs and the price are not official.",
+      "sources": [
+        {
+          "name": "Beebom (official teaser)",
+          "url": "https://gadgets.beebom.com/news/huawei-watch-air-officially-teased-ahead-of-launch"
+        },
+        {
+          "name": "PConline (Chinese)",
+          "url": "https://mobile.pconline.com.cn/2185/21858637.html"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "items": [
     {
       "id": "gtc-berlin-2026",
@@ -1314,7 +1314,7 @@
       "status": "Estimated",
       "price": "",
       "summary": "AMD's next desktop CPUs are reportedly targeted for a CES 2027 reveal, with retail between March and June 2027.",
-      "details": "AMD has not confirmed dates. Reports say the schedule slipped because of industry component turmoil.",
+      "details": "AMD has not confirmed dates. Reports say the schedule slipped because of industry component turmoil. Update Nov 20: Chiphell leaker Zhang Zhonghao claims Olympic Ridge moved to TSMC's N2X process and slipped, possibly to after Computex (June) 2027 (PC Gamer, via VideoCardz); AMD's Jack Huynh separately teased news for CES. That is one leaker against earlier reports, so our estimate stays for now; see the rumor tracker.",
       "sources": [
         {
           "name": "Tom's Hardware",
@@ -1323,6 +1323,10 @@
         {
           "name": "Tech Insider",
           "url": "https://tech-insider.org/ca/intel-nova-lake-amd-zen-6-delay-2026/"
+        },
+        {
+          "name": "PC Gamer (Nov 20, delay rumor)",
+          "url": "https://www.pcgamer.com/hardware/processors/amds-next-gen-zen-6-desktop-cpus-are-rumoured-to-be-delayed-may-be-pushed-back-to-second-half-of-2027/"
         }
       ]
     },
@@ -2796,7 +2800,7 @@
       "status": "Confirmed",
       "price": "$1,099 (12GB/256GB), $1,299 (16GB/512GB) through 2026",
       "summary": "The first Android XR glasses, XREAL's tethered Aura, went on sale Oct 28 for $1,099; XREAL says Founder Edition orders start shipping Nov 17.",
-      "details": "The 95-gram transparent glasses connect by cable to a compute puck running Android XR, with a 70-degree field of view, multiple virtual screens and Gemini. Orders are open in the US, Canada and South Korea; Japan sales start Nov 2 and wider availability comes next year. The launch prices of $1,099 and $1,299 run through the end of 2026 (regular prices $1,279 and $1,499), and XREAL says earlier pre-order buyers get the difference refunded. Update Nov 15: XREAL said on Threads that Founder Edition orders begin shipping on Nov 17, with first deliveries in the following days; other orders ship in batches by priority tier and payment date. XREAL Japan lists the general Japanese release for Nov 27 at 14:00, with shipping from late November. Update Nov 17: 9to5Google published an initial review on the day XREAL said Founder Edition shipments begin; we will mark it Released once deliveries are confirmed. Update Nov 18: Tom's Hardware has also published a review, but we have not yet seen confirmation of customer deliveries, so it stays Confirmed for now. Update Nov 19: Engadget and WIRED have published reviews too, but we still have not seen confirmed customer deliveries, so it stays Confirmed.",
+      "details": "The 95-gram transparent glasses connect by cable to a compute puck running Android XR, with a 70-degree field of view, multiple virtual screens and Gemini. Orders are open in the US, Canada and South Korea; Japan sales start Nov 2 and wider availability comes next year. The launch prices of $1,099 and $1,299 run through the end of 2026 (regular prices $1,279 and $1,499), and XREAL says earlier pre-order buyers get the difference refunded. Update Nov 15: XREAL said on Threads that Founder Edition orders begin shipping on Nov 17, with first deliveries in the following days; other orders ship in batches by priority tier and payment date. XREAL Japan lists the general Japanese release for Nov 27 at 14:00, with shipping from late November. Update Nov 17: 9to5Google published an initial review on the day XREAL said Founder Edition shipments begin; we will mark it Released once deliveries are confirmed. Update Nov 18: Tom's Hardware has also published a review, but we have not yet seen confirmation of customer deliveries, so it stays Confirmed for now. Update Nov 19: Engadget and WIRED have published reviews too, but we still have not seen confirmed customer deliveries, so it stays Confirmed. Update Nov 20: TechRadar has published another review, but we still have no confirmed customer deliveries, so it stays Confirmed.",
       "sources": [
         {
           "name": "XREAL on Threads (ships Nov 17)",
@@ -2829,6 +2833,10 @@
         {
           "name": "Engadget (review)",
           "url": "https://www.engadget.com/2320945/xreal-aura-review/"
+        },
+        {
+          "name": "TechRadar (review)",
+          "url": "https://www.techradar.com/computing/virtual-reality-augmented-reality/xreal-aura-wired-android-xr-glasses-review"
         }
       ]
     },
@@ -3484,13 +3492,17 @@
         "android"
       ],
       "type": "Gadget",
-      "date": "2026-12-15",
-      "date_label": "December 2026 (no date)",
-      "precision": "window",
-      "status": "Expected",
-      "summary": "Carl Pei says Nothing's first AI-native product launches next month; it has no screen and 'couldn't have been an app'.",
-      "details": "Pei announced the December timing in an essay posted on X on Nov 4, with a teaser image showing only rounded corners and curved edges. Nothing has not named the product or given its form factor, price or exact date, and pitches it as a productivity tool first. Earlier reports said Nothing is working on AI wearables, including smart glasses, but that is not confirmed as this device. Update Nov 19: a photo posted by DJ Sebastian Ingrosso shows a small, screenless palm-sized device that Android Authority says its sources confirm is Nothing's AI product. It has two buttons (one for recording, one labeled 'TALK') and red and green LEDs, which hints at voice notes or meeting capture, but Nothing has not said what it does.",
+      "date": "2026-12-08",
+      "date_label": "Dec 8, 2026 (announcement)",
+      "precision": "day",
+      "status": "Confirmed",
+      "summary": "Nothing will announce its first AI-native, screenless device on Dec 8; teasers point to a voice-note recorder.",
+      "details": "Pei announced the December timing in an essay posted on X on Nov 4, with a teaser image showing only rounded corners and curved edges. Nothing has not named the product or given its form factor, price or exact date, and pitches it as a productivity tool first. Earlier reports said Nothing is working on AI wearables, including smart glasses, but that is not confirmed as this device. Update Nov 19: a photo posted by DJ Sebastian Ingrosso shows a small, screenless palm-sized device that Android Authority says its sources confirm is Nothing's AI product. It has two buttons (one for recording, one labeled 'TALK') and red and green LEDs, which hints at voice notes or meeting capture, but Nothing has not said what it does. Update Nov 20: Nothing posted on X 'Be present. It's noted. 8 December.' with a close-up of a brushed metal casing and a round button (Android Authority). The date is official; the product name, what it does, price and whether Dec 8 is a full launch or only a reveal are not.",
       "sources": [
+        {
+          "name": "Android Authority (Dec 8 teaser)",
+          "url": "https://www.androidauthority.com/nothing-ai-hardware-december-8-teaser-3737727/"
+        },
         {
           "name": "Android Authority (leaked photo)",
           "url": "https://www.androidauthority.com/nothing-ai-hardware-leak-3737082/"
@@ -4277,7 +4289,7 @@
     },
     {
       "id": "huawei-osta-launch",
-      "name": "Huawei OSTA sub-brand debut (China)",
+      "name": "Huawei OSTA sub-brand and OSTA O1 Pro (China)",
       "brand": "Huawei",
       "categories": [
         "android"
@@ -4286,11 +4298,15 @@
       "date": "2026-11-20",
       "date_label": "Nov 20, 2026, 2:30 PM Beijing time",
       "precision": "day",
-      "status": "Confirmed",
-      "price": "",
-      "summary": "Huawei's Richard Yu confirmed the new OSTA (Xingmang) phone sub-brand debuts Nov 20, at an event that also covers the Enjoy V8 and SAIC Z7T.",
-      "details": "Yu announced the date on Weibo on Nov 11, and his posts now show the 'OSTA O1 Pro' device label. Huawei has not detailed the phones; the leaked O1 and O1 Pro specs are in the rumor tracker. Update Nov 17: the OSTA O1 Pro is up for pre-order on Huawei's Vmall store in Starry Black and Nebula White (12GB/256GB and 12GB/512GB) and Starburst Purple (16GB/512GB and 16GB/1TB), with no price or sale date yet.",
+      "status": "Released",
+      "price": "OSTA O1 Pro from 5,499 yuan launch price (list 5,699 yuan; China)",
+      "summary": "Huawei launched its OSTA (Xingmang) sub-brand on Nov 20 with the wide-screen OSTA O1 Pro, from 5,499 yuan in China.",
+      "details": "Yu announced the date on Weibo on Nov 11, and his posts now show the 'OSTA O1 Pro' device label. Huawei has not detailed the phones; the leaked O1 and O1 Pro specs are in the rumor tracker. Update Nov 17: the OSTA O1 Pro is up for pre-order on Huawei's Vmall store in Starry Black and Nebula White (12GB/256GB and 12GB/512GB) and Starburst Purple (16GB/512GB and 16GB/1TB), with no price or sale date yet. Update Nov 20: launched as planned at the Stelato V8 and OSTA event. The OSTA O1 Pro has a 6.39-inch 16:9.5 1.5K LTPS flat screen with 1.05mm bezels, the Kirin 9030S, a 200MP 1/1.28-inch RYYB main camera and a 50MP 3.7x RYYB periscope, a 7,000mAh battery with 66W wired and wireless charging, a side fingerprint reader, 6.68mm thickness and about 200 g, and ships with HarmonyOS 7. Launch prices are 5,499 yuan (12GB/256GB), 6,499 yuan (12/512GB), 7,299 yuan (16/512GB) and 8,799 yuan (16GB/1TB), each 200 yuan under list; sales started the same day on Vmall and JD. Huawei Central says the quad-curved OSTA O1 was also shown, but we have not seen a price or sale date for it. No international launch was announced.",
       "sources": [
+        {
+          "name": "Gizmochina (Nov 20, launch and prices)",
+          "url": "https://www.gizmochina.com/2026/11/20/huawei-osta-o1-pro-launches-specs-price/"
+        },
         {
           "name": "Gizmochina (Vmall pre-orders)",
           "url": "https://www.gizmochina.com/2026/11/17/huawei-osta-o1-pro-pre-order-vmall-three-colors/"
@@ -4306,6 +4322,14 @@
         {
           "name": "IT Home (Chinese)",
           "url": "https://www.ithome.com/1/025/313.htm"
+        },
+        {
+          "name": "IT Home (Chinese, launch prices)",
+          "url": "https://www.ithome.com/1/030/120.htm"
+        },
+        {
+          "name": "Huawei Central (OSTA launch)",
+          "url": "https://www.huaweicentral.com/huawei-launches-osta/"
         }
       ]
     },
@@ -4801,6 +4825,84 @@
         {
           "name": "PConline (Chinese)",
           "url": "https://mobile.pconline.com.cn/2185/21858637.html"
+        }
+      ]
+    },
+    {
+      "id": "stelato-v8",
+      "name": "Stelato V8 MPV (China)",
+      "brand": "Stelato (BAIC / Huawei HIMA)",
+      "categories": [
+        "evs"
+      ],
+      "type": "Car",
+      "date": "2026-11-20",
+      "date_label": "Nov 20, 2026 (China launch; first deliveries same day)",
+      "precision": "day",
+      "status": "Released",
+      "price": "319,800-429,800 yuan (China)",
+      "summary": "Stelato's V8, a large Huawei-backed MPV, launched in China on Nov 20 from 319,800 yuan, with deliveries starting the same day.",
+      "details": "Launched by Huawei's Richard Yu at the same event as the OSTA phone brand. Seven trims: range-extender versions cost 319,800-399,800 yuan and battery-electric versions 349,800-429,800 yuan; the entry price is 10,000 yuan below the September pre-sale price. All get Huawei's ADS 5 driver assistance and an 800V platform; the EV has a 120kWh pack rated up to 830 km CLTC. The car is 5,335 mm long with seven seats. First deliveries began in Beijing on Nov 20, with wider deliveries in 18 cities from Nov 21. Yu said it took more than 2,216 firm orders in two hours.",
+      "sources": [
+        {
+          "name": "CnEVPost",
+          "url": "https://cnevpost.com/2026/11/20/stelato-launches-v8-mpv/"
+        },
+        {
+          "name": "CarNewsChina (trim prices)",
+          "url": "https://carnewschina.com/2026/11/20/stelato-v8-launches-in-china-featuring-huaweis-smart-driving-and-l3-ready-autonomous-architecture/"
+        },
+        {
+          "name": "ifeng Auto (Chinese, orders)",
+          "url": "https://auto.ifeng.com/c/8yDK0Kf14vz"
+        }
+      ]
+    },
+    {
+      "id": "honor-watch-6-pro-europe",
+      "name": "Honor Watch 6 Pro (Europe)",
+      "brand": "Honor",
+      "categories": [
+        "android"
+      ],
+      "type": "Wearable",
+      "date": "2026-12-31",
+      "date_label": "Pre-sales Nov 19 to Dec 31, 2026; launch expected Dec 31",
+      "precision": "window",
+      "status": "Expected",
+      "price": "EUR 279 / GBP 229 early-bird; EUR 379 / GBP 329 list",
+      "summary": "Honor opened European pre-sales for the Watch 6 Pro on Nov 19 at EUR 279, with a 5,500-nit tandem OLED and up to 18 days of battery.",
+      "details": "Per Honor's press release (via 9to5Google): a 1.5-inch LTPO tandem AMOLED rated at 5,500 nits, a ceramic bezel, dual-band GPS, 120+ sport modes, 5ATM and IP68/IP69/IP69K ratings, Strava integration and wrist-twist gestures, with 10 days of typical battery life or 18 in endurance mode. Early-bird pre-sales run from Nov 19 until Dec 31, when the watch is expected to launch; list prices are EUR 379 / GBP 329.",
+      "sources": [
+        {
+          "name": "9to5Google",
+          "url": "https://9to5google.com/2026/11/19/honor-just-supercharged-its-smartwatch-lineup-with-a-new-pro-model/"
+        }
+      ]
+    },
+    {
+      "id": "android-developer-verification-global",
+      "name": "Android developer verification goes global",
+      "brand": "Google",
+      "categories": [
+        "android"
+      ],
+      "type": "Software",
+      "date": "2027-01-15",
+      "date_label": "Rollout starts January 2027 in all regions; full enforcement expected by Mar 1, 2027",
+      "precision": "window",
+      "status": "Confirmed",
+      "price": "",
+      "summary": "Google will start requiring developer verification for sideloaded Android apps in every region from January 2027.",
+      "details": "Google said on Nov 19 that the requirement, already live in Brazil, Indonesia, Singapore and Thailand since September, starts rolling out worldwide in January and will reach all devices over several months; its guides point to full enforcement by March 1, 2027. Apps from unregistered developers will be blocked from installing on certified devices running Android 8 or newer, unless the user turns on a buried 'advanced flow' opt-out that takes 24 hours to activate. Hobbyists get a free tier limited to 50 installs. Google says registered apps already cover over 99% of global Android installs.",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/11/google-will-launch-android-app-verification-requirement-globally-in-january-2027/"
+        },
+        {
+          "name": "Android Authority",
+          "url": "https://www.androidauthority.com/android-sideloading-rules-developer-verification-global-3737188/"
         }
       ]
     }

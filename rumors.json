@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "scale": {
     "Confirmed": "Announced by the company or shown in an official source.",
     "Likely": "Multiple credible outlets or hard evidence (certifications, databases, supply chain), but no official word.",
@@ -142,11 +142,15 @@
       ],
       "status": "Active",
       "first_reported": "2026-11-07",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "expected": "December 2026 (China, reported)",
       "claim": "A standard Xiaomi 18 is still coming this year, around December in China, with 100W wired charging, the Snapdragon 8 Elite Gen 6, a 200MP main camera and a 7,200mAh battery.",
-      "why": "A new 3C certification (via GSMArena) lists a Xiaomi phone with 100W charging that is believed, not confirmed, to be the Xiaomi 18. The December timing and other specs come from earlier leaks. Certification is hard evidence that a device exists, but its identity is inferred and Xiaomi has not mentioned the base model. Update Nov 12: a dealer poster on Weibo shows offline retailers in China taking refundable blind deposits for the standard Xiaomi 18 (GSMArena, Gizmochina), and Digital Chat Station tips a 2nm mid-size model with up to 16GB/1TB. Dealer pre-orders plus the 3C listing are hard signs of a near launch, so this moves to Likely; Xiaomi itself has not confirmed a date or specs. Update Nov 17: XiaomiTime reports a Xiaomi Weibo poster announcing blind bookings for the 'Xiaomi 18 Standard Edition', and Lei Jun was photographed with a white phone believed to be the Xiaomi 18 at the APEC CEO Summit (Gizmochina). The phone is now effectively official, but Xiaomi has not given a date or confirmed the 100W and battery specs, so it stays Likely. Update Nov 18: tipster Debayan Roy (Gadgetsdata) posted a purported live image of a white Xiaomi 18 with a metal frame, a three-camera square island and no rear screen, and lists 100W wired charging, the Snapdragon 8 Elite Gen 6 and a 200MP main camera, but a battery of about 7,000mAh (not 7,200mAh) and a 50MP telephoto instead of the 200MP periscope from earlier leaks (GSMArena, Gadgets360). The 100W and chip details agree; the exact battery size is now disputed. Stays Likely.",
+      "why": "A new 3C certification (via GSMArena) lists a Xiaomi phone with 100W charging that is believed, not confirmed, to be the Xiaomi 18. The December timing and other specs come from earlier leaks. Certification is hard evidence that a device exists, but its identity is inferred and Xiaomi has not mentioned the base model. Update Nov 12: a dealer poster on Weibo shows offline retailers in China taking refundable blind deposits for the standard Xiaomi 18 (GSMArena, Gizmochina), and Digital Chat Station tips a 2nm mid-size model with up to 16GB/1TB. Dealer pre-orders plus the 3C listing are hard signs of a near launch, so this moves to Likely; Xiaomi itself has not confirmed a date or specs. Update Nov 17: XiaomiTime reports a Xiaomi Weibo poster announcing blind bookings for the 'Xiaomi 18 Standard Edition', and Lei Jun was photographed with a white phone believed to be the Xiaomi 18 at the APEC CEO Summit (Gizmochina). The phone is now effectively official, but Xiaomi has not given a date or confirmed the 100W and battery specs, so it stays Likely. Update Nov 18: tipster Debayan Roy (Gadgetsdata) posted a purported live image of a white Xiaomi 18 with a metal frame, a three-camera square island and no rear screen, and lists 100W wired charging, the Snapdragon 8 Elite Gen 6 and a 200MP main camera, but a battery of about 7,000mAh (not 7,200mAh) and a 50MP telephoto instead of the 200MP periscope from earlier leaks (GSMArena, Gadgets360). The 100W and chip details agree; the exact battery size is now disputed. Stays Likely. Update Nov 20: Xiaomi's own online store in China now takes blind pre-reservations for the Xiaomi 18, still without a date, design or specs (GSMArena). That makes a near launch even more certain, but the 100W and battery details remain leaks, so it stays Likely.",
       "sources": [
+        {
+          "name": "GSMArena (Nov 20, Xiaomi store reservations)",
+          "url": "https://www.gsmarena.com/xiaomi_18_prereservations_are_now_live_in_china-news-75561.php"
+        },
         {
           "name": "GSMArena (Nov 17, live image)",
           "url": "https://www.gsmarena.com/xiaomi_18_purportedly_leaks_in_live_image-news-75515.php"
@@ -599,10 +603,10 @@
         "chips"
       ],
       "status": "Active",
-      "updated": "2026-10-17",
+      "updated": "2026-11-20",
       "expected": "CES 2027; retail Mar-Jun",
       "claim": "AMD's Zen 6 'Olympic Ridge' desktop CPUs will be revealed at CES 2027 with retail from March to June 2027.",
-      "why": "Trade-press reports of a delay from earlier plans; retail window is an estimate. AMD has not confirmed.",
+      "why": "Trade-press reports of a delay from earlier plans; retail window is an estimate. AMD has not confirmed. Update Nov 20: a Chiphell leaker now claims a slip to the second half of 2027 (see the separate rumor), which conflicts with the March-June retail window. AMD still teases CES news, so this stays a Rumor.",
       "sources": [
         {
           "name": "Tom's Hardware",
@@ -611,6 +615,10 @@
         {
           "name": "Tech Insider",
           "url": "https://tech-insider.org/ca/intel-nova-lake-amd-zen-6-delay-2026/"
+        },
+        {
+          "name": "PC Gamer (Nov 20)",
+          "url": "https://www.pcgamer.com/hardware/processors/amds-next-gen-zen-6-desktop-cpus-are-rumoured-to-be-delayed-may-be-pushed-back-to-second-half-of-2027/"
         }
       ],
       "first_reported": null
@@ -2447,11 +2455,15 @@
       ],
       "status": "Active",
       "first_reported": "2026-10-30",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "expected": "Spring 2027 with iPhone 18 (rumored)",
       "claim": "The iPhone Air 2 launches next spring with a 6.55-inch flat 120Hz OLED, a 2nm A20-series chip, 48MP wide and 48MP ultrawide rear cameras and a bigger battery than the first Air.",
-      "why": "From tipster Digital Chat Station, relayed by GSMArena; it repeats earlier leaks of a second rear camera and a spring launch. DCS is reliable on Chinese phones but less proven on Apple, and the 5.2mm thickness and battery figures come from other, separate leaks. Apple has said nothing. Update Nov 10: tipster Smart Pikachu posted alleged iPhone Air 2 dummy units on Weibo showing two rear cameras and a slimmer body. Dummies are usually built from leaked CAD files, so they back the design but not the chip or screen specs. Update Nov 18: Korea's ETNews reports the Air 2 keeps the first Air's display specs so Apple can use existing OLED inventory, with Samsung Display the only supplier and panel production starting in late December or early January for a March launch (MacRumors). That supports the spring timing and an unchanged screen, but says nothing about the chip or cameras, so it stays a Rumor.",
+      "why": "From tipster Digital Chat Station, relayed by GSMArena; it repeats earlier leaks of a second rear camera and a spring launch. DCS is reliable on Chinese phones but less proven on Apple, and the 5.2mm thickness and battery figures come from other, separate leaks. Apple has said nothing. Update Nov 10: tipster Smart Pikachu posted alleged iPhone Air 2 dummy units on Weibo showing two rear cameras and a slimmer body. Dummies are usually built from leaked CAD files, so they back the design but not the chip or screen specs. Update Nov 18: Korea's ETNews reports the Air 2 keeps the first Air's display specs so Apple can use existing OLED inventory, with Samsung Display the only supplier and panel production starting in late December or early January for a March launch (MacRumors). That supports the spring timing and an unchanged screen, but says nothing about the chip or cameras, so it stays a Rumor. Update Nov 20: Sonny Dickson posted new dummy units of the Air 2 and iPhone 18 showing two horizontally placed rear cameras on the Air's wide plateau (MacRumors). It is more support for the dual-camera design only; chip, screen and battery claims are unchanged, so it stays a Rumor.",
       "sources": [
+        {
+          "name": "MacRumors (Nov 20, Sonny Dickson dummies)",
+          "url": "https://www.macrumors.com/2026/11/20/iphone-air-2-and-iphone-18-dummy-models/"
+        },
         {
           "name": "MacRumors (ETNews, same display)",
           "url": "https://www.macrumors.com/2026/11/18/iphone-air-2-reportedly-sticks-with-same-display/"
@@ -2809,7 +2821,7 @@
     {
       "id": "galaxy-s27-pro-snapdragon-8-elite-gen-6",
       "title": "Galaxy S27 Pro uses the regular Snapdragon 8 Elite Gen 6, not the Ultra's Extreme chip",
-      "rating": "Likely",
+      "rating": "Shaky",
       "categories": [
         "samsung",
         "android",
@@ -2817,11 +2829,15 @@
       ],
       "status": "Active",
       "first_reported": "2026-11-04",
-      "updated": "2026-11-07",
+      "updated": "2026-11-20",
       "expected": "Galaxy S27 launch (early 2027)",
       "claim": "In Europe, the Galaxy S27 and S27+ use the Exynos 2700, the S27 Pro uses the Snapdragon 8 Elite Gen 6 (SM8950), and only the S27 Ultra gets the Snapdragon 8 Elite Extreme Gen 6, all with 12GB of RAM and 256GB of storage.",
-      "why": "From import-export records on the NBD trade platform, found by Notebookcheck and relayed by SamMobile, GSMArena and Android Police. Shipping records with real model numbers (SM-S952B to SM-S958B) are hard evidence, so this is Likely, but they can reflect test units and Samsung has not announced the phones. The split mirrors Xiaomi's 18 Pro (regular chip) and 18 Pro Max (Extreme). Update Nov 6: yeux1122 (via GSMArena) adds that the Pro (Snapdragon 8 Elite Gen 6) and Ultra (Extreme Gen 6) use Snapdragon in South Korea too, while the S27 and S27+ stay on Exynos 2700 outside North America.",
+      "why": "From import-export records on the NBD trade platform, found by Notebookcheck and relayed by SamMobile, GSMArena and Android Police. Shipping records with real model numbers (SM-S952B to SM-S958B) are hard evidence, so this is Likely, but they can reflect test units and Samsung has not announced the phones. The split mirrors Xiaomi's 18 Pro (regular chip) and 18 Pro Max (Extreme). Update Nov 6: yeux1122 (via GSMArena) adds that the Pro (Snapdragon 8 Elite Gen 6) and Ultra (Extreme Gen 6) use Snapdragon in South Korea too, while the S27 and S27+ stay on Exynos 2700 outside North America. Update Nov 20: a Geekbench listing for the SM-S957B, the Asia/Europe Galaxy S27 Pro, shows Samsung's Exynos 2700 (S5E9975) with an Xclipse 970 GPU and 12GB of RAM on Android 17 (SamMobile). That directly contradicts the Snapdragon claim for Europe. Both pieces of evidence are hard-looking, so with conflicting reports we downgrade this to Shaky until Samsung announces the phones.",
       "sources": [
+        {
+          "name": "SamMobile (Nov 20, Exynos Geekbench)",
+          "url": "https://www.sammobile.com/news/galaxy-s27-pro-chipset-asia-europe-revealed/"
+        },
         {
           "name": "GSMArena (Nov 6)",
           "url": "https://www.gsmarena.com/galaxy_s27_ultra_and_s27_pro_chipset_rumors_take_another_turn_snapdragon_is_back_in_korea-news-75386.php"
@@ -2995,10 +3011,10 @@
       ],
       "status": "Active",
       "first_reported": "2026-11-04",
-      "updated": "2026-11-19",
+      "updated": "2026-11-20",
       "expected": "Early 2027 (speculation; possibly with Galaxy S27)",
       "claim": "Samsung will launch ear-hook fitness earbuds, model SM-R545 and codenamed Galaxy T1, in several markets including the US.",
-      "why": "The earbuds passed the FCC on Nov 4 (IDs ZCASMR545L and ZCASMR545R, case EP-QR545) after certifications in China, South Korea and Indonesia, and the filings mention a 'T1 Project'. That is strong evidence a product is coming, as Android Authority reports. The retail name, price and early-2027 timing are not confirmed; earlier leaks of a 595mAh case and a fit test come from software code. Update Nov 19: SammyGuru found the earbuds in the One UI 9.5 beta under the name Galaxy Buds Active: in-ear with ear hooks, IP68, ANC, 360 Audio (no head tracking), up to 96kHz audio and Auracast, apparently without wear detection (Android Authority). Samsung's own software naming them makes the product even more certain, but price and date are still unknown, so it stays Likely.",
+      "why": "The earbuds passed the FCC on Nov 4 (IDs ZCASMR545L and ZCASMR545R, case EP-QR545) after certifications in China, South Korea and Indonesia, and the filings mention a 'T1 Project'. That is strong evidence a product is coming, as Android Authority reports. The retail name, price and early-2027 timing are not confirmed; earlier leaks of a 595mAh case and a fit test come from software code. Update Nov 19: SammyGuru found the earbuds in the One UI 9.5 beta under the name Galaxy Buds Active: in-ear with ear hooks, IP68, ANC, 360 Audio (no head tracking), up to 96kHz audio and Auracast, apparently without wear detection (Android Authority). Samsung's own software naming them makes the product even more certain, but price and date are still unknown, so it stays Likely. Update Nov 20: GSMArena adds that the One UI 9.5 code lists adjustable ANC, 96kHz Ultra High Quality audio, Auto Switch and a fit test, but no in-ear detection, and notes they appear in the same beta as the Galaxy Studio headphones expected with the S27. Still no date or price; stays Likely.",
       "sources": [
         {
           "name": "Android Authority (Buds Active in One UI 9.5)",
@@ -3011,6 +3027,10 @@
         {
           "name": "IT Home (Chinese)",
           "url": "https://www.ithome.com/1/022/417.htm"
+        },
+        {
+          "name": "GSMArena (feature leak)",
+          "url": "https://www.gsmarena.com/samsungs_galaxy_buds_active_sport_earbuds_leak_with_highend_features-news-75554.php"
         }
       ]
     },
@@ -3080,19 +3100,27 @@
       ]
     },
     {
-      "status": "Active",
+      "status": "Resolved",
       "first_reported": "2026-11-05",
-      "updated": "2026-11-17",
+      "updated": "2026-11-20",
       "id": "huawei-osta-subbrand",
       "title": "Huawei's new sub-brand is called Osta and debuts with the flagship-level Osta O1 and wide-screen O1 Pro",
-      "rating": "Likely",
+      "rating": "Confirmed",
       "categories": [
         "android"
       ],
-      "expected": "Nov 20, 2026 (official debut date); phone specs unconfirmed",
+      "expected": "Nov 20, 2026 (launched in China)",
       "claim": "Huawei's upcoming sub-brand, reported in Chinese as Xingmang, will be called Osta in English and launch with two flagship-level phones: the Osta O1 with a quad-curved screen and the Osta O1 Pro with a 6.39-inch 1.5K wide-aspect flat screen and up to 16GB/1TB.",
-      "why": "Two Weibo tipsters that GSMArena calls reliable say Osta will be printed on retail boxes. Positioning the phones as flagships contradicts an earlier leak of Kirin 8-series mid-rangers, and an earlier tipster warned the English name might differ. Huawei has not confirmed the brand. Update Nov 11: Richard Yu officially confirmed the OSTA name and a Nov 20 debut, and his Weibo posts show an 'OSTA O1 Pro' device label, matching the tipsters. The name and O1 Pro model are now confirmed; the quad-curved O1, flagship positioning and 16GB/1TB memory still come from leaks and retail-box photos, so the full claim moves to Likely. Update Nov 17: Huawei's Vmall pre-order page for the OSTA O1 Pro confirms memory options up to 16GB/1TB (16GB only in Starburst Purple) and three colors. The flagship-level specs and the quad-curved O1 still rest on leaks, so it stays Likely until the Nov 20 launch.",
+      "why": "Two Weibo tipsters that GSMArena calls reliable say Osta will be printed on retail boxes. Positioning the phones as flagships contradicts an earlier leak of Kirin 8-series mid-rangers, and an earlier tipster warned the English name might differ. Huawei has not confirmed the brand. Update Nov 11: Richard Yu officially confirmed the OSTA name and a Nov 20 debut, and his Weibo posts show an 'OSTA O1 Pro' device label, matching the tipsters. The name and O1 Pro model are now confirmed; the quad-curved O1, flagship positioning and 16GB/1TB memory still come from leaks and retail-box photos, so the full claim moves to Likely. Update Nov 17: Huawei's Vmall pre-order page for the OSTA O1 Pro confirms memory options up to 16GB/1TB (16GB only in Starburst Purple) and three colors. The flagship-level specs and the quad-curved O1 still rest on leaks, so it stays Likely until the Nov 20 launch. Update Nov 20: Huawei launched OSTA and the O1 Pro as described: a 6.39-inch 1.5K 16:9.5 flat screen, up to 16GB/1TB, Kirin 9030S and a 200MP main camera, from 5,499 yuan. Huawei Central reports the O1 was shown too, but its quad-curved screen and specs were not detailed in the launch reports we found.",
       "sources": [
+        {
+          "name": "Huawei Central (OSTA launch)",
+          "url": "https://www.huaweicentral.com/huawei-launches-osta/"
+        },
+        {
+          "name": "Gizmochina (Nov 20, launch)",
+          "url": "https://www.gizmochina.com/2026/11/20/huawei-osta-o1-pro-launches-specs-price/"
+        },
         {
           "name": "Gizmochina (Vmall listing)",
           "url": "https://www.gizmochina.com/2026/11/17/huawei-osta-o1-pro-pre-order-vmall-three-colors/"
@@ -3109,7 +3137,8 @@
           "name": "GSMArena",
           "url": "https://www.gsmarena.com/huaweis_upcoming_subbrand_gets_an_english_name_first_two_phones_detailed-news-75343.php"
         }
-      ]
+      ],
+      "outcome": "Mostly correct. The OSTA name, the wide-screen O1 Pro with a 6.39-inch 1.5K flat display and up to 16GB/1TB all matched the launch on Nov 20. The O1 Pro is priced from 5,499 yuan with a Kirin 9030S and 200MP camera, so 'flagship-level' fairly describes it. The quad-curved O1 was named and shown, but we could not confirm its specs or price."
     },
     {
       "status": "Resolved",
@@ -3163,7 +3192,7 @@
     {
       "status": "Active",
       "first_reported": "2026-11-08",
-      "updated": "2026-11-09",
+      "updated": "2026-11-20",
       "id": "siri-ai-agent-2027",
       "title": "Apple makes Siri AI a proactive agent as early as 2027",
       "rating": "Rumor",
@@ -3173,8 +3202,12 @@
       ],
       "expected": "As early as 2027 (no version named)",
       "claim": "Apple will turn Siri AI into an agent that tracks goals and carries out multi-step tasks on its own, like OpenAI's Dots or Meta's Muse, possibly as soon as next year.",
-      "why": "From Bloomberg's Mark Gurman in his Nov 8 Power On newsletter, relayed by MacRumors, 9to5Mac and Gizmodo. Gurman says he is told Apple ultimately wants Siri to work this way and that he believes it could happen as early as next year, and reports that CEO John Ternus pushed software chief Craig Federighi in a closed-door meeting to accelerate Apple's AI roadmap beyond Siri fixes. Gurman has a strong Apple record, but the timing is partly his own judgment, Apple has not committed to a release, and he also says Siri chief Mike Rockwell is still considering leaving. Rumor until there are concrete features or a version.",
+      "why": "From Bloomberg's Mark Gurman in his Nov 8 Power On newsletter, relayed by MacRumors, 9to5Mac and Gizmodo. Gurman says he is told Apple ultimately wants Siri to work this way and that he believes it could happen as early as next year, and reports that CEO John Ternus pushed software chief Craig Federighi in a closed-door meeting to accelerate Apple's AI roadmap beyond Siri fixes. Gurman has a strong Apple record, but the timing is partly his own judgment, Apple has not committed to a release, and he also says Siri chief Mike Rockwell is still considering leaving. Rumor until there are concrete features or a version. Update Nov 19: Bloomberg spotted Apple job listings for a team building 'general-purpose computer-use agents' that browse the web, work across apps, run commands and write code, working with the Siri and Apple Foundation Models teams (MacRumors). That confirms Apple is building agents, but not that Siri ships as one in 2027, so the timing claim stays a Rumor.",
       "sources": [
+        {
+          "name": "MacRumors (job listings)",
+          "url": "https://www.macrumors.com/2026/11/19/apple-ai-agent-development/"
+        },
         {
           "name": "MacRumors",
           "url": "https://www.macrumors.com/2026/11/08/siri-ai-rumored-to-become-more-agentic/"
@@ -4089,7 +4122,7 @@
     {
       "status": "Active",
       "first_reported": "2026-11-19",
-      "updated": "2026-11-19",
+      "updated": "2026-11-20",
       "id": "samsung-origin-android-laptops",
       "title": "Samsung readies 14- and 16-inch Android laptops codenamed 'Origin' with Snapdragon X Elite",
       "rating": "Likely",
@@ -4100,11 +4133,15 @@
       ],
       "expected": "Around or after the Galaxy S27 launch (early 2027, speculation)",
       "claim": "Samsung is building two Wi-Fi-only Android laptops, codenamed origin14 and origin16 (model numbers XE940XSA and XE960XSA), with a 12-core Snapdragon X Elite; the 16-inch model may have a touchscreen.",
-      "why": "Android Authority found the codenames, model numbers and chip profile in Samsung's own One UI 9.5 beta code, and an XE940XSA running Android 17 on a Snapdragon X Elite appeared on Geekbench in October. That is hard evidence of real devices. The branding (Googlebook or not), price and launch timing are unknown; the timing is Android Authority's guess.",
+      "why": "Android Authority found the codenames, model numbers and chip profile in Samsung's own One UI 9.5 beta code, and an XE940XSA running Android 17 on a Snapdragon X Elite appeared on Geekbench in October. That is hard evidence of real devices. The branding (Googlebook or not), price and launch timing are unknown; the timing is Android Authority's guess. Update Nov 20: SamMobile found One UI 9.5 code showing Samsung will push its own Googlebook OS firmware updates to the Origin laptops, with a Samsung setup wizard, RAM Plus and McAfee scans but no Maintenance Mode. More evidence the laptops are real; still no name, price or date, so it stays Likely.",
       "sources": [
         {
           "name": "Android Authority",
           "url": "https://www.androidauthority.com/samsung-origin-android-laptops-one-ui-9-5-apk-teardown-3737102/"
+        },
+        {
+          "name": "SamMobile (own firmware updates)",
+          "url": "https://www.sammobile.com/news/one-ui-9-5-beta-samsung-distribute-own-firmware-updates-googlebook-laptops/"
         }
       ]
     },
@@ -4180,7 +4217,7 @@
     {
       "status": "Active",
       "first_reported": "2026-11-19",
-      "updated": "2026-11-19",
+      "updated": "2026-11-20",
       "id": "razr-flex-2027-snapdragon-8-gen-5-pro",
       "title": "Motorola Razr Flex 2027 uses an unreleased Snapdragon 8 Gen 5 Pro",
       "rating": "Likely",
@@ -4190,11 +4227,15 @@
       ],
       "expected": "2027 (no date)",
       "claim": "The Razr Flex 2027 (XT2761, codename Parker), a compact wide foldable, runs Android 17 on Qualcomm's unannounced SM8845 Pro chip, with an under-display fingerprint reader and Bluetooth 6.0.",
-      "why": "Android Authority cites a security certification document for the XT2761, a model number already tied to the Razr Flex 27 in UAE filings, and the phone appeared on Motorola's own website earlier this month. A certification listing is good evidence for the chip; the 'Snapdragon 8 Gen 5 Pro' name is the expected branding, not confirmed. A rear photo from Reddit is unverified, and the in-display fingerprint contradicts earlier leaks.",
+      "why": "Android Authority cites a security certification document for the XT2761, a model number already tied to the Razr Flex 27 in UAE filings, and the phone appeared on Motorola's own website earlier this month. A certification listing is good evidence for the chip; the 'Snapdragon 8 Gen 5 Pro' name is the expected branding, not confirmed. A rear photo from Reddit is unverified, and the in-display fingerprint contradicts earlier leaks. Update Nov 20: GSMArena also reports the TrustCB listing (SM8845 Pro, Bluetooth 6.0, face unlock, under-display fingerprint) and notes a tipster says the same chip may be branded Snapdragon 8 Gen 6 in the OnePlus Turbo 7 Pro, so the final name is still open. It expects a mid-December launch. Stays Likely.",
       "sources": [
         {
           "name": "Android Authority",
           "url": "https://www.androidauthority.com/motorola-razr-flex-2027-snapdragon-chip-design-leak-3737039/"
+        },
+        {
+          "name": "GSMArena (TrustCB listing)",
+          "url": "https://www.gsmarena.com/motorola_razr_flex_certification_reveals_an_unexpected_chipset_as_a_live_image_leaks-news-75553.php"
         }
       ]
     },
@@ -4239,6 +4280,91 @@
         {
           "name": "Business Insider",
           "url": "https://www.businessinsider.com/elon-musk-tesla-robotaxi-autonomous-model-y-more-seats-cybercab-2026-11"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-20",
+      "updated": "2026-11-20",
+      "id": "amd-zen-6-desktop-n2x-delay-h2-2027",
+      "title": "AMD's Zen 6 desktop CPUs move to TSMC N2X and slip to the second half of 2027",
+      "rating": "Rumor",
+      "categories": [
+        "chips"
+      ],
+      "expected": "Second half of 2027 (leaker; possibly after Computex in June)",
+      "claim": "AMD's Olympic Ridge desktop Ryzen chips switched to TSMC's performance-focused N2X process, pushing their launch from the first half to the second half of 2027.",
+      "why": "From Chiphell leaker Zhang Zhonghao, relayed by VideoCardz and PC Gamer. N2X enters production in 2027, which would fit a later launch and earlier rumors of very high clock speeds, and the post's mention of Computex is others' reading, not a stated date. It is one leaker, it conflicts with earlier reports of a CES reveal and spring retail, and AMD's Jack Huynh is teasing CES news. Rumor.",
+      "sources": [
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/processors/amds-next-gen-zen-6-desktop-cpus-are-rumoured-to-be-delayed-may-be-pushed-back-to-second-half-of-2027/"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-20",
+      "updated": "2026-11-20",
+      "id": "meta-muse-charm-300-verizon",
+      "title": "Meta's Muse Charm costs $300 and includes free Verizon 5G",
+      "rating": "Rumor",
+      "categories": [
+        "ai"
+      ],
+      "expected": "Holiday 2026 (Meta's stated window); price unconfirmed",
+      "claim": "Meta will sell the Muse Charm, its keychain-sized gadget for talking to the Muse AI agent, for $300 with up to 12 months of free Verizon 5G data, and it uses a fingerprint reader to verify the user.",
+      "why": "Reported by The Information and relayed by Engadget and The Verge; Meta did not comment. The device itself is official (shown at Connect in September for the holidays), but the price and Verizon deal come from one outlet's sources. The Information is usually well sourced, so this is a solid Rumor until Meta prices it.",
+      "sources": [
+        {
+          "name": "Engadget",
+          "url": "https://www.engadget.com/2322541/metas-muse-charm-will-reportedly-cost-300-and-come-with-free-verizon-5g/"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-20",
+      "updated": "2026-11-20",
+      "id": "samsung-galaxy-a-price-hike-2027",
+      "title": "Samsung raises US prices on eight Galaxy A phones by Jan 1, with the A57 at $599",
+      "rating": "Rumor",
+      "categories": [
+        "samsung",
+        "android"
+      ],
+      "expected": "By Jan 1, 2027 (reported)",
+      "claim": "Samsung will raise prices on eight Galaxy A models in the US and other countries by January 1 because of memory costs, including the Galaxy A57 to $599, the A37 to $499, the A17 5G to $319 and the A07 5G to $229.",
+      "why": "From Seoul Economic Daily citing industry sources, via SammyFans and Android Police. Memory prices really are rising and Samsung already raised some prices this year, which makes it plausible. But it is one report, some of the 'old' prices it lists don't match current US prices, and Samsung has said nothing. Rumor.",
+      "sources": [
+        {
+          "name": "Android Police",
+          "url": "https://www.androidpolice.com/samsung-may-hike-phone-prices-in-2027-favorite-galaxy-a57-could-start-600-dollars/"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-20",
+      "updated": "2026-11-20",
+      "id": "xiaomi-19-flat-and-curved",
+      "title": "Xiaomi 19 series mixes flat and curved screens",
+      "rating": "Rumor",
+      "categories": [
+        "android"
+      ],
+      "expected": "Next Xiaomi flagship generation (late 2027, no date; name not final)",
+      "claim": "Development of Xiaomi's next flagship series has started, and the lineup will include both flat and curved cover glass.",
+      "why": "From tipster Smart Pikachu on Weibo (via GSMArena). He did not say which models get which screen or how many models there will be, and says only a codename exists so far, so even the 'Xiaomi 19' name is uncertain. The split mirrors rumors for Apple's 2027 iPhones. Early, thin and unverifiable. Rumor.",
+      "sources": [
+        {
+          "name": "GSMArena",
+          "url": "https://www.gsmarena.com/xiaomi_19_series_rumored_to_come_with_both_flat_and_curved_screens-news-75547.php"
         }
       ]
     }

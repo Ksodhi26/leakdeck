@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20",
+  "updated": "2026-11-21",
   "scale": {
     "Confirmed": "Announced by the company or shown in an official source.",
     "Likely": "Multiple credible outlets or hard evidence (certifications, databases, supply chain), but no official word.",
@@ -3924,7 +3924,7 @@
     {
       "status": "Active",
       "first_reported": "2026-11-17",
-      "updated": "2026-11-19",
+      "updated": "2026-11-21",
       "id": "huawei-watch-air-6-9mm",
       "title": "Huawei Watch Air is a 6.9mm titanium smartwatch with up to 5 days of battery",
       "rating": "Likely",
@@ -3933,7 +3933,7 @@
       ],
       "expected": "Nov 24, 2026 (official launch event, China)",
       "claim": "Huawei's upcoming Watch Air has a 6.9mm titanium unibody, an irregular high-silicon stacked battery (over 10% silicon) for up to five days of use, Watch GT 7 Pro-level activity tracking and Watch 6 sensors including ECG.",
-      "why": "From Weibo tipster Fixed Focus Digital, relayed by GSMArena with leaked images. The name and thin design have been rumored before, but the specs come from one leaker and Huawei has not announced the watch or a date. Update Nov 19: Huawei's official teaser confirms the Watch Air name, the 6.9mm thickness and a titanium unibody, with launch on Nov 24. The battery is still unconfirmed, and Digital Chat Station now says about a week rather than five days, so the claim moves to Likely until launch.",
+      "why": "From Weibo tipster Fixed Focus Digital, relayed by GSMArena with leaked images. The name and thin design have been rumored before, but the specs come from one leaker and Huawei has not announced the watch or a date. Update Nov 19: Huawei's official teaser confirms the Watch Air name, the 6.9mm thickness and a titanium unibody, with launch on Nov 24. The battery is still unconfirmed, and Digital Chat Station now says about a week rather than five days, so the claim moves to Likely until launch. Update Nov 21: Huawei's official store Weibo account now calls the Watch Air Huawei's thinnest smartwatch at 6.9mm and confirms its Nov 24 launch. The thickness is confirmed; the titanium build and up-to-5-day battery are not yet official, so it stays Likely until launch.",
       "sources": [
         {
           "name": "Beebom (official teaser)",
@@ -3942,6 +3942,10 @@
         {
           "name": "GSMArena",
           "url": "https://www.gsmarena.com/huawei_watch_air_leaks_with_impressively_thin_design-news-75504.php"
+        },
+        {
+          "name": "Huawei Mall on Weibo (via Sina)",
+          "url": "https://www.sina.cn/media/2660577861"
         }
       ]
     },
@@ -4197,27 +4201,31 @@
     {
       "status": "Active",
       "first_reported": "2026-11-19",
-      "updated": "2026-11-19",
+      "updated": "2026-11-21",
       "id": "honor-magic-v7-wide-foldable",
       "title": "Honor Magic V7 is a wide foldable, with no regular-shaped Magic V model next year",
       "rating": "Rumor",
       "categories": [
         "android"
       ],
-      "expected": "2027 (an October rumor said January)",
+      "expected": "After Chinese New Year, early February 2027 (an October rumor said January)",
       "claim": "Honor's next book-style foldable, the Magic V7, uses a wide form factor, and Honor won't release a conventional tall foldable alongside it.",
-      "why": "From a tipster on X, reported by GSMArena. An earlier leak described an Honor wide foldable with a Snapdragon 8 Elite Gen 6, a 7.6-inch inner screen, a 5.5-inch cover screen and over 7,000mAh from CNY 9,999, but it did not name the model. Honor has not announced anything.",
+      "why": "From a tipster on X, reported by GSMArena. An earlier leak described an Honor wide foldable with a Snapdragon 8 Elite Gen 6, a 7.6-inch inner screen, a 5.5-inch cover screen and over 7,000mAh from CNY 9,999, but it did not name the model. Honor has not announced anything. Update Nov 21: Digital Chat Station says Honor's wide foldable, which he links to the Magic V7 name only via earlier rumors, will most likely launch after Chinese New Year in early February, and that a non-folding wide phone is tentatively planned for the first half of 2027 (GSMArena). A second leaker supports a wide foldable existing, but the name is still unconfirmed. Stays Rumor.",
       "sources": [
         {
           "name": "GSMArena",
           "url": "https://www.gsmarena.com/honor_magic_v7_will_reportedly_be_a_wide_foldable-news-75534.php"
+        },
+        {
+          "name": "GSMArena (DCS timing)",
+          "url": "https://www.gsmarena.com/honor_reportedly_has_a_13500_mah_phone_coming_and_the_power3_isnt_far_behind-news-75577.php"
         }
       ]
     },
     {
       "status": "Active",
       "first_reported": "2026-11-19",
-      "updated": "2026-11-20",
+      "updated": "2026-11-21",
       "id": "razr-flex-2027-snapdragon-8-gen-5-pro",
       "title": "Motorola Razr Flex 2027 uses an unreleased Snapdragon 8 Gen 5 Pro",
       "rating": "Likely",
@@ -4227,7 +4235,7 @@
       ],
       "expected": "2027 (no date)",
       "claim": "The Razr Flex 2027 (XT2761, codename Parker), a compact wide foldable, runs Android 17 on Qualcomm's unannounced SM8845 Pro chip, with an under-display fingerprint reader and Bluetooth 6.0.",
-      "why": "Android Authority cites a security certification document for the XT2761, a model number already tied to the Razr Flex 27 in UAE filings, and the phone appeared on Motorola's own website earlier this month. A certification listing is good evidence for the chip; the 'Snapdragon 8 Gen 5 Pro' name is the expected branding, not confirmed. A rear photo from Reddit is unverified, and the in-display fingerprint contradicts earlier leaks. Update Nov 20: GSMArena also reports the TrustCB listing (SM8845 Pro, Bluetooth 6.0, face unlock, under-display fingerprint) and notes a tipster says the same chip may be branded Snapdragon 8 Gen 6 in the OnePlus Turbo 7 Pro, so the final name is still open. It expects a mid-December launch. Stays Likely.",
+      "why": "Android Authority cites a security certification document for the XT2761, a model number already tied to the Razr Flex 27 in UAE filings, and the phone appeared on Motorola's own website earlier this month. A certification listing is good evidence for the chip; the 'Snapdragon 8 Gen 5 Pro' name is the expected branding, not confirmed. A rear photo from Reddit is unverified, and the in-display fingerprint contradicts earlier leaks. Update Nov 20: GSMArena also reports the TrustCB listing (SM8845 Pro, Bluetooth 6.0, face unlock, under-display fingerprint) and notes a tipster says the same chip may be branded Snapdragon 8 Gen 6 in the OnePlus Turbo 7 Pro, so the final name is still open. It expects a mid-December launch. Stays Likely. Update Nov 21: New renders show the Razr Flex in two Pantone finishes (green fabric-like and beige leather-like backs), and their source claims a US price around $1,700. Earlier leaks pointed to mid-December, but a test version of Motorola's Australian support site hinted at a 2027 debut (GSMArena). The price and timing are unverified; the chip claim stays Likely.",
       "sources": [
         {
           "name": "Android Authority",
@@ -4236,6 +4244,10 @@
         {
           "name": "GSMArena (TrustCB listing)",
           "url": "https://www.gsmarena.com/motorola_razr_flex_certification_reveals_an_unexpected_chipset_as_a_live_image_leaks-news-75553.php"
+        },
+        {
+          "name": "GSMArena (renders)",
+          "url": "https://www.gsmarena.com/motorolas_wide_razr_flex_now_leaks_in_two_colors_showing_off_a_lot_of_angles-news-75578.php"
         }
       ]
     },
@@ -4365,6 +4377,151 @@
         {
           "name": "GSMArena",
           "url": "https://www.gsmarena.com/xiaomi_19_series_rumored_to_come_with_both_flat_and_curved_screens-news-75547.php"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-21",
+      "updated": "2026-11-21",
+      "id": "galaxy-s27-now-bar-dynamic-island",
+      "title": "Galaxy S27 moves the Now Bar to a centered, Dynamic Island-style pill",
+      "rating": "Likely",
+      "categories": [
+        "samsung",
+        "android"
+      ],
+      "expected": "Galaxy S27 launch, then One UI 9.5 stable for older phones (2027)",
+      "claim": "Samsung will move Now Bar live notifications from beside the clock to the top center around the selfie camera, switch between activities with sideways swipes, and add a 'Moment effects' page (Sports first).",
+      "why": "SamMobile says it tested the new layout itself in early Galaxy S27 software, which is stronger than a tipster claim. But SamMobile stresses the changes are still in development and could be revised, and the timing (S27 first, then One UI 9.5 for existing devices) is its expectation, not Samsung's. Likely.",
+      "sources": [
+        {
+          "name": "SamMobile (exclusive)",
+          "url": "https://www.sammobile.com/news/samsung-now-bar-dynamic-island-style-redesign-galaxy-s27/"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-21",
+      "updated": "2026-11-21",
+      "id": "moto-tag-3-color-refresh",
+      "title": "Motorola readies a 'Moto Tag 3' that is a Moto Tag 2 in new colors",
+      "rating": "Likely",
+      "categories": [
+        "android"
+      ],
+      "expected": "Soon (no date; listings already live in Europe)",
+      "claim": "Motorola will sell a Moto Tag 3 tracker in Lucent White and Indigo Blue with the same UWB, Find Hub support, IP rating, CR2032 battery (500+ days) and 8.5g weight as the Moto Tag 2.",
+      "why": "Retail listings appeared on Amazon UK, Amazon Italy and Italian store InItPC (spotted by @matteventu), and Evan Blass shared official-looking images, per Android Authority and 9to5Google. Multiple retailer listings make a launch Likely. Motorola has not commented, and it's unclear whether 'Moto Tag 3' is the final name or just a color refresh of the Tag 2, which launched only this year.",
+      "sources": [
+        {
+          "name": "Android Authority",
+          "url": "https://www.androidauthority.com/motorola-moto-tag-3-amazon-leak-familiar-specs-3737811/"
+        },
+        {
+          "name": "9to5Google",
+          "url": "https://9to5google.com/2026/11/20/motorola-moto-tag-3-leak/"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-21",
+      "updated": "2026-11-21",
+      "id": "hmd-pureview-revival",
+      "title": "HMD revives Nokia's PureView name on a Schneider-Kreuznach camera phone",
+      "rating": "Rumor",
+      "categories": [
+        "android"
+      ],
+      "expected": "No date",
+      "claim": "HMD is preparing a camera-focused phone carrying the PureView brand, with a large round quad-camera module including a periscope and Schneider-Kreuznach branding.",
+      "why": "Finnish site SuomiMobiili says an HMD employee posted a teaser video on the company's discussion board; it opens with the PureView name and shows the camera module (via GSMArena). An internal teaser is more than nothing, but it is second-hand, there is no name, specs, price or date, and HMD has not said anything. Rumor.",
+      "sources": [
+        {
+          "name": "GSMArena",
+          "url": "https://www.gsmarena.com/hmd_could_bring_nokias_pureview_branding_back_with_a_new_phone-news-75572.php"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-21",
+      "updated": "2026-11-21",
+      "id": "honor-x-series-13500mah",
+      "title": "Honor launches a mid-range X-series phone with a ~13,500mAh battery before Chinese New Year",
+      "rating": "Rumor",
+      "categories": [
+        "android"
+      ],
+      "expected": "Before Chinese New Year (Feb 6, 2027), China",
+      "claim": "Honor's next X-series phone is a mid-ranger with about 13,500mAh of battery and a 6.96- or 7-inch screen, launching before Chinese New Year; Honor is also speeding up the Power3 with a new 7-inch screen and bigger battery.",
+      "why": "From Weibo tipster Digital Chat Station via GSMArena. DCS has a good Honor battery record (see our 14,000-15,000mAh entry) and this fits Honor's steady capacity increases, but it is one source with no model name, chip or price. Rumor.",
+      "sources": [
+        {
+          "name": "GSMArena",
+          "url": "https://www.gsmarena.com/honor_reportedly_has_a_13500_mah_phone_coming_and_the_power3_isnt_far_behind-news-75577.php"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-21",
+      "updated": "2026-11-21",
+      "id": "link-to-windows-extend-display",
+      "title": "Microsoft's Link to Windows turns Android phones and tablets into a PC second screen",
+      "rating": "Likely",
+      "categories": [
+        "android"
+      ],
+      "expected": "No date (in development)",
+      "claim": "An 'Extend display' feature in Link to Windows will let a Windows PC use an Android phone or tablet as an extended monitor, streaming the desktop as H.264/HEVC video.",
+      "why": "Windows Latest found the strings in the Link to Windows app, reported by Android Authority, including controls and failure states (ending on PC lock, lost connection or a 60-second timeout). Code strings show Microsoft is building it, so Likely, but features found in code can be dropped, and there's no word on timing, connection type or which Android devices will be supported.",
+      "sources": [
+        {
+          "name": "Android Authority",
+          "url": "https://www.androidauthority.com/link-to-windows-extend-display-3737779/"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-21",
+      "updated": "2026-11-21",
+      "id": "intel-nova-lake-h-16-core-specs",
+      "title": "Intel's 16-core Nova Lake-H laptop chip: 4.8GHz, 18MB cache, DDR5-8000, 25W",
+      "rating": "Likely",
+      "categories": [
+        "chips"
+      ],
+      "expected": "Core Ultra Series 4 laptops (no date)",
+      "claim": "A 16-core Nova Lake-H chip (8 P-cores, 4 E-cores, 4 low-power E-cores) runs up to 4.8GHz turbo and 2.0GHz base with 18MB of last-level cache, a 2.3GHz iGPU, DDR5-8000 support up to 128GB and a 25W TDP.",
+      "why": "Leaker @momomo_us found the figures on a spec sheet for an Advantech industrial board that names 'Core Ultra Series 4' and 'Nova Lake-H' (via Wccftech). A board maker's spec sheet is solid evidence, but it doesn't name the SKU and consumer laptop parts may be clocked or configured differently. Likely.",
+      "sources": [
+        {
+          "name": "Wccftech",
+          "url": "https://wccftech.com/intel-core-ultra-4-series-16-core-nova-lake-mobile-processor-specifications-leaked/"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-21",
+      "updated": "2026-11-21",
+      "id": "xiaomi-18-max-8000mah",
+      "title": "Xiaomi 18 Max gets the Snapdragon 8 Elite Gen 6 and a battery over 8,000mAh",
+      "rating": "Shaky",
+      "categories": [
+        "android"
+      ],
+      "expected": "Around May 2027 if it follows the 17 Max (no date)",
+      "claim": "Xiaomi is polishing a big-screen 'Xiaomi 18 Max' with Qualcomm's Snapdragon 8 Elite Gen 6 and a battery above 8,000mAh, succeeding the 17 Max.",
+      "why": "Digital Chat Station only said an unnamed brand is polishing a big-screen Snapdragon 8 Elite Gen 6 phone; Chinese outlets (ITHome, MyDrivers) and fan site XiaomiHive linked it to a Xiaomi 18 Max. The brand link and the May timing are guesses based on the 17 Max, and Xiaomi has said nothing. Shaky.",
+      "sources": [
+        {
+          "name": "XiaomiHive",
+          "url": "https://xiaomihive.com/news/xiaomi-18-max-leak-snapdragon-8-elite-gen-6-8000mah/"
         }
       ]
     }

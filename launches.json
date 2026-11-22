@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21",
+  "updated": "2026-11-22",
   "items": [
     {
       "id": "gtc-berlin-2026",
@@ -4998,6 +4998,101 @@
         {
           "name": "Google Home Help (Gemini for Home)",
           "url": "https://support.google.com/googlehome/answer/16618650?hl=en"
+        }
+      ]
+    },
+    {
+      "id": "tesla-fsd-v15",
+      "name": "Tesla FSD (Supervised) v15",
+      "brand": "Tesla",
+      "categories": [
+        "evs",
+        "ai"
+      ],
+      "type": "Software",
+      "date": "2026-11-21",
+      "date_label": "Nov 21, 2026",
+      "precision": "day",
+      "status": "Released",
+      "price": "Included with FSD (Supervised) purchase or subscription",
+      "summary": "Tesla began rolling out FSD v15, a rebuild of its end-to-end driving network with a new 'Reality View' visualization.",
+      "details": "Announced by Tesla on X on Nov 21. Release notes claim a new vision encoder (shared with Robotaxi and Optimus) improves the critical intervention rate by 25x, plus better detection of road signs, potholes, debris and small animals, school-zone and speed-limit handling, a learned navigation model, slowing for speed cameras and a Bike Rack Mode. It also loosens driver-monitoring strictness in higher-speed profiles. Tesla did not say which cars get it first; it has said AI4 (HW4) can run v15. The 25x figure is Tesla's own and comes without a baseline number.",
+      "sources": [
+        {
+          "name": "Electrek",
+          "url": "https://electrek.co/2026/11/21/tesla-fsd-v15-rollout-25x-safety-reality-view/"
+        }
+      ]
+    },
+    {
+      "id": "gemini-computer-use-mac",
+      "name": "Gemini computer use on Mac",
+      "brand": "Google",
+      "categories": [
+        "ai",
+        "apple"
+      ],
+      "type": "Software",
+      "date": "2026-11-19",
+      "date_label": "Nov 19, 2026",
+      "precision": "day",
+      "status": "Released",
+      "price": "Google AI Plus, Pro or Ultra subscription",
+      "summary": "The Gemini app for Mac can now carry out multi-step tasks across local files, desktop apps and websites on its own.",
+      "details": "Gemini works in an isolated background window with a live preview in the chat, so the user's screen and cursor stay free. Users pick which apps it may access and approve key actions. Rolling out in English in the US for personal accounts (18+) on Google AI Plus, Pro and Ultra; needs an Apple Silicon Mac on macOS Sequoia 15.0 or later.",
+      "sources": [
+        {
+          "name": "Google blog",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/"
+        }
+      ]
+    },
+    {
+      "id": "nvidia-rubin-hpc",
+      "name": "NVIDIA Rubin HPC accelerator",
+      "brand": "NVIDIA",
+      "categories": [
+        "chips",
+        "ai"
+      ],
+      "type": "Chip",
+      "date": "2028-01-01",
+      "date_label": "2028 (per NVIDIA)",
+      "precision": "window",
+      "status": "Expected",
+      "price": "",
+      "summary": "NVIDIA's scientific-computing GPU with more than 50,000 CUDA cores joins the Vera Rubin platform, but won't be available until 2028.",
+      "details": "Announced at the SC26 supercomputing conference. NVIDIA aims it at simulation and data analysis (materials, molecules, climate, engineering) rather than gaming or graphics. It adds sparse-data acceleration and seventh-generation NVLink; NVIDIA has not published throughput figures, and only gave 2028 as the availability year.",
+      "sources": [
+        {
+          "name": "TechRadar",
+          "url": "https://www.techradar.com/pro/nvidia-finally-reveals-new-rubin-gpu-with-almost-3x-more-cuda-cores-than-the-nvidia-rtx-5090-but-you-will-have-to-wait-till-2028-to-grab-it"
+        }
+      ]
+    },
+    {
+      "id": "xiaomi-ev-uae",
+      "name": "Xiaomi SU7, YU7 and Skynomad first overseas deliveries (UAE)",
+      "brand": "Xiaomi",
+      "categories": [
+        "evs"
+      ],
+      "type": "Car",
+      "date": "2026-12-01",
+      "date_label": "December 2026 (first deliveries; rest Feb 2027)",
+      "precision": "window",
+      "status": "Expected",
+      "price": "From 169,900 AED (SU7 Standard) to 375,900 AED (SU7 Ultra)",
+      "summary": "Xiaomi's cars go on sale outside China for the first time, in the UAE through distributor Gargash Prime Automotive.",
+      "details": "13 variants of the SU7 sedan, YU7 SUV and Skynomad extended-range SUV are listed. First deliveries of the SU7 Standard and Ultra, YU7 Standard and Skynomad N70 Pro are scheduled for December 2026, with the remaining variants in February 2027 (CarNewsChina via Electrek). Lei Jun said at the APEC CEO Summit on Nov 17 that Xiaomi will enter Western car markets next year.",
+      "sources": [
+        {
+          "name": "Electrek",
+          "url": "https://electrek.co/2026/11/21/red-wave-xiaomi-goes-global-with-first-overseas-ev-sales/"
         }
       ]
     }

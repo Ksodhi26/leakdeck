@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21",
+  "updated": "2026-11-22",
   "scale": {
     "Confirmed": "Announced by the company or shown in an official source.",
     "Likely": "Multiple credible outlets or hard evidence (certifications, databases, supply chain), but no official word.",
@@ -660,11 +660,15 @@
         "ai"
       ],
       "status": "Active",
-      "updated": "2026-11-16",
+      "updated": "2026-11-22",
       "expected": "June 2027 reveal; late 2027 ship",
       "claim": "Apple will show privacy-focused smart glasses at WWDC 2027 and ship them in late 2027.",
-      "why": "Reporting traces back mainly to Bloomberg's Mark Gurman, who also warns it could slip to late 2028 or 2029. The camera design decision was reported as not final. Update Nov 11: Chinese inspection-equipment maker Quick Intelligent Equipment told investors it is involved in 'Apple's AI glasses and new smart earphones projects' (Securities Times via MacRumors). That supports the glasses being in development but says nothing about a WWDC reveal or ship date. Update Nov 15: in Power On, Gurman repeated the plan to unveil the glasses (codename N50) at WWDC in June 2027 and ship before year-end, with no AR display and Siri controlling actions in paired iPhone apps; he warns that late software and AI work could delay it. More detail from the same reporter, so it stays a Rumor.",
+      "why": "Reporting traces back mainly to Bloomberg's Mark Gurman, who also warns it could slip to late 2028 or 2029. The camera design decision was reported as not final. Update Nov 11: Chinese inspection-equipment maker Quick Intelligent Equipment told investors it is involved in 'Apple's AI glasses and new smart earphones projects' (Securities Times via MacRumors). That supports the glasses being in development but says nothing about a WWDC reveal or ship date. Update Nov 15: in Power On, Gurman repeated the plan to unveil the glasses (codename N50) at WWDC in June 2027 and ship before year-end, with no AR display and Siri controlling actions in paired iPhone apps; he warns that late software and AI work could delay it. More detail from the same reporter, so it stays a Rumor. Update Nov 22: on the Nov 19 Power On podcast, Gurman called the glasses 'the biggest product that keeps getting pushed back,' saying they depend on Siri app intents that App Store apps can't use until spring, and that camera AirPods are now about a year away because of Siri AI delays. He gave no new date, so the WWDC 2027 target stands but looks less secure. Stays a Rumor.",
       "sources": [
+        {
+          "name": "Bloomberg Power On podcast (Nov 19)",
+          "url": "https://podcasts.apple.com/us/podcast/apple-has-a-software-problem-nvidias-ceo-crisis/id6817744297?i=1000802897885"
+        },
         {
           "name": "MacRumors (Nov 15, Power On)",
           "url": "https://www.macrumors.com/2026/11/15/apple-smart-glasses-hinge-on-siri/"
@@ -1890,11 +1894,15 @@
       ],
       "status": "Active",
       "first_reported": "2026-10-24",
-      "updated": "2026-11-09",
+      "updated": "2026-11-22",
       "expected": "Not announced (China; S70 and S70 Pro reportedly together)",
       "claim": "vivo's next S-series phone, the S70, has a 64MP Sony LYT-610 periscope telephoto with support for a 200mm teleconverter, a 6.59-inch 1.5K LTPS OLED screen and the Snapdragon 8s Gen 4.",
-      "why": "From tipster Digital Chat Station on Weibo, relayed by GSMArena; he says it is based on an engineering sample and that vivo tested, then dropped, a rear screen. DCS has a good record on Chinese phones, but this is a single source and vivo has said nothing. The S60 launched in May, so a late-2026 successor fits vivo's cadence. Update Oct 30: DCS added more detail, relayed by Gizmochina: the Snapdragon 8s Gen 4, a 50MP main, 8MP ultrawide and 50MP selfie camera, and support for a 200mm teleconverter. It is still the same single tipster, and reports point to a November launch in China. Update Nov 9: Digital Chat Station's latest leak (via 91mobiles and My Mobile India) adds an S70 Pro alongside the S70: both reportedly use the Snapdragon 8s Gen 4 and a 6.59-inch 1.5K 144Hz OLED, the S70 with up to an 8,000mAh battery and the Pro with a 200MP main camera, 64MP periscope and 7,000mAh-plus battery, both with 90W charging. 91mobiles says the Pro may go global as the V90 Pro. Still one tipster and no word from vivo, so it stays a Rumor.",
+      "why": "From tipster Digital Chat Station on Weibo, relayed by GSMArena; he says it is based on an engineering sample and that vivo tested, then dropped, a rear screen. DCS has a good record on Chinese phones, but this is a single source and vivo has said nothing. The S60 launched in May, so a late-2026 successor fits vivo's cadence. Update Oct 30: DCS added more detail, relayed by Gizmochina: the Snapdragon 8s Gen 4, a 50MP main, 8MP ultrawide and 50MP selfie camera, and support for a 200mm teleconverter. It is still the same single tipster, and reports point to a November launch in China. Update Nov 9: Digital Chat Station's latest leak (via 91mobiles and My Mobile India) adds an S70 Pro alongside the S70: both reportedly use the Snapdragon 8s Gen 4 and a 6.59-inch 1.5K 144Hz OLED, the S70 with up to an 8,000mAh battery and the Pro with a 200MP main camera, 64MP periscope and 7,000mAh-plus battery, both with 90W charging. 91mobiles says the Pro may go global as the V90 Pro. Still one tipster and no word from vivo, so it stays a Rumor. Update Nov 22: a new leak with a purported live photo of the S70 Pro (via GSMArena) repeats 200mm teleconverter support, a 200MP main, 64MP LYT-610 OIS telephoto, 8MP ultrawide and 50MP selfie camera, a 6.59-inch 1.5K LTPS OLED, Snapdragon 8s Gen 4, 7,000mAh-plus battery with about 90W charging, a metal frame and IP69. It matches earlier details; vivo still hasn't announced a date, so it stays a Rumor.",
       "sources": [
+        {
+          "name": "GSMArena (Nov 22, S70 Pro live photo)",
+          "url": "https://www.gsmarena.com/vivo_s70_pro_v90_pro_leaks_with_live_photo_and_basic_specs_sheet-news-75582.php"
+        },
         {
           "name": "GSMArena",
           "url": "https://www.gsmarena.com/vivo_s70_tipped_to_launch_soon_with_teleconverter_support-news-75195.php"
@@ -4383,7 +4391,7 @@
     {
       "status": "Active",
       "first_reported": "2026-11-21",
-      "updated": "2026-11-21",
+      "updated": "2026-11-22",
       "id": "galaxy-s27-now-bar-dynamic-island",
       "title": "Galaxy S27 moves the Now Bar to a centered, Dynamic Island-style pill",
       "rating": "Likely",
@@ -4393,8 +4401,12 @@
       ],
       "expected": "Galaxy S27 launch, then One UI 9.5 stable for older phones (2027)",
       "claim": "Samsung will move Now Bar live notifications from beside the clock to the top center around the selfie camera, switch between activities with sideways swipes, and add a 'Moment effects' page (Sports first).",
-      "why": "SamMobile says it tested the new layout itself in early Galaxy S27 software, which is stronger than a tipster claim. But SamMobile stresses the changes are still in development and could be revised, and the timing (S27 first, then One UI 9.5 for existing devices) is its expectation, not Samsung's. Likely.",
+      "why": "SamMobile says it tested the new layout itself in early Galaxy S27 software, which is stronger than a tipster claim. But SamMobile stresses the changes are still in development and could be revised, and the timing (S27 first, then One UI 9.5 for existing devices) is its expectation, not Samsung's. Likely. Update Nov 22: GSMArena reports Samsung is testing the centered, sideways-swipe Live Notifications layout in One UI 9.5 (in beta on the Galaxy S26), and also expects a debut with the S27. That relays the same finding rather than adding a new source, so it stays Likely.",
       "sources": [
+        {
+          "name": "GSMArena",
+          "url": "https://www.gsmarena.com/samsung_redesigned_live_notifications_one_ui_9_5-news-75583.php"
+        },
         {
           "name": "SamMobile (exclusive)",
           "url": "https://www.sammobile.com/news/samsung-now-bar-dynamic-island-style-redesign-galaxy-s27/"
@@ -4404,7 +4416,7 @@
     {
       "status": "Active",
       "first_reported": "2026-11-21",
-      "updated": "2026-11-21",
+      "updated": "2026-11-22",
       "id": "moto-tag-3-color-refresh",
       "title": "Motorola readies a 'Moto Tag 3' that is a Moto Tag 2 in new colors",
       "rating": "Likely",
@@ -4413,8 +4425,12 @@
       ],
       "expected": "Soon (no date; listings already live in Europe)",
       "claim": "Motorola will sell a Moto Tag 3 tracker in Lucent White and Indigo Blue with the same UWB, Find Hub support, IP rating, CR2032 battery (500+ days) and 8.5g weight as the Moto Tag 2.",
-      "why": "Retail listings appeared on Amazon UK, Amazon Italy and Italian store InItPC (spotted by @matteventu), and Evan Blass shared official-looking images, per Android Authority and 9to5Google. Multiple retailer listings make a launch Likely. Motorola has not commented, and it's unclear whether 'Moto Tag 3' is the final name or just a color refresh of the Tag 2, which launched only this year.",
+      "why": "Retail listings appeared on Amazon UK, Amazon Italy and Italian store InItPC (spotted by @matteventu), and Evan Blass shared official-looking images, per Android Authority and 9to5Google. Multiple retailer listings make a launch Likely. Motorola has not commented, and it's unclear whether 'Moto Tag 3' is the final name or just a color refresh of the Tag 2, which launched only this year. Update Nov 22: GSMArena notes the Amazon images carry model number XT2561-1, the same as the Moto Tag 2, which raises the chance this is just new Tag 2 colors listed under a new name. A retail launch still looks Likely; the 'Tag 3' name is the open question.",
       "sources": [
+        {
+          "name": "GSMArena (Nov 22)",
+          "url": "https://www.gsmarena.com/motorola_moto_tag_3_features_design_amazon_listing-news-75585.php"
+        },
         {
           "name": "Android Authority",
           "url": "https://www.androidauthority.com/motorola-moto-tag-3-amazon-leak-familiar-specs-3737811/"
@@ -4522,6 +4538,109 @@
         {
           "name": "XiaomiHive",
           "url": "https://xiaomihive.com/news/xiaomi-18-max-leak-snapdragon-8-elite-gen-6-8000mah/"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-22",
+      "updated": "2026-11-22",
+      "id": "galaxy-s27-higher-prices",
+      "title": "Galaxy S27 prices come in above Samsung's earlier internal targets",
+      "rating": "Rumor",
+      "categories": [
+        "samsung",
+        "android"
+      ],
+      "expected": "Galaxy S27 launch (early 2027)",
+      "claim": "Samsung is weighing Galaxy S27 launch prices higher than it originally planned because mobile memory costs keep climbing.",
+      "why": "Reported by Korea's CEO Score Daily and relayed by Gizmochina. The cost pressure is real: Samsung's own filings show its average mobile memory purchase price for January-September up 263% on last year's average, and executives said on the earnings call that cost pressure will last into 2027. But no prices or amounts are reported, and Samsung has not commented. Rumor.",
+      "sources": [
+        {
+          "name": "Gizmochina",
+          "url": "https://www.gizmochina.com/2026/11/21/galaxy-s27-series-could-be-priced-higher-than-previously-expected/"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-22",
+      "updated": "2026-11-22",
+      "id": "galaxy-s27-gen-video-shorts",
+      "title": "Galaxy S27 adds 'Gen Video' and 'Shorts' AI video tools, with only a few free generations",
+      "rating": "Rumor",
+      "categories": [
+        "samsung",
+        "ai",
+        "android"
+      ],
+      "expected": "Galaxy S27 launch (early 2027)",
+      "claim": "Galaxy S27 phones get Gen Video (prompt- and preset-based AI video generation) and an opt-in Shorts tool that turns up to 30 photos into a video; after three free videos, users must buy credits or a Pro/Premium plan.",
+      "why": "Based on leaked screenshots from CipherProject, relayed by Sammy Fans. Screenshots are better evidence than a tipster's word, but this is one source, the paywall details could change, and Samsung has not announced either tool. It fits earlier reports of a paid Galaxy Premium app. Rumor.",
+      "sources": [
+        {
+          "name": "Sammy Fans",
+          "url": "https://www.sammyfans.com/2026/11/21/samsung-galaxy-s27-gen-video-ai-shorts-video-tools-leak/"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-22",
+      "updated": "2026-11-22",
+      "id": "rapidus-2nm-sram-delay",
+      "title": "Rapidus misses its 2nm SRAM milestone, putting 2027 mass production at risk",
+      "rating": "Rumor",
+      "categories": [
+        "chips"
+      ],
+      "expected": "Mass production target: second half of fiscal 2027 (by Mar 2028)",
+      "claim": "Japan's Rapidus failed to show working SRAM cells on its 2nm GAA process by its summer 2026 target and is fighting cleanroom contamination, which threatens its plan to start mass production in 2027.",
+      "why": "From a Bloomberg report citing people familiar, analyzed by Tom's Hardware. Rapidus has not announced any SRAM results, but it has not confirmed a delay either; it says it is on track for mass production in the second half of fiscal 2027 (ending March 2028), a later framing than its earlier '2027'. One strong outlet, company pushback. Rumor.",
+      "sources": [
+        {
+          "name": "Tom's Hardware",
+          "url": "https://www.tomshardware.com/tech-industry/semiconductors/rapidus-reportedly-struggles-to-produce-working-sram-on-its-2nm-node-putting-2027-mass-production-at-risk-company-faces-significant-challenges-using-euv-to-develop-gaa-transistors"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-22",
+      "updated": "2026-11-22",
+      "id": "hyundai-porter-ev",
+      "title": "Hyundai readies an all-new electric Porter work truck for 2027",
+      "rating": "Rumor",
+      "categories": [
+        "evs"
+      ],
+      "expected": "As early as 2027 (reported)",
+      "claim": "Hyundai's next-generation Porter pickup is fully electric, with a short hood for better crash protection, and could be sold globally as early as next year.",
+      "why": "Based on spy shots of camouflaged prototypes (SH Proshots, Baldauf via Carscoops) and Carscoops' claim of a global launch next year, relayed by Electrek. The prototypes prove a new Porter exists, but its powertrain, specs and markets are guesses; Electrek's images are AI-generated renders, not official. Hyundai has said nothing. Rumor.",
+      "sources": [
+        {
+          "name": "Electrek",
+          "url": "https://electrek.co/2026/11/21/rumor-hyundai-is-getting-ready-to-roll-out-an-all-new-all-electric-work-truck/"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-22",
+      "updated": "2026-11-22",
+      "id": "vivo-y21s-y11s-y05s-india",
+      "title": "vivo brings budget Y21s 5G, Y11s 5G and Y05s 4G phones to India",
+      "rating": "Rumor",
+      "categories": [
+        "android"
+      ],
+      "expected": "Soon (India, no date)",
+      "claim": "Three entry-level vivo phones share a 6.74-inch 720p 120Hz LCD and 6,500mAh battery: the Y21s 5G (Dimensity 6300, 50MP camera, 44W), Y11s 5G (Dimensity 6300, 13MP, 15W, 4GB/128GB) and Y05s 4G (UNISOC T7225, single 8MP camera, 4GB/64GB).",
+      "why": "Specs and images leaked and were published by GSMArena; the source is a single leak and vivo has not announced the phones or a date. Budget Y-series refreshes are routine for vivo, so it is plausible. Rumor.",
+      "sources": [
+        {
+          "name": "GSMArena",
+          "url": "https://www.gsmarena.com/vivo_y21s_5g_y11s_5g_y05s_4g_specs_and_images_leak-news-75584.php"
         }
       ]
     }

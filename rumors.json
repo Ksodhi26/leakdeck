@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22",
+  "updated": "2026-11-23",
   "scale": {
     "Confirmed": "Announced by the company or shown in an official source.",
     "Likely": "Multiple credible outlets or hard evidence (certifications, databases, supply chain), but no official word.",
@@ -379,11 +379,15 @@
         "apple"
       ],
       "status": "Active",
-      "updated": "2026-11-18",
+      "updated": "2026-11-23",
       "expected": "About March 2027",
       "claim": "Apple is splitting its iPhone releases: Pro and foldable models in fall, the standard iPhone 18 and 18e in spring.",
-      "why": "Reported repeatedly by Mark Gurman and echoed by several outlets. The fall 2026 lineup (iPhone 18 Pro and the foldable iPhone Duo) matched the split. Apple has not confirmed the spring models or date. Update Nov 18: Korea's ETNews says Samsung Display and LG Display will start mass-producing OLED panels for the iPhone 18 and iPhone Air 2 in late December and early January, lining up with a March 2027 launch (MacRumors). Supply-chain timing that fits the spring window; Apple still has not confirmed anything, so it stays Likely.",
+      "why": "Reported repeatedly by Mark Gurman and echoed by several outlets. The fall 2026 lineup (iPhone 18 Pro and the foldable iPhone Duo) matched the split. Apple has not confirmed the spring models or date. Update Nov 18: Korea's ETNews says Samsung Display and LG Display will start mass-producing OLED panels for the iPhone 18 and iPhone Air 2 in late December and early January, lining up with a March 2027 launch (MacRumors). Supply-chain timing that fits the spring window; Apple still has not confirmed anything, so it stays Likely. Update Nov 22: Gurman ties the iPhone 18e and iPhone 18 to the iOS 27.4 cycle (February-March), probably at separate events, with the iPhone Air 2 a bit later in the first half (GSMArena). Consistent with the supply-chain timing; stays Likely.",
       "sources": [
+        {
+          "name": "GSMArena (Nov 23, Gurman)",
+          "url": "https://www.gsmarena.com/apple_will_focus_on_affordable_models__iphone_18e_new_ipad_new_macbook_neo__in_early_2027-news-75591.php"
+        },
         {
           "name": "MacRumors (Nov 18, ETNews panel production)",
           "url": "https://www.macrumors.com/2026/11/18/iphone-18-iphone-air-2-display-production-begins/"
@@ -1824,13 +1828,17 @@
       "categories": [
         "android"
       ],
-      "status": "Active",
+      "status": "Resolved",
       "first_reported": "2026-10-21",
-      "updated": "2026-11-13",
-      "expected": "Nov 23, 2026 (China, official)",
+      "updated": "2026-11-23",
+      "expected": "Launched Nov 23, 2026 (China)",
       "claim": "Honor will launch three Honor 700 models in China in November; every model has a built-in rear display, and the 700 Pro adds a stronger camera setup around a roughly 9,000mAh battery class.",
-      "why": "From Weibo tipsters relayed by GSMArena: one says the event is next month and the series has three models; Digital Chat Station has repeated the 200MP camera and rear screen since August. The timing fits Honor's six-month number-series cadence (the 600 launched in May), but Honor has announced nothing. On Oct 24 Digital Chat Station added details he says come from an engineering prototype (codename 'Flora'): a roughly 9,000mAh battery, a 50MP periscope on the Pro and four test colors, while calling the November timing tentative. More detail from the same tipster, so it stays a Rumor. Update Oct 28-Nov 1: two Honor 700 models (FAS-AN00 and FAA-AN00, thought to be the 700 and 700 Pro) passed China's 3C certification, with a tipster saying a third is pending, which usually means a launch within weeks. Tipster Dingjiao Shuma (via Kuai Keji, Oct 31) says the series launches in early November with actress Ju Jingyi as spokesperson, a Snapdragon chip, a periscope and support for a 200mm teleconverter. Certification plus several tipsters agreeing lifts the November timing to Likely; the 9,000mAh battery and exact specs still rest mainly on Digital Chat Station, and Honor has not announced a date. Update Nov 3: Honor CMO Guan Haitao officially announced the Honor 700 series on Weibo, confirmed the 'Flora' codename and said it debuts 'in winter', without a date. Tipster Wangzai Baishitong says the three models (700, 700 Pro and a Vitality Edition) launch this month. The series is now official; the November date and specs are still unconfirmed, so it stays Likely. Update Nov 3: Honor's global CMO Guan Haitao officially announced the Honor 700 series (codename Flora) for a 'winter' debut, and Honor named actress Ju Jingyi as ambassador. A tipster says three models (700, 700 Pro, and a Vitality Edition) are 3C certified and launch this month. Honor still has not given a date, so the November timing stays Likely. Update Nov 6: Honor officially revealed the Honor 700, 700 Pro and 700S with a rear display across the lineup and opened multi-channel pre-orders in China (colors Cold White, Clear Sky, Blue Tone, Pink Mist; memory configs listed on deposit pages). A launch-event date and final prices are still TBA, so the product itself is Confirmed while the exact on-sale day remains open. Camera, battery and chipset figures are still mostly tipster-led. Update Nov 9: a new Honor teaser shows heart-rate and blood-oxygen readings on the rear screen (GSMArena); Honor has not explicitly confirmed health sensing, and Digital Chat Station says the rear display also works as a selfie viewfinder and for notifications and mini games. Launch date still TBA. Update Nov 10: Honor set the launch for Nov 13 in a Weibo teaser (Notebookcheck, Huawei Central). The November timing and rear screens are now official; the camera and battery claims will be checked at the event. Update Nov 11: a Geekbench 6 listing for FAP-AN00, most likely the 700 Pro, shows a Snapdragon 8 Gen 5 with 16GB of RAM on Android 17, backing the leaked Pro chipset. Update Nov 13: the event moved to Nov 23 (2:30 PM, Wuhan), per Honor CEO Li Jian, so the launch is still in November. A China Telecom listing confirms the rear screen on all three, the 9,000mAh battery, the chipsets and the 200MP main camera, so the spec claims are now backed by a carrier database. We will resolve this after the Nov 23 event.",
+      "why": "From Weibo tipsters relayed by GSMArena: one says the event is next month and the series has three models; Digital Chat Station has repeated the 200MP camera and rear screen since August. The timing fits Honor's six-month number-series cadence (the 600 launched in May), but Honor has announced nothing. On Oct 24 Digital Chat Station added details he says come from an engineering prototype (codename 'Flora'): a roughly 9,000mAh battery, a 50MP periscope on the Pro and four test colors, while calling the November timing tentative. More detail from the same tipster, so it stays a Rumor. Update Oct 28-Nov 1: two Honor 700 models (FAS-AN00 and FAA-AN00, thought to be the 700 and 700 Pro) passed China's 3C certification, with a tipster saying a third is pending, which usually means a launch within weeks. Tipster Dingjiao Shuma (via Kuai Keji, Oct 31) says the series launches in early November with actress Ju Jingyi as spokesperson, a Snapdragon chip, a periscope and support for a 200mm teleconverter. Certification plus several tipsters agreeing lifts the November timing to Likely; the 9,000mAh battery and exact specs still rest mainly on Digital Chat Station, and Honor has not announced a date. Update Nov 3: Honor CMO Guan Haitao officially announced the Honor 700 series on Weibo, confirmed the 'Flora' codename and said it debuts 'in winter', without a date. Tipster Wangzai Baishitong says the three models (700, 700 Pro and a Vitality Edition) launch this month. The series is now official; the November date and specs are still unconfirmed, so it stays Likely. Update Nov 3: Honor's global CMO Guan Haitao officially announced the Honor 700 series (codename Flora) for a 'winter' debut, and Honor named actress Ju Jingyi as ambassador. A tipster says three models (700, 700 Pro, and a Vitality Edition) are 3C certified and launch this month. Honor still has not given a date, so the November timing stays Likely. Update Nov 6: Honor officially revealed the Honor 700, 700 Pro and 700S with a rear display across the lineup and opened multi-channel pre-orders in China (colors Cold White, Clear Sky, Blue Tone, Pink Mist; memory configs listed on deposit pages). A launch-event date and final prices are still TBA, so the product itself is Confirmed while the exact on-sale day remains open. Camera, battery and chipset figures are still mostly tipster-led. Update Nov 9: a new Honor teaser shows heart-rate and blood-oxygen readings on the rear screen (GSMArena); Honor has not explicitly confirmed health sensing, and Digital Chat Station says the rear display also works as a selfie viewfinder and for notifications and mini games. Launch date still TBA. Update Nov 10: Honor set the launch for Nov 13 in a Weibo teaser (Notebookcheck, Huawei Central). The November timing and rear screens are now official; the camera and battery claims will be checked at the event. Update Nov 11: a Geekbench 6 listing for FAP-AN00, most likely the 700 Pro, shows a Snapdragon 8 Gen 5 with 16GB of RAM on Android 17, backing the leaked Pro chipset. Update Nov 13: the event moved to Nov 23 (2:30 PM, Wuhan), per Honor CEO Li Jian, so the launch is still in November. A China Telecom listing confirms the rear screen on all three, the 9,000mAh battery, the chipsets and the 200MP main camera, so the spec claims are now backed by a carrier database. We will resolve this after the Nov 23 event. Update Nov 23: Honor launched the 700, 700 Pro and 700S in China on Nov 23, all with a rear screen; the Pro has a 50MP periscope and all three have a 9,000mAh battery. Resolved.",
       "sources": [
+        {
+          "name": "GSMArena (launch)",
+          "url": "https://www.gsmarena.com/honor_700_pro_debuts_with_a_snapdragon_8_gen_5_soc_and_a_9000mah_battery-news-75589.php"
+        },
         {
           "name": "GSMArena (Nov 13, carrier listing)",
           "url": "https://www.gsmarena.com/honor_700_series_launch_date_is_official_just_as_a_carrier_listing_reveals_most_specs-news-75471.php"
@@ -1883,7 +1891,8 @@
           "name": "GSMArena (design revealed)",
           "url": "https://www.gsmarena.com/honor_700_series_design_officially_revealed_all_models_to_include_a_rear_display-news-75376.php"
         }
-      ]
+      ],
+      "outcome": "Mostly correct: three models launched, every one with a rear screen and a roughly 9,000mAh battery (exactly 9,000mAh), and the Pro got the stronger camera setup with a 50MP periscope (the regular 700 got one too). The timing was right on 'November' but the early-November date some tipsters gave was wrong; Honor launched on Nov 23 after a reported Nov 13 date also turned out wrong."
     },
     {
       "id": "vivo-s70-periscope-teleconverter",
@@ -2046,17 +2055,21 @@
     {
       "id": "galaxy-fit4",
       "title": "Samsung readies a Galaxy Fit 4 that looks just like the Fit 3",
-      "rating": "Likely",
+      "rating": "Confirmed",
       "categories": [
         "samsung"
       ],
       "status": "Active",
       "first_reported": "2026-08-01",
-      "updated": "2026-11-05",
+      "updated": "2026-11-23",
       "expected": "Late 2026 or early 2027 (unconfirmed)",
       "claim": "Samsung will launch a Galaxy Fit 4 (SM-R391) fitness band with a near-identical design to the Fit 3, in black, white and light blue, at a similar low price.",
-      "why": "Android Authority obtained 360-degree videos of the band in three colors and earlier found Samsung documents naming SM-R391 as 'FIT4'; a Samsung app teardown also showed renders. The hardware is well evidenced, but specs beyond Bluetooth LE and a Goodix optical sensor, the price (the Fit 3 was about $60) and the launch date are unknown; reports range from late 2026 to early 2027. Update Oct 30: a SammyGuru teardown of the Galaxy Fit 4 Manager app, reported by Android Authority, lists nearly the same health features as the Fit 3 (sleep coaching, SpO2, snoring detection, auto workout tracking), the same tile-based UI with up to 12 tiles, and 258 x 428 watch-face assets that suggest a slightly taller screen. Update Oct 31: GSMArena, citing the same SammyGuru teardown, reads the watch-face colors as black, silver and light green cases and found no sign of GPS. Still no launch date or price from Samsung. Update Nov 5: SamMobile found a Wallet section in the leaked Galaxy Fit 4 Manager plugin, pointing to NFC payments through Samsung Wallet (a first for the Fit line), plus Modes and Routines support, photo watch faces and what looks like a speaker for calls. Samsung still has not announced it.",
+      "why": "Android Authority obtained 360-degree videos of the band in three colors and earlier found Samsung documents naming SM-R391 as 'FIT4'; a Samsung app teardown also showed renders. The hardware is well evidenced, but specs beyond Bluetooth LE and a Goodix optical sensor, the price (the Fit 3 was about $60) and the launch date are unknown; reports range from late 2026 to early 2027. Update Oct 30: a SammyGuru teardown of the Galaxy Fit 4 Manager app, reported by Android Authority, lists nearly the same health features as the Fit 3 (sleep coaching, SpO2, snoring detection, auto workout tracking), the same tile-based UI with up to 12 tiles, and 258 x 428 watch-face assets that suggest a slightly taller screen. Update Oct 31: GSMArena, citing the same SammyGuru teardown, reads the watch-face colors as black, silver and light green cases and found no sign of GPS. Still no launch date or price from Samsung. Update Nov 5: SamMobile found a Wallet section in the leaked Galaxy Fit 4 Manager plugin, pointing to NFC payments through Samsung Wallet (a first for the Fit line), plus Modes and Routines support, photo watch faces and what looks like a speaker for calls. Samsung still has not announced it. Update Nov 23: Samsung lists the Galaxy Fit 4 above the Fit 3 in one of its own device promotion documents (SammyGuru via SamMobile), the first official mention. That confirms the band exists, so this moves to Confirmed; the leaked features, price and date are still unofficial.",
       "sources": [
+        {
+          "name": "SamMobile (Nov 23)",
+          "url": "https://www.sammobile.com/news/samsung-officially-mentions-galaxy-fit-4-first-time/"
+        },
         {
           "name": "SamMobile (NFC, Nov 5)",
           "url": "https://www.sammobile.com/news/galaxy-fit-4-nfc-payments-samsung-wallet/"
@@ -2114,11 +2127,15 @@
       ],
       "status": "Active",
       "first_reported": "2026-10-26",
-      "updated": "2026-10-26",
+      "updated": "2026-11-23",
       "expected": "Q4 2026, with further cuts in 2027",
       "claim": "Samsung has cut fourth-quarter Galaxy A component orders by about 20% versus its plan, about 10 million phones a year, and plans to cut Galaxy A output by more than 10% again in 2027, shifting resources to flagships as memory costs soar.",
-      "why": "Reported by Korea's ETNews and relayed by 9to5Google; Samsung has not commented. It fits the wider memory-price squeeze: ETNews says memory and chips now make up about half of a mid-range phone's cost and that Samsung's mobile division is losing money this year. But it rests on one outlet's supply-chain sourcing, and production plans are hard to verify from outside.",
+      "why": "Reported by Korea's ETNews and relayed by 9to5Google; Samsung has not commented. It fits the wider memory-price squeeze: ETNews says memory and chips now make up about half of a mid-range phone's cost and that Samsung's mobile division is losing money this year. But it rests on one outlet's supply-chain sourcing, and production plans are hard to verify from outside. Update Nov 23: a new ETNews report (via Android Authority) puts the Galaxy A cut at about 20% and says roughly 70% of Galaxy S27 production goes to the higher-margin Pro and Ultra models, after two loss-making quarters in Samsung's mobile division. Same outlet, more numbers; Samsung has not commented. Stays a Rumor.",
       "sources": [
+        {
+          "name": "Android Authority (Nov 23, ETNews)",
+          "url": "https://www.androidauthority.com/samsung-galaxy-watch-2027-launch-skip-3738043/"
+        },
         {
           "name": "9to5Google (citing ETNews)",
           "url": "https://9to5google.com/2026/10/26/samsung-report-production-cuts-mid-range-galaxy-phones/"
@@ -2665,11 +2682,15 @@
       ],
       "status": "Active",
       "first_reported": "2026-11-01",
-      "updated": "2026-11-10",
+      "updated": "2026-11-23",
       "expected": "First half of 2027 (reported)",
       "claim": "Apple will release three iPads in the first half of 2027: an iPad Air with an OLED screen, an iPad Pro with a new chip and vapor-chamber cooling, and a base iPad with the A19, 8GB of RAM (enabling Apple Intelligence), the N1 wireless chip and the C1X modem.",
-      "why": "From Bloomberg's Mark Gurman (Power On, Nov 1), who called this autumn's MacBook Pro, iPad mini and iMac line-up correctly. Chip choices beyond the base iPad's A19 (M5 for the Air, M6 or later for the Pro) are outlets' expectations, not part of the report. One strong source and no supply-chain confirmation yet, so it stays a Rumor. Update Nov 6: Korean industry sources (via GSMArena and SamMobile) independently put the first OLED iPad Air in the first half of 2027, with Samsung Display supplying most panels alongside BOE and 4-5 million Air units forecast for 2027. Supply-chain backing for the headline OLED Air moves this to Likely; the iPad Pro and base iPad details are still Gurman-only. Update Nov 10: DigiTimes (via MacRumors) also says both iPad Air sizes move to OLED in the first half of 2027, using the iPad mini's single-stack LTPS panel design (earlier DigiTimes reporting said it stays at 60Hz), with Samsung Display the main supplier and BOE still qualifying. Another supply-chain source for the OLED Air; stays Likely.",
+      "why": "From Bloomberg's Mark Gurman (Power On, Nov 1), who called this autumn's MacBook Pro, iPad mini and iMac line-up correctly. Chip choices beyond the base iPad's A19 (M5 for the Air, M6 or later for the Pro) are outlets' expectations, not part of the report. One strong source and no supply-chain confirmation yet, so it stays a Rumor. Update Nov 6: Korean industry sources (via GSMArena and SamMobile) independently put the first OLED iPad Air in the first half of 2027, with Samsung Display supplying most panels alongside BOE and 4-5 million Air units forecast for 2027. Supply-chain backing for the headline OLED Air moves this to Likely; the iPad Pro and base iPad details are still Gurman-only. Update Nov 10: DigiTimes (via MacRumors) also says both iPad Air sizes move to OLED in the first half of 2027, using the iPad mini's single-stack LTPS panel design (earlier DigiTimes reporting said it stays at 60Hz), with Samsung Display the main supplier and BOE still qualifying. Another supply-chain source for the OLED Air; stays Likely. Update Nov 22: Gurman says the low-end iPad (A19, 8GB of RAM, N1 wireless chip, optional C1X modem) and the OLED iPad Air are aimed at the iOS 27.4 cycle in February-March, with new M6 iPad Pros later in the first half (GSMArena, 9to5Mac). More detail from the same reporter; stays Likely.",
       "sources": [
+        {
+          "name": "GSMArena (Nov 23, Gurman)",
+          "url": "https://www.gsmarena.com/apple_will_focus_on_affordable_models__iphone_18e_new_ipad_new_macbook_neo__in_early_2027-news-75591.php"
+        },
         {
           "name": "MacRumors (DigiTimes)",
           "url": "https://www.macrumors.com/2026/11/10/oled-ipad-air-rumored-to-launch-in-early-2027/"
@@ -3200,7 +3221,7 @@
     {
       "status": "Active",
       "first_reported": "2026-11-08",
-      "updated": "2026-11-20",
+      "updated": "2026-11-23",
       "id": "siri-ai-agent-2027",
       "title": "Apple makes Siri AI a proactive agent as early as 2027",
       "rating": "Rumor",
@@ -3208,10 +3229,14 @@
         "apple",
         "ai"
       ],
-      "expected": "As early as 2027 (no version named)",
+      "expected": "Late 2027 at the earliest (Gurman)",
       "claim": "Apple will turn Siri AI into an agent that tracks goals and carries out multi-step tasks on its own, like OpenAI's Dots or Meta's Muse, possibly as soon as next year.",
-      "why": "From Bloomberg's Mark Gurman in his Nov 8 Power On newsletter, relayed by MacRumors, 9to5Mac and Gizmodo. Gurman says he is told Apple ultimately wants Siri to work this way and that he believes it could happen as early as next year, and reports that CEO John Ternus pushed software chief Craig Federighi in a closed-door meeting to accelerate Apple's AI roadmap beyond Siri fixes. Gurman has a strong Apple record, but the timing is partly his own judgment, Apple has not committed to a release, and he also says Siri chief Mike Rockwell is still considering leaving. Rumor until there are concrete features or a version. Update Nov 19: Bloomberg spotted Apple job listings for a team building 'general-purpose computer-use agents' that browse the web, work across apps, run commands and write code, working with the Siri and Apple Foundation Models teams (MacRumors). That confirms Apple is building agents, but not that Siri ships as one in 2027, so the timing claim stays a Rumor.",
+      "why": "From Bloomberg's Mark Gurman in his Nov 8 Power On newsletter, relayed by MacRumors, 9to5Mac and Gizmodo. Gurman says he is told Apple ultimately wants Siri to work this way and that he believes it could happen as early as next year, and reports that CEO John Ternus pushed software chief Craig Federighi in a closed-door meeting to accelerate Apple's AI roadmap beyond Siri fixes. Gurman has a strong Apple record, but the timing is partly his own judgment, Apple has not committed to a release, and he also says Siri chief Mike Rockwell is still considering leaving. Rumor until there are concrete features or a version. Update Nov 19: Bloomberg spotted Apple job listings for a team building 'general-purpose computer-use agents' that browse the web, work across apps, run commands and write code, working with the Siri and Apple Foundation Models teams (MacRumors). That confirms Apple is building agents, but not that Siri ships as one in 2027, so the timing claim stays a Rumor. Update Nov 22: in Power On, Gurman says he does not expect Apple's AI agent before late 2027, while Siri's multistep control of Apple's own apps arrives in December and third-party app support follows in 2027 (MacRumors). 'As early as 2027' now looks like late 2027 at best; stays a Rumor.",
       "sources": [
+        {
+          "name": "MacRumors (Nov 22, Gurman)",
+          "url": "https://www.macrumors.com/2026/11/22/siri-layoffs-spared-newer-ai-systems/"
+        },
         {
           "name": "MacRumors (job listings)",
           "url": "https://www.macrumors.com/2026/11/19/apple-ai-agent-development/"
@@ -4371,7 +4396,7 @@
     {
       "status": "Active",
       "first_reported": "2026-11-20",
-      "updated": "2026-11-20",
+      "updated": "2026-11-23",
       "id": "xiaomi-19-flat-and-curved",
       "title": "Xiaomi 19 series mixes flat and curved screens",
       "rating": "Rumor",
@@ -4380,8 +4405,12 @@
       ],
       "expected": "Next Xiaomi flagship generation (late 2027, no date; name not final)",
       "claim": "Development of Xiaomi's next flagship series has started, and the lineup will include both flat and curved cover glass.",
-      "why": "From tipster Smart Pikachu on Weibo (via GSMArena). He did not say which models get which screen or how many models there will be, and says only a codename exists so far, so even the 'Xiaomi 19' name is uncertain. The split mirrors rumors for Apple's 2027 iPhones. Early, thin and unverifiable. Rumor.",
+      "why": "From tipster Smart Pikachu on Weibo (via GSMArena). He did not say which models get which screen or how many models there will be, and says only a codename exists so far, so even the 'Xiaomi 19' name is uncertain. The split mirrors rumors for Apple's 2027 iPhones. Early, thin and unverifiable. Rumor. Update Nov 23: Digital Chat Station says the 2027 phones get a 'true' ultrawide, a 50MP OmniVision OV51C behind a roughly 14mm, 114-degree lens (the 18 Pro's is 102 degrees), and that he sees no 19 Ultra in development (GSMArena). A second, more detailed tipster on the same series, but still tipsters only. Rumor.",
       "sources": [
+        {
+          "name": "GSMArena (Nov 23, ultrawide)",
+          "url": "https://www.gsmarena.com/xiaomi_19_series_rumored_to_get_a_much_wider_ultrawide_camera-news-75593.php"
+        },
         {
           "name": "GSMArena",
           "url": "https://www.gsmarena.com/xiaomi_19_series_rumored_to_come_with_both_flat_and_curved_screens-news-75547.php"
@@ -4641,6 +4670,152 @@
         {
           "name": "GSMArena",
           "url": "https://www.gsmarena.com/vivo_y21s_5g_y11s_5g_y05s_4g_specs_and_images_leak-news-75584.php"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-23",
+      "updated": "2026-11-23",
+      "id": "galaxy-watch-two-year-cycle",
+      "title": "Samsung skips new Galaxy Watches in 2027 and moves to a two-year cycle",
+      "rating": "Rumor",
+      "categories": [
+        "samsung",
+        "android"
+      ],
+      "expected": "No new Galaxy Watch in 2027; next models in 2028 (reported)",
+      "claim": "Samsung will not release new Galaxy Watch models in 2027, ending yearly launches that began in 2018; the Galaxy Watch 9 and Watch Ultra 2 stay current until 2028, existing watches get software and health updates, and a new Galaxy Fit band fills the gap.",
+      "why": "Reported by Korea's ETNews from industry sources and relayed by GSMArena, SamMobile and Android Authority. It is a cost story: Samsung's mobile division reportedly lost money for two quarters and the Galaxy Watch 9 sold below expectations after a price rise. The Galaxy Fit 4 part fits Samsung's own new mention of that band. One outlet and Samsung has not confirmed, so Rumor.",
+      "sources": [
+        {
+          "name": "Android Authority",
+          "url": "https://www.androidauthority.com/samsung-galaxy-watch-2027-launch-skip-3738043/"
+        },
+        {
+          "name": "GSMArena",
+          "url": "https://www.gsmarena.com/samsung_may_shift_galaxy_watch_to_a_twoyear_launch_cycle-news-75587.php"
+        },
+        {
+          "name": "SamMobile",
+          "url": "https://www.sammobile.com/news/samsung-may-not-launch-galaxy-watch-10-2027/"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-23",
+      "updated": "2026-11-23",
+      "id": "macbook-neo-2-spring-2027",
+      "title": "MacBook Neo 2 with A19 Pro and 12GB of RAM arrives around March 2027",
+      "rating": "Likely",
+      "categories": [
+        "apple"
+      ],
+      "expected": "February-March 2027 (iOS/macOS 27.4 cycle, reported)",
+      "claim": "Apple's second MacBook Neo moves from the A18 Pro with 8GB of RAM to the A19 Pro with 12GB and launches in the iOS/macOS 27.4 window (February-March 2027), possibly in new colors; Apple plans to refresh the Neo's colors often.",
+      "why": "From Bloomberg's Mark Gurman in his Nov 22 Power On newsletter (via 9to5Mac and GSMArena), matching his September report of an A19 Pro, 12GB Neo in 2027. Gurman has a strong record on Apple timing, but Apple has said nothing and the date could fall at either end of the window. Likely.",
+      "sources": [
+        {
+          "name": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/22/macbook-neo-2-likely-to-launch-around-march-could-feature-new-colors-report/"
+        },
+        {
+          "name": "GSMArena",
+          "url": "https://www.gsmarena.com/apple_will_focus_on_affordable_models__iphone_18e_new_ipad_new_macbook_neo__in_early_2027-news-75591.php"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-23",
+      "updated": "2026-11-23",
+      "id": "iqoo-16r-snapdragon-8s-gen-4",
+      "title": "iQOO 16R (or 16s) uses the Snapdragon 8s Gen 4",
+      "rating": "Likely",
+      "categories": [
+        "android"
+      ],
+      "expected": "Not announced (India BIS-certified)",
+      "claim": "The vivo I2606, believed to be the iQOO 16R or iQOO 16s, runs a Snapdragon 8s Gen 4 with 12GB of RAM on Android 17, a step down from the iQOO 15R's Snapdragon 8 Gen 5.",
+      "why": "A Geekbench listing for the I2606 shows the SM8735 (Snapdragon 8s Gen 4), 12GB of RAM and Android 17 (GSMArena, Gizmochina). The model has passed India's BIS, Malaysia's SIRIM and Indonesia's SDPPI, with the IMEI database calling it the 16R and SIRIM/SDPPI the 16s. The chip is hard evidence; the final name and other specs are not. Likely.",
+      "sources": [
+        {
+          "name": "GSMArena",
+          "url": "https://www.gsmarena.com/the_rumored_vivo_i2606_is_powered_by_the_snapdragon_8s_gen_4-news-75586.php"
+        },
+        {
+          "name": "Gizmochina",
+          "url": "https://www.gizmochina.com/2026/11/23/iqoo-16-amazon-and-iqoo-16r-geekbench-listings-spotted-launch-fast-approaching/"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-23",
+      "updated": "2026-11-23",
+      "id": "moore-threads-lushan-64gb",
+      "title": "Moore Threads Lushan has 64GB of VRAM, the most on a consumer graphics card",
+      "rating": "Rumor",
+      "categories": [
+        "chips",
+        "gaming"
+      ],
+      "expected": "Reveal Dec 29-30, 2026 (MDC 2026)",
+      "claim": "Moore Threads' Lushan GPU will carry 64GB of graphics memory, twice the RTX 5090's 32GB and the highest of any consumer card.",
+      "why": "A Moore Threads product manager hinted on Bilibili that Lushan has the largest memory ever on a consumer card without giving a number. The 64GB figure is outlets' math from Moore Threads' December 2025 claim of four times the memory of the 16GB MTT S80 (VideoCardz, Tom's Hardware). It is an inference, and 'consumer' may mean an AI or workstation card. Rumor until the Dec 29 reveal.",
+      "sources": [
+        {
+          "name": "VideoCardz",
+          "url": "https://videocardz.com/newz/moore-threads-teases-new-gpu-with-highest-vram-capacity-on-a-consumer-graphics-card"
+        },
+        {
+          "name": "Tom's Hardware",
+          "url": "https://www.tomshardware.com/pc-components/gpus/moore-threads-next-lushan-gaming-gpu-could-pack-a-record-64gb-of-vram-doubles-the-rtx-5090s-32gb-lofty-claims-of-15x-gaming-and-50x-ray-tracing-over-mtt-s80"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-23",
+      "updated": "2026-11-23",
+      "id": "tsmc-pauses-16nm-china-shipments",
+      "title": "TSMC holds some 16nm-and-below shipments under new US export rules",
+      "rating": "Likely",
+      "categories": [
+        "chips"
+      ],
+      "expected": "Now (reported); lasts until designers get licenses or compliance sign-off",
+      "claim": "TSMC has paused some shipments of 16nm/14nm-and-newer chips to Chinese (and some non-Chinese) designers while it checks compliance with a new US BIS rule that presumes such chips are controlled unless their performance is certified, which could hit phone, TV and car chips.",
+      "why": "Reported by Nikkei Asia and relayed by Tom's Hardware; Reuters separately reports TSMC tightening China curbs under the new rules. The BIS rule itself is public, which makes the reaction plausible, but TSMC has not detailed which orders are held or for how long. Likely.",
+      "sources": [
+        {
+          "name": "Tom's Hardware",
+          "url": "https://www.tomshardware.com/tech-industry/policy/tsmc-reportedly-pauses-shipments-to-chinese-designers-after-u-s-export-rules-flag-decade-old-16nm-and-14nm-nodes-new-bis-controls-threaten-smartphone-tv-and-automotive-chips"
+        },
+        {
+          "name": "Reuters via Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/tsmc-tightens-china-ai-chip-curbs-as-new-us-rules-close-manufacturing-loophole-sources-say-5038806"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-23",
+      "updated": "2026-11-23",
+      "id": "iphone-duo-lock-screen-widgets",
+      "title": "iPhone Duo cover screen gets a column of Lock Screen widgets",
+      "rating": "Rumor",
+      "categories": [
+        "apple"
+      ],
+      "expected": "A future iOS update (no timing; feature disabled since iOS 27.1)",
+      "claim": "Apple has tested a 'complication column' on the iPhone Duo's cover-screen Lock Screen that fits two circular widgets on the right edge, below the status icons.",
+      "why": "From leaker pdfu on X, who posted a video and a disabled SpringBoard flag first seen in iOS 27.1 (GSMArena). Code evidence shows Apple tried it, but it has not changed since 27.1, so it may never ship. Rumor.",
+      "sources": [
+        {
+          "name": "GSMArena",
+          "url": "https://www.gsmarena.com/iphone_duo_may_soon_support_more_widgets_on_its_lock_screen-news-75588.php"
         }
       ]
     }

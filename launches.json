@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22",
+  "updated": "2026-11-23",
   "items": [
     {
       "id": "gtc-berlin-2026",
@@ -3435,8 +3435,12 @@
       "status": "Expected",
       "price": "",
       "summary": "BYD says it will show 'a model highly requested by customers' at the Guangzhou Auto Show; regulatory filings point to a larger next-generation Han sedan.",
-      "details": "BYD Dynasty sales chief Lu Tian announced the debut on Weibo on Nov 2 without naming the car. CnEVPost links it to the next-generation Han, which appeared in China's MIIT filings on Oct 16 with three battery-electric versions (rear- or all-wheel drive, up to 520 kW combined) and one plug-in hybrid, at 5,156 mm long with a 3,030 mm wheelbase. The show runs Nov 27 to Dec 6, with Nov 27 as media day. The model identity and launch timing are not confirmed.",
+      "details": "BYD Dynasty sales chief Lu Tian announced the debut on Weibo on Nov 2 without naming the car. CnEVPost links it to the next-generation Han, which appeared in China's MIIT filings on Oct 16 with three battery-electric versions (rear- or all-wheel drive, up to 520 kW combined) and one plug-in hybrid, at 5,156 mm long with a 3,030 mm wheelbase. The show runs Nov 27 to Dec 6, with Nov 27 as media day. The model identity and launch timing are not confirmed. Update Nov 22: a cyan-blue next-generation Han has rolled off the production line ahead of its Nov 27 debut at the show, and CarNewsChina expects BYD to announce prices and trims that day. MIIT filings list a 775-to-875 km CLTC range for the EVs (76.7 or 88.7 kWh Blade batteries, up to 520 kW AWD) and a 400 km electric range for the plug-in hybrid.",
       "sources": [
+        {
+          "name": "CarNewsChina (Nov 22)",
+          "url": "https://carnewschina.com/2026/11/22/next-generation-byd-han-rolls-off-production-line-ahead-of-guangzhou-auto-show/"
+        },
         {
           "name": "CnEVPost",
           "url": "https://cnevpost.com/2026/11/04/byd-teases-new-model-guangzhou-show-next-gen-han-expected/"
@@ -4088,13 +4092,21 @@
       ],
       "type": "Phone",
       "date": "2026-11-23",
-      "date_label": "Nov 23, 2026 (China launch, 2:30 PM in Wuhan)",
+      "date_label": "Nov 23, 2026 (China; open sales Nov 27)",
       "precision": "day",
-      "status": "Confirmed",
-      "price": "",
-      "summary": "Honor launches the 700, 700 Pro and 700S in China on Nov 23 in Wuhan, each with a small rear display in the camera island and a 9,000mAh battery.",
-      "details": "Honor set the date in a Weibo teaser ('see you on November 13'); reservations opened Nov 6 with a 365-day replacement guarantee and a year of front and rear screen insurance. All three models have a built-in rear screen that can show a clock, animations and a selfie preview. Chips, cameras and battery sizes are still from leaks (reports point to Snapdragon 8s Gen 4 for the 700, Snapdragon 8 Gen 5 for the Pro and Snapdragon 7 Gen 4 for the 700S); prices come at the event. See the rumor tracker for the leaked specs. Update Nov 11: a device numbered FAP-AN00, most likely the 700 Pro, ran Geekbench 6 with a Snapdragon 8 Gen 5, 16GB of RAM and Android 17; Honor has listed 12/256GB, 12/512GB and 16/512GB configurations for the Pro (GSMArena). Update Nov 12: Gizmochina relays a fuller spec leak ahead of the event (6.57-inch 1.5K screen, 1.72-inch rear screen, 200MP main camera and a 9,000mAh battery with 80W charging on all three; 50MP periscope and 50W wireless on the Pro), plus another Geekbench run for the Pro. Still unconfirmed until launch. Update Nov 13: the launch did not happen on Nov 13 as earlier reported. Honor CEO Li Jian set the event for Nov 23 at 2:30 PM in Wuhan; reservations stay open. A China Telecom product listing (via GSMArena) now backs most specs: 6.57-inch screen, 50MP selfie camera, 9,000mAh battery, MagicOS 11 on Android 17 and 156.0x74.7x7.96mm on all three; Snapdragon 8 Gen 5 (Pro), 8s Gen 4 (700) and 7 Gen 4 (700S); a 200MP main camera on all, plus a 50MP 3.5x periscope on the 700 and Pro. Prices come at the event.",
+      "status": "Released",
+      "price": "Honor 700S from CNY 3,399, Honor 700 from CNY 3,699, Honor 700 Pro from CNY 4,599 (China launch prices)",
+      "summary": "Honor launched the 700, 700 Pro and 700S in China on Nov 23, all with a small rear screen, a 200MP main camera and a 9,000mAh battery.",
+      "details": "Honor set the date in a Weibo teaser ('see you on November 13'); reservations opened Nov 6 with a 365-day replacement guarantee and a year of front and rear screen insurance. All three models have a built-in rear screen that can show a clock, animations and a selfie preview. Chips, cameras and battery sizes are still from leaks (reports point to Snapdragon 8s Gen 4 for the 700, Snapdragon 8 Gen 5 for the Pro and Snapdragon 7 Gen 4 for the 700S); prices come at the event. See the rumor tracker for the leaked specs. Update Nov 11: a device numbered FAP-AN00, most likely the 700 Pro, ran Geekbench 6 with a Snapdragon 8 Gen 5, 16GB of RAM and Android 17; Honor has listed 12/256GB, 12/512GB and 16/512GB configurations for the Pro (GSMArena). Update Nov 12: Gizmochina relays a fuller spec leak ahead of the event (6.57-inch 1.5K screen, 1.72-inch rear screen, 200MP main camera and a 9,000mAh battery with 80W charging on all three; 50MP periscope and 50W wireless on the Pro), plus another Geekbench run for the Pro. Still unconfirmed until launch. Update Nov 13: the launch did not happen on Nov 13 as earlier reported. Honor CEO Li Jian set the event for Nov 23 at 2:30 PM in Wuhan; reservations stay open. A China Telecom product listing (via GSMArena) now backs most specs: 6.57-inch screen, 50MP selfie camera, 9,000mAh battery, MagicOS 11 on Android 17 and 156.0x74.7x7.96mm on all three; Snapdragon 8 Gen 5 (Pro), 8s Gen 4 (700) and 7 Gen 4 (700S); a 200MP main camera on all, plus a 50MP 3.5x periscope on the 700 and Pro. Prices come at the event. Update Nov 23: launched in Wuhan as planned. All three have a 6.57-inch 120Hz AMOLED, a 1.59-inch rear touch screen that works as a selfie viewfinder and notification panel, a 200MP main camera, a 50MP selfie camera, a 9,000mAh battery with 80W wired charging, IP69K and MagicOS 11 on Android 17. The 700 Pro has the Snapdragon 8 Gen 5, a 50MP periscope and 50W wireless charging (CNY 4,599 for 12/256GB up to 16/512GB); the 700 has the Snapdragon 8s Gen 4 and a 50MP periscope (CNY 3,699 to 4,599 launch prices); the 700S has the Snapdragon 7 Gen 4 and no periscope (CNY 3,399 to 3,699). Pre-orders are open; open sales start Nov 27 (GSMArena). Honor has not said when or if the series leaves China.",
       "sources": [
+        {
+          "name": "GSMArena (700 Pro launch)",
+          "url": "https://www.gsmarena.com/honor_700_pro_debuts_with_a_snapdragon_8_gen_5_soc_and_a_9000mah_battery-news-75589.php"
+        },
+        {
+          "name": "GSMArena (700 and 700S launch)",
+          "url": "https://www.gsmarena.com/honor_700_and_700s_arrive_with_rear_screens_200mp_cameras_and_9000mah_batteries_-news-75590.php"
+        },
         {
           "name": "GSMArena (Nov 13, date and carrier listing)",
           "url": "https://www.gsmarena.com/honor_700_series_launch_date_is_official_just_as_a_carrier_listing_reveals_most_specs-news-75471.php"
@@ -4790,7 +4802,7 @@
       "status": "Confirmed",
       "price": "",
       "summary": "Huawei will unveil the Mate 90 Air, its thinnest Mate phone, at the Nov 24 Mate X8 event; reservations are open on Vmall.",
-      "details": "Huawei announced the phone on Nov 19, skipping the Mate 80 Air name that leaks had used. The Vmall reservation listing shows Rose Gold, Moon Silver and Obsidian Black with 12GB of RAM and 256GB or 512GB of storage, and a large round camera island like the rest of the Mate 90 series; full pre-sale payment opens after the launch. Tipster Digital Chat Station claims a 7-inch quad-curved screen, four rear cameras and 66W charging, but Huawei has not confirmed specs or prices. The Mate 70 Air was 6.6mm thick with a 6,500mAh battery.",
+      "details": "Huawei announced the phone on Nov 19, skipping the Mate 80 Air name that leaks had used. The Vmall reservation listing shows Rose Gold, Moon Silver and Obsidian Black with 12GB of RAM and 256GB or 512GB of storage, and a large round camera island like the rest of the Mate 90 series; full pre-sale payment opens after the launch. Tipster Digital Chat Station claims a 7-inch quad-curved screen, four rear cameras and 66W charging, but Huawei has not confirmed specs or prices. The Mate 70 Air was 6.6mm thick with a 6,500mAh battery. Update Nov 23: Digital Chat Station now claims 6.58mm and 208g, a 7-inch 120Hz AMOLED, a 6,500mAh battery with 66W charging, a two-year-old Kirin 9020 and 50MP main, 12MP telephoto and 8MP ultrawide cameras (via Notebookcheck). Still leaks until Huawei's Nov 24 event (2:30 PM China time, which is Nov 23 at 10:30 PM PT).",
       "sources": [
         {
           "name": "IT Home (official date, Chinese)",
@@ -4803,6 +4815,10 @@
         {
           "name": "GSMArena",
           "url": "https://www.gsmarena.com/huawei_mate_90_air_listed_ahead_of_launch-news-75537.php"
+        },
+        {
+          "name": "Notebookcheck (Nov 23 spec leak)",
+          "url": "https://www.notebookcheck.net/Leak-Huawei-Mate-90-Air-launching-soon-with-triple-camera-and-106-larger-battery-than-iPhone-Air.1457935.0.html"
         }
       ]
     },
@@ -5093,6 +5109,78 @@
         {
           "name": "Electrek",
           "url": "https://electrek.co/2026/11/21/red-wave-xiaomi-goes-global-with-first-overseas-ev-sales/"
+        }
+      ]
+    },
+    {
+      "id": "rivian-autonomy-ai-day-2026",
+      "name": "Rivian Autonomy & AI Day 2026",
+      "brand": "Rivian",
+      "categories": [
+        "evs",
+        "ai"
+      ],
+      "type": "Event",
+      "date": "2026-12-09",
+      "date_label": "Dec 9, 2026 (livestream)",
+      "precision": "day",
+      "status": "Confirmed",
+      "price": "",
+      "summary": "Rivian's second Autonomy & AI Day, livestreamed on YouTube, to show progress on its self-driving and AI roadmap.",
+      "details": "Rivian announced the date in a Nov 18 media advisory and will stream the event on its YouTube channel. It has not listed the announcements; coverage expects driver-assistance updates such as point-to-point driving, but those are expectations, not Rivian's word.",
+      "sources": [
+        {
+          "name": "Rivian newsroom",
+          "url": "https://rivian.com/newsroom/article/2026-rivian-to-host-autonomy-and-ai-day-on-december-9"
+        }
+      ]
+    },
+    {
+      "id": "moore-threads-lushan",
+      "name": "Moore Threads 'Lushan' gaming GPU reveal",
+      "brand": "Moore Threads",
+      "categories": [
+        "chips",
+        "gaming"
+      ],
+      "type": "Graphics card",
+      "date": "2026-12-29",
+      "date_label": "Dec 29-30, 2026 (reveal at MDC 2026, Beijing)",
+      "precision": "day",
+      "status": "Confirmed",
+      "price": "",
+      "summary": "China's Moore Threads presents Lushan, its next consumer graphics card on the Huagang architecture, at its developer conference.",
+      "details": "A new Moore Threads teaser sets the Lushan presentation for the MUSA Developer Conference on Dec 29-30 in Beijing (VideoCardz). The company has claimed 15x the AAA gaming performance and 50x the ray tracing of the MTT S80; those are its own numbers. Final specs, price and retail availability are not announced. The memory size is in the rumor tracker.",
+      "sources": [
+        {
+          "name": "VideoCardz",
+          "url": "https://videocardz.com/newz/moore-threads-teases-new-gpu-with-highest-vram-capacity-on-a-consumer-graphics-card"
+        },
+        {
+          "name": "Tom's Hardware",
+          "url": "https://www.tomshardware.com/pc-components/gpus/moore-threads-next-lushan-gaming-gpu-could-pack-a-record-64gb-of-vram-doubles-the-rtx-5090s-32gb-lofty-claims-of-15x-gaming-and-50x-ray-tracing-over-mtt-s80"
+        }
+      ]
+    },
+    {
+      "id": "iqoo-16-india",
+      "name": "iQOO 16 (India)",
+      "brand": "iQOO",
+      "categories": [
+        "android"
+      ],
+      "type": "Phone",
+      "date": "2026-12-01",
+      "date_label": "December 2026 (tipster; iQOO has confirmed India but no date)",
+      "precision": "window",
+      "status": "Expected",
+      "price": "",
+      "summary": "iQOO's Snapdragon 8 Elite Extreme Gen 6 flagship, launched in China in September, is coming to India.",
+      "details": "iQOO confirmed the India launch at India Mobile Congress 2026 without a date. An Amazon India 'coming soon' page with official images and OriginOS 7 briefly went live, and tipster PassionateGeekz says the launch is next month (Gizmochina, Nov 23). The China model has a 6.85-inch 2K 165Hz AMOLED, an 8,400mAh battery with 100W wired and 40W wireless charging and three 50MP rear cameras, from CNY 5,999. Indian pricing is not announced.",
+      "sources": [
+        {
+          "name": "Gizmochina",
+          "url": "https://www.gizmochina.com/2026/11/23/iqoo-16-amazon-and-iqoo-16r-geekbench-listings-spotted-launch-fast-approaching/"
         }
       ]
     }

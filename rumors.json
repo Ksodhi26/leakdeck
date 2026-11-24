@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23",
+  "updated": "2026-11-24",
   "scale": {
     "Confirmed": "Announced by the company or shown in an official source.",
     "Likely": "Multiple credible outlets or hard evidence (certifications, databases, supply chain), but no official word.",
@@ -1377,11 +1377,15 @@
       ],
       "status": "Active",
       "first_reported": "2026-10-19",
-      "updated": "2026-11-04",
+      "updated": "2026-11-24",
       "expected": "Galaxy S27 launch (early 2027)",
       "claim": "Because of soaring memory prices, Samsung will sell 8GB/256GB versions of the Galaxy S27 and S27+ alongside 12GB/512GB models, while the S27 Pro and Ultra start at 12GB.",
-      "why": "From leaker @kro_roe on X, relayed by SamMobile and 9to5Google. It contradicts a September leak that had the S27 keeping the S26's 12GB base, but it fits the memory shortage: Yonhap reports most of Samsung's 2027 DRAM output is already sold to big tech customers. The same leaker says Samsung may mix UFS storage generations and cut pre-order storage upgrades. Samsung has said nothing. Update Nov 4 (downgraded to Shaky): NBD trade records list all four European S27 models, including the S27 and S27+, with 12GB of RAM and 256GB of storage. That does not rule out extra 8GB versions elsewhere, but the only hard data so far points to a 12GB base, against this single-leaker claim.",
+      "why": "From leaker @kro_roe on X, relayed by SamMobile and 9to5Google. It contradicts a September leak that had the S27 keeping the S26's 12GB base, but it fits the memory shortage: Yonhap reports most of Samsung's 2027 DRAM output is already sold to big tech customers. The same leaker says Samsung may mix UFS storage generations and cut pre-order storage upgrades. Samsung has said nothing. Update Nov 4 (downgraded to Shaky): NBD trade records list all four European S27 models, including the S27 and S27+, with 12GB of RAM and 256GB of storage. That does not rule out extra 8GB versions elsewhere, but the only hard data so far points to a 12GB base, against this single-leaker claim. Update Nov 24: tipster Meeco's claimed 'final' S27 configurations list the S27 and S27+ with 12GB of RAM at both 256GB and 512GB (via Android Headlines), again with no 8GB model. Two sources now point to a 12GB base, so this stays Shaky.",
       "sources": [
+        {
+          "name": "Android Headlines (Meeco configurations)",
+          "url": "https://www.androidheadlines.com/2026/11/only-three-galaxy-s27-configurations-will-use-lpddr6-ram-and-ufs-5-0-storage.html"
+        },
         {
           "name": "Notebookcheck (NBD trade records)",
           "url": "https://www.notebookcheck.net/Galaxy-S27-series-chipset-details-leak-with-a-surprising-entry-for-the-Pro.1441625.0.html"
@@ -1465,13 +1469,21 @@
       "categories": [
         "android"
       ],
-      "status": "Active",
+      "status": "Resolved",
       "first_reported": "2026-10-19",
-      "updated": "2026-11-16",
+      "updated": "2026-11-24",
       "expected": "Nov 24, 2026 (China, official)",
       "claim": "Huawei will launch the Mate X8 in China in November with Kirin 9050/9050 Pro chips, an 8.15-inch inner and 6.5-inch cover screen, a 50MP 1/1.28-inch variable-aperture main camera, a 50MP periscope and a battery above 6,000mAh, plus a privacy-display version.",
-      "why": "From Weibo tipster Bai Ze Guan Shan, relayed by Gizmochina and GSMArena. The timing fits Huawei's pattern (the Mate X7 launched in November 2025), but the tipster says the launch was planned alongside a new sub-brand whose timing is uncertain. Huawei has not announced anything. Update Oct 30: tipster Smart Pikachu (via Gizmochina) also lists the Mate X8 among Huawei's November products, with a Kirin 9050 Pro and a 50MP RYYB periscope. A second tipster agreeing lifts the timing a little, but Huawei has set no date; the Mate X7 launched Nov 26 last year. Update Nov 2: a Weibo tipster relayed by Huawei Central says Huawei's Star Shine sub-brand phones come in early November and the Mate X8 later in the month. Still no official date. Update Nov 11: Weibo tipster RuryRen says the Mate X8 launches in mid-to-late November, probably after the 20th, with the Kirin 9050 Pro, 16GB of RAM, storage up to 2TB and HarmonyOS 7. Huawei has now dated other November events (MateBook Fold S pre-sale Nov 14, OSTA Nov 20) but still not the Mate X8. Update Nov 13: a Chinese rumor relayed by GSMArena and Huawei Central puts the launch on Nov 24, with support for Huawei's Ruiying Z10 10x camera add-on, and Richard Yu was photographed carrying what looks like the Mate X8 in light purple (Gizmochina). But a NetEase report says the November timing is a mistake and the window is December, noting no blind orders or reservations have opened. Huawei has not announced a date, so it stays a Rumor. Update Nov 16: Huawei officially set the Mate X8 launch event for Nov 24 at 2:30 PM China time, matching the tipped date, and the teaser shows the purple color. The November timing is now Confirmed; the chip, screen and battery claims will be checked at the event, and we will resolve this after Nov 24.",
+      "why": "From Weibo tipster Bai Ze Guan Shan, relayed by Gizmochina and GSMArena. The timing fits Huawei's pattern (the Mate X7 launched in November 2025), but the tipster says the launch was planned alongside a new sub-brand whose timing is uncertain. Huawei has not announced anything. Update Oct 30: tipster Smart Pikachu (via Gizmochina) also lists the Mate X8 among Huawei's November products, with a Kirin 9050 Pro and a 50MP RYYB periscope. A second tipster agreeing lifts the timing a little, but Huawei has set no date; the Mate X7 launched Nov 26 last year. Update Nov 2: a Weibo tipster relayed by Huawei Central says Huawei's Star Shine sub-brand phones come in early November and the Mate X8 later in the month. Still no official date. Update Nov 11: Weibo tipster RuryRen says the Mate X8 launches in mid-to-late November, probably after the 20th, with the Kirin 9050 Pro, 16GB of RAM, storage up to 2TB and HarmonyOS 7. Huawei has now dated other November events (MateBook Fold S pre-sale Nov 14, OSTA Nov 20) but still not the Mate X8. Update Nov 13: a Chinese rumor relayed by GSMArena and Huawei Central puts the launch on Nov 24, with support for Huawei's Ruiying Z10 10x camera add-on, and Richard Yu was photographed carrying what looks like the Mate X8 in light purple (Gizmochina). But a NetEase report says the November timing is a mistake and the window is December, noting no blind orders or reservations have opened. Huawei has not announced a date, so it stays a Rumor. Update Nov 16: Huawei officially set the Mate X8 launch event for Nov 24 at 2:30 PM China time, matching the tipped date, and the teaser shows the purple color. The November timing is now Confirmed; the chip, screen and battery claims will be checked at the event, and we will resolve this after Nov 24. Update Nov 24: Huawei launched the Mate X8 at the Nov 24 event, so this resolves (see outcome).",
       "sources": [
+        {
+          "name": "Gizmochina (launch)",
+          "url": "https://www.gizmochina.com/2026/11/24/huawei-mate-x8-launches-8-2-inch-kirin-9050-pro-6200mah-battery/"
+        },
+        {
+          "name": "Huawei (official specs, Chinese)",
+          "url": "https://consumer.huawei.com/cn/phones/mate-x8/specs/"
+        },
         {
           "name": "Huawei Central (Nov 16, official date)",
           "url": "https://www.huaweicentral.com/huawei-mate-x8-launch-november-24/"
@@ -1508,7 +1520,8 @@
           "name": "Gizmochina",
           "url": "https://www.gizmochina.com/2026/10/19/huawei-mate-x8-specifications-leak/"
         }
-      ]
+      ],
+      "outcome": "Mostly correct. The November launch, a 50MP 1/1.28-inch variable-aperture main camera (on the Collector's Edition), a 50MP periscope and a battery above 6,000mAh (6,200mAh) were right, and the screens were close (8.2-inch inner, 6.54-inch cover vs 8.15 and 6.5). Wrong on the chip split: every model uses the Kirin 9050 Pro rather than a mix of 9050 and 9050 Pro. Launch coverage we saw did not mention a privacy-display version."
     },
     {
       "id": "galaxy-s27-exynos-m2700-modem",
@@ -2061,11 +2074,15 @@
       ],
       "status": "Active",
       "first_reported": "2026-08-01",
-      "updated": "2026-11-23",
+      "updated": "2026-11-24",
       "expected": "Late 2026 or early 2027 (unconfirmed)",
       "claim": "Samsung will launch a Galaxy Fit 4 (SM-R391) fitness band with a near-identical design to the Fit 3, in black, white and light blue, at a similar low price.",
-      "why": "Android Authority obtained 360-degree videos of the band in three colors and earlier found Samsung documents naming SM-R391 as 'FIT4'; a Samsung app teardown also showed renders. The hardware is well evidenced, but specs beyond Bluetooth LE and a Goodix optical sensor, the price (the Fit 3 was about $60) and the launch date are unknown; reports range from late 2026 to early 2027. Update Oct 30: a SammyGuru teardown of the Galaxy Fit 4 Manager app, reported by Android Authority, lists nearly the same health features as the Fit 3 (sleep coaching, SpO2, snoring detection, auto workout tracking), the same tile-based UI with up to 12 tiles, and 258 x 428 watch-face assets that suggest a slightly taller screen. Update Oct 31: GSMArena, citing the same SammyGuru teardown, reads the watch-face colors as black, silver and light green cases and found no sign of GPS. Still no launch date or price from Samsung. Update Nov 5: SamMobile found a Wallet section in the leaked Galaxy Fit 4 Manager plugin, pointing to NFC payments through Samsung Wallet (a first for the Fit line), plus Modes and Routines support, photo watch faces and what looks like a speaker for calls. Samsung still has not announced it. Update Nov 23: Samsung lists the Galaxy Fit 4 above the Fit 3 in one of its own device promotion documents (SammyGuru via SamMobile), the first official mention. That confirms the band exists, so this moves to Confirmed; the leaked features, price and date are still unofficial.",
+      "why": "Android Authority obtained 360-degree videos of the band in three colors and earlier found Samsung documents naming SM-R391 as 'FIT4'; a Samsung app teardown also showed renders. The hardware is well evidenced, but specs beyond Bluetooth LE and a Goodix optical sensor, the price (the Fit 3 was about $60) and the launch date are unknown; reports range from late 2026 to early 2027. Update Oct 30: a SammyGuru teardown of the Galaxy Fit 4 Manager app, reported by Android Authority, lists nearly the same health features as the Fit 3 (sleep coaching, SpO2, snoring detection, auto workout tracking), the same tile-based UI with up to 12 tiles, and 258 x 428 watch-face assets that suggest a slightly taller screen. Update Oct 31: GSMArena, citing the same SammyGuru teardown, reads the watch-face colors as black, silver and light green cases and found no sign of GPS. Still no launch date or price from Samsung. Update Nov 5: SamMobile found a Wallet section in the leaked Galaxy Fit 4 Manager plugin, pointing to NFC payments through Samsung Wallet (a first for the Fit line), plus Modes and Routines support, photo watch faces and what looks like a speaker for calls. Samsung still has not announced it. Update Nov 23: Samsung lists the Galaxy Fit 4 above the Fit 3 in one of its own device promotion documents (SammyGuru via SamMobile), the first official mention. That confirms the band exists, so this moves to Confirmed; the leaked features, price and date are still unofficial. Update Nov 24: Dealabs reports a European price of EUR 79.90, EUR 10 more than the Fit 3 (via SamMobile). The price is a leak; the band's existence stays Confirmed.",
       "sources": [
+        {
+          "name": "SamMobile (EUR 79.90 price leak)",
+          "url": "https://www.sammobile.com/news/galaxy-fit-4-slightly-pricier-than-fit-3/"
+        },
         {
           "name": "SamMobile (Nov 23)",
           "url": "https://www.sammobile.com/news/samsung-officially-mentions-galaxy-fit-4-first-time/"
@@ -2230,13 +2247,17 @@
       "categories": [
         "android"
       ],
-      "status": "Active",
+      "status": "Resolved",
       "first_reported": "2026-10-26",
-      "updated": "2026-11-19",
+      "updated": "2026-11-24",
       "expected": "Nov 24, 2026 (India launch, official)",
       "claim": "The Edge 70 Neo will have a 6.78-inch 144Hz AMOLED, Snapdragon 7s Gen 3, 50MP Sony LYTIA 710 main camera, 32MP selfie camera, 7,000mAh battery with 45W charging and IP64.",
-      "why": "The phone itself is real: Motorola accidentally teased it in August and renders followed. The spec list comes from a single leak reported by GSMArena with no certification or official backing yet. Motorola has not announced a launch date. Update Nov 18: Motorola's Flipkart teaser sets an India launch for Nov 24 and shows '50MP', 'OIS' and 'Lytia' on the camera ring, matching the leaked 50MP Lytia main camera (earlier renders showed 200MP). The chip, battery and screen are still unconfirmed, so it stays a Rumor until the launch. Update Nov 19: Motorola has now confirmed the Snapdragon 7s Gen 3, a 6.8-inch 144Hz AMOLED, the 50MP Lytia 710 main camera, a 7,000mAh battery with 45W charging and IP64, matching the leak. Only the 32MP selfie camera is unconfirmed; we will resolve this after the Nov 24 launch.",
+      "why": "The phone itself is real: Motorola accidentally teased it in August and renders followed. The spec list comes from a single leak reported by GSMArena with no certification or official backing yet. Motorola has not announced a launch date. Update Nov 18: Motorola's Flipkart teaser sets an India launch for Nov 24 and shows '50MP', 'OIS' and 'Lytia' on the camera ring, matching the leaked 50MP Lytia main camera (earlier renders showed 200MP). The chip, battery and screen are still unconfirmed, so it stays a Rumor until the launch. Update Nov 19: Motorola has now confirmed the Snapdragon 7s Gen 3, a 6.8-inch 144Hz AMOLED, the 50MP Lytia 710 main camera, a 7,000mAh battery with 45W charging and IP64, matching the leak. Only the 32MP selfie camera is unconfirmed; we will resolve this after the Nov 24 launch. Update Nov 24: the phone launched in India with the leaked specs, including the 32MP selfie camera.",
       "sources": [
+        {
+          "name": "Moneycontrol (launch)",
+          "url": "https://www.moneycontrol.com/technology/motorola-edge-70-neo-with-7000mah-battery-snapdragon-7s-gen-3-chip-launched-in-india-at-rs-34-999-effective-price-article-14087883.html"
+        },
         {
           "name": "GSMArena (official specs)",
           "url": "https://www.gsmarena.com/motorola_edge_70_neo_now_has_an_official_launch_date_and_its_main_specs_confirmed-news-75533.php"
@@ -2248,8 +2269,13 @@
         {
           "name": "GSMArena",
           "url": "https://www.gsmarena.com/motorola_edge_70_neo_key_specifications_leak-news-75214.php"
+        },
+        {
+          "name": "PhoneArena (launch specs)",
+          "url": "https://www.phonearena.com/news/motorola-edge-70-neo-official-announcement-price-specs-features_id185064"
         }
-      ]
+      ],
+      "outcome": "Correct. The Edge 70 Neo launched with a 6.8-inch (6.78-inch) 144Hz AMOLED, Snapdragon 7s Gen 3, 50MP Sony Lytia 710 main camera, 32MP selfie camera, 7,000mAh battery with 45W charging and IP64, matching the October leak. Only the early 200MP camera renders were wrong."
     },
     {
       "id": "silent-hill-remake-2027",
@@ -2480,11 +2506,15 @@
       ],
       "status": "Active",
       "first_reported": "2026-10-30",
-      "updated": "2026-11-20",
+      "updated": "2026-11-24",
       "expected": "Spring 2027 with iPhone 18 (rumored)",
       "claim": "The iPhone Air 2 launches next spring with a 6.55-inch flat 120Hz OLED, a 2nm A20-series chip, 48MP wide and 48MP ultrawide rear cameras and a bigger battery than the first Air.",
-      "why": "From tipster Digital Chat Station, relayed by GSMArena; it repeats earlier leaks of a second rear camera and a spring launch. DCS is reliable on Chinese phones but less proven on Apple, and the 5.2mm thickness and battery figures come from other, separate leaks. Apple has said nothing. Update Nov 10: tipster Smart Pikachu posted alleged iPhone Air 2 dummy units on Weibo showing two rear cameras and a slimmer body. Dummies are usually built from leaked CAD files, so they back the design but not the chip or screen specs. Update Nov 18: Korea's ETNews reports the Air 2 keeps the first Air's display specs so Apple can use existing OLED inventory, with Samsung Display the only supplier and panel production starting in late December or early January for a March launch (MacRumors). That supports the spring timing and an unchanged screen, but says nothing about the chip or cameras, so it stays a Rumor. Update Nov 20: Sonny Dickson posted new dummy units of the Air 2 and iPhone 18 showing two horizontally placed rear cameras on the Air's wide plateau (MacRumors). It is more support for the dual-camera design only; chip, screen and battery claims are unchanged, so it stays a Rumor.",
+      "why": "From tipster Digital Chat Station, relayed by GSMArena; it repeats earlier leaks of a second rear camera and a spring launch. DCS is reliable on Chinese phones but less proven on Apple, and the 5.2mm thickness and battery figures come from other, separate leaks. Apple has said nothing. Update Nov 10: tipster Smart Pikachu posted alleged iPhone Air 2 dummy units on Weibo showing two rear cameras and a slimmer body. Dummies are usually built from leaked CAD files, so they back the design but not the chip or screen specs. Update Nov 18: Korea's ETNews reports the Air 2 keeps the first Air's display specs so Apple can use existing OLED inventory, with Samsung Display the only supplier and panel production starting in late December or early January for a March launch (MacRumors). That supports the spring timing and an unchanged screen, but says nothing about the chip or cameras, so it stays a Rumor. Update Nov 20: Sonny Dickson posted new dummy units of the Air 2 and iPhone 18 showing two horizontally placed rear cameras on the Air's wide plateau (MacRumors). It is more support for the dual-camera design only; chip, screen and battery claims are unchanged, so it stays a Rumor. Update Nov 24: CAD files seen by Engadget, from a source with an accurate record on iPhone colors, show the Air 2 staying 5.6mm thick with two horizontally aligned rear lenses in a camera module that grows from 3.45mm to 3.8mm. That backs Gurman, Digital Chat Station and Jeff Pu on a second camera, but not the 48MP ultrawide resolution, chip or battery, so the full claim stays a Rumor.",
       "sources": [
+        {
+          "name": "Engadget (CAD leak)",
+          "url": "https://www.engadget.com/2325828/new-leaks-reveal-the-iphone-18e-will-have-a-redesigned-camera-plateau/"
+        },
         {
           "name": "MacRumors (Nov 20, Sonny Dickson dummies)",
           "url": "https://www.macrumors.com/2026/11/20/iphone-air-2-and-iphone-18-dummy-models/"
@@ -3012,11 +3042,15 @@
       ],
       "status": "Active",
       "first_reported": "2026-11-03",
-      "updated": "2026-11-04",
+      "updated": "2026-11-24",
       "expected": "Mid-2027 (expected launch)",
       "claim": "Samsung's 2027 book-style foldables carry over their rear cameras: the Fold9 Ultra keeps a 200MP main, 50MP ultrawide and 3x telephoto, and the wide Fold9 keeps 50MP main and 50MP ultrawide cameras.",
-      "why": "From Korean tipster Lanzuk, relayed by GSMArena, SamMobile and Android Police. Lanzuk has a decent record, including correctly calling video LUTs on the Fold8 Ultra. The claim fits Samsung's habit of reusing sensors, but it is one source and gives no telephoto resolution. See also our separate under-display selfie camera rumor.",
+      "why": "From Korean tipster Lanzuk, relayed by GSMArena, SamMobile and Android Police. Lanzuk has a decent record, including correctly calling video LUTs on the Fold8 Ultra. The claim fits Samsung's habit of reusing sensors, but it is one source and gives no telephoto resolution. See also our separate under-display selfie camera rumor. Update Nov 24: a leaked listing screenshot (via Android Police) shows the Fold9 Ultra (codename Q9) with a 200MP main sensor and the Flip9 (B9) keeping a 50MP main camera, in line with Lanzuk. It still says nothing about the telephoto, so it stays a Rumor.",
       "sources": [
+        {
+          "name": "Android Police (Flip9 and Fold9 Ultra listing)",
+          "url": "https://www.androidpolice.com/galaxy-z-flip-9-fold-9-ultra-leaks-show-samsung-skipping-camera-upgrades-2027/"
+        },
         {
           "name": "GSMArena",
           "url": "https://www.gsmarena.com/tipster_brings_bad_news_for_the_galaxy_z_fold9_and_z_fold9_ultra_cameras-news-75330.php"
@@ -3955,19 +3989,23 @@
       ]
     },
     {
-      "status": "Active",
+      "status": "Resolved",
       "first_reported": "2026-11-17",
-      "updated": "2026-11-21",
+      "updated": "2026-11-24",
       "id": "huawei-watch-air-6-9mm",
       "title": "Huawei Watch Air is a 6.9mm titanium smartwatch with up to 5 days of battery",
-      "rating": "Likely",
+      "rating": "Confirmed",
       "categories": [
         "android"
       ],
       "expected": "Nov 24, 2026 (official launch event, China)",
       "claim": "Huawei's upcoming Watch Air has a 6.9mm titanium unibody, an irregular high-silicon stacked battery (over 10% silicon) for up to five days of use, Watch GT 7 Pro-level activity tracking and Watch 6 sensors including ECG.",
-      "why": "From Weibo tipster Fixed Focus Digital, relayed by GSMArena with leaked images. The name and thin design have been rumored before, but the specs come from one leaker and Huawei has not announced the watch or a date. Update Nov 19: Huawei's official teaser confirms the Watch Air name, the 6.9mm thickness and a titanium unibody, with launch on Nov 24. The battery is still unconfirmed, and Digital Chat Station now says about a week rather than five days, so the claim moves to Likely until launch. Update Nov 21: Huawei's official store Weibo account now calls the Watch Air Huawei's thinnest smartwatch at 6.9mm and confirms its Nov 24 launch. The thickness is confirmed; the titanium build and up-to-5-day battery are not yet official, so it stays Likely until launch.",
+      "why": "From Weibo tipster Fixed Focus Digital, relayed by GSMArena with leaked images. The name and thin design have been rumored before, but the specs come from one leaker and Huawei has not announced the watch or a date. Update Nov 19: Huawei's official teaser confirms the Watch Air name, the 6.9mm thickness and a titanium unibody, with launch on Nov 24. The battery is still unconfirmed, and Digital Chat Station now says about a week rather than five days, so the claim moves to Likely until launch. Update Nov 21: Huawei's official store Weibo account now calls the Watch Air Huawei's thinnest smartwatch at 6.9mm and confirms its Nov 24 launch. The thickness is confirmed; the titanium build and up-to-5-day battery are not yet official, so it stays Likely until launch. Update Nov 24: Huawei launched the Watch Air; see outcome.",
       "sources": [
+        {
+          "name": "GSMArena (launch)",
+          "url": "https://www.gsmarena.com/huawei_watch_air_arrives_as_the_thinnest_entry_in_the_series_-news-75610.php"
+        },
         {
           "name": "Beebom (official teaser)",
           "url": "https://gadgets.beebom.com/news/huawei-watch-air-officially-teased-ahead-of-launch"
@@ -3980,7 +4018,8 @@
           "name": "Huawei Mall on Weibo (via Sina)",
           "url": "https://www.sina.cn/media/2660577861"
         }
-      ]
+      ],
+      "outcome": "Correct. The launched watch is 6.9mm with a TC4 titanium case, an irregular 350mAh silicon-carbon battery rated for up to five days, and the Watch 6's health sensors including ECG. Digital Chat Station's later 'about a week' battery claim was too optimistic; the original five-day figure was right."
     },
     {
       "status": "Active",
@@ -4234,17 +4273,21 @@
     {
       "status": "Active",
       "first_reported": "2026-11-19",
-      "updated": "2026-11-21",
+      "updated": "2026-11-24",
       "id": "honor-magic-v7-wide-foldable",
       "title": "Honor Magic V7 is a wide foldable, with no regular-shaped Magic V model next year",
-      "rating": "Rumor",
+      "rating": "Likely",
       "categories": [
         "android"
       ],
-      "expected": "After Chinese New Year, early February 2027 (an October rumor said January)",
+      "expected": "March 2027 (Honor CEO, reported)",
       "claim": "Honor's next book-style foldable, the Magic V7, uses a wide form factor, and Honor won't release a conventional tall foldable alongside it.",
-      "why": "From a tipster on X, reported by GSMArena. An earlier leak described an Honor wide foldable with a Snapdragon 8 Elite Gen 6, a 7.6-inch inner screen, a 5.5-inch cover screen and over 7,000mAh from CNY 9,999, but it did not name the model. Honor has not announced anything. Update Nov 21: Digital Chat Station says Honor's wide foldable, which he links to the Magic V7 name only via earlier rumors, will most likely launch after Chinese New Year in early February, and that a non-folding wide phone is tentatively planned for the first half of 2027 (GSMArena). A second leaker supports a wide foldable existing, but the name is still unconfirmed. Stays Rumor.",
+      "why": "From a tipster on X, reported by GSMArena. An earlier leak described an Honor wide foldable with a Snapdragon 8 Elite Gen 6, a 7.6-inch inner screen, a 5.5-inch cover screen and over 7,000mAh from CNY 9,999, but it did not name the model. Honor has not announced anything. Update Nov 21: Digital Chat Station says Honor's wide foldable, which he links to the Magic V7 name only via earlier rumors, will most likely launch after Chinese New Year in early February, and that a non-folding wide phone is tentatively planned for the first half of 2027 (GSMArena). A second leaker supports a wide foldable existing, but the name is still unconfirmed. Stays Rumor. Update Nov 24 (re-rated Rumor -> Likely): at the Honor 700 launch, CEO Li Jian reportedly said Honor's first wide foldable will debut in March 2027 with a crease-free display, and urged buyers considering the iPhone Duo to wait (GSMArena). A company statement that a wide foldable is coming makes the core claim Likely. The Magic V7 name and the claim that no conventional foldable comes alongside are still unconfirmed, and March is later than the 'early February' leak.",
       "sources": [
+        {
+          "name": "GSMArena (CEO: March 2027)",
+          "url": "https://www.gsmarena.com/honors_first_wide_foldable_set_to_arrive_in_march_2027_with_zerocrease_display-news-75603.php"
+        },
         {
           "name": "GSMArena",
           "url": "https://www.gsmarena.com/honor_magic_v7_will_reportedly_be_a_wide_foldable-news-75534.php"
@@ -4816,6 +4859,206 @@
         {
           "name": "GSMArena",
           "url": "https://www.gsmarena.com/iphone_duo_may_soon_support_more_widgets_on_its_lock_screen-news-75588.php"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-24",
+      "updated": "2026-11-24",
+      "id": "galaxy-s27-ultra-no-laser-af",
+      "title": "Galaxy S27 Ultra drops the laser autofocus sensor",
+      "rating": "Rumor",
+      "categories": [
+        "samsung",
+        "android"
+      ],
+      "expected": "Galaxy S27 launch (early 2027)",
+      "claim": "Samsung removes the laser autofocus module that every Galaxy S Ultra has had since 2021 and relies on AI-based focusing instead, alongside dropping the 3x telephoto.",
+      "why": "From Ice Universe, relayed by GSMArena, SamMobile and Android Police. His earlier render of the S27 Pro and Ultra camera island also appears to lack a laser AF module, and he has a strong Samsung record, but it is still one source and Samsung has said nothing. Rumor.",
+      "sources": [
+        {
+          "name": "GSMArena",
+          "url": "https://www.gsmarena.com/galaxy_s27_ultra_could_lose_another_camera_component_alongside_3x_telephoto-news-75608.php"
+        },
+        {
+          "name": "SamMobile",
+          "url": "https://www.sammobile.com/news/galaxy-s27-ultra-may-lose-laser-autofocus-alongside-3x-telephoto-camera/"
+        },
+        {
+          "name": "Android Police",
+          "url": "https://www.androidpolice.com/galaxy-s27-ultra-ditch-laser-auto-focus/"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-24",
+      "updated": "2026-11-24",
+      "id": "galaxy-s27-lpddr6-top-models-only",
+      "title": "Only three Galaxy S27 configurations get LPDDR6 RAM and UFS 5.0 storage",
+      "rating": "Rumor",
+      "categories": [
+        "samsung",
+        "android"
+      ],
+      "expected": "Galaxy S27 launch (early 2027)",
+      "claim": "LPDDR6 and UFS 5.0 go only into the 16GB/1TB S27 Pro and the 12GB/512GB and 16GB/1TB S27 Ultra; every other S27, S27+, S27 Pro and base S27 Ultra (12GB/256GB) uses LPDDR5X and UFS 4.1.",
+      "why": "From tipster Meeco's claimed 'final' configuration list, relayed by Android Headlines, SamMobile and Digital Trends; outlets tie it to AI-driven memory shortages and costs. It is one leaker and Samsung has not commented. Rumor.",
+      "sources": [
+        {
+          "name": "Android Headlines",
+          "url": "https://www.androidheadlines.com/2026/11/only-three-galaxy-s27-configurations-will-use-lpddr6-ram-and-ufs-5-0-storage.html"
+        },
+        {
+          "name": "SamMobile",
+          "url": "https://www.sammobile.com/news/galaxy-s27-pro-ultra-variants-lpddr6-ram-ufs-5-storage/"
+        },
+        {
+          "name": "Digital Trends",
+          "url": "https://www.digitaltrends.com/phones/the-base-galaxy-s27-ultra-could-miss-out-on-samsungs-faster-ram-and-storage/"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-24",
+      "updated": "2026-11-24",
+      "id": "apple-product-red-homepod-airpods-max",
+      "title": "Apple revives (PRODUCT)RED with a red HomePod mini 2 and AirPods Max 2",
+      "rating": "Rumor",
+      "categories": [
+        "apple"
+      ],
+      "expected": "On or around Dec 1, 2026 (World AIDS Day, reported)",
+      "claim": "Apple will release a HomePod mini 2 with red mesh and a silver AirPods Max 2 with white cushions and headband and a red Digital Crown, plus red AirPods Wrist Strap and Apple Watch Sport Band, tied to World AIDS Day on Dec 1.",
+      "why": "Reported by Bloomberg's Mark Gurman, who has a strong Apple record, and relayed by MacRumors and The Verge. Apple has sold no (PRODUCT)RED devices since early 2025, so this would be a revival. One source and a date that is only reported, so it is a Rumor until Apple announces it; we will check after Dec 1.",
+      "sources": [
+        {
+          "name": "MacRumors",
+          "url": "https://www.macrumors.com/2026/11/23/product-red-homepod-mini-airpods-max/"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1040436/apple-is-reportedly-reviving-its-productred-line-with-the-homepod-mini-2-and-airpods-max-2"
+        },
+        {
+          "name": "Mark Gurman (Threads)",
+          "url": "https://www.threads.com/@markgurman/post/DgGGoU-iZ7W/new-apple-isnt-done-launching-products-this-year-the-company-plans-to-revive/"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-24",
+      "updated": "2026-11-24",
+      "id": "iphone-18e-camera-plateau",
+      "title": "iPhone 18e gets a square, iPad Pro-style camera bump",
+      "rating": "Rumor",
+      "categories": [
+        "apple"
+      ],
+      "expected": "Spring 2027 (iPhone 18e launch, expected)",
+      "claim": "The iPhone 18e replaces the 17e's bare protruding lens with a roughly 28 x 35mm square camera plateau holding the single camera, flash and microphone; the iPhone 18 keeps its design with a thicker 3.8mm camera module.",
+      "why": "From CAD files seen by Engadget, whose source previously leaked iPhone 17 and iPhone 18 Pro colors accurately; relayed by 9to5Mac and MacRumors. CAD leaks are decent evidence, but it is one source and Engadget notes Apple could still change the design. Rumor.",
+      "sources": [
+        {
+          "name": "Engadget",
+          "url": "https://www.engadget.com/2325828/new-leaks-reveal-the-iphone-18e-will-have-a-redesigned-camera-plateau/"
+        },
+        {
+          "name": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/24/cad-images-suggest-iphone-18e-will-have-an-odd-new-camera-design/"
+        },
+        {
+          "name": "MacRumors",
+          "url": "https://www.macrumors.com/2026/11/24/iphone-18e-to-get-redesigned-ipad-pro-style-camera/"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-24",
+      "updated": "2026-11-24",
+      "id": "iphone-duo-samsung-sole-panel-supplier",
+      "title": "Samsung Display stays the only iPhone Duo screen supplier for five more years",
+      "rating": "Rumor",
+      "categories": [
+        "apple",
+        "samsung"
+      ],
+      "expected": "Next five years (leak)",
+      "claim": "Samsung Display will remain Apple's sole supplier of foldable OLED panels for the iPhone Duo for at least five more years because of its lead in crease control, reliability and yields.",
+      "why": "From Weibo leaker Instant Digital, relayed by SamMobile, MacRumors and AppleInsider. It is plausible (LG Display reportedly isn't making folding panels and BOE hasn't met Apple's bar), but it is a long-range supply claim from one leaker with a mixed record. Rumor.",
+      "sources": [
+        {
+          "name": "MacRumors",
+          "url": "https://www.macrumors.com/2026/11/23/apple-may-be-stuck-with-samsung-for-iphone-duo/"
+        },
+        {
+          "name": "SamMobile",
+          "url": "https://www.sammobile.com/news/samsung-iphone-duo-oled-supplier-forseeable-future/"
+        },
+        {
+          "name": "AppleInsider",
+          "url": "https://appleinsider.com/articles/26/11/23/samsung-display-to-remain-sole-iphone-duo-screen-supplier"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-24",
+      "updated": "2026-11-24",
+      "id": "intel-arc-g3-play",
+      "title": "Intel readies a cheaper 'Arc G3 Play' handheld chip with four Xe3 GPU cores",
+      "rating": "Rumor",
+      "categories": [
+        "chips",
+        "gaming"
+      ],
+      "expected": "Not announced (no date)",
+      "claim": "Intel is preparing an entry-level Panther Lake handheld chip, the Arc G3 Play, with four Xe3 graphics cores (versus 10 on the Arc G3 and 12 on the Arc G3 Extreme) and eight E-cores only, aimed at cheaper gaming handhelds.",
+      "why": "A VideoCardz exclusive, relayed by Notebookcheck and ComputerBase. VideoCardz has a good record on unreleased chips, but Intel has not commented and no device maker has announced a handheld with it. A reported 8-25W power range and VideoCardz's forecast of sub-$800 handhelds are less solid than the core counts. Rumor.",
+      "sources": [
+        {
+          "name": "VideoCardz",
+          "url": "https://videocardz.com/newz/exclusive-intel-prepares-arc-g3-play-soc-for-budget-gaming-handhelds-with-just-4-xe3-cores"
+        },
+        {
+          "name": "Notebookcheck",
+          "url": "https://www.notebookcheck.net/Intel-Arc-G3-Play-reportedly-pairs-eight-E-cores-with-four-Xe3-cores.1457888.0.html"
+        },
+        {
+          "name": "ComputerBase (German)",
+          "url": "https://www.computerbase.de/news/prozessoren/arc-g3-play-intel-soll-handheld-chip-auf-vier-xe3-kerne-stutzen.100457/"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-24",
+      "updated": "2026-11-24",
+      "id": "xbox-helix-free-multiplayer",
+      "title": "Xbox Helix was planned with free online multiplayer and Steam access",
+      "rating": "Rumor",
+      "categories": [
+        "gaming"
+      ],
+      "expected": "Next Xbox (2028, reported); plan may change",
+      "claim": "Microsoft's Project Helix console was conceived as a console-PC hybrid with full Windows PC games, stores such as Steam, and no subscription needed for online multiplayer, though new Xbox leadership and rising costs may change that.",
+      "why": "From Windows Central's Jez Corden, citing sources, relayed by GameSpot and GamesRadar. It describes an original plan made under Phil Spencer and Sarah Bond, and Corden himself says it may not survive under the new leadership, so it says little about the final product. Microsoft has not commented. Rumor.",
+      "sources": [
+        {
+          "name": "Windows Central",
+          "url": "https://www.windowscentral.com/gaming/xbox/xbox-previously-planned-to-remove-the-paywall-for-xbox-live-multiplayer-will-xbox-helix-still-be-able-to"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/xbox-project-helix-was-reportedly-designed-to-make-online-multiplayer-free/"
+        },
+        {
+          "name": "GamesRadar+",
+          "url": "https://www.gamesradar.com/hardware/xbox-project-helix-was-reportedly-planned-to-run-steam-games-and-have-free-online-multiplayer-but-microsoft-scrapped-its-initial-pc-like-design/"
         }
       ]
     }

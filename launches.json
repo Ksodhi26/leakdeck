@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23",
+  "updated": "2026-11-24",
   "items": [
     {
       "id": "gtc-berlin-2026",
@@ -2858,7 +2858,7 @@
       "status": "Confirmed",
       "price": "$1,599 (12GB/512GB, US)",
       "summary": "Motorola's Signature 27 costs $1,599.99 unlocked in the US; pre-orders open Nov 19 at Motorola, Amazon and Best Buy, with sales from Nov 26.",
-      "details": "Unveiled at Qualcomm's Snapdragon Summit in September with the Snapdragon 8 Elite Gen 6 (Motorola's page calls it 'Extreme'). Motorola's US landing page says 'coming this November', and an India page now says the same. European retailer listings point to about EUR 1,595 (see the rumor tracker); Motorola has not given US pricing. Update Oct 30: Motorola said on X that it will show the phone on Nov 5; it has not said whether that is also the US on-sale date. Update Oct 31: a Signature 27 on Android 17 with 12GB of RAM appeared on Geekbench (3,313 single-core, 11,088 multi-core); Motorola has confirmed a 50MP Sony LYT 910 main camera, a 200MP periscope, a larger vapor chamber and seven years of OS updates, but still no US price or on-sale date. Update Nov 2: Motorola confirmed more specs through a sponsored preview with YouTuber Danny Winget, including a tandem OLED screen it rates at up to 12,000 nits peak, a 50MP Sony LYTIA main sensor with LOFIC, aluminum and ceramic materials and two Pantone colors. Price and US on-sale date are still expected on Nov 5. Update Nov 5: Motorola fully announced the phone. US: one 12GB/512GB model at $1,599, pre-orders open on Motorola.com, Best Buy and Amazon, on sale Nov 19, unlocked, in Coal Smoke and Capulet Olive, with a free Moto Watch Ultra as a pre-order offer; no Canada launch. Europe, Middle East and Africa: Nov 16, at a recommended EUR 1,899, though GSMArena says some retailers and partners will sell it for EUR 1,399. Specs: Snapdragon 8 Elite Extreme Gen 6, 6.8-inch tandem OLED (12,000 nits peak), 7,000mAh silicon-carbon battery with 90W wired and 50W wireless charging, 50MP main, 50MP ultrawide and 200MP 3x periscope cameras plus a dedicated event-vision 'action' sensor, IP68/IP69, 227 g, Android 17 with seven years of updates. Update Nov 17: Motorola told Android Authority that the German Signature 27 uses a 5,500mAh battery instead of 7,000mAh because of local lithium-battery transport rules; the EU energy label rates it at about 61.5 hours per charge versus about 77.75 hours for the 7,000mAh model. Correction Nov 19: we had listed Nov 19 as the US on-sale date, based on 9to5Google's launch report. Android Authority, Android Headlines and AndroidPure (citing Motorola's release) say US pre-orders open Nov 19 and sales begin Nov 26, so we moved the date. Motorola's own US store page currently shows an expected ship date of Dec 4 for new orders.",
+      "details": "Unveiled at Qualcomm's Snapdragon Summit in September with the Snapdragon 8 Elite Gen 6 (Motorola's page calls it 'Extreme'). Motorola's US landing page says 'coming this November', and an India page now says the same. European retailer listings point to about EUR 1,595 (see the rumor tracker); Motorola has not given US pricing. Update Oct 30: Motorola said on X that it will show the phone on Nov 5; it has not said whether that is also the US on-sale date. Update Oct 31: a Signature 27 on Android 17 with 12GB of RAM appeared on Geekbench (3,313 single-core, 11,088 multi-core); Motorola has confirmed a 50MP Sony LYT 910 main camera, a 200MP periscope, a larger vapor chamber and seven years of OS updates, but still no US price or on-sale date. Update Nov 2: Motorola confirmed more specs through a sponsored preview with YouTuber Danny Winget, including a tandem OLED screen it rates at up to 12,000 nits peak, a 50MP Sony LYTIA main sensor with LOFIC, aluminum and ceramic materials and two Pantone colors. Price and US on-sale date are still expected on Nov 5. Update Nov 5: Motorola fully announced the phone. US: one 12GB/512GB model at $1,599, pre-orders open on Motorola.com, Best Buy and Amazon, on sale Nov 19, unlocked, in Coal Smoke and Capulet Olive, with a free Moto Watch Ultra as a pre-order offer; no Canada launch. Europe, Middle East and Africa: Nov 16, at a recommended EUR 1,899, though GSMArena says some retailers and partners will sell it for EUR 1,399. Specs: Snapdragon 8 Elite Extreme Gen 6, 6.8-inch tandem OLED (12,000 nits peak), 7,000mAh silicon-carbon battery with 90W wired and 50W wireless charging, 50MP main, 50MP ultrawide and 200MP 3x periscope cameras plus a dedicated event-vision 'action' sensor, IP68/IP69, 227 g, Android 17 with seven years of updates. Update Nov 17: Motorola told Android Authority that the German Signature 27 uses a 5,500mAh battery instead of 7,000mAh because of local lithium-battery transport rules; the EU energy label rates it at about 61.5 hours per charge versus about 77.75 hours for the 7,000mAh model. Correction Nov 19: we had listed Nov 19 as the US on-sale date, based on 9to5Google's launch report. Android Authority, Android Headlines and AndroidPure (citing Motorola's release) say US pre-orders open Nov 19 and sales begin Nov 26, so we moved the date. Motorola's own US store page currently shows an expected ship date of Dec 4 for new orders. Update Nov 24: Motorola India separately set the Signature 27's India launch for Dec 9 (see that entry); the US sale date of Nov 26 is unchanged.",
       "sources": [
         {
           "name": "Android Authority (US pre-orders Nov 19)",
@@ -3493,7 +3493,7 @@
     },
     {
       "id": "nothing-ai-native-device",
-      "name": "Nothing's first AI-native device (screenless)",
+      "name": "Nothing Ear (note) (AI recording earbuds)",
       "brand": "Nothing",
       "categories": [
         "ai",
@@ -3504,9 +3504,17 @@
       "date_label": "Dec 8, 2026 (announcement)",
       "precision": "day",
       "status": "Confirmed",
-      "summary": "Nothing will announce its first AI-native, screenless device on Dec 8; teasers point to a voice-note recorder.",
-      "details": "Pei announced the December timing in an essay posted on X on Nov 4, with a teaser image showing only rounded corners and curved edges. Nothing has not named the product or given its form factor, price or exact date, and pitches it as a productivity tool first. Earlier reports said Nothing is working on AI wearables, including smart glasses, but that is not confirmed as this device. Update Nov 19: a photo posted by DJ Sebastian Ingrosso shows a small, screenless palm-sized device that Android Authority says its sources confirm is Nothing's AI product. It has two buttons (one for recording, one labeled 'TALK') and red and green LEDs, which hints at voice notes or meeting capture, but Nothing has not said what it does. Update Nov 20: Nothing posted on X 'Be present. It's noted. 8 December.' with a close-up of a brushed metal casing and a round button (Android Authority). The date is official; the product name, what it does, price and whether Dec 8 is a full launch or only a reveal are not.",
+      "summary": "Nothing's first AI-native product, launching Dec 8, is the Ear (note): earbuds whose charging case records and transcribes meetings and calls.",
+      "details": "Pei announced the December timing in an essay posted on X on Nov 4, with a teaser image showing only rounded corners and curved edges. Nothing has not named the product or given its form factor, price or exact date, and pitches it as a productivity tool first. Earlier reports said Nothing is working on AI wearables, including smart glasses, but that is not confirmed as this device. Update Nov 19: a photo posted by DJ Sebastian Ingrosso shows a small, screenless palm-sized device that Android Authority says its sources confirm is Nothing's AI product. It has two buttons (one for recording, one labeled 'TALK') and red and green LEDs, which hints at voice notes or meeting capture, but Nothing has not said what it does. Update Nov 20: Nothing posted on X 'Be present. It's noted. 8 December.' with a close-up of a brushed metal casing and a round button (Android Authority). The date is official; the product name, what it does, price and whether Dec 8 is a full launch or only a reveal are not. Update Nov 24: Carl Pei gave Bloomberg's Mark Gurman a first look. The product is called Ear (note): earbuds plus a charging case, with microphones on both, that record and transcribe in-person conversations (via the case) and phone calls (via the earbuds). The case has a 'Talk' button that starts recording, two status LEDs and a separate record-marked button; a companion app holds recordings, summaries and transcripts, and the earbuds can talk to AI agents. Nothing says it added privacy measures but has not given a price.",
       "sources": [
+        {
+          "name": "9to5Google (Ear (note))",
+          "url": "https://9to5google.com/2026/11/23/nothing-ear-note-ai-recorder-teaser/"
+        },
+        {
+          "name": "GSMArena (Ear (note) revealed)",
+          "url": "https://www.gsmarena.com/nothings_upcoming_ai_device_is_a_pair_of_earbuds_called_the_ear_note-news-75605.php"
+        },
         {
           "name": "Android Authority (Dec 8 teaser)",
           "url": "https://www.androidauthority.com/nothing-ai-hardware-december-8-teaser-3737727/"
@@ -4050,13 +4058,21 @@
       ],
       "type": "Laptop",
       "date": "2026-11-24",
-      "date_label": "Nov 24, 2026 (final payment and expected launch; China pre-orders opened Nov 14)",
+      "date_label": "Nov 24, 2026 (China launch; on sale Nov 27)",
       "precision": "day",
-      "status": "Confirmed",
-      "price": "",
-      "summary": "Huawei opened China pre-orders for the 14.7-inch MateBook Fold S foldable HarmonyOS PC on Nov 14, without a price; final payments are due Nov 24.",
-      "details": "Huawei teased the MateBook Fold S on Nov 10 as the third model in its foldable-PC line after the 18-inch MateBook Fold Ultimate and its 2026 edition. It has a 14.7-inch folding screen and a square 'Live Mini Display' on the back that users can personalize and that works while folded. Colors are Cloud Blue, Sky White and Midnight Black. Huawei has not given specs, chip or price yet. Update Nov 14: pre-orders opened as planned at 10:08 on Huawei Mall, authorized e-commerce stores and Huawei retail stores, in Cloud Sea Blue, Sky White and black. The pre-order page lists four versions: 16GB/256GB, 16GB/512GB and 24GB/512GB (each bundled with the keyboard and a sleeve) and 32GB/1TB (also with a stylus). IT Home says it folds to 10.7 inches. Huawei still has not given a price; IT Home notes the page mentions a 1,500-yuan national subsidy, which it reads as a price above 9,999 yuan, but that is an inference. Final payments are due Nov 24, which points to a launch event that day; we will mark it Released once it goes on sale with a price. Update Nov 16: Huawei announced an all-scenario launch event on Nov 24 headlined by the Mate X8 foldable; Huawei Central reads the teaser as also showing the MateBook Fold S.",
+      "status": "Released",
+      "price": "From CNY 14,999 (16GB/256GB with keyboard); 32GB/1TB with stylus CNY 22,999",
+      "summary": "Huawei launched the 14.7-inch MateBook Fold S, its first small HarmonyOS foldable PC, in China on Nov 24 from CNY 14,999; sales start Nov 27.",
+      "details": "Huawei teased the MateBook Fold S on Nov 10 as the third model in its foldable-PC line after the 18-inch MateBook Fold Ultimate and its 2026 edition. It has a 14.7-inch folding screen and a square 'Live Mini Display' on the back that users can personalize and that works while folded. Colors are Cloud Blue, Sky White and Midnight Black. Huawei has not given specs, chip or price yet. Update Nov 14: pre-orders opened as planned at 10:08 on Huawei Mall, authorized e-commerce stores and Huawei retail stores, in Cloud Sea Blue, Sky White and black. The pre-order page lists four versions: 16GB/256GB, 16GB/512GB and 24GB/512GB (each bundled with the keyboard and a sleeve) and 32GB/1TB (also with a stylus). IT Home says it folds to 10.7 inches. Huawei still has not given a price; IT Home notes the page mentions a 1,500-yuan national subsidy, which it reads as a price above 9,999 yuan, but that is an inference. Final payments are due Nov 24, which points to a launch event that day; we will mark it Released once it goes on sale with a price. Update Nov 16: Huawei announced an all-scenario launch event on Nov 24 headlined by the Mate X8 foldable; Huawei Central reads the teaser as also showing the MateBook Fold S. Update Nov 24 (launched): IT Home lists the Kirin XE90 chip, a 14.7-inch OLED inner screen, 639g and 6.49mm unfolded, and these bundles (each with the keyboard and sleeve): 16GB/256GB CNY 14,999, 16GB/512GB CNY 16,999, 24GB/512GB CNY 18,999, 32GB/1TB with stylus CNY 22,999, plus a CNY 24,999 limited set; the folding keyboard alone is CNY 1,299. Sina says sales start Nov 27 in Cloud Sea Blue, Midnight Black and Sky White. Huawei also added a CNY 29,999 red Ultimate Design edition of the larger MateBook Fold (32GB/2TB).",
       "sources": [
+        {
+          "name": "Sina Tech (sale dates, Chinese)",
+          "url": "https://finance.sina.com.cn/tech/discovery/2026-11-24/doc-inizvqth9030744.shtml"
+        },
+        {
+          "name": "IT Home (launch and prices, Chinese)",
+          "url": "https://www.ithome.com/1/031/537.htm"
+        },
         {
           "name": "Huawei Central (Nov 16, Nov 24 event)",
           "url": "https://www.huaweicentral.com/huawei-mate-x8-launch-november-24/"
@@ -4488,13 +4504,21 @@
       ],
       "type": "Car",
       "date": "2026-11-24",
-      "date_label": "Nov 24, 2026 (China launch; pre-sales since Nov 13)",
+      "date_label": "Nov 24, 2026 (China launch)",
       "precision": "day",
-      "status": "Confirmed",
-      "price": "Pre-sale 225,000-260,000 yuan",
-      "summary": "BYD's third-generation Tang, a five-seat electric SUV with up to 850 km of CLTC range, launches in China on Nov 24 after pre-sales from 225,000 yuan.",
-      "details": "BYD Dynasty sales chief Lu Tian announced pre-sales on Weibo on Nov 13, with cars already arriving at dealerships. Three versions: two rear-wheel-drive versions (850 km CLTC) at 225,000 and 240,000 yuan, and a dual-motor all-wheel-drive version (770 km, 515 kW combined) at 260,000 yuan. It uses BYD's second-generation Blade Battery with flash charging (10-70% in about 5 minutes), measures 5,045 mm long on a 2,950 mm wheelbase, and has a 35.4-inch display above a 30-inch panoramic touchscreen and a 205-liter frunk. It sits below the seven-seat Da Tang (from 239,900 yuan). The SUV debuted at the Chengdu Auto Show in August with a launch promised for the fourth quarter; final prices and full equipment come at launch. Update Nov 16: BYD set the official launch for Nov 24, per Yiche via CnEVPost; final prices and the configuration sheet come then.",
+      "status": "Released",
+      "price": "187,900-219,900 yuan (AWD package +20,000 yuan)",
+      "summary": "BYD launched the third-generation Tang electric SUV in China on Nov 24 from 187,900 yuan, about 16% below its pre-sale price, with up to 850 km of CLTC range.",
+      "details": "BYD Dynasty sales chief Lu Tian announced pre-sales on Weibo on Nov 13, with cars already arriving at dealerships. Three versions: two rear-wheel-drive versions (850 km CLTC) at 225,000 and 240,000 yuan, and a dual-motor all-wheel-drive version (770 km, 515 kW combined) at 260,000 yuan. It uses BYD's second-generation Blade Battery with flash charging (10-70% in about 5 minutes), measures 5,045 mm long on a 2,950 mm wheelbase, and has a 35.4-inch display above a 30-inch panoramic touchscreen and a 205-liter frunk. It sits below the seven-seat Da Tang (from 239,900 yuan). The SUV debuted at the Chengdu Auto Show in August with a launch promised for the fourth quarter; final prices and full equipment come at launch. Update Nov 16: BYD set the official launch for Nov 24, per Yiche via CnEVPost; final prices and the configuration sheet come then. Update Nov 24 (launched): final prices came in well below the pre-sale figures. Three rear-wheel-drive versions: 730 km at 187,900 yuan and two 850 km laser-lidar versions at 207,900 and 219,900 yuan; the top trim can add an all-wheel-drive drive-by-wire package for 20,000 yuan. Batteries are 88.682 kWh and 105.792 kWh second-generation Blade packs.",
       "sources": [
+        {
+          "name": "IT Home (trims and prices, Chinese)",
+          "url": "https://www.ithome.com/1/031/865.htm"
+        },
+        {
+          "name": "CnEVPost (launch)",
+          "url": "https://cnevpost.com/2026/11/24/byd-launches-3rd-gen-tang-electric-suv/"
+        },
         {
           "name": "CnEVPost (Nov 16, Nov 24 launch)",
           "url": "https://cnevpost.com/2026/11/16/byd-to-launch-3rd-gen-tang-nov-24/"
@@ -4582,13 +4606,25 @@
       ],
       "type": "Phone",
       "date": "2026-11-24",
-      "date_label": "Nov 24, 2026, 2:30 PM China time (launch event)",
+      "date_label": "Nov 24, 2026 (China launch; pre-sales open, on sale Dec 4; 2TB Collector's Edition Dec 20)",
       "precision": "day",
-      "status": "Confirmed",
-      "price": "",
-      "summary": "Huawei will unveil the Mate X8 book-style foldable at a China launch event on Nov 24, alongside other new devices.",
-      "details": "Huawei announced the event on Weibo on Nov 16. The teaser shows a purple Mate X8 with a round, four-camera Mate-style camera island. Huawei Central lists a 50MP variable-aperture main camera, a 40MP ultrawide and a 50MP 3.5x telephoto macro; leaks point to an 8.15-inch inner and 6.5-inch cover screen and a Kirin 9050-series chip, but specs and prices are not official yet. See the rumor tracker for the leaked details. Update Nov 19: Huawei says the Mate 90 Air thin phone and the Watch Air will also be unveiled at this event (see their entries).",
+      "status": "Released",
+      "price": "From CNY 12,999 (12GB/256GB); Collector's Edition from CNY 15,999",
+      "summary": "Huawei launched the Mate X8 book-style foldable in China on Nov 24 with an 8.2-inch inner screen, the Kirin 9050 Pro and a 6,200mAh battery, from CNY 12,999.",
+      "details": "Huawei announced the event on Weibo on Nov 16. The teaser shows a purple Mate X8 with a round, four-camera Mate-style camera island. Huawei Central lists a 50MP variable-aperture main camera, a 40MP ultrawide and a 50MP 3.5x telephoto macro; leaks point to an 8.15-inch inner and 6.5-inch cover screen and a Kirin 9050-series chip, but specs and prices are not official yet. See the rumor tracker for the leaked details. Update Nov 19: Huawei says the Mate 90 Air thin phone and the Watch Air will also be unveiled at this event (see their entries). Update Nov 24 (launched): Huawei's spec page lists an 8.2-inch 2424x2340 LTPO inner OLED and a 6.54-inch dual-layer LTPO cover OLED (both 1-120Hz), the Kirin 9050 Pro on every model, HarmonyOS 7.0, 4.2mm unfolded and 8.95mm folded, about 237g (239g Collector's Edition), and a 6,200mAh battery with 66W wired and 50W wireless charging. Cameras: 50MP RYYB variable-aperture main (f/1.49-4.0, 1/1.28-inch on the Collector's Edition), 40MP ultrawide and 50MP periscope telephoto; it also works with Huawei's Ruiying Z10 1-inch camera add-on. Prices: CNY 12,999 (12/256GB) and CNY 13,999 (12/512GB); the 16GB Collector's Edition (512GB to 2TB) starts at CNY 15,999. Pre-sales opened Nov 24 at 18:08 China time, open sales start Dec 4 and the 2TB Collector's Edition follows Dec 20. No international launch has been announced.",
       "sources": [
+        {
+          "name": "Android Authority (launch and prices)",
+          "url": "https://www.androidauthority.com/huawei-mate-x8-foldable-launched-3738728/"
+        },
+        {
+          "name": "Gizmochina (launch)",
+          "url": "https://www.gizmochina.com/2026/11/24/huawei-mate-x8-launches-8-2-inch-kirin-9050-pro-6200mah-battery/"
+        },
+        {
+          "name": "Huawei (official specs, Chinese)",
+          "url": "https://consumer.huawei.com/cn/phones/mate-x8/specs/"
+        },
         {
           "name": "Huawei Central",
           "url": "https://www.huaweicentral.com/huawei-mate-x8-launch-november-24/"
@@ -4600,6 +4636,14 @@
         {
           "name": "Beebom",
           "url": "https://gadgets.beebom.com/news/huawei-mate-x8-foldable-china-launch-date-confirmed"
+        },
+        {
+          "name": "ifeng (prices and sale date, Chinese)",
+          "url": "https://tech.ifeng.com/c/8yJkdn2BFF7"
+        },
+        {
+          "name": "MobiDevices (sale dates)",
+          "url": "https://mobidevices.com/en/huawei-mate-x8"
         }
       ]
     },
@@ -4673,13 +4717,21 @@
       ],
       "type": "Phone",
       "date": "2026-11-24",
-      "date_label": "Nov 24, 2026 (India, via Flipkart)",
+      "date_label": "Nov 24, 2026 (India launch; sales from Dec 1)",
       "precision": "day",
-      "status": "Confirmed",
-      "price": "",
-      "summary": "Motorola launches the Edge 70 Neo in India on Nov 24 with a Snapdragon 7s Gen 3, a 7,000mAh battery and a 144Hz 6.8-inch screen.",
-      "details": "Motorola's Flipkart teaser page shows a sage-colored phone with a raised rounded-square camera island marked '50MP', 'Ultra HDR', 'OIS' and 'Lytia', a curved display with a centered punch-hole, and prompt-based AI photo editing. Motorola has not published specs or a price; the leaked spec list (Snapdragon 7s Gen 3, 7,000mAh battery, 144Hz screen) is in the rumor tracker. Update Nov 19: Motorola has confirmed the main specs: a 6.8-inch 1.5K 144Hz AMOLED (5,200 nits peak, Gorilla Glass 7i), Snapdragon 7s Gen 3 with up to 8GB of RAM, a 50MP Sony Lytia 710 main camera, a 7,000mAh battery with 45W charging and 7.5W reverse wired charging, IP64, and four Pantone colors. The price is still unannounced.",
+      "status": "Released",
+      "price": "INR 40,999 (8GB/128GB); INR 37,999 for the first 10 days",
+      "summary": "Motorola launched the Edge 70 Neo in India on Nov 24 at INR 40,999 (8GB/128GB), with a Snapdragon 7s Gen 3, 7,000mAh battery and 144Hz screen; sales start Dec 1.",
+      "details": "Motorola's Flipkart teaser page shows a sage-colored phone with a raised rounded-square camera island marked '50MP', 'Ultra HDR', 'OIS' and 'Lytia', a curved display with a centered punch-hole, and prompt-based AI photo editing. Motorola has not published specs or a price; the leaked spec list (Snapdragon 7s Gen 3, 7,000mAh battery, 144Hz screen) is in the rumor tracker. Update Nov 19: Motorola has confirmed the main specs: a 6.8-inch 1.5K 144Hz AMOLED (5,200 nits peak, Gorilla Glass 7i), Snapdragon 7s Gen 3 with up to 8GB of RAM, a 50MP Sony Lytia 710 main camera, a 7,000mAh battery with 45W charging and 7.5W reverse wired charging, IP64, and four Pantone colors. The price is still unannounced. Update Nov 24 (launched): the only version is 8GB/128GB at INR 40,999, cut to INR 37,999 for the first 10 days, and INR 34,999 effective with a bank offer. It goes on sale Dec 1 on Flipkart, Motorola.in and stores including Reliance Digital, in four Pantone colors. Launch reports add a 32MP selfie camera, Android 16-based Hello UX, three OS upgrades and security updates until 2031.",
       "sources": [
+        {
+          "name": "GSMArena (price and sale date)",
+          "url": "https://www.gsmarena.com/motorola_edge_70_neo_price_sale_date-news-75606.php"
+        },
+        {
+          "name": "Moneycontrol (launch and price)",
+          "url": "https://www.moneycontrol.com/technology/motorola-edge-70-neo-with-7000mah-battery-snapdragon-7s-gen-3-chip-launched-in-india-at-rs-34-999-effective-price-article-14087883.html"
+        },
         {
           "name": "GSMArena (official specs)",
           "url": "https://www.gsmarena.com/motorola_edge_70_neo_now_has_an_official_launch_date_and_its_main_specs_confirmed-news-75533.php"
@@ -4687,6 +4739,10 @@
         {
           "name": "GSMArena (Flipkart teaser)",
           "url": "https://www.gsmarena.com/motorola_starts_teasing_the_edge_70_neo_hints_at_when_it_will_be_announced-news-75516.php"
+        },
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/technology/gadgets/motorola-launches-edge-70-neo-for-premium-segment-buyers-in-india/article71737595.ece"
         }
       ]
     },
@@ -4797,13 +4853,21 @@
       ],
       "type": "Phone",
       "date": "2026-11-24",
-      "date_label": "Nov 24, 2026, 2:30 PM China time (Mate X8 event)",
+      "date_label": "Nov 24, 2026 (China launch; pre-sales open, on sale Dec 4)",
       "precision": "day",
-      "status": "Confirmed",
-      "price": "",
-      "summary": "Huawei will unveil the Mate 90 Air, its thinnest Mate phone, at the Nov 24 Mate X8 event; reservations are open on Vmall.",
-      "details": "Huawei announced the phone on Nov 19, skipping the Mate 80 Air name that leaks had used. The Vmall reservation listing shows Rose Gold, Moon Silver and Obsidian Black with 12GB of RAM and 256GB or 512GB of storage, and a large round camera island like the rest of the Mate 90 series; full pre-sale payment opens after the launch. Tipster Digital Chat Station claims a 7-inch quad-curved screen, four rear cameras and 66W charging, but Huawei has not confirmed specs or prices. The Mate 70 Air was 6.6mm thick with a 6,500mAh battery. Update Nov 23: Digital Chat Station now claims 6.58mm and 208g, a 7-inch 120Hz AMOLED, a 6,500mAh battery with 66W charging, a two-year-old Kirin 9020 and 50MP main, 12MP telephoto and 8MP ultrawide cameras (via Notebookcheck). Still leaks until Huawei's Nov 24 event (2:30 PM China time, which is Nov 23 at 10:30 PM PT).",
+      "status": "Released",
+      "price": "CNY 4,999 (12GB/256GB), CNY 5,999 (12GB/512GB)",
+      "summary": "Huawei launched the 6.58mm Mate 90 Air in China on Nov 24 from CNY 4,999; it is largely a Mate 70 Air with a new back and the full Kirin 9020.",
+      "details": "Huawei announced the phone on Nov 19, skipping the Mate 80 Air name that leaks had used. The Vmall reservation listing shows Rose Gold, Moon Silver and Obsidian Black with 12GB of RAM and 256GB or 512GB of storage, and a large round camera island like the rest of the Mate 90 series; full pre-sale payment opens after the launch. Tipster Digital Chat Station claims a 7-inch quad-curved screen, four rear cameras and 66W charging, but Huawei has not confirmed specs or prices. The Mate 70 Air was 6.6mm thick with a 6,500mAh battery. Update Nov 23: Digital Chat Station now claims 6.58mm and 208g, a 7-inch 120Hz AMOLED, a 6,500mAh battery with 66W charging, a two-year-old Kirin 9020 and 50MP main, 12MP telephoto and 8MP ultrawide cameras (via Notebookcheck). Still leaks until Huawei's Nov 24 event (2:30 PM China time, which is Nov 23 at 10:30 PM PT). Update Nov 24 (launched): Huawei confirmed a 6.58mm body, a 7-inch 120Hz LTPO OLED with stylus support, the Kirin 9020 (the full chip rather than the Mate 70 Air's binned 9020A; Huawei claims up to 36% faster multi-core), 12GB of RAM with 256GB or 512GB, a 50MP 1/1.3-inch main camera, 12MP RYYB 3x telephoto, 8MP ultrawide and 10MP selfie camera, a 6,500mAh battery with 66W charging, IP69 and HarmonyOS 7.0. GSMArena notes the core specs barely change from the Mate 70 Air, and the 16GB option is gone. Colors are Rose Gold, Moon Silver and Obsidian Black. Pre-sales opened Nov 24 and open sales start Dec 4; no international launch has been announced. Most of the Nov 23 Digital Chat Station leak proved accurate.",
       "sources": [
+        {
+          "name": "Gizmochina (launch and sale dates)",
+          "url": "https://www.gizmochina.com/2026/11/24/huawei-mate-90-air-launches-6-58mm-kirin-9020-starts-cny-4999/"
+        },
+        {
+          "name": "GSMArena (launch)",
+          "url": "https://www.gsmarena.com/huawei_mate_90_air_arrives_with_familiar_specs_-news-75607.php"
+        },
         {
           "name": "IT Home (official date, Chinese)",
           "url": "https://www.ithome.com/1/029/151.htm"
@@ -4819,6 +4883,10 @@
         {
           "name": "Notebookcheck (Nov 23 spec leak)",
           "url": "https://www.notebookcheck.net/Leak-Huawei-Mate-90-Air-launching-soon-with-triple-camera-and-106-larger-battery-than-iPhone-Air.1457935.0.html"
+        },
+        {
+          "name": "Huawei (official page, Chinese)",
+          "url": "https://consumer.huawei.com/cn/phones/mate90-air/"
         }
       ]
     },
@@ -4831,13 +4899,21 @@
       ],
       "type": "Wearable",
       "date": "2026-11-24",
-      "date_label": "Nov 24, 2026 (Mate X8 event)",
+      "date_label": "Nov 24, 2026 (China launch; on sale Dec 4)",
       "precision": "day",
-      "status": "Confirmed",
-      "price": "",
-      "summary": "Huawei's 6.9mm titanium Watch Air, its thinnest smartwatch, launches at the Nov 24 event in China.",
-      "details": "Huawei's teaser confirms a 6.9mm titanium unibody, a square screen under sapphire glass with 1.4mm bezels, and Black, Silver and Light Gold finishes with sport, woven and Milanese straps. Tipster Digital Chat Station claims a 1.92-inch LTPO AMOLED at 3,500 nits, under 30 grams and about a week of battery, but those specs and the price are not official.",
+      "status": "Released",
+      "price": "CNY 2,499 (silicone strap) to CNY 2,999 (Milanese strap)",
+      "summary": "Huawei's 6.9mm, 27-gram Watch Air launched in China on Nov 24 from CNY 2,499, with up to five days of battery life.",
+      "details": "Huawei's teaser confirms a 6.9mm titanium unibody, a square screen under sapphire glass with 1.4mm bezels, and Black, Silver and Light Gold finishes with sport, woven and Milanese straps. Tipster Digital Chat Station claims a 1.92-inch LTPO AMOLED at 3,500 nits, under 30 grams and about a week of battery, but those specs and the price are not official. Update Nov 24 (launched): the Watch Air has a TC4 titanium case, a 1.92-inch LTPO 2.0 AMOLED (3,500 nits peak, sapphire glass), a 350mAh silicon-carbon battery rated for up to five days, the Watch 6's health sensors including ECG, 110 sport modes, 5 ATM water resistance, dual-band GNSS, NFC and HarmonyOS 7.0. It weighs 27g without the strap. Prices run from CNY 2,499 to CNY 2,999 and sales start Dec 4; no international launch has been announced.",
       "sources": [
+        {
+          "name": "IT Home (price and sale date, Chinese)",
+          "url": "https://www.ithome.com/1/031/578.htm"
+        },
+        {
+          "name": "GSMArena (launch)",
+          "url": "https://www.gsmarena.com/huawei_watch_air_arrives_as_the_thinnest_entry_in_the_series_-news-75610.php"
+        },
         {
           "name": "Beebom (official teaser)",
           "url": "https://gadgets.beebom.com/news/huawei-watch-air-officially-teased-ahead-of-launch"
@@ -5181,6 +5257,85 @@
         {
           "name": "Gizmochina",
           "url": "https://www.gizmochina.com/2026/11/23/iqoo-16-amazon-and-iqoo-16r-geekbench-listings-spotted-launch-fast-approaching/"
+        }
+      ]
+    },
+    {
+      "id": "motorola-signature-27-india",
+      "name": "Motorola Signature 27 (India)",
+      "brand": "Motorola",
+      "categories": [
+        "android"
+      ],
+      "type": "Phone",
+      "date": "2026-12-09",
+      "date_label": "Dec 9, 2026 (India launch)",
+      "precision": "day",
+      "status": "Confirmed",
+      "price": "",
+      "summary": "Motorola India says the Signature 27 flagship launches in India on Dec 9, later than the 'this November' its site first promised.",
+      "details": "Motorola will sell it through its own website and leading retail stores. GSMArena reports two Indian configurations, 12GB/256GB and 16GB/512GB. It is the same phone already on sale in Europe (from Nov 16, RRP EUR 1,899) and launching in the US at $1,599.99: a 6.78-inch 1.5K 120Hz tandem AMOLED, Snapdragon 8 Elite Extreme Gen 6, 50MP Lytia 910 main, 200MP 3x periscope and 50MP ultrawide cameras, a 50MP selfie camera, a 7,000mAh battery with 90W wired and 50W wireless charging, IP68/IP69 and Android 17 with seven OS updates. Indian prices are expected on launch day.",
+      "sources": [
+        {
+          "name": "GSMArena",
+          "url": "https://www.gsmarena.com/motorola_officially_announces_when_the_signature_27_is_coming_to_india-news-75601.php"
+        }
+      ]
+    },
+    {
+      "id": "claude-ship",
+      "name": "Claude Ship (Code Review, PR Steward, Claude Approvals)",
+      "brand": "Anthropic",
+      "categories": [
+        "ai"
+      ],
+      "type": "Software",
+      "date": "2026-11-23",
+      "date_label": "Nov 23, 2026 (beta; Team and Enterprise plans, GitHub)",
+      "precision": "day",
+      "status": "Released",
+      "price": "Claude Team and Enterprise plans (usage-based; monthly spend limits available)",
+      "summary": "Anthropic launched Claude Ship, a set of agents that review pull requests, fix them and approve routine changes under a team-written policy.",
+      "details": "Claude Ship combines Code Review (already generally available, with Quick, Standard or Deep levels) with two new beta agents: PR Steward, which fixes failing CI checks, merge conflicts and review feedback and comments after every push with how to undo it, but never approves or merges; and Claude Approvals, which approves routine changes according to a natural-language policy file kept in the repository and escalates others to people. It works on GitHub repositories for Claude Team and Enterprise customers. Anthropic suggests running Approvals in observe-only mode first and warns it may miss bugs or security issues. Anthropic says merged PRs on the Claude Code team more than doubled from June to September while reverts fell by over 40%; that is its own figure.",
+      "sources": [
+        {
+          "name": "Anthropic",
+          "url": "https://claude.com/resources/articles/introducing-claude-ship"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
+        },
+        {
+          "name": "Claude Code docs",
+          "url": "https://code.claude.com/docs/en/claude-ship"
+        }
+      ]
+    },
+    {
+      "id": "gemini-call-for-me-pixel",
+      "name": "Gemini 'Call for me' on Pixel 11 (early preview, US)",
+      "brand": "Google",
+      "categories": [
+        "ai",
+        "android"
+      ],
+      "type": "Software",
+      "date": "2026-11-24",
+      "date_label": "Nov 24, 2026 (gradual rollout, early preview)",
+      "precision": "day",
+      "status": "Released",
+      "price": "Requires a paid Google AI subscription",
+      "summary": "Google is rolling out Gemini 'Call for me', which phones businesses for you to check stock, get quotes or make reservations, to Pixel 11 owners in the US.",
+      "details": "Gemini shows the number and what it will ask before dialing, introduces itself as the user's AI assistant, says the call is recorded, and gives a live transcript you can listen to or take over; afterwards it posts a summary. It can navigate phone menus and wait on hold but cannot make emergency or marketing calls or complete payments. Requirements: a Pixel 11 with a US SIM, a Google AI subscription, the public beta of the Phone by Google app, English as the device language, age 18+ and US location; it can only call US numbers and has an unspecified daily limit. Google says transcripts are stored on its servers, recordings only on the device, and neither is used for training.",
+      "sources": [
+        {
+          "name": "Notebookcheck",
+          "url": "https://www.notebookcheck.net/Google-puts-Gemini-on-the-phone-AI-handles-calls-for-questions-and-reservations.1408327.0.html"
+        },
+        {
+          "name": "Google Pixel Community",
+          "url": "https://support.google.com/pixelphone/thread/469762854/let-gemini-handle-routine-business-calls-on-pixel?hl=en"
         }
       ]
     }

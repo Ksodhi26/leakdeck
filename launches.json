@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24",
+  "updated": "2026-11-25",
   "items": [
     {
       "id": "gtc-berlin-2026",
@@ -2858,8 +2858,16 @@
       "status": "Confirmed",
       "price": "$1,599 (12GB/512GB, US)",
       "summary": "Motorola's Signature 27 costs $1,599.99 unlocked in the US; pre-orders open Nov 19 at Motorola, Amazon and Best Buy, with sales from Nov 26.",
-      "details": "Unveiled at Qualcomm's Snapdragon Summit in September with the Snapdragon 8 Elite Gen 6 (Motorola's page calls it 'Extreme'). Motorola's US landing page says 'coming this November', and an India page now says the same. European retailer listings point to about EUR 1,595 (see the rumor tracker); Motorola has not given US pricing. Update Oct 30: Motorola said on X that it will show the phone on Nov 5; it has not said whether that is also the US on-sale date. Update Oct 31: a Signature 27 on Android 17 with 12GB of RAM appeared on Geekbench (3,313 single-core, 11,088 multi-core); Motorola has confirmed a 50MP Sony LYT 910 main camera, a 200MP periscope, a larger vapor chamber and seven years of OS updates, but still no US price or on-sale date. Update Nov 2: Motorola confirmed more specs through a sponsored preview with YouTuber Danny Winget, including a tandem OLED screen it rates at up to 12,000 nits peak, a 50MP Sony LYTIA main sensor with LOFIC, aluminum and ceramic materials and two Pantone colors. Price and US on-sale date are still expected on Nov 5. Update Nov 5: Motorola fully announced the phone. US: one 12GB/512GB model at $1,599, pre-orders open on Motorola.com, Best Buy and Amazon, on sale Nov 19, unlocked, in Coal Smoke and Capulet Olive, with a free Moto Watch Ultra as a pre-order offer; no Canada launch. Europe, Middle East and Africa: Nov 16, at a recommended EUR 1,899, though GSMArena says some retailers and partners will sell it for EUR 1,399. Specs: Snapdragon 8 Elite Extreme Gen 6, 6.8-inch tandem OLED (12,000 nits peak), 7,000mAh silicon-carbon battery with 90W wired and 50W wireless charging, 50MP main, 50MP ultrawide and 200MP 3x periscope cameras plus a dedicated event-vision 'action' sensor, IP68/IP69, 227 g, Android 17 with seven years of updates. Update Nov 17: Motorola told Android Authority that the German Signature 27 uses a 5,500mAh battery instead of 7,000mAh because of local lithium-battery transport rules; the EU energy label rates it at about 61.5 hours per charge versus about 77.75 hours for the 7,000mAh model. Correction Nov 19: we had listed Nov 19 as the US on-sale date, based on 9to5Google's launch report. Android Authority, Android Headlines and AndroidPure (citing Motorola's release) say US pre-orders open Nov 19 and sales begin Nov 26, so we moved the date. Motorola's own US store page currently shows an expected ship date of Dec 4 for new orders. Update Nov 24: Motorola India separately set the Signature 27's India launch for Dec 9 (see that entry); the US sale date of Nov 26 is unchanged.",
+      "details": "Unveiled at Qualcomm's Snapdragon Summit in September with the Snapdragon 8 Elite Gen 6 (Motorola's page calls it 'Extreme'). Motorola's US landing page says 'coming this November', and an India page now says the same. European retailer listings point to about EUR 1,595 (see the rumor tracker); Motorola has not given US pricing. Update Oct 30: Motorola said on X that it will show the phone on Nov 5; it has not said whether that is also the US on-sale date. Update Oct 31: a Signature 27 on Android 17 with 12GB of RAM appeared on Geekbench (3,313 single-core, 11,088 multi-core); Motorola has confirmed a 50MP Sony LYT 910 main camera, a 200MP periscope, a larger vapor chamber and seven years of OS updates, but still no US price or on-sale date. Update Nov 2: Motorola confirmed more specs through a sponsored preview with YouTuber Danny Winget, including a tandem OLED screen it rates at up to 12,000 nits peak, a 50MP Sony LYTIA main sensor with LOFIC, aluminum and ceramic materials and two Pantone colors. Price and US on-sale date are still expected on Nov 5. Update Nov 5: Motorola fully announced the phone. US: one 12GB/512GB model at $1,599, pre-orders open on Motorola.com, Best Buy and Amazon, on sale Nov 19, unlocked, in Coal Smoke and Capulet Olive, with a free Moto Watch Ultra as a pre-order offer; no Canada launch. Europe, Middle East and Africa: Nov 16, at a recommended EUR 1,899, though GSMArena says some retailers and partners will sell it for EUR 1,399. Specs: Snapdragon 8 Elite Extreme Gen 6, 6.8-inch tandem OLED (12,000 nits peak), 7,000mAh silicon-carbon battery with 90W wired and 50W wireless charging, 50MP main, 50MP ultrawide and 200MP 3x periscope cameras plus a dedicated event-vision 'action' sensor, IP68/IP69, 227 g, Android 17 with seven years of updates. Update Nov 17: Motorola told Android Authority that the German Signature 27 uses a 5,500mAh battery instead of 7,000mAh because of local lithium-battery transport rules; the EU energy label rates it at about 61.5 hours per charge versus about 77.75 hours for the 7,000mAh model. Correction Nov 19: we had listed Nov 19 as the US on-sale date, based on 9to5Google's launch report. Android Authority, Android Headlines and AndroidPure (citing Motorola's release) say US pre-orders open Nov 19 and sales begin Nov 26, so we moved the date. Motorola's own US store page currently shows an expected ship date of Dec 4 for new orders. Update Nov 24: Motorola India separately set the Signature 27's India launch for Dec 9 (see that entry); the US sale date of Nov 26 is unchanged. Update Nov 25: Motorola told 9to5Google that demand is higher than expected, so new orders slip into December: Motorola's US store now lists a Dec 8 ship date and some Best Buy listings show Dec 11 or 'Notify Me' (Android Authority). Some early pre-orders are still due by the Nov 26 retail launch, so the on-sale date stands.",
       "sources": [
+        {
+          "name": "Android Authority (shipping delays, Nov 25)",
+          "url": "https://www.androidauthority.com/motorola-signature-27-shipping-delays-3739165/"
+        },
+        {
+          "name": "9to5Google (delivery dates slip)",
+          "url": "https://9to5google.com/2026/11/24/motorola-signature-27-delivery-dates-slip-ahead-of-launch-as-it-expands-to-more-regions/"
+        },
         {
           "name": "Android Authority (US pre-orders Nov 19)",
           "url": "https://www.androidauthority.com/motorola-signature-27-launch-3731987/"
@@ -4422,13 +4430,17 @@
       ],
       "type": "Phone",
       "date": "2026-11-26",
-      "date_label": "Nov 26, 2026 (India)",
+      "date_label": "Nov 26, 2026, 12 PM IST (India; X500, X500 Pro and X500 Pro Max)",
       "precision": "day",
       "status": "Confirmed",
       "price": "",
       "summary": "vivo India confirmed the X500 series launches in India on Nov 26, with a red finish not sold in other markets.",
-      "details": "vivo India announced the date on X on Nov 12 with a teaser showing three colors, including a new red X500. The post does not list models; reports expect the X500, X500 Pro and X500 Pro Max together. Indian prices and configurations are not announced; leaked prices are in the rumor tracker. The series launched in China on Sept 21 and the Pro models reached Europe on Oct 27.",
+      "details": "vivo India announced the date on X on Nov 12 with a teaser showing three colors, including a new red X500. The post does not list models; reports expect the X500, X500 Pro and X500 Pro Max together. Indian prices and configurations are not announced; leaked prices are in the rumor tracker. The series launched in China on Sept 21 and the Pro models reached Europe on Oct 27. Update Nov 25: vivo has confirmed all three models (X500, X500 Pro, X500 Pro Max) and the Watch GT2 for the Nov 26, 12 PM IST event (GSMArena). A tipster says sales start Dec 2; that is not official.",
       "sources": [
+        {
+          "name": "GSMArena (all three models, 12 PM)",
+          "url": "https://www.gsmarena.com/vivo_x500_series_watch_gt2_india_launch_date-news-75449.php"
+        },
         {
           "name": "Gizmochina",
           "url": "https://www.gizmochina.com/2026/11/12/vivo-x500-series-india-launch-november-26/"
@@ -5336,6 +5348,129 @@
         {
           "name": "Google Pixel Community",
           "url": "https://support.google.com/pixelphone/thread/469762854/let-gemini-handle-routine-business-calls-on-pixel?hl=en"
+        }
+      ]
+    },
+    {
+      "id": "claude-install-as-app",
+      "name": "Claude 'Install as app' for artifacts (beta, Mac and Windows)",
+      "brand": "Anthropic",
+      "categories": [
+        "ai"
+      ],
+      "type": "Software",
+      "date": "2026-11-24",
+      "date_label": "Nov 24, 2026 (beta rollout)",
+      "precision": "day",
+      "status": "Released",
+      "price": "Included in Claude plans; app use counts toward Claude usage",
+      "summary": "Anthropic now lets Claude artifacts be installed as standalone desktop apps on Mac and Windows, in beta.",
+      "details": "Installed artifacts get their own icon and window outside Claude, can send notifications, add menu bar items and use Claude connectors, and must ask permission before interacting with the computer; users choose how much access to allow. Apps can be shared with others. Use of these apps draws on the owner's Claude usage. Anthropic shipped Claude Ship for developers the day before.",
+      "sources": [
+        {
+          "name": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/24/anthropic-just-gave-claude-users-a-new-way-to-make-mac-apps/"
+        },
+        {
+          "name": "XDA Developers",
+          "url": "https://www.xda-developers.com/claudes-new-feature-can-turn-your-favorite-artifacts-into-standalone-windows-and-macos-apps/"
+        }
+      ]
+    },
+    {
+      "id": "chatgpt-codex-shared-usage-limits",
+      "name": "ChatGPT and Codex shared, token-based usage allowance (Plus, Pro, Business)",
+      "brand": "OpenAI",
+      "categories": [
+        "ai"
+      ],
+      "type": "Software",
+      "date": "2026-12-01",
+      "date_label": "December 2026 (some users earlier)",
+      "precision": "window",
+      "status": "Confirmed",
+      "price": "Plus, Pro and Business plans; extra credits purchasable",
+      "summary": "From December, ChatGPT, Work and Codex draw on one usage allowance measured in tokens on paid plans; Instant chat is exempt.",
+      "details": "An OpenAI support page (reported by Android Authority) says the change applies to Plus, Pro and Business. Today Work and Codex share a limit while regular ChatGPT chats have their own; from December heavy Codex use can reduce what is left for ChatGPT Thinking or deep research, and vice versa. Usage will be counted in tokens rather than messages, so bigger models and longer tasks use more. OpenAI has not said how large the combined allowances are, but says most users should hit limits less often. Remaining usage shows under Settings > Usage. It comes as OpenAI starts testing a combined Chat and Work experience with a small group of Pro users.",
+      "sources": [
+        {
+          "name": "Android Authority",
+          "url": "https://www.androidauthority.com/chatgpt-codex-shared-usage-limits-3739254/"
+        }
+      ]
+    },
+    {
+      "id": "marathon-symbiosis-update",
+      "name": "Marathon: Symbiosis update (Bishop runner shell)",
+      "brand": "Bungie",
+      "categories": [
+        "gaming"
+      ],
+      "type": "Game",
+      "date": "2026-12-08",
+      "date_label": "Dec 8, 2026",
+      "precision": "day",
+      "status": "Confirmed",
+      "price": "",
+      "summary": "Bungie's Symbiosis update for Marathon arrives Dec 8 with Bishop, a jet-boosted melee runner shell.",
+      "details": "Bungie's press release sets Symbiosis for Dec 8. Bishop is a close-range 'hunter killer' shell with leg-mounted thrusters, an extendable blade and throwable hacking knives, shown in a cinematic trailer on Nov 24 after a first gameplay trailer earlier in November. See Bungie's roadmap for the rest of the update's contents.",
+      "sources": [
+        {
+          "name": "Bungie Press Room",
+          "url": "https://press.bungie.com/First-look-Marathon-Symbiosis-gameplay-trailer-reveals-whats-coming-De"
+        },
+        {
+          "name": "Bungie.net (roadmap)",
+          "url": "https://www.bungie.net/7/en/News/Article/nighfall_refresh_symbiosis_roadmap"
+        },
+        {
+          "name": "PC Gamer (Bishop trailer)",
+          "url": "https://www.pcgamer.com/games/fps/marathons-new-runner-shell-is-a-jet-propelled-robot-samurai-who-wants-to-hurt-you/"
+        }
+      ]
+    },
+    {
+      "id": "iqoo-16-16s-malaysia",
+      "name": "iQOO 16 and iQOO 16s (Malaysia)",
+      "brand": "iQOO",
+      "categories": [
+        "android"
+      ],
+      "type": "Phone",
+      "date": "2026-12-08",
+      "date_label": "Dec 8, 2026 (Malaysia)",
+      "precision": "day",
+      "status": "Confirmed",
+      "price": "Pre-booking RM 1; prices not announced",
+      "summary": "iQOO launches the iQOO 16 in Malaysia on Dec 8 and will unveil the new iQOO 16s alongside it.",
+      "details": "iQOO has shown the 16s in Vector Grey and Shadow Black with a metal frame, a flat back and a three-camera island marked for 100x digital zoom; the spec sheet is not out. The 16s carries model code I2606, which has been certified in some markets as the iQOO 16R. Both phones can be pre-booked for RM 1 on vivo Malaysia's site; the iQOO 16 comes in Matrix and Alpha colors there. The iQOO 16's India launch is a separate entry.",
+      "sources": [
+        {
+          "name": "GSMArena",
+          "url": "https://www.gsmarena.com/iqoo_16s_design_colors-news-75626.php"
+        }
+      ]
+    },
+    {
+      "id": "xpeng-iron-humanoid-robot",
+      "name": "XPENG IRON humanoid robot (public release)",
+      "brand": "XPENG",
+      "categories": [
+        "ai",
+        "evs"
+      ],
+      "type": "Gadget",
+      "date": "2027-04-01",
+      "date_label": "Q2 2027 (XPENG target); store-assistant training from Q1 2027",
+      "precision": "window",
+      "status": "Estimated",
+      "price": "",
+      "summary": "XPENG gave IRON its first public showing at AI Day on Nov 25 and targets a public release in Q2 2027.",
+      "details": "At its eighth AI Day in Guangzhou, XPENG unveiled its Turing Physical AI architecture (VLA 3.0) and showed the IRON humanoid publicly for the first time: 76 degrees of freedom, more than 1,500 tactile sensing points and three of XPENG's Turing AI chips. IRON is due to start training as a store assistant in XPENG showrooms in Q1 2027. XPENG also said YOYO-01, its first purpose-built robotaxi for commercial service, is scheduled for 2027. Release timing is XPENG's target, not a firm date.",
+      "sources": [
+        {
+          "name": "XPENG (press release)",
+          "url": "https://www.xpeng.com/news/01a212b0d830a1e838d68a02a2110174"
         }
       ]
     }

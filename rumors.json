@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24",
+  "updated": "2026-11-25",
   "scale": {
     "Confirmed": "Announced by the company or shown in an official source.",
     "Likely": "Multiple credible outlets or hard evidence (certifications, databases, supply chain), but no official word.",
@@ -3623,7 +3623,7 @@
     {
       "status": "Active",
       "first_reported": "2026-11-12",
-      "updated": "2026-11-13",
+      "updated": "2026-11-25",
       "id": "spacex-tesla-merger-december",
       "title": "SpaceX and Tesla could announce a merger as soon as December",
       "rating": "Rumor",
@@ -3632,8 +3632,12 @@
       ],
       "expected": "December 2026, or early 2027 (reported)",
       "claim": "SpaceX and Tesla are progressing toward a merger that could be announced as soon as December 2026, though it may slip into early 2027.",
-      "why": "Reported by Bloomberg, citing unnamed people familiar with the talks, and relayed by The Verge, Electrek and Quartz. The people say the boards and advisers are still negotiating terms, governance and the share exchange, and that keeping Tesla's China business apart from SpaceX's defense contracts is a complication. Bloomberg has a strong record, but this is one outlet's anonymous sourcing on a deal neither company has announced, and the reported deal values differ between outlets.",
+      "why": "Reported by Bloomberg, citing unnamed people familiar with the talks, and relayed by The Verge, Electrek and Quartz. The people say the boards and advisers are still negotiating terms, governance and the share exchange, and that keeping Tesla's China business apart from SpaceX's defense contracts is a complication. Bloomberg has a strong record, but this is one outlet's anonymous sourcing on a deal neither company has announced, and the reported deal values differ between outlets. Update Nov 25: the Financial Times reports the two sides are working toward a year-end deadline, before the new Congress sits on Jan 3, though people involved say a deal is not close; it names the negotiating committees (Tesla: Robyn Denholm, Kathleen Wilson-Thompson, Jack Hartung) and says any deal needs a majority of all outstanding Tesla votes (via Electrek). A second outlet now reports active talks, but 'not close' means no change to the rating.",
       "sources": [
+        {
+          "name": "Electrek (FT report, Nov 24)",
+          "url": "https://electrek.co/2026/11/24/tesla-spacex-merger-year-end-deadline-new-congress/"
+        },
         {
           "name": "Bloomberg Law",
           "url": "https://news.bloomberglaw.com/daily-labor-report/spacex-and-tesla-talks-on-record-merger-are-said-to-progress"
@@ -4923,17 +4927,29 @@
     {
       "status": "Active",
       "first_reported": "2026-11-24",
-      "updated": "2026-11-24",
+      "updated": "2026-11-25",
       "id": "apple-product-red-homepod-airpods-max",
       "title": "Apple revives (PRODUCT)RED with a red HomePod mini 2 and AirPods Max 2",
-      "rating": "Rumor",
+      "rating": "Likely",
       "categories": [
         "apple"
       ],
       "expected": "On or around Dec 1, 2026 (World AIDS Day, reported)",
       "claim": "Apple will release a HomePod mini 2 with red mesh and a silver AirPods Max 2 with white cushions and headband and a red Digital Crown, plus red AirPods Wrist Strap and Apple Watch Sport Band, tied to World AIDS Day on Dec 1.",
-      "why": "Reported by Bloomberg's Mark Gurman, who has a strong Apple record, and relayed by MacRumors and The Verge. Apple has sold no (PRODUCT)RED devices since early 2025, so this would be a revival. One source and a date that is only reported, so it is a Rumor until Apple announces it; we will check after Dec 1.",
+      "why": "Reported by Bloomberg's Mark Gurman, who has a strong Apple record, and relayed by MacRumors and The Verge. Apple has sold no (PRODUCT)RED devices since early 2025, so this would be a revival. One source and a date that is only reported, so it is a Rumor until Apple announces it; we will check after Dec 1. Update Nov 25: Gurman added in a follow-up post that Apple will also release (PRODUCT)RED versions of the AirPods Pro Wrist Strap and the Apple Watch Sport Band, making four products (MacRumors). Still a single-source report; stays Rumor until Apple announces. Also Nov 25: Apple itself has scheduled a (RED) 20th-anniversary session at its SoHo store in New York on Dec 1 at 12 p.m. ET with marketing chief Greg Joswiak (MacRumors), which fits the reported date, and 9to5Mac separately heard of a (PRODUCT)RED AirTag. With Apple marking the day officially, this moves from Rumor to Likely; the products themselves are still unannounced.",
       "sources": [
+        {
+          "name": "MacRumors (four RED products)",
+          "url": "https://www.macrumors.com/2026/11/24/apple-to-release-four-red-products/"
+        },
+        {
+          "name": "MacRumors (Apple SoHo (RED) event, Dec 1)",
+          "url": "https://www.macrumors.com/2026/11/24/apple-soho-red-event-new-york/"
+        },
+        {
+          "name": "9to5Mac (four products, AirTag)",
+          "url": "https://9to5mac.com/2026/11/24/leaks-say-apple-has-four-special-edition-products-launching-next-week-in-red/"
+        },
         {
           "name": "MacRumors",
           "url": "https://www.macrumors.com/2026/11/23/product-red-homepod-mini-airpods-max/"
@@ -5059,6 +5075,126 @@
         {
           "name": "GamesRadar+",
           "url": "https://www.gamesradar.com/hardware/xbox-project-helix-was-reportedly-planned-to-run-steam-games-and-have-free-online-multiplayer-but-microsoft-scrapped-its-initial-pc-like-design/"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-24",
+      "updated": "2026-11-25",
+      "id": "motorola-razr-2027-january",
+      "title": "Motorola Razr 2027 brings a 4-inch cover screen and launches in January",
+      "rating": "Rumor",
+      "categories": [
+        "android"
+      ],
+      "expected": "January 2027 (reportedly at Lenovo Tech World, CES)",
+      "claim": "The base Razr 2027 (codename Raptor; likely Razr 80 outside North America) gets a 4-inch 120Hz cover screen, a 6.9-inch 144Hz main screen, a Dimensity 7550X, 8GB/256GB, a 5,000mAh battery with 45W wired and 15W wireless charging, IPX8/IPX9, Android 17 with three OS updates, 14.6mm folded and 195g, and launches in January, months earlier than usual.",
+      "why": "From Android Headlines' images and spec sheet, relayed by 9to5Google and GSMArena. An earlier Geekbench run of a Razr with a MediaTek chip fits, but Motorola has not commented and a January launch would break its spring pattern. One leak with images: Rumor.",
+      "sources": [
+        {
+          "name": "GSMArena",
+          "url": "https://www.gsmarena.com/motorolas_next_base_razr_has_its_specs_and_launch_window_leaked-news-75624.php"
+        },
+        {
+          "name": "9to5Google",
+          "url": "https://9to5google.com/2026/11/24/motorola-razr-2027-upgrades-launch/"
+        },
+        {
+          "name": "Android Authority",
+          "url": "https://www.androidauthority.com/motorola-razr-2027-possible-launch-date-3738927/"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-25",
+      "updated": "2026-11-25",
+      "id": "galaxy-z-trifold-2-limited-mid-2027",
+      "title": "Galaxy Z TriFold 2 (Q9m) is a limited release around mid-2027",
+      "rating": "Rumor",
+      "categories": [
+        "samsung",
+        "android"
+      ],
+      "expected": "Mid-2027 (reported)",
+      "claim": "Samsung's second tri-fold is codenamed Q9m, will again launch only in a few countries like the first TriFold, and will be thinner, lighter and more durable with a new hinge, possibly around mid-2027.",
+      "why": "The codename and limited release come from GalaxyClub, which has a good record on Samsung codenames, via SamMobile; the design and timing claims are from earlier reports. Samsung has not announced a successor, and there is no spec sheet yet. Rumor.",
+      "sources": [
+        {
+          "name": "SamMobile",
+          "url": "https://www.sammobile.com/news/galaxy-z-trifold-2-codename-limited-release/"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-25",
+      "updated": "2026-11-25",
+      "id": "oneplus-nord-7-light-bar-dimensity-8500",
+      "title": "OnePlus Nord 7 has a camera light bar and a Dimensity 8500",
+      "rating": "Rumor",
+      "categories": [
+        "android"
+      ],
+      "expected": "Early 2027 (expected)",
+      "claim": "The OnePlus Nord 7 has a light strip in its camera module, two rear cameras, a Dimensity 8500, a 144Hz AMOLED screen, and a 9,000mAh battery with 80W charging.",
+      "why": "Images and specs from tipster @yabhishekhd on X, relayed by Android Authority and GSMArena. It conflicts with leaks for the China-only OnePlus Turbo 7 (Snapdragon 8 Gen 6, 185Hz, near-10,000mAh), which the Nord line usually rebadges, so either OnePlus is splitting the two or one leak is wrong. Rumor.",
+      "sources": [
+        {
+          "name": "Android Authority",
+          "url": "https://www.androidauthority.com/oneplus-nord-7-leak-3739177/"
+        },
+        {
+          "name": "GSMArena",
+          "url": "https://www.gsmarena.com/heres_our_first_look_at_oneplus_next_nord-news-75625.php"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-24",
+      "updated": "2026-11-25",
+      "id": "lenovo-legion-go-beam-android",
+      "title": "Lenovo Legion Go Beam is an Android handheld built for game streaming",
+      "rating": "Rumor",
+      "categories": [
+        "gaming",
+        "android"
+      ],
+      "expected": "Not announced (no date)",
+      "claim": "Lenovo's leaked Legion Go Beam runs Android rather than Windows 11 or SteamOS, streams games from PCs and consoles, and has a 7-inch 120Hz screen, Wi-Fi 6E, a microSD slot and a headphone jack.",
+      "why": "From Windows Latest, which first reported the name a week earlier without knowing the OS, relayed by Android Authority with renders. The chip (possibly an older Snapdragon G2 Gen 1) is a guess, and there is no price or date. Lenovo has not commented. Rumor.",
+      "sources": [
+        {
+          "name": "Android Authority",
+          "url": "https://www.androidauthority.com/lenovo-legion-go-beam-3738970/"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-25",
+      "updated": "2026-11-25",
+      "id": "phone-makers-cut-2027-shipment-targets",
+      "title": "Most big phone makers cut their 2027 shipment targets; only Honor holds",
+      "rating": "Rumor",
+      "categories": [
+        "android",
+        "apple",
+        "samsung"
+      ],
+      "expected": "2027 (targets reportedly finalized)",
+      "claim": "Because of memory costs, vivo plans 60 million phones in 2027 (from 85 million), Xiaomi 90 million (from 120 million), OPPO 90 million (down 14%), Motorola 40 million (from 50 million), Samsung 210 million (from 232 million) and Apple 220 million (from 233 million); Honor keeps 50 million.",
+      "why": "From Jiemian News citing supply chain sources, relayed by Android Authority and SamMobile. It fits the documented memory squeeze: Xiaomi's Q3 results cite memory prices up two to three times this year and an industry shipment drop of about 20%, and Honor's CEO said at the 700 launch that Honor will push while others pull back. The exact unit targets come from one report and no company has confirmed them. Rumor.",
+      "sources": [
+        {
+          "name": "Android Authority",
+          "url": "https://www.androidauthority.com/smartphone-makers-reduce-shipment-targets-2027-3739223/"
+        },
+        {
+          "name": "GSMArena (Xiaomi Q3 context)",
+          "url": "https://www.gsmarena.com/xiaomis_q3_revenue_stays_above_cny_100_billion_as_phone_prices_climb-news-75622.php"
         }
       ]
     }

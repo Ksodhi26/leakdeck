@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "scale": {
     "Confirmed": "Announced by the company or shown in an official source.",
     "Likely": "Multiple credible outlets or hard evidence (certifications, databases, supply chain), but no official word.",
@@ -416,11 +416,19 @@
         "android"
       ],
       "status": "Active",
-      "updated": "2026-11-04",
+      "updated": "2026-11-26",
       "expected": "Early 2027",
       "claim": "Samsung will release the Galaxy S27, S27+, S27 Pro and S27 Ultra.",
-      "why": "Model numbers for all four (SM-S952U, SM-S956U, SM-S958U and a global dual-SIM SM-S957B/DS) appeared in the GSMA IMEI database, which is strong evidence a phone exists but does not confirm names, specs or launch dates. On Oct 16, two more model numbers (SM-S9570 and SM-S9580, believed to be the Pro and Ultra) appeared in China's MIIT certification database. On Oct 20 leaked third-party screen protectors showed only the S27, S27+ and S27 Ultra (6.27, 6.66 and 6.89 inches), without the Pro. Accessory leaks are less reliable than certification databases, so we keep this at Likely for now. On Oct 22-23, batteries for the S27 Pro (EB-BS957CBY) and S27 Ultra (EB-BS958DBY) passed Safety Korea certification, another regulatory sign that a Pro model exists. Update Nov 4: import-export records on the NBD trade platform list European versions of all four (SM-S952B, S956B, S957B and S958B), with chips and screen sizes (6.3, 6.7, 6.5 and 6.9 inches). More evidence for a four-model lineup, still not official.",
+      "why": "Model numbers for all four (SM-S952U, SM-S956U, SM-S958U and a global dual-SIM SM-S957B/DS) appeared in the GSMA IMEI database, which is strong evidence a phone exists but does not confirm names, specs or launch dates. On Oct 16, two more model numbers (SM-S9570 and SM-S9580, believed to be the Pro and Ultra) appeared in China's MIIT certification database. On Oct 20 leaked third-party screen protectors showed only the S27, S27+ and S27 Ultra (6.27, 6.66 and 6.89 inches), without the Pro. Accessory leaks are less reliable than certification databases, so we keep this at Likely for now. On Oct 22-23, batteries for the S27 Pro (EB-BS957CBY) and S27 Ultra (EB-BS958DBY) passed Safety Korea certification, another regulatory sign that a Pro model exists. Update Nov 4: import-export records on the NBD trade platform list European versions of all four (SM-S952B, S956B, S957B and S958B), with chips and screen sizes (6.3, 6.7, 6.5 and 6.9 inches). More evidence for a four-model lineup, still not official. Update Nov 25-26: case maker Thinborne posted a hands-on video of its cases for all four models (S27, S27+, S27 Pro, S27 Ultra), and YouTuber Jam Ancheta showed S27 Pro and Ultra dummy units with the redesigned camera island (GSMArena, Android Authority). Accessory and dummy leaks add weight but are not official, so it stays Likely.",
       "sources": [
+        {
+          "name": "GSMArena (Thinborne cases, Nov 25)",
+          "url": "https://www.gsmarena.com/case_maker_leaks_galaxy_s27_series_cases_in_handson_video-news-75638.php"
+        },
+        {
+          "name": "Android Authority (Pro and Ultra dummies, Nov 26)",
+          "url": "https://www.androidauthority.com/samsung-galaxy-s27-pro-ultra-dummy-units-hands-on-leak-3739584/"
+        },
         {
           "name": "Notebookcheck (NBD trade records)",
           "url": "https://www.notebookcheck.net/Galaxy-S27-series-chipset-details-leak-with-a-surprising-entry-for-the-Pro.1441625.0.html"
@@ -1952,11 +1960,15 @@
       ],
       "status": "Active",
       "first_reported": "2026-10-24",
-      "updated": "2026-11-07",
+      "updated": "2026-11-26",
       "expected": "Unknown (the 16 Pro series launched in January)",
       "claim": "An upcoming Realme 17 Pro or 17 Pro+ has a flat 1.5K 120Hz OLED (165Hz in some games), the Dimensity 7500, a 200MP main camera, a 50MP 3.5x telephoto, a 10,000mAh battery and a plastic frame.",
-      "why": "From a single tipster on X, relayed by GSMArena, which notes it is unclear whether this is the Pro or the Pro+. Realme has announced nothing; the leak is plausible given rivals' move to 10,000mAh batteries, but unverified. Update Nov 7: a new report citing industry sources (via GSMArena) gives the plain 17 Pro a 1.5K 120Hz AMOLED, Dimensity 7300, 50MP main and 8MP ultrawide cameras, IP68/IP69 and the same 10,000mAh battery. That suggests the earlier 200MP/3.5x-telephoto leak describes the Pro+ or Pro Max. The 10,000mAh battery now has two sources; the camera specs depend on which model.",
+      "why": "From a single tipster on X, relayed by GSMArena, which notes it is unclear whether this is the Pro or the Pro+. Realme has announced nothing; the leak is plausible given rivals' move to 10,000mAh batteries, but unverified. Update Nov 7: a new report citing industry sources (via GSMArena) gives the plain 17 Pro a 1.5K 120Hz AMOLED, Dimensity 7300, 50MP main and 8MP ultrawide cameras, IP68/IP69 and the same 10,000mAh battery. That suggests the earlier 200MP/3.5x-telephoto leak describes the Pro+ or Pro Max. The 10,000mAh battery now has two sources; the camera specs depend on which model. Update Nov 25: tipster Abhishek Yadav posted images said to show the full Realme 17 Pro design, with a OnePlus-like square camera module holding three sensors and a flash, and repeated the Dimensity 7300, 10,000mAh battery, 50MP main and 8MP ultrawide specs (GSMArena). Still unannounced; Rumor.",
       "sources": [
+        {
+          "name": "GSMArena (design images, Nov 25)",
+          "url": "https://www.gsmarena.com/realme_17_pro_design_fully_revealed_in_leaked_images-news-75636.php"
+        },
         {
           "name": "GSMArena (Nov 7, 17 Pro specs)",
           "url": "https://www.gsmarena.com/realme_17_pro_leak_helps_clarify_its_place_in_the_upcoming_lineup-news-75392.php"
@@ -3453,19 +3465,23 @@
       ]
     },
     {
-      "status": "Active",
+      "status": "Resolved",
       "first_reported": "2026-11-10",
-      "updated": "2026-11-12",
+      "updated": "2026-11-26",
       "id": "vivo-x500-india-prices",
       "title": "vivo X500 series costs INR 119,999-229,999 in India, launching late November",
-      "rating": "Rumor",
+      "rating": "Confirmed",
       "categories": [
         "android"
       ],
-      "expected": "Nov 26, 2026 (India launch, official); prices unconfirmed",
+      "expected": "Nov 26, 2026 (India launch)",
       "claim": "The vivo X500 (12/256GB) will cost INR 119,999, the X500 Pro INR 149,999 and the X500 Pro Max INR 159,999 (INR 179,999 for 512GB; INR 229,999 for a 'master set'), with a launch toward the end of November.",
-      "why": "A tipster on X calls these 'tentative' prices; GSMArena relays them. The phones are already out in China and globally, so an Indian launch is very likely, but vivo has not confirmed the date or prices. Update Nov 12: vivo India confirmed a Nov 26 launch, so the late-November timing is now official; the prices remain a tipster's tentative figures until launch.",
+      "why": "A tipster on X calls these 'tentative' prices; GSMArena relays them. The phones are already out in China and globally, so an Indian launch is very likely, but vivo has not confirmed the date or prices. Update Nov 12: vivo India confirmed a Nov 26 launch, so the late-November timing is now official; the prices remain a tipster's tentative figures until launch. Update Nov 26: vivo launched the series in India; see outcome.",
       "sources": [
+        {
+          "name": "vivo India newsroom (official prices)",
+          "url": "https://vivonewsroom.in/press-release/vivo-x500-series-debuts-in-india-with-breakthrough-in-advanced-motion-imaging-capabilities/"
+        },
         {
           "name": "Gizmochina (Nov 26 date)",
           "url": "https://www.gizmochina.com/2026/11/12/vivo-x500-series-india-launch-november-26/"
@@ -3474,7 +3490,8 @@
           "name": "GSMArena",
           "url": "https://www.gsmarena.com/vivo_x500_x500_pro_and_x500_pro_max_prices_for_india_leak-news-75413.php"
         }
-      ]
+      ],
+      "outcome": "Mostly correct. The X500 (INR 1,19,999), X500 Pro (INR 1,49,999), 512GB X500 Pro Max (INR 1,79,999) and the INR 2,29,999 kit (sold as the Photography Kit) were exactly right, and the late-November launch happened on Nov 26. The one miss: the 256GB X500 Pro Max costs INR 1,64,999, not 1,59,999."
     },
     {
       "status": "Active",
@@ -4752,7 +4769,7 @@
     {
       "status": "Active",
       "first_reported": "2026-11-23",
-      "updated": "2026-11-23",
+      "updated": "2026-11-26",
       "id": "macbook-neo-2-spring-2027",
       "title": "MacBook Neo 2 with A19 Pro and 12GB of RAM arrives around March 2027",
       "rating": "Likely",
@@ -4761,8 +4778,12 @@
       ],
       "expected": "February-March 2027 (iOS/macOS 27.4 cycle, reported)",
       "claim": "Apple's second MacBook Neo moves from the A18 Pro with 8GB of RAM to the A19 Pro with 12GB and launches in the iOS/macOS 27.4 window (February-March 2027), possibly in new colors; Apple plans to refresh the Neo's colors often.",
-      "why": "From Bloomberg's Mark Gurman in his Nov 22 Power On newsletter (via 9to5Mac and GSMArena), matching his September report of an A19 Pro, 12GB Neo in 2027. Gurman has a strong record on Apple timing, but Apple has said nothing and the date could fall at either end of the window. Likely.",
+      "why": "From Bloomberg's Mark Gurman in his Nov 22 Power On newsletter (via 9to5Mac and GSMArena), matching his September report of an A19 Pro, 12GB Neo in 2027. Gurman has a strong record on Apple timing, but Apple has said nothing and the date could fall at either end of the window. Likely. Update Nov 25: on his Power On podcast Gurman again said Apple plans an M6 MacBook Air refresh in early 2027 alongside the MacBook Neo 2, with no redesign (MacRumors).",
       "sources": [
+        {
+          "name": "MacRumors (Power On, Nov 25)",
+          "url": "https://www.macrumors.com/2026/11/25/oled-macbook-air-2027-2028/"
+        },
         {
           "name": "9to5Mac",
           "url": "https://9to5mac.com/2026/11/22/macbook-neo-2-likely-to-launch-around-march-could-feature-new-colors-report/"
@@ -5195,6 +5216,201 @@
         {
           "name": "GSMArena (Xiaomi Q3 context)",
           "url": "https://www.gsmarena.com/xiaomis_q3_revenue_stays_above_cny_100_billion_as_phone_prices_climb-news-75622.php"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-26",
+      "updated": "2026-11-26",
+      "id": "redmi-k100-ultra-triple-50mp",
+      "title": "Redmi K100 Ultra gets three 50MP rear cameras, including a 3x telephoto",
+      "rating": "Rumor",
+      "categories": [
+        "android"
+      ],
+      "expected": "Not announced (K90 Ultra launched in June 2026)",
+      "claim": "A K100 Ultra engineering sample has three 50MP rear cameras (a roughly 1/1.3-inch main sensor, an upgraded ultrawide and a telephoto of about 3x whose sensor size is still being tested) and a 32MP selfie camera.",
+      "why": "From Weibo tipster Digital Chat Station, relayed by GSMArena. DCS has a good record on Xiaomi hardware, but this describes an engineering sample, the telephoto is still being A/B tested, and Xiaomi has not announced the phone. It would be a big step up from the K90 Ultra's 50MP main and 8MP ultrawide with no telephoto. Rumor.",
+      "sources": [
+        {
+          "name": "GSMArena",
+          "url": "https://www.gsmarena.com/redmi_k100_ultra_camera_details_leak_big_upgrades_incoming-news-75644.php"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-26",
+      "updated": "2026-11-26",
+      "id": "hmd-rise-4g-india",
+      "title": "HMD Rise 4G is coming to India as a rebranded HMD Arc 2",
+      "rating": "Rumor",
+      "categories": [
+        "android"
+      ],
+      "expected": "Not announced (India, Flipkart)",
+      "claim": "HMD is preparing the HMD Rise 4G for India through Flipkart, a rebrand of the HMD Arc 2 with a 5,000mAh battery, 6.52-inch 720p LCD, Unisoc SC9863A, 4GB of RAM, 13MP rear camera, 10W charging and Android 14 Go.",
+      "why": "From a source GSMArena calls usually reliable on HMD, with leaked promotional images. The specs are inferred from the Arc 2, which launched in July. HMD has not announced the phone or a date. Rumor.",
+      "sources": [
+        {
+          "name": "GSMArena",
+          "url": "https://www.gsmarena.com/hmd_rise_leaks_on_its_way_to_india-news-75639.php"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-26",
+      "updated": "2026-11-26",
+      "id": "redmi-note-18-5g-45w-certified",
+      "title": "Redmi Note 18 5G passes 3C certification with 45W charging",
+      "rating": "Rumor",
+      "categories": [
+        "android"
+      ],
+      "expected": "Not announced (Note 17 launched in China in July 2026)",
+      "claim": "Model M077CE in China's 3C database is the vanilla Redmi Note 18 5G and supports 45W wired charging; earlier leaks say it is essentially a Note 17 5G with a larger battery (8,888mAh in China, 8,100mAh globally).",
+      "why": "The 3C listing itself is hard evidence that M077CE exists with 45W charging, but tying it to the Note 18 5G comes from a tipster on X, and the battery figures come from an earlier leak (GSMArena). Xiaomi has said nothing. Rumor until the name is confirmed.",
+      "sources": [
+        {
+          "name": "GSMArena",
+          "url": "https://www.gsmarena.com/redmi_note_18_5g_has_seemingly_been_certified_heres_its_charging_speed-news-75634.php"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-26",
+      "updated": "2026-11-26",
+      "id": "macbook-air-oled-redesign-2027-2028",
+      "title": "A redesigned MacBook Air, possibly with OLED, arrives in late 2027 or 2028",
+      "rating": "Rumor",
+      "categories": [
+        "apple"
+      ],
+      "expected": "Late 2027 or 2028 (reported; Gurman leans 2028)",
+      "claim": "After an M6 refresh without a redesign in early 2027, Apple will overhaul the MacBook Air's design in late 2027 or 2028, and OLED is likely to be part of it.",
+      "why": "From Bloomberg's Mark Gurman on his Power On podcast (MacRumors, 9to5Mac). Gurman's Apple record is strong, but he framed this as his anticipation, gave a two-year window and said OLED is 'part of the conversation' rather than decided. Apple only just brought OLED to the MacBook Pro. Rumor.",
+      "sources": [
+        {
+          "name": "MacRumors",
+          "url": "https://www.macrumors.com/2026/11/25/oled-macbook-air-2027-2028/"
+        },
+        {
+          "name": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/25/major-macbook-air-overhaul-could-launch-next-year-per-gurman/"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-26",
+      "updated": "2026-11-26",
+      "id": "ios-28-notifications-revamp",
+      "title": "iOS 28 brings a major revamp of iPhone notifications",
+      "rating": "Rumor",
+      "categories": [
+        "apple"
+      ],
+      "expected": "iOS 28 (WWDC June 2027 preview, typical; not announced)",
+      "claim": "Apple plans significant changes to the iPhone's Notification Center and notification system in iOS 28.",
+      "why": "MacRumors says it heard this from multiple sources but has no specific details, and calls it just a rumor. Apple has not commented. Vague but plausible: Rumor.",
+      "sources": [
+        {
+          "name": "MacRumors",
+          "url": "https://www.macrumors.com/2026/11/25/rumor-ios-28-to-revamp-notifications/"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-26",
+      "updated": "2026-11-26",
+      "id": "apple-foldable-ipad-j312-2029",
+      "title": "Apple's 19-20-inch foldable iPad (J312) slips to around 2029, at $3,000-$5,000",
+      "rating": "Rumor",
+      "categories": [
+        "apple"
+      ],
+      "expected": "Around 2029 (reported); may never launch",
+      "claim": "Apple is still developing Project J312, a foldable iPad with a roughly 19-20-inch screen and no outer display, which could cost $3,000-$5,000. Its target has slipped from 2027 to 2028 to around 2029, and its operating system (macOS, iPadOS or something new) is undecided.",
+      "why": "From Bloomberg's Mark Gurman on Power On (MacRumors, AppleInsider), consistent with his earlier reports of a 2029 timeframe. Gurman himself says cost, display yields and bulk could kill the project. In the same episode he said Apple runs macOS on some iPads internally for testing but has no plan to ship macOS on iPad (GSMArena, 9to5Mac). Long-range and uncertain: Rumor.",
+      "sources": [
+        {
+          "name": "MacRumors",
+          "url": "https://www.macrumors.com/2026/11/26/apple-still-working-on-giant-foldable-ipad/"
+        },
+        {
+          "name": "AppleInsider",
+          "url": "https://appleinsider.com/articles/26/11/25/apples-giant-foldable-ipad-could-cost-5000-assuming-it-ever-comes-to-market"
+        },
+        {
+          "name": "GSMArena (macOS on iPad internally)",
+          "url": "https://www.gsmarena.com/apple_is_running_macos_on_ipads_internally_new_report_claims-news-75641.php"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-26",
+      "updated": "2026-11-26",
+      "id": "pixel-priority-notifications",
+      "title": "Pixel phones get AI 'Priority notifications' pinned to the top of the shade",
+      "rating": "Rumor",
+      "categories": [
+        "android",
+        "ai"
+      ],
+      "expected": "Not announced (work-in-progress code)",
+      "claim": "Google is adding Priority notifications to Pixel's Notification organizer: on-device AI picks time-sensitive notifications, pins them to the top of the shade and may color-highlight them. Notification Intelligence may be renamed Notification organizer, and the current organizer renamed Notification bundles.",
+      "why": "From an Android Authority APK teardown of work-in-progress code. Code strings are real evidence that Google is building it, but Android Authority stresses the features may change or never ship, and Google has announced nothing. Rumor.",
+      "sources": [
+        {
+          "name": "Android Authority",
+          "url": "https://www.androidauthority.com/google-pixel-priority-notifications-3739626/"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-25",
+      "updated": "2026-11-26",
+      "id": "tesla-fsd-eu-wide-approval",
+      "title": "Tesla's FSD (sold in Europe as Assisted Driving) wins EU-wide approval by Q1 2027",
+      "rating": "Rumor",
+      "categories": [
+        "evs",
+        "ai"
+      ],
+      "expected": "EU committee (TCMV) meets Dec 15, 2026 (confirmed); a vote is not guaranteed",
+      "claim": "The EU's Technical Committee on Motor Vehicles will approve Tesla's supervised driver-assistance system for the whole bloc, which Elon Musk said he would be surprised to see take longer than Q1 2027.",
+      "why": "The European Commission confirmed to Reuters that the TCMV meeting moved from Dec 1 to Dec 15 (Electrek). The committee has discussed Tesla's file twice without voting, and earlier Tesla-cited European dates (a February RDW approval, an Oct 6 EU vote) did not hold. Approval needs 15 of 27 states with 65% of the EU population; Electrek counts the 12 countries that recognize the Dutch approval at about 29%, so Tesla still needs Germany plus France, or Spain and Poland. Per Reuters, an EU rejection would cancel the national approvals. The meeting date is official; the approval is Musk's expectation. Rumor.",
+      "sources": [
+        {
+          "name": "Electrek",
+          "url": "https://electrek.co/2026/11/25/eu-delays-tesla-fsd-vote-december-15-tcmv/"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-25",
+      "updated": "2026-11-26",
+      "id": "nvidia-china-gaming-gpu-supply-cut",
+      "title": "Nvidia cuts gaming GPU supply to Chinese card makers by 20-30% this quarter",
+      "rating": "Rumor",
+      "categories": [
+        "chips",
+        "gaming"
+      ],
+      "expected": "November 2026-January 2027 (Nvidia fiscal Q4, reported)",
+      "claim": "Graphics card makers in China will get 20-30% fewer Nvidia gaming GPUs from November to January, after an already tight Q3, making consumer GPU prices volatile.",
+      "why": "From a Board Channels supply-chain post reported by VideoCardz and relayed by TechRadar. Board Channels is an anonymous forum with a mixed record, the claim covers only China, and Nvidia has not commented. It fits the memory squeeze and Nvidia's AI focus, but it is unverified. Rumor.",
+      "sources": [
+        {
+          "name": "TechRadar",
+          "url": "https://www.techradar.com/computing/gpu/rumor-suggests-nvidia-will-cut-gpu-supply-by-20-percent-to-30-percent-over-the-next-few-months-so-if-you-dont-buy-soon-prices-could-get-even-scarier"
         }
       ]
     }

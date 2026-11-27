@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26",
+  "updated": "2026-11-27",
   "scale": {
     "Confirmed": "Announced by the company or shown in an official source.",
     "Likely": "Multiple credible outlets or hard evidence (certifications, databases, supply chain), but no official word.",
@@ -379,10 +379,10 @@
         "apple"
       ],
       "status": "Active",
-      "updated": "2026-11-23",
+      "updated": "2026-11-27",
       "expected": "About March 2027",
       "claim": "Apple is splitting its iPhone releases: Pro and foldable models in fall, the standard iPhone 18 and 18e in spring.",
-      "why": "Reported repeatedly by Mark Gurman and echoed by several outlets. The fall 2026 lineup (iPhone 18 Pro and the foldable iPhone Duo) matched the split. Apple has not confirmed the spring models or date. Update Nov 18: Korea's ETNews says Samsung Display and LG Display will start mass-producing OLED panels for the iPhone 18 and iPhone Air 2 in late December and early January, lining up with a March 2027 launch (MacRumors). Supply-chain timing that fits the spring window; Apple still has not confirmed anything, so it stays Likely. Update Nov 22: Gurman ties the iPhone 18e and iPhone 18 to the iOS 27.4 cycle (February-March), probably at separate events, with the iPhone Air 2 a bit later in the first half (GSMArena). Consistent with the supply-chain timing; stays Likely.",
+      "why": "Reported repeatedly by Mark Gurman and echoed by several outlets. The fall 2026 lineup (iPhone 18 Pro and the foldable iPhone Duo) matched the split. Apple has not confirmed the spring models or date. Update Nov 18: Korea's ETNews says Samsung Display and LG Display will start mass-producing OLED panels for the iPhone 18 and iPhone Air 2 in late December and early January, lining up with a March 2027 launch (MacRumors). Supply-chain timing that fits the spring window; Apple still has not confirmed anything, so it stays Likely. Update Nov 22: Gurman ties the iPhone 18e and iPhone 18 to the iOS 27.4 cycle (February-March), probably at separate events, with the iPhone Air 2 a bit later in the first half (GSMArena). Consistent with the supply-chain timing; stays Likely. Update Nov 27: Fixed Focus Digital claims mass production of the iPhone 18 and 18e has slipped to around New Year's Day (MacRumors); see the separate rumor. A January start could still support a February-March launch, so this stays Likely.",
       "sources": [
         {
           "name": "GSMArena (Nov 23, Gurman)",
@@ -403,6 +403,10 @@
         {
           "name": "Tom's Guide",
           "url": "https://www.tomsguide.com/phones/iphones/iphone-release-schedule-set-to-change-forever-in-2026-2027-confirms-apple-insider"
+        },
+        {
+          "name": "MacRumors (Nov 27, production delay claim)",
+          "url": "https://www.macrumors.com/2026/11/27/iphone-18-production-delay/"
         }
       ],
       "first_reported": "2026-04-08"
@@ -2850,10 +2854,10 @@
       ],
       "status": "Active",
       "first_reported": "2026-11-03",
-      "updated": "2026-11-03",
+      "updated": "2026-11-27",
       "expected": "Early 2027 (Galaxy A38 launch, no date)",
       "claim": "The Galaxy A38's battery is rated at 5,882mAh, likely marketed as 6,000mAh, up from the 5,000mAh the A30 line has used since the Galaxy A31; charging likely stays at 45W.",
-      "why": "From Dutch site Galaxy Club, which often reports Samsung battery ratings from certification and supply data, relayed by Android Authority and SamMobile. It fits reports of bigger batteries across Samsung's 2027 lineup. The 45W figure is an inference from the A37 and A58, not part of the leak. Samsung has said nothing.",
+      "why": "From Dutch site Galaxy Club, which often reports Samsung battery ratings from certification and supply data, relayed by Android Authority and SamMobile. It fits reports of bigger batteries across Samsung's 2027 lineup. The 45W figure is an inference from the A37 and A58, not part of the leak. Samsung has said nothing. Update Nov 27: the A38 (SM-A386B) showed up on Geekbench with a MediaTek Dimensity 7500 and 6GB of RAM (GSMArena); the battery claim is not affected and stays Rumor.",
       "sources": [
         {
           "name": "Android Authority",
@@ -2862,6 +2866,10 @@
         {
           "name": "SamMobile",
           "url": "https://www.sammobile.com/news/galaxy-a38-battery-capacity-leaks/"
+        },
+        {
+          "name": "GSMArena (Geekbench)",
+          "url": "https://www.gsmarena.com/samsung_galaxy_a38_runs_geekbench_confirms_its_chipset-news-75662.php"
         }
       ]
     },
@@ -4351,7 +4359,7 @@
     {
       "status": "Active",
       "first_reported": "2026-11-19",
-      "updated": "2026-11-19",
+      "updated": "2026-11-27",
       "id": "iphone-20-pro-titanium-frame",
       "title": "iPhone 20 Pro brings back a titanium frame",
       "rating": "Rumor",
@@ -4360,8 +4368,12 @@
       ],
       "expected": "Fall 2027 (20th-anniversary iPhones)",
       "claim": "Apple has started early engineering work on a titanium frame for the curved 2027 iPhone 20 Pro, similar to the iPhone Air's but more rounded, ending two generations of aluminum Pro frames.",
-      "why": "From Weibo tipster Fixed Focus Digital, relayed by GSMArena; the same tipster is behind our iPhone 20 Pro curved-glass rumor. 'Early-stage engineering work' does not mean Apple has decided, and Apple has said nothing. One leaker, so it is a Rumor.",
+      "why": "From Weibo tipster Fixed Focus Digital, relayed by GSMArena; the same tipster is behind our iPhone 20 Pro curved-glass rumor. 'Early-stage engineering work' does not mean Apple has decided, and Apple has said nothing. One leaker, so it is a Rumor. Update Nov 27: the same tipster now says parts of the mid-frame will be 3D-printed from titanium powder, the process Apple already uses for Apple Watch Ultra 4 and titanium Series 12 cases (MacRumors). It is plausible given Apple's existing use, but it is still one Weibo leaker; stays Rumor.",
       "sources": [
+        {
+          "name": "MacRumors (Nov 27, 3D-printed frame)",
+          "url": "https://www.macrumors.com/2026/11/27/iphone-20-pro-3d-printed-titanium-frame/"
+        },
         {
           "name": "GSMArena",
           "url": "https://www.gsmarena.com/iphone_20_pro_may_bring_back_titanium-news-75535.php"
@@ -5411,6 +5423,135 @@
         {
           "name": "TechRadar",
           "url": "https://www.techradar.com/computing/gpu/rumor-suggests-nvidia-will-cut-gpu-supply-by-20-percent-to-30-percent-over-the-next-few-months-so-if-you-dont-buy-soon-prices-could-get-even-scarier"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-27",
+      "updated": "2026-11-27",
+      "id": "iphone-18-mass-production-january",
+      "title": "iPhone 18 and iPhone 18e mass production slips to around New Year's Day",
+      "rating": "Rumor",
+      "categories": [
+        "apple"
+      ],
+      "expected": "Around Jan 1, 2027 (production start, reported); launch expected Feb-Mar 2027",
+      "claim": "Neither the iPhone 18 nor the iPhone 18e has entered mass production; the start has moved from late October to around New Year's Day 2027.",
+      "why": "From Weibo leaker Fixed Focus Digital via MacRumors. The same source earlier gave a different (late November) target, so its timing claims have shifted. A January start would leave little time to build stock before Gurman's February-March launch window. One leaker, unconfirmed; Rumor.",
+      "sources": [
+        {
+          "name": "MacRumors",
+          "url": "https://www.macrumors.com/2026/11/27/iphone-18-production-delay/"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-27",
+      "updated": "2026-11-27",
+      "id": "iphone-20-pro-ceramic-limited-edition",
+      "title": "A limited-edition iPhone 20 Pro uses ceramic parts",
+      "rating": "Shaky",
+      "categories": [
+        "apple"
+      ],
+      "expected": "Fall 2027 (20th-anniversary iPhones)",
+      "claim": "Apple is preparing ceramic components for a low-volume, limited-edition iPhone 20 Pro, which would go into mass production if it passes engineering validation.",
+      "why": "From Fixed Focus Digital on Weibo, relayed by MacRumors and AppleInsider. The leaker did not say which part is ceramic, 9to5Mac calls it sketchy and notes it may be a mix-up with Ceramic Shield glass, and a special edition alongside an all-new design seems unlikely. Shaky.",
+      "sources": [
+        {
+          "name": "MacRumors",
+          "url": "https://www.macrumors.com/2026/11/26/iphone-20-pro-ceramic-limited-edition-model/"
+        },
+        {
+          "name": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/26/sketchy-suggestion-of-ceramic-iphone-20-pro/"
+        },
+        {
+          "name": "AppleInsider",
+          "url": "https://appleinsider.com/articles/26/11/26/limited-edition-20th-anniversary-iphone-could-be-ceramic"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-27",
+      "updated": "2026-11-27",
+      "id": "galaxy-a38-dimensity-7500",
+      "title": "Galaxy A38 switches to MediaTek's Dimensity 7500",
+      "rating": "Likely",
+      "categories": [
+        "samsung",
+        "android"
+      ],
+      "expected": "Early 2027 (Galaxy A38 launch, no date)",
+      "claim": "The global Galaxy A38 (SM-A386B) uses the MediaTek Dimensity 7500 instead of an Exynos chip, with at least a 6GB RAM version, running Android 17 with One UI 9.",
+      "why": "A Geekbench listing for SM-A386B (928 single-core, 2,687 multi-core) shows the chip, reported by GSMArena. Benchmark listings are usually reliable for chipsets, but this is a prototype and Samsung sometimes uses different chips by region, so Likely rather than Confirmed.",
+      "sources": [
+        {
+          "name": "GSMArena",
+          "url": "https://www.gsmarena.com/samsung_galaxy_a38_runs_geekbench_confirms_its_chipset-news-75662.php"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-27",
+      "updated": "2026-11-27",
+      "id": "oppo-three-wide-phones-2027",
+      "title": "Oppo plans three wide-screen candybar phones in 2027",
+      "rating": "Rumor",
+      "categories": [
+        "android"
+      ],
+      "expected": "2027 (one late in the year; no dates)",
+      "claim": "Oppo has three wide phones planned for 2027: a 6.35-inch Find X10-series flagship with a Dimensity 9-series chip, a slim photography-focused model (possibly Reno X), and a successor to the first model late in the year.",
+      "why": "From Digital Chat Station on Weibo via GSMArena. DCS has a decent record on Chinese phones, and several brands are reportedly chasing the wide format after Huawei's Pura X, but names and timing are vague and Oppo has said nothing. Rumor.",
+      "sources": [
+        {
+          "name": "GSMArena",
+          "url": "https://www.gsmarena.com/oppo_is_planning_three_wide_candybar_phones_for_2027-news-75664.php"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-27",
+      "updated": "2026-11-27",
+      "id": "oneplus-nord-n7-pro-9000mah",
+      "title": "OnePlus Nord N7 Pro brings a 9,000mAh battery and Dimensity 7100",
+      "rating": "Rumor",
+      "categories": [
+        "android"
+      ],
+      "expected": "February-March 2027 (India, reported)",
+      "claim": "A new OnePlus model, tested as the Nord N7 Pro (possibly sold as N7 Pro), has a Dimensity 7100, a 9,000mAh battery, a 120Hz screen and a four-cutout square camera island, launching in India in February or March.",
+      "why": "Leaked images and specs relayed by GSMArena from a test sample; even the name is unclear. OnePlus has not commented. Rumor.",
+      "sources": [
+        {
+          "name": "GSMArena",
+          "url": "https://www.gsmarena.com/oneplus_nord_n7_pro_leaks_and_its_a_confusing_one-news-75660.php"
+        }
+      ]
+    },
+    {
+      "status": "Active",
+      "first_reported": "2026-11-27",
+      "updated": "2026-11-27",
+      "id": "intel-razor-lake-ax-memory-variants",
+      "title": "Intel Razor Lake-AX comes in 96GB on-package and 192GB on-motherboard memory versions",
+      "rating": "Rumor",
+      "categories": [
+        "chips"
+      ],
+      "expected": "Production from Q3 2027 (reported)",
+      "claim": "Intel plans two Razor Lake-AX lines: memory-on-package up to 96GB and memory-on-motherboard up to 192GB, with up to 8P+16E+4LPE cores, 32 Xe3 GPU cores and 16 PCIe 5.0 lanes.",
+      "why": "From leaker Jaykihn, relayed by VideoCardz, which separately saw a four-memory-chip prototype and says it has heard of a 128GB option. Jaykihn is usually well informed on Intel roadmaps, but the product line is said to be still being defined and Intel has said nothing. Rumor.",
+      "sources": [
+        {
+          "name": "VideoCardz",
+          "url": "https://videocardz.com/newz/intel-razor-lake-ax-reportedly-features-two-variants-96gb-mop-and-192gb-mob"
         }
       ]
     }

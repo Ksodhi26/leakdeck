@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26",
+  "updated": "2026-11-27",
   "items": [
     {
       "id": "gtc-berlin-2026",
@@ -3439,20 +3439,24 @@
     },
     {
       "id": "byd-guangzhou-2026-new-han",
-      "name": "BYD's Guangzhou Auto Show debut (likely next-generation Han)",
+      "name": "Next-generation BYD Han (Guangzhou Auto Show debut)",
       "brand": "BYD",
       "categories": [
         "evs"
       ],
       "type": "Car",
       "date": "2026-11-27",
-      "date_label": "Guangzhou Auto Show, Nov 27-Dec 6, 2026 (model not yet named)",
-      "precision": "window",
-      "status": "Expected",
+      "date_label": "Nov 27, 2026 (debut at Guangzhou Auto Show; prices and on-sale date not announced)",
+      "precision": "day",
+      "status": "Released",
       "price": "",
-      "summary": "BYD says it will show 'a model highly requested by customers' at the Guangzhou Auto Show; regulatory filings point to a larger next-generation Han sedan.",
-      "details": "BYD Dynasty sales chief Lu Tian announced the debut on Weibo on Nov 2 without naming the car. CnEVPost links it to the next-generation Han, which appeared in China's MIIT filings on Oct 16 with three battery-electric versions (rear- or all-wheel drive, up to 520 kW combined) and one plug-in hybrid, at 5,156 mm long with a 3,030 mm wheelbase. The show runs Nov 27 to Dec 6, with Nov 27 as media day. The model identity and launch timing are not confirmed. Update Nov 22: a cyan-blue next-generation Han has rolled off the production line ahead of its Nov 27 debut at the show, and CarNewsChina expects BYD to announce prices and trims that day. MIIT filings list a 775-to-875 km CLTC range for the EVs (76.7 or 88.7 kWh Blade batteries, up to 520 kW AWD) and a 400 km electric range for the plug-in hybrid.",
+      "summary": "BYD debuted the larger next-generation Han sedan at the Guangzhou Auto Show on Nov 27, with three electric versions and a plug-in hybrid; prices come later.",
+      "details": "BYD Dynasty sales chief Lu Tian announced the debut on Weibo on Nov 2 without naming the car. CnEVPost links it to the next-generation Han, which appeared in China's MIIT filings on Oct 16 with three battery-electric versions (rear- or all-wheel drive, up to 520 kW combined) and one plug-in hybrid, at 5,156 mm long with a 3,030 mm wheelbase. The show runs Nov 27 to Dec 6, with Nov 27 as media day. The model identity and launch timing are not confirmed. Update Nov 22: a cyan-blue next-generation Han has rolled off the production line ahead of its Nov 27 debut at the show, and CarNewsChina expects BYD to announce prices and trims that day. MIIT filings list a 775-to-875 km CLTC range for the EVs (76.7 or 88.7 kWh Blade batteries, up to 520 kW AWD) and a 400 km electric range for the plug-in hybrid. Update Nov 27: the car shown was indeed the next-generation Han, which debuted on the show's opening day. The displayed car matches the filings: 5,156 mm long with a 3,030 mm wheelbase, EVs up to 520 kW AWD and up to 875 km CLTC on the second-generation Blade battery, megawatt flash charging (10-97% in about nine minutes, per Chinese media), and a plug-in hybrid with about 400 km of CLTC electric range. BYD did not give prices or an on-sale date at the debut, despite earlier expectations; Chinese coverage expects the launch to follow later. We mark the debut as Released; the market launch is still to come.",
       "sources": [
+        {
+          "name": "Sina Finance (Nov 27 debut, Chinese)",
+          "url": "https://cj.sina.com.cn/articles/view/8379156093/1f36fc67d07201jizy"
+        },
         {
           "name": "CarNewsChina (Nov 22)",
           "url": "https://carnewschina.com/2026/11/22/next-generation-byd-han-rolls-off-production-line-ahead-of-guangzhou-auto-show/"
@@ -3926,11 +3930,15 @@
       "date": "2026-11-27",
       "date_label": "Nov 27, 2026 (official launch at Guangzhou Auto Show; pre-sales opened Nov 13)",
       "precision": "day",
-      "status": "Confirmed",
-      "price": "Pre-sale 129,900-149,900 yuan",
-      "summary": "Dongfeng Nissan opened NX7 plug-in hybrid SUV pre-sales on Nov 13 from 129,900 yuan; the official launch is Nov 27 at the Guangzhou Auto Show.",
-      "details": "Dongfeng Nissan announced the date on Nov 9; local media say the debut is at a Nissan Day event in Zhuhai, where Nissan will also show another unnamed model. The NX7 is a five-seat midsize SUV (4,785 mm long, 2,815 mm wheelbase) and the fourth model in the N series after the N7, N6 and NX8. Regulatory filings list a 1.5-liter engine (73 kW) with a 170 kW Bosch motor and a 40.9 kWh CATL LFP battery giving 220-225 km of electric range; roof LiDAR supports urban navigation assist. CnEVPost expects it to be priced below the NX8 (159,900-209,900 yuan). Pre-sale prices have not been announced. Update Nov 13: Nissan unveiled the NX7 at Nissan Day in Zhuhai and opened pre-sales for three trims: 320 Pro (129,900 yuan), 320 Max (139,900 yuan) and 320 Ultra LiDAR (149,900 yuan). All use a 40.9 kWh CATL battery with about 320 km of CLTC electric range (325 km on the Pro) and up to 1,666 km combined. The official launch, with final prices, is Nov 27 at the Guangzhou Auto Show; final prices in China are often below pre-sale prices.",
+      "status": "Released",
+      "price": "129,900-149,900 yuan (320 Pro, 320 Max, 320 Ultra LiDAR)",
+      "summary": "Dongfeng Nissan launched the NX7 plug-in hybrid SUV at the Guangzhou Auto Show on Nov 27, keeping its pre-sale prices of 129,900-149,900 yuan.",
+      "details": "Dongfeng Nissan announced the date on Nov 9; local media say the debut is at a Nissan Day event in Zhuhai, where Nissan will also show another unnamed model. The NX7 is a five-seat midsize SUV (4,785 mm long, 2,815 mm wheelbase) and the fourth model in the N series after the N7, N6 and NX8. Regulatory filings list a 1.5-liter engine (73 kW) with a 170 kW Bosch motor and a 40.9 kWh CATL LFP battery giving 220-225 km of electric range; roof LiDAR supports urban navigation assist. CnEVPost expects it to be priced below the NX8 (159,900-209,900 yuan). Pre-sale prices have not been announced. Update Nov 13: Nissan unveiled the NX7 at Nissan Day in Zhuhai and opened pre-sales for three trims: 320 Pro (129,900 yuan), 320 Max (139,900 yuan) and 320 Ultra LiDAR (149,900 yuan). All use a 40.9 kWh CATL battery with about 320 km of CLTC electric range (325 km on the Pro) and up to 1,666 km combined. The official launch, with final prices, is Nov 27 at the Guangzhou Auto Show; final prices in China are often below pre-sale prices. Update Nov 27: Nissan officially launched the NX7 at the Guangzhou Auto Show. Final prices match the pre-sale prices: 129,900 yuan (320 Pro), 139,900 yuan (320 Max) and 149,900 yuan (320 Ultra LiDAR Edition). Nissan lists 170 kW total output, a 40.95 kWh CATL battery, up to 320 km CLTC electric range and up to 1,666 km combined.",
       "sources": [
+        {
+          "name": "Nissan (Nov 27 launch)",
+          "url": "https://global.nissannews.com/en/releases/dongfeng-nissan-launches-the-all-new-nx7-in-china"
+        },
         {
           "name": "CnEVPost (Nov 13, pre-sales)",
           "url": "https://cnevpost.com/2026/11/13/nissan-opens-pre-sales-nx7-china/"
@@ -5504,20 +5512,24 @@
     },
     {
       "id": "gac-toyota-first-erev",
-      "name": "GAC Toyota's first extended-range EV (likely Highlander EREV, China)",
+      "name": "Toyota Highlander 9X, Toyota's first extended-range EV (reveal, China)",
       "brand": "Toyota",
       "categories": [
         "evs"
       ],
       "type": "Car",
       "date": "2026-11-27",
-      "date_label": "Nov 27, 2026 (reveal at Guangzhou Auto Show; name not confirmed)",
+      "date_label": "Nov 27, 2026 (named at Guangzhou Auto Show; full global debut Q1 2027)",
       "precision": "day",
-      "status": "Confirmed",
+      "status": "Released",
       "price": "",
-      "summary": "GAC Toyota will reveal Toyota's first extended-range EV, a flagship SUV that looks like the Highlander, at the Guangzhou Auto Show on Nov 27.",
-      "details": "GAC Toyota, Toyota's China joint venture, posted a blurry preview on Weibo calling it a 'global flagship SUV' with a range extender, and said it will be revealed at the Guangzhou show on Nov 27. Toyota has not confirmed the name; Electrek says the preview resembles the Highlander. A September Nikkei report said Toyota would start building EREVs in China in spring 2027, aiming for about 200,000 in 2027 and roughly double in 2028. Specs and pricing are not announced, and Electrek does not expect the EREV in the US, where Toyota plans an all-electric Highlander in early 2027.",
+      "summary": "GAC Toyota named Toyota's first extended-range EV the Highlander 9X at the Guangzhou Auto Show; its full global debut is set for Q1 2027.",
+      "details": "GAC Toyota, Toyota's China joint venture, posted a blurry preview on Weibo calling it a 'global flagship SUV' with a range extender, and said it will be revealed at the Guangzhou show on Nov 27. Toyota has not confirmed the name; Electrek says the preview resembles the Highlander. A September Nikkei report said Toyota would start building EREVs in China in spring 2027, aiming for about 200,000 in 2027 and roughly double in 2028. Specs and pricing are not announced, and Electrek does not expect the EREV in the US, where Toyota plans an all-electric Highlander in early 2027. Update Nov 27: at the Guangzhou Auto Show GAC Toyota said the fifth-generation Highlander will be called the Highlander 9X and is the first Toyota anywhere with a range-extender powertrain; it will make its full global debut in Q1 2027. Chinese media report Huawei smart-cockpit/driving tech and a CATL battery, and GAC Toyota says it will launch five new cars in 2027, including two new EREVs. Specs and prices are not out. We mark the Nov 27 reveal as Released and track the Q1 2027 debut separately.",
       "sources": [
+        {
+          "name": "NBD (Nov 27, Chinese)",
+          "url": "https://www.nbd.com.cn/articles/2026-11-27/4661324.html"
+        },
         {
           "name": "Electrek",
           "url": "https://electrek.co/2026/11/25/toyota-reveal-first-erev-looks-like-highlander/"
@@ -5543,6 +5555,102 @@
         {
           "name": "GameSpot",
           "url": "https://www.gamespot.com/articles/lords-of-the-fallen-2-delayed-yet-again/"
+        }
+      ]
+    },
+    {
+      "id": "toyota-highlander-9x-debut",
+      "name": "Toyota Highlander 9X global debut (EREV, China)",
+      "brand": "Toyota",
+      "categories": [
+        "evs"
+      ],
+      "type": "Car",
+      "date": "2027-03-01",
+      "date_label": "Q1 2027 (global debut, per GAC Toyota)",
+      "precision": "window",
+      "status": "Estimated",
+      "price": "",
+      "summary": "GAC Toyota says the Highlander 9X, Toyota's first extended-range EV, makes its full global debut in the first quarter of 2027.",
+      "details": "Named at the Guangzhou Auto Show on Nov 27, 2026. GAC Toyota gave only a quarter, not a date. Earlier Nikkei reporting put EREV production in China from spring 2027. Specs and pricing are not announced, and Toyota is not expected to sell it in the US.",
+      "sources": [
+        {
+          "name": "NBD (Chinese)",
+          "url": "https://www.nbd.com.cn/articles/2026-11-27/4661324.html"
+        },
+        {
+          "name": "Electrek",
+          "url": "https://electrek.co/2026/11/25/toyota-reveal-first-erev-looks-like-highlander/"
+        }
+      ]
+    },
+    {
+      "id": "byd-whale-mpv",
+      "name": "BYD Whale flagship MPV (China)",
+      "brand": "BYD",
+      "categories": [
+        "evs"
+      ],
+      "type": "Car",
+      "date": "2027-03-01",
+      "date_label": "Q1 2027 (official launch window)",
+      "precision": "window",
+      "status": "Estimated",
+      "price": "Expected around 300,000 yuan (not announced)",
+      "summary": "BYD unveiled the Whale, the Ocean lineup's first flagship MPV, at the Guangzhou Auto Show; it launches in Q1 2027 as an EV and a plug-in hybrid.",
+      "details": "The Whale is 5,270 mm long with a 3,130 mm wheelbase and uses the second-generation Blade battery. CnEVPost reports more than 900 km of CLTC range for the EV and over 400 km of electric range for the plug-in hybrid, both with BYD's flash charging, plus roof LiDAR. BYD showed only the name and exterior; interior, seating and pricing (expected near 300,000 yuan) are not out.",
+      "sources": [
+        {
+          "name": "CnEVPost",
+          "url": "https://cnevpost.com/2026/11/27/byd-unveils-ocean-lineup-mpv-whale/"
+        }
+      ]
+    },
+    {
+      "id": "fang-cheng-bao-shark-china",
+      "name": "Fang Cheng Bao Shark pickup (China launch)",
+      "brand": "BYD (Fang Cheng Bao)",
+      "categories": [
+        "evs"
+      ],
+      "type": "Car",
+      "date": "2026-12-02",
+      "date_label": "Dec 2, 2026 (China launch; deliveries from launch)",
+      "precision": "day",
+      "status": "Confirmed",
+      "price": "",
+      "summary": "BYD's Shark plug-in hybrid pickup, sold abroad since 2024, launches in China under Fang Cheng Bao on Dec 2 after its Guangzhou show debut.",
+      "details": "The Shark first launched in Mexico in May 2024 and has sold 38,367 units overseas in the first 10 months of 2026 (CnEVPost). It made its China public debut at the Guangzhou Auto Show on Nov 27; reports say deliveries start at launch. China pricing is not yet announced.",
+      "sources": [
+        {
+          "name": "CnEVPost",
+          "url": "https://cnevpost.com/2026/11/24/byd-fang-cheng-bao-shark-launch-china-dec-2/"
+        },
+        {
+          "name": "CarNewsChina",
+          "url": "https://carnewschina.com/2026/11/24/byds-fang-cheng-bao-shark-pickup-to-launch-in-china-on-december-2nd/"
+        }
+      ]
+    },
+    {
+      "id": "xenoblade-chronicles-3-switch-2-edition",
+      "name": "Xenoblade Chronicles 3 Nintendo Switch 2 Edition",
+      "brand": "Nintendo",
+      "categories": [
+        "gaming"
+      ],
+      "type": "Game",
+      "date": "2026-12-03",
+      "date_label": "Dec 3, 2026",
+      "precision": "day",
+      "status": "Confirmed",
+      "price": "",
+      "summary": "Nintendo's Switch 2 Edition of Xenoblade Chronicles 3 arrives Dec 3 with sharper visuals and cutscenes plus new content.",
+      "details": "Nintendo's overview trailer (Nov 26) highlights improved visuals and cutscenes, a Heroes' Vault feature and a new Hero Shimmer addition. Check Nintendo's eShop for upgrade pricing for existing owners.",
+      "sources": [
+        {
+          "name": "Crunchyroll News",
+          "url": "https://www.crunchyroll.com/news/latest/2026/11/26/xenoblade-chronicles-3-nintendo-switch-2-edition-overview-trailer"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T21:57:30Z",
+ "updated": "2026-11-28T08:54:36Z",
  "sources": [
   "9to5Google",
   "9to5Mac",
@@ -23,6 +23,432 @@
  "count": 600,
  "items": [
   {
+   "id": "fd434fbc3c34",
+   "title": "Someone used seven ESP32s to simulate a fictional republic, and you can visit its museum",
+   "url": "https://www.xda-developers.com/someone-used-seven-esp32s-to-create-a-miniature-fictional-republic-visit-its-museum/",
+   "source": "XDA Developers",
+   "published": "2026-11-28T08:03:04Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "83ce977c0590",
+   "title": "Linux is dropping a 45-year-old driver because LLMs won't stop \"fixing\" it",
+   "url": "https://www.xda-developers.com/linux-dropping-45-year-old-driver-llms-wont-stop-fixing-it/",
+   "source": "XDA Developers",
+   "published": "2026-11-28T07:29:59Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "f78f262ea562",
+   "title": "Samsung is working on Vision mode and Auto portrait for its Camera app",
+   "url": "https://www.gsmarena.com/samsung_is_working_on_vision_mode_and_auto_portrait_for_its_camera_app-news-75679.php",
+   "source": "GSMArena",
+   "published": "2026-11-28T06:07:02Z",
+   "categories": [
+    "android",
+    "samsung"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "0777b32b77c4",
+   "title": "Pixel users on T-Mobile are losing patience as November's Android 17 update remains missing",
+   "url": "https://www.androidpolice.com/google-pixel-users-losing-patience-t-mobile-november-android-17-update-missing/",
+   "source": "Android Police",
+   "published": "2026-11-28T05:25:42Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "8474681cebae",
+   "title": "HomePod Mini 2 in (RED) Seemingly Spotted Ahead of Announcement",
+   "url": "https://www.macrumors.com/2026/11/27/red-homepod-mini-2-seemingly-spotted/",
+   "source": "MacRumors",
+   "published": "2026-11-28T03:50:47Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": true
+  },
+  {
+   "id": "daf5869662b3",
+   "title": "Samsung's Galaxy S25 and S25 Ultra could be banned in the US after a patent ruling",
+   "url": "https://www.androidpolice.com/samsung-galaxy-s25-ultra-could-be-banned-us-over-camera-patent-infringement/",
+   "source": "Android Police",
+   "published": "2026-11-28T03:14:09Z",
+   "categories": [
+    "android",
+    "samsung"
+   ],
+   "rumor": true
+  },
+  {
+   "id": "2e0f5856966b",
+   "title": "Product(RED) HomePod mini 2 seemingly surfaces ahead of rumored announcement [U]",
+   "url": "https://9to5mac.com/2026/11/27/productred-homepod-mini-2-seemingly-surfaces-ahead-of-rumored-announcement/",
+   "source": "9to5Mac",
+   "published": "2026-11-28T03:07:04Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": true
+  },
+  {
+   "id": "706961f5407c",
+   "title": "The name of OnePlus' next tablet leaks along with its launch date",
+   "url": "https://www.gsmarena.com/the_name_of_oneplus_next_tablet_leaks_along_with_its_launch_date-news-75681.php",
+   "source": "GSMArena",
+   "published": "2026-11-28T03:04:02Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": true
+  },
+  {
+   "id": "557b1ca7fbec",
+   "title": "The M5 MacBook Air just got its biggest discount since Apple raised the price",
+   "url": "https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale",
+   "source": "The Verge",
+   "published": "2026-11-28T02:16:43Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "0a0bcef32fed",
+   "title": "Wine 11.23 fixes some gaming bugs, boosts DirectX 12 compatibility, and adds Arm64 macOS support",
+   "url": "https://www.xda-developers.com/wine-1123-fixes-some-gaming-bugs-boosts-directx-12-compatibility-and-adds-arm64-macos-support/",
+   "source": "XDA Developers",
+   "published": "2026-11-28T02:04:28Z",
+   "categories": [
+    "apple",
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "9fdfb6028ef4",
+   "title": "Sony’s 1000XM4C headphones are a Black Friday bargain at $198",
+   "url": "https://www.theverge.com/gadgets/1043976/sony-wh1000xm4c-noise-canceling-headphones-black-friday-2026-deal-sale",
+   "source": "The Verge",
+   "published": "2026-11-28T01:54:12Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "5ce2bd0023f5",
+   "title": "I don't miss hunting for drivers on Windows because Linux just works out of the box",
+   "url": "https://www.xda-developers.com/i-dont-miss-hunting-for-drivers-on-windows-because-linux-just-works-out-of-the-box/",
+   "source": "XDA Developers",
+   "published": "2026-11-28T01:00:20Z",
+   "categories": [
+    "chips"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "f86289b36212",
+   "title": "The best robot vacuums we’ve tested are up to 60 percent off for Black Friday",
+   "url": "https://www.theverge.com/gadgets/1044487/best-black-friday-robot-vacuum-mop-deals-2026",
+   "source": "The Verge",
+   "published": "2026-11-28T00:51:09Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "6b0ef3f83195",
+   "title": "We found 60-odd Black Friday deals we love for $100 or less",
+   "url": "https://www.theverge.com/gadgets/1043445/black-friday-best-cheap-tech-deals-under-100-2026",
+   "source": "The Verge",
+   "published": "2026-11-28T00:42:02Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "9a959729325d",
+   "title": "If you want to give a mini PC a try, this $189 BOSGAME is worth picking up",
+   "url": "https://www.androidpolice.com/give-a-mini-pc-a-try-this-189-bosgame-is-worth-picking-up/",
+   "source": "Android Police",
+   "published": "2026-11-28T00:37:08Z",
+   "categories": [
+    "android",
+    "chips"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "f7299fca6240",
+   "title": "This purple electric Chinese minivan can go up to 559 miles on a charge",
+   "url": "https://www.theverge.com/transportation/1044706/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charge",
+   "source": "The Verge",
+   "published": "2026-11-28T00:25:48Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "a01af21cdaeb",
+   "title": "Galaxy S27 Ultra tipped to improve night photography and video",
+   "url": "https://www.gsmarena.com/galaxy_s27_ultra_tipped_to_improve_night_photography_and_video-news-75678.php",
+   "source": "GSMArena",
+   "published": "2026-11-28T00:21:02Z",
+   "categories": [
+    "android",
+    "samsung"
+   ],
+   "rumor": true
+  },
+  {
+   "id": "691e64d53b87",
+   "title": "IONNA’s got a 50% discount off EV charging over Thanksgiving weekend",
+   "url": "https://electrek.co/2026/11/27/ionnas-got-a-50-discount-off-ev-charging-over-thanksgiving-weekend/",
+   "source": "Electrek",
+   "published": "2026-11-28T00:20:41Z",
+   "categories": [
+    "evs"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "1856210a6844",
+   "title": "The better version of the wireless headset I love is $40 off right now",
+   "url": "https://www.pcgamer.com/hardware/the-better-version-of-the-wireless-headset-i-love-is-usd40-off-right-now/",
+   "source": "PC Gamer",
+   "published": "2026-11-28T00:01:20Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "8856c6ce483e",
+   "title": "I finally found a free open-source tool that can replace PowerPoint, Canva, and Claude Design for presentations",
+   "url": "https://www.xda-developers.com/found-free-open-source-tool-that-can-replace-powerpoint-canva-claude-design-for-presentations/",
+   "source": "XDA Developers",
+   "published": "2026-11-28T00:00:20Z",
+   "categories": [
+    "ai"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "05ac2070aaee",
+   "title": "In My Cart: Here are the Amazon Black Friday deals we are buying for ourselves",
+   "url": "https://9to5toys.com/2026/11/27/we-buying-amazon-black-friday-deals/",
+   "source": "9to5Mac",
+   "published": "2026-11-27T23:58:36Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "950e020611cc",
+   "title": "This Lenovo LOQ notebook with Arc B390 graphics is just $799 this Black Friday",
+   "url": "https://www.tomshardware.com/laptops/gaming-laptops/this-lenovo-loq-notebook-with-arc-b390-graphics-is-just-usd799-this-black-friday-get-a-gaming-ready-panther-lake-laptop-for-a-super-low-price",
+   "source": "Tom's Hardware",
+   "published": "2026-11-27T23:33:28Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "59992b622cec",
+   "title": "Yooka-Laylee’s free upgrade is skipping Xbox",
+   "url": "https://www.theverge.com/games/1044715/yooka-laylees-free-upgrade-is-skipping-xbox",
+   "source": "The Verge",
+   "published": "2026-11-27T23:30:32Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "e9ded438158a",
+   "title": "Get a perfect Alienware 4K OLED 32\" display with RGB subpixels for $150 off",
+   "url": "https://www.tomshardware.com/pc-components/get-a-perfect-alienware-4k-oled-32-display-with-rgb-subpixels-for-usd150-off-165-hz-refresh-rate-1000-nits-hdr-and-dolby-vision-support-with-the-aw3226q",
+   "source": "Tom's Hardware",
+   "published": "2026-11-27T23:10:19Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "e681b45e6cb6",
+   "title": "My TV shows my own photo library when nobody's watching, and it never phones home",
+   "url": "https://www.xda-developers.com/my-tv-shows-my-own-photo-library-when-nobodys-watching-and-it-never-phones-home/",
+   "source": "XDA Developers",
+   "published": "2026-11-27T23:00:22Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "31513f329bdb",
+   "title": "The canonical USB microphone is still great, and now a total steal for $70",
+   "url": "https://www.pcgamer.com/hardware/the-canonical-usb-microphone-is-still-great-and-now-a-total-steal-for-usd70/",
+   "source": "PC Gamer",
+   "published": "2026-11-27T23:00:01Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "08c6c04cfb95",
+   "title": "5 ways to make sure your console isn't holding back your GTA 6 performance",
+   "url": "https://www.engadget.com/2329878/gta-6-performance-ways-make-sure-console-not-holding-back/",
+   "source": "Engadget",
+   "published": "2026-11-27T22:46:29Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "db71ae807a32",
+   "title": "iPhone 18 and iPhone 18e production reportedly delayed again",
+   "url": "https://www.gsmarena.com/iphone_18_and_iphone_18e_production_reportedly_delayed_again-news-75682.php",
+   "source": "GSMArena",
+   "published": "2026-11-27T22:39:02Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": true
+  },
+  {
+   "id": "f20d4009ab76",
+   "title": "TP-Link's AV2000 Powerline Ethernet Adapter drops to just $75.89 for Black Friday",
+   "url": "https://www.xda-developers.com/tp-links-av2000-powerline-ethernet-adapter-drops-to-just-7589-for-black-friday/",
+   "source": "XDA Developers",
+   "published": "2026-11-27T22:33:53Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "2c7ec7ad870b",
+   "title": "My coding agents kept forgetting what I told them until I gave every project one shared instructions file",
+   "url": "https://www.xda-developers.com/one-agents-md-file-for-every-coding-agent/",
+   "source": "XDA Developers",
+   "published": "2026-11-27T22:30:21Z",
+   "categories": [
+    "ai"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "d6d31f34ae05",
+   "title": "WhatsApp announces travel eSIMs, tests view-once texts and a cleaner interface",
+   "url": "https://9to5mac.com/2026/11/27/whatsapp-announces-travel-esims-tests-view-once-texts-and-a-cleaner-interface/",
+   "source": "9to5Mac",
+   "published": "2026-11-27T22:30:06Z",
+   "categories": [
+    "apple"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "af20d88640dc",
+   "title": "All I want for Christmas is plastic crap based on Armored Core",
+   "url": "https://www.pcgamer.com/games/action/all-i-want-for-christmas-is-plastic-crap-based-on-armored-core/",
+   "source": "PC Gamer",
+   "published": "2026-11-27T22:24:20Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "54395e0ebd24",
+   "title": "SanDisk’s lightning-fast Optimus GX Pro 8100 2TB NVMe SSD is 21% off and $0.18 cents per GB",
+   "url": "https://www.tomshardware.com/pc-components/sandisks-lightning-fast-optimus-gx-pro-8100-2tb-nvme-ssd-is-21-percent-off-and-usd0-18-cents-per-gb-usd349-for-a-pcie-5-0-m-2-ssd-is-about-as-good-as-it-gets-for-black-friday",
+   "source": "Tom's Hardware",
+   "published": "2026-11-27T22:19:56Z",
+   "categories": [
+    "chips",
+    "evs"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "c5cd2db88365",
+   "title": "Skate is dropping seasons and season passes in favor of 'regular, agile content updates'",
+   "url": "https://www.pcgamer.com/games/sports/skate-is-dropping-seasons-and-season-passes-in-favor-of-regular-agile-content-updates/",
+   "source": "PC Gamer",
+   "published": "2026-11-27T22:13:12Z",
+   "categories": [
+    "gaming"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "f3379006632a",
+   "title": "AYANEO’s latest KONKR Pocket Advance color nails that classic translucent GBA look",
+   "url": "https://www.androidauthority.com/ice-blue-konkr-pocket-advance-3741052/",
+   "source": "Android Authority",
+   "published": "2026-11-27T22:07:14Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "e65f32629d8c",
+   "title": "Grab a 90Hz Android tablet for $89",
+   "url": "https://www.androidpolice.com/this-tcl-89-inch-android-tablet-with-a-90hz-screen-is-a-steal-at-89/",
+   "source": "Android Police",
+   "published": "2026-11-27T22:07:07Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "55d89ec53233",
+   "title": "I built my own Android Help Center with Gemini Notebook; here's how it went",
+   "url": "https://www.androidpolice.com/i-built-my-own-android-help-center-with-gemini-notebook-heres-how-it-went/",
+   "source": "Android Police",
+   "published": "2026-11-27T22:05:10Z",
+   "categories": [
+    "ai",
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "fd54b47245a7",
+   "title": "Google still doesn’t have a new Nest Hub to sell me, and I’m pretty tempted by Amazon’s Echo Show deals",
+   "url": "https://9to5google.com/2026/11/27/amazon-echo-show-black-friday-google-nest-hub/",
+   "source": "9to5Google",
+   "published": "2026-11-27T22:05:00Z",
+   "categories": [
+    "android"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "03738b7539b3",
+   "title": "I gave each Docker container its own Tailscale address, and stopped exposing ports on my home server",
+   "url": "https://www.xda-developers.com/my-docker-containers-have-own-tailscale-address-and-i-dont-expose-ports/",
+   "source": "XDA Developers",
+   "published": "2026-11-27T22:00:21Z",
+   "categories": [],
+   "rumor": false
+  },
+  {
+   "id": "de8d91e64e03",
+   "title": "LA school district blocks Google's AI search features",
+   "url": "https://www.engadget.com/2329851/la-school-district-blocks-google-ai-search-features/",
+   "source": "Engadget",
+   "published": "2026-11-27T22:00:08Z",
+   "categories": [
+    "ai",
+    "android"
+   ],
+   "rumor": false
+  },
+  {
    "id": "f1b8850d7663",
    "title": "Black Friday 2026 gaming monitor deals live",
    "url": "https://www.tomshardware.com/live/news/black-friday-2026-monitor-deals-oled-4k-gaming",
@@ -42,6 +468,15 @@
    "categories": [
     "apple"
    ],
+   "rumor": false
+  },
+  {
+   "id": "78335544791d",
+   "title": "Many of our favorite Blu-ray movies are over 50 percent off for Black Friday",
+   "url": "https://www.theverge.com/gadgets/1040471/4k-bluray-movie-film-black-friday-deal-sale",
+   "source": "The Verge",
+   "published": "2026-11-27T21:47:46Z",
+   "categories": [],
    "rumor": false
   },
   {
@@ -294,6 +729,17 @@
    "categories": [
     "ai",
     "evs"
+   ],
+   "rumor": false
+  },
+  {
+   "id": "214aefd03e6a",
+   "title": "The new iPad Mini is getting its first major discount for Black Friday",
+   "url": "https://www.theverge.com/gadgets/1042705/ipad-mini-black-friday-deal-sale-2026",
+   "source": "The Verge",
+   "published": "2026-11-27T20:07:31Z",
+   "categories": [
+    "apple"
    ],
    "rumor": false
   },
@@ -6555,506 +7001,6 @@
    ],
    "rumor": true,
    "summary": "Leaked images show the full Realme 17 Pro design with a OnePlus-like camera module."
-  },
-  {
-   "id": "62eb3cea7c2c",
-   "title": "Best Black Friday Nintendo Switch 2 microSD Express card deals 2026",
-   "url": "https://www.tomshardware.com/pc-components/microsd-cards/best-nintendo-switch-2-microsd-express-card-deals-2026",
-   "source": "Tom's Hardware",
-   "published": "2026-11-25T18:01:57Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": false,
-   "summary": "Black Friday deals on microSD Express cards for the Switch 2."
-  },
-  {
-   "id": "c44ce32b1ca1",
-   "title": "Why Amazon Photos' unlimited storage is the best solution for long-term photo backups",
-   "url": "https://www.androidpolice.com/the-free-amazon-photos-perk-i-used-to-back-up-70-gb-and-clear-out-google-photos/",
-   "source": "Android Police",
-   "published": "2026-11-25T18:00:10Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false,
-   "summary": "An argument for Amazon Photos' unlimited storage as a long-term backup."
-  },
-  {
-   "id": "a5cb1211a313",
-   "title": "The Sony Inzone H9 II might be the best gaming headset for the PS5 — and now it's cheaper than it's EVER been for Black Friday",
-   "url": "https://www.androidpolice.com/black-friday-sony-inzone-h9-ii-gaming-headset-deal-amazon-sale/",
-   "source": "Android Police",
-   "published": "2026-11-25T17:58:15Z",
-   "categories": [
-    "android",
-    "gaming"
-   ],
-   "rumor": false,
-   "summary": "Deal: Sony's Inzone H9 II headset hits its lowest price."
-  },
-  {
-   "id": "3309fd89de60",
-   "title": "Another Live-Service Game Is Going Extinct, And This One Has Dinosaurs",
-   "url": "https://www.gamespot.com/articles/another-live-service-game-is-going-extinct-and-this-one-has-dinosaurs/",
-   "source": "GameSpot",
-   "published": "2026-11-25T17:57:42Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": false,
-   "summary": "Another live-service game with dinosaurs is shutting down."
-  },
-  {
-   "id": "9c52c7ab1595",
-   "title": "Why GTA 6 Doesn’t Let You Replay Missions–It Felt “Alien And Disconnected”",
-   "url": "https://www.gamespot.com/articles/why-gta-6-doesnt-let-you-replay-missions-it-felt-alien-and-disconnected/",
-   "source": "GameSpot",
-   "published": "2026-11-25T17:57:36Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": false,
-   "summary": "A GTA 6 developer explains why the game leaves out mission replays."
-  },
-  {
-   "id": "5d08df0a017e",
-   "title": "Logitech MX Master 3S Bluetooth Edition hits a record low",
-   "url": "https://www.androidauthority.com/logitech-mx-master-3s-bluetooth-deal-3739433/",
-   "source": "Android Authority",
-   "published": "2026-11-25T17:56:48Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false,
-   "summary": "Deal: the Logitech MX Master 3S Bluetooth Edition hits a record low."
-  },
-  {
-   "id": "776fcd8737c5",
-   "title": "Diablo 4 Is Making Helltides A Hell Of A Lot Easier",
-   "url": "https://www.gamespot.com/articles/diablo-4-is-making-helltides-a-hell-of-a-lot-easier/",
-   "source": "GameSpot",
-   "published": "2026-11-25T17:55:59Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": false,
-   "summary": "Diablo 4 is making Helltides easier."
-  },
-  {
-   "id": "baa08bc4eb16",
-   "title": "The Suzuki Ignis is back, and this time it will be a low-cost EV sold globally [Images]",
-   "url": "https://electrek.co/2026/11/25/suzuki-revives-ignis-low-cost-global-ev-images/",
-   "source": "Electrek",
-   "published": "2026-11-25T17:46:20Z",
-   "categories": [
-    "evs"
-   ],
-   "rumor": false,
-   "summary": "Suzuki is reviving the Ignis as a low-cost EV for global markets."
-  },
-  {
-   "id": "98e26627d2a5",
-   "title": "Apple TV hit comedy from Ted Lasso, Shrinking creator returns next week",
-   "url": "https://9to5mac.com/2026/11/25/apple-tv-hit-comedy-from-ted-lasso-shrinking-creator-returns-next-week/",
-   "source": "9to5Mac",
-   "published": "2026-11-25T17:45:52Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false,
-   "summary": "An Apple TV comedy from the Ted Lasso and Shrinking creator returns next week."
-  },
-  {
-   "id": "37494e9ffc32",
-   "title": "Save $2600 on the cheapest RTX 5090 prebuilt PC we've found so far in the Black Friday rush",
-   "url": "https://www.tomshardware.com/pc-components/save-usd2600-on-the-cheapest-rtx-5090-prebuilt-pc-weve-found-so-far-in-the-black-friday-rush-corsair-vengeance-i7600-features-ultra-9-285k-cpu-64gb-ram-and-the-ultimate-gaming-gpu",
-   "source": "Tom's Hardware",
-   "published": "2026-11-25T17:45:00Z",
-   "categories": [
-    "chips",
-    "gaming"
-   ],
-   "rumor": false,
-   "summary": "Deal: $2,600 off an RTX 5090 prebuilt PC."
-  },
-  {
-   "id": "6359c2ce0900",
-   "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
-   "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
-   "source": "The Verge",
-   "published": "2026-11-25T17:44:57Z",
-   "categories": [],
-   "rumor": false,
-   "summary": "The FCC approved SpaceX's plan for up to 1 million data center satellites."
-  },
-  {
-   "id": "721be492820b",
-   "title": "Save serious money with RedPocket Mobile’s $5 Black Friday plans",
-   "url": "https://9to5google.com/2026/11/25/save-serious-money-with-redpockets-black-friday-plans-that-start-at-5-a-month-sponsored/",
-   "source": "9to5Google",
-   "published": "2026-11-25T17:41:47Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false,
-   "summary": "RedPocket Mobile offers $5 phone plans for Black Friday."
-  },
-  {
-   "id": "16ddaf7683c8",
-   "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
-   "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
-   "source": "TechCrunch",
-   "published": "2026-11-25T17:35:58Z",
-   "categories": [
-    "ai"
-   ],
-   "rumor": false,
-   "summary": "State AGs are challenging Character.AI's plan to auction private chats."
-  },
-  {
-   "id": "863ac3a2c21b",
-   "title": "Ladybird browser's first downloadable alpha is surprisingly capable",
-   "url": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
-   "source": "Ars Technica",
-   "published": "2026-11-25T17:33:30Z",
-   "categories": [],
-   "rumor": false,
-   "summary": "The Ladybird browser's first downloadable alpha is surprisingly usable."
-  },
-  {
-   "id": "20885c016c99",
-   "title": "Festivitas brings holiday cheer to your Mac with snow you can shovel",
-   "url": "https://9to5mac.com/2026/11/25/festivitas-brings-holiday-cheer-to-your-mac-with-snow-you-can-shovel/",
-   "source": "9to5Mac",
-   "published": "2026-11-25T17:31:29Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false,
-   "summary": "Festivitas adds holiday snow to the Mac that you can shovel."
-  },
-  {
-   "id": "20c8328b328c",
-   "title": "WhatsApp officially adds scheduled messages, and the rollout is scheduled too",
-   "url": "https://9to5google.com/2026/11/25/whatsapp-officially-adds-scheduled-messages-and-the-rollout-is-scheduled-too/",
-   "source": "9to5Google",
-   "published": "2026-11-25T17:30:00Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false,
-   "summary": "WhatsApp has officially added scheduled messages, rolling out gradually."
-  },
-  {
-   "id": "8fc7185aef9d",
-   "title": "Aurzen's Black Friday sale features models for living rooms and anywhere in between",
-   "url": "https://www.androidpolice.com/aurzen-black-friday-sale-2026/",
-   "source": "Android Police",
-   "published": "2026-11-25T17:25:26Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false,
-   "summary": "Aurzen projector deals for Black Friday."
-  },
-  {
-   "id": "03a0787746d7",
-   "title": "How To Get an iPhone Duo or iPhone 18 Pro at No Cost Through T-Mobile for Black Friday",
-   "url": "https://www.macrumors.com/2026/11/25/iphone-no-cost-t-mobile/",
-   "source": "MacRumors",
-   "published": "2026-11-25T17:22:01Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false,
-   "summary": "How T-Mobile's Black Friday offers can get you an iPhone Duo or iPhone 18 Pro at no upfront cost."
-  },
-  {
-   "id": "21696307daf1",
-   "title": "Google Pixel Buds 2a drop 23% to match their lowest price",
-   "url": "https://www.androidauthority.com/pixel-buds-2a-black-friday-deal-3739432/",
-   "source": "Android Authority",
-   "published": "2026-11-25T17:20:22Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false,
-   "summary": "Deal: Pixel Buds 2a are 23% off, matching their low."
-  },
-  {
-   "id": "1b4a25269ccc",
-   "title": "Android Auto update improves support for wide displays, but not everyone will see it [Gallery]",
-   "url": "https://9to5google.com/2026/11/25/android-auto-wide-display-update/",
-   "source": "9to5Google",
-   "published": "2026-11-25T17:20:00Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false,
-   "summary": "An Android Auto update improves wide-display support, but not for everyone yet."
-  },
-  {
-   "id": "c4fb115905ad",
-   "title": "The best prebuilt gaming PCs we've seen on sale so far",
-   "url": "https://www.tomshardware.com/desktops/gaming-pcs/the-best-prebuilt-gaming-pcs-weve-seen-on-sale-so-far-the-four-best-rtx-5090-5070-and-5060-gaming-pcs",
-   "source": "Tom's Hardware",
-   "published": "2026-11-25T17:20:00Z",
-   "categories": [
-    "chips",
-    "gaming"
-   ],
-   "rumor": false,
-   "summary": "The best prebuilt gaming PC deals so far."
-  },
-  {
-   "id": "43890d25b079",
-   "title": "iPhone 18 Pro Max Battery Exhausts a Toy Cyclops in New Apple Ad",
-   "url": "https://www.macrumors.com/2026/11/25/iphone-battery-cyclops-ad/",
-   "source": "MacRumors",
-   "published": "2026-11-25T17:16:43Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false,
-   "summary": "Apple's new ad shows the iPhone 18 Pro Max battery outlasting a toy cyclops."
-  },
-  {
-   "id": "61ca50113ad5",
-   "title": "Etsy clarifies AI terms after seller backlash",
-   "url": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/",
-   "source": "Ars Technica",
-   "published": "2026-11-25T17:12:57Z",
-   "categories": [
-    "ai"
-   ],
-   "rumor": false,
-   "summary": "Etsy clarified its AI terms after seller backlash."
-  },
-  {
-   "id": "3a2aad111046",
-   "title": "$799 Smart Glasses Promise Vision Pro-Style Controls in a 45g Frame",
-   "url": "https://www.macrumors.com/2026/11/25/smart-glasses-promise-vision-pro-style-controls/",
-   "source": "MacRumors",
-   "published": "2026-11-25T17:09:11Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": false,
-   "summary": "$799 smart glasses promise Vision Pro-style controls in a 45g frame."
-  },
-  {
-   "id": "8527d57be2fe",
-   "title": "GTA 6’s Mandy Actor Reacts To The Online “Weirdos”",
-   "url": "https://www.gamespot.com/articles/gta-6s-mandy-actor-reacts-to-the-online-weirdos/",
-   "source": "GameSpot",
-   "published": "2026-11-25T17:06:35Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": false,
-   "summary": "The actor behind GTA 6's Mandy responds to online creeps."
-  },
-  {
-   "id": "0d01af8782d4",
-   "title": "Peak Design makes some of our favorite tech bags and EDC gear, and they’re up to 40% off",
-   "url": "https://9to5google.com/2026/11/25/our-favorite-peak-design-bags-and-edc-on-sale/",
-   "source": "9to5Google",
-   "published": "2026-11-25T17:04:42Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false,
-   "summary": "Deal: Peak Design bags and gear up to 40% off."
-  },
-  {
-   "id": "4a1f2c2c429c",
-   "title": "AI kills another coding competition: 'I was not at all interested in giving awards to the output of large language models'",
-   "url": "https://www.pcgamer.com/software/ai/ai-kills-another-coding-competition-i-was-not-at-all-interested-in-giving-awards-to-the-output-of-large-language-models/",
-   "source": "PC Gamer",
-   "published": "2026-11-25T17:03:08Z",
-   "categories": [
-    "ai",
-    "gaming"
-   ],
-   "rumor": false,
-   "summary": "Another coding competition is ending because of AI-generated entries."
-  },
-  {
-   "id": "9c48adadddc4",
-   "title": "Honor Choice T20 launches with bigger 7,000mAh battery, still runs Android Go edition",
-   "url": "https://www.gsmarena.com/honor_choice_t20_launches_with_bigger_7000mah_battery_still_runs_android_go_edition-news-75633.php",
-   "source": "GSMArena",
-   "published": "2026-11-25T17:03:03Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false,
-   "summary": "Honor's Choice T20 gets a bigger 7,000mAh battery but still runs Android Go."
-  },
-  {
-   "id": "8d9f56b6c696",
-   "title": "Another Gaming Console Price Hike Could Be Coming, Thanks To New Tariffs",
-   "url": "https://www.gamespot.com/articles/another-gaming-console-price-hike-could-be-coming-thanks-to-new-tariffs/",
-   "source": "GameSpot",
-   "published": "2026-11-25T17:00:26Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": true,
-   "summary": "New tariffs could bring another round of console price hikes."
-  },
-  {
-   "id": "cb7227ebb4b0",
-   "title": "The Verge’s guide to the best gifts under $100",
-   "url": "https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026",
-   "source": "The Verge",
-   "published": "2026-11-25T17:00:24Z",
-   "categories": [],
-   "rumor": false,
-   "summary": "The Verge's best gifts under $100."
-  },
-  {
-   "id": "6a9c53258bdb",
-   "title": "GTA 6 vice president of music says working with Justice was ‘the ideal opportunity’ and helped ‘bridge’ the classic Vice City ’80s aesthetic ‘with contemporary electronic production to create the perfect backdrop for Jason and Lucia’s story in the game’",
-   "url": "https://www.techradar.com/gaming/gta-6-dev-says-working-with-justice-was-the-ideal-opportunity-and-helped-bridge-the-classic-vice-city-80s-aesthetic-with-contemporary-electronic-production-to-create-the-perfect-backdrop-for-jason-and-lucias-story-in-the-game",
-   "source": "TechRadar",
-   "published": "2026-11-25T17:00:00Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": false,
-   "summary": "GTA VI's music VP says working with Justice helped link the game to Vice City's 1980s style."
-  },
-  {
-   "id": "918120f4e3e2",
-   "title": "Save $200 with surprising deals on new Nvidia RTX Spark-powered Asus ProArt P14 laptops",
-   "url": "https://www.tomshardware.com/laptops/save-usd200-with-surprising-deals-on-new-nvidia-rtx-spark-powered-asus-proart-p14-laptops-both-24gb-and-32gb-configurations-are-already-on-sale",
-   "source": "Tom's Hardware",
-   "published": "2026-11-25T16:58:33Z",
-   "categories": [
-    "chips",
-    "gaming"
-   ],
-   "rumor": false,
-   "summary": "Deal: $200 off Asus ProArt P14 laptops with Nvidia's RTX Spark chip."
-  },
-  {
-   "id": "cf77c858a1dc",
-   "title": "WhatsApp is finally offering scheduled messages",
-   "url": "https://www.engadget.com/2328242/whatsapp-is-finally-offering-scheduled-messages/",
-   "source": "Engadget",
-   "published": "2026-11-25T16:54:10Z",
-   "categories": [],
-   "rumor": false,
-   "summary": "WhatsApp is adding scheduled messages."
-  },
-  {
-   "id": "24d93dbccd5c",
-   "title": "Black Friday deals: Galaxy S series phones from $500, A series $230, Legion Go S $710 off, Google Find Hub trackers $16 each, more",
-   "url": "https://9to5google.com/2026/11/25/black-friday-galaxy-phones-legion-go-s-find-hub-tracker/",
-   "source": "9to5Google",
-   "published": "2026-11-25T16:53:07Z",
-   "categories": [
-    "android",
-    "samsung"
-   ],
-   "rumor": false,
-   "summary": "Black Friday deals on Galaxy S and A phones, Legion Go S and Google Find Hub trackers."
-  },
-  {
-   "id": "148a75b422c2",
-   "title": "Ars Live recap: Don’t expect military attacks on data centers to stop",
-   "url": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/",
-   "source": "Ars Technica",
-   "published": "2026-11-25T16:47:14Z",
-   "categories": [],
-   "rumor": false,
-   "summary": "An Ars Live discussion warns military attacks on data centers will continue."
-  },
-  {
-   "id": "04babe0c5be3",
-   "title": "Electric Porsche Boxster Prototype Reviews Are Out. Here's What Critics Think",
-   "url": "https://insideevs.com/news/816654/electric-porsche-boxster-review-roundup/",
-   "source": "InsideEVs",
-   "published": "2026-11-25T16:40:10Z",
-   "categories": [
-    "evs"
-   ],
-   "rumor": false,
-   "summary": "First drives of the electric Porsche Boxster prototype are out; here's the critics' consensus."
-  },
-  {
-   "id": "9991e42cd175",
-   "title": "Lawsuit alleges Trump strong-armed Intel",
-   "url": "https://www.tomshardware.com/tech-industry/policy/lawsuit-reveals-trumps-alleged-strong-arming-of-intel-troubled-chipmaker-allegedly-forced-to-give-white-house-10-percent-stake-for-release-of-chips-act-funds",
-   "source": "Tom's Hardware",
-   "published": "2026-11-25T16:39:23Z",
-   "categories": [
-    "chips"
-   ],
-   "rumor": false,
-   "summary": "A lawsuit alleges the Trump administration forced Intel to give up a 10% stake to release CHIPS Act funds."
-  },
-  {
-   "id": "673f36e6f893",
-   "title": "Lords Of The Fallen 2 Delayed Yet Again",
-   "url": "https://www.gamespot.com/articles/lords-of-the-fallen-2-delayed-yet-again/",
-   "source": "GameSpot",
-   "published": "2026-11-25T16:38:22Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": false,
-   "summary": "CI Games delayed Lords of the Fallen II again, to April 2027."
-  },
-  {
-   "id": "40fc9513c5d1",
-   "title": "Major MacBook Air ‘overhaul’ could launch next year, per Gurman",
-   "url": "https://9to5mac.com/2026/11/25/major-macbook-air-overhaul-could-launch-next-year-per-gurman/",
-   "source": "9to5Mac",
-   "published": "2026-11-25T16:34:01Z",
-   "categories": [
-    "apple"
-   ],
-   "rumor": true,
-   "summary": "Gurman says a major MacBook Air overhaul could come in 2027 or 2028."
-  },
-  {
-   "id": "9cfcbabc051f",
-   "title": "Guilty: Huawei faces steep penalties for stealing T-Mobile, Cisco trade secrets",
-   "url": "https://arstechnica.com/tech-policy/2026/11/jury-convicts-huawei-of-stealing-us-trade-secrets-evading-iran-sanctions/",
-   "source": "Ars Technica",
-   "published": "2026-11-25T16:33:45Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false,
-   "summary": "Huawei faces heavy penalties after a jury found it stole T-Mobile and Cisco trade secrets."
-  },
-  {
-   "id": "bb689373dd8a",
-   "title": "PlayStation Plus Free Games For December 2026 Revealed",
-   "url": "https://www.gamespot.com/articles/playstation-plus-essential-free-games-for-december-2026/",
-   "source": "GameSpot",
-   "published": "2026-11-25T16:32:11Z",
-   "categories": [
-    "gaming"
-   ],
-   "rumor": false,
-   "summary": "Sony revealed the PlayStation Plus Essential games for December 2026."
-  },
-  {
-   "id": "15cf015de7e9",
-   "title": "These clip-on earbuds made me wish for Google Pixel Buds Clip",
-   "url": "https://www.androidpolice.com/ditched-pixel-buds-pro-2-clip-on-earbuds-three-weeks/",
-   "source": "Android Police",
-   "published": "2026-11-25T16:30:10Z",
-   "categories": [
-    "android"
-   ],
-   "rumor": false,
-   "summary": "Clip-on earbuds that left one writer wanting Pixel Buds in that style."
   }
  ]
 }
